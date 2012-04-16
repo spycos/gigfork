@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions
+END
+workflow.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get.html.ftl
+END
+workflow.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get_it.properties
+END
+workflow.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/18611/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get.properties
+END
+checkin.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get_de.properties
+END
+checkin.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get_ja.properties
+END
+workflow.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get_de.properties
+END
+workflow.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/18611/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get.config.xml
+END
+workflow.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get_ja.properties
+END
+checkin.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18611/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get.desc.xml
+END
+workflow.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18611/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get.js
+END
+workflow.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18611/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get.desc.xml
+END
+checkin.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get_fr.properties
+END
+checkin.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get_es.properties
+END
+checkin.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get_nl.properties
+END
+checkin.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get_it.properties
+END
+checkin.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get.html.ftl
+END
+workflow.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get_es.properties
+END
+workflow.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get_fr.properties
+END
+workflow.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/workflow.get_nl.properties
+END
+checkin.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18611/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/rules/actions/checkin.get.properties
+END

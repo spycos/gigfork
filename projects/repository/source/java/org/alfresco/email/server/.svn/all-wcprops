@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/email/server
+END
+EmailServerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/email/server/EmailServerModel.java
+END
+EmailServiceRemotable.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/32731/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/email/server/EmailServiceRemotable.java
+END
+EmailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/email/server/EmailServiceImpl.java
+END
+EmailServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/email/server/EmailServiceImplTest.java
+END
+AliasableAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/email/server/AliasableAspect.java
+END
+EmailServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33329/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/email/server/EmailServer.java
+END

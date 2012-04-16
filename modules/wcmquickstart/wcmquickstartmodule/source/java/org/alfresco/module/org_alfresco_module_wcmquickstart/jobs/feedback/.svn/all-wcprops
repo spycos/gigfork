@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/24867/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/feedback
+END
+FeedbackProcessorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/feedback/FeedbackProcessorHandler.java
+END
+CommentFeedbackProcessorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/feedback/CommentFeedbackProcessorHandler.java
+END
+FeedbackProcessorHandlerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/feedback/FeedbackProcessorHandlerBase.java
+END
+ContactFeedbackProcessorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/repos/alfresco-open-mirror/!svn/ver/24867/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/feedback/ContactFeedbackProcessorHandler.java
+END

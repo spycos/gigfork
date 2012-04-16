@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/test-resources/activities/org/alfresco/site
+END
+user-joined.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/test-resources/activities/org/alfresco/site/user-joined.atomentry.ftl
+END
+user-role-changed.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/test-resources/activities/org/alfresco/site/user-role-changed.atomentry.ftl
+END
+user-left.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/test-resources/activities/org/alfresco/site/user-left.atomentry.ftl
+END

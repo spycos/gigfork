@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/29254/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/rs/impl/providers
+END
+getLibraries.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/rs/impl/providers/getLibraries.ftl
+END
+AtomErrorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/rs/impl/providers/AtomErrorProvider.java
+END
+AtomServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/rs/impl/providers/AtomServiceProvider.java
+END
+AtomConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/rs/impl/providers/AtomConstants.java
+END
+AtomEntryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/rs/impl/providers/AtomEntryProvider.java
+END
+AtomNodeRefProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29254/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/rs/impl/providers/AtomNodeRefProvider.java
+END
+faultResponse.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/rs/impl/providers/faultResponse.ftl
+END

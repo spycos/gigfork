@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/wcm/create-form-wizard
+END
+details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/wcm/create-form-wizard/details.jsp
+END
+select-default-workflow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19638/alfresco/HEAD/root/projects/web-client/source/web/jsp/wcm/create-form-wizard/select-default-workflow.jsp
+END
+web-form-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/wcm/create-form-wizard/web-form-summary.jsp
+END
+form-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/wcm/create-form-wizard/form-summary.jsp
+END
+configure-rendering-engines.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19638/alfresco/HEAD/root/projects/web-client/source/web/jsp/wcm/create-form-wizard/configure-rendering-engines.jsp
+END

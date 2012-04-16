@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/importfilters
+END
+FileImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/importfilters/FileImportFilter.java
+END
+HiddenFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/importfilters/HiddenFileFilter.java
+END
+NotImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/importfilters/NotImportFilter.java
+END
+AndImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/importfilters/AndImportFilter.java
+END
+DirectoryImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/importfilters/DirectoryImportFilter.java
+END
+NonExistentContentFileImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/importfilters/NonExistentContentFileImportFilter.java
+END
+FileNameRegexImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/importfilters/FileNameRegexImportFilter.java
+END

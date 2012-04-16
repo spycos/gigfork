@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/30618/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/notification
+END
+EMailNotificationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/notification/EMailNotificationProvider.java
+END
+NotificationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/notification/NotificationServiceImpl.java
+END
+NotificationServiceImplSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30618/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/notification/NotificationServiceImplSystemTest.java
+END

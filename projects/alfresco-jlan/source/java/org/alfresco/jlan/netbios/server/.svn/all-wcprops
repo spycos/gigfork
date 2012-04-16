@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/netbios/server
+END
+AddNameListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/netbios/server/AddNameListener.java
+END
+RemoteNameListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/netbios/server/RemoteNameListener.java
+END
+NetBIOSNameEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/netbios/server/NetBIOSNameEvent.java
+END
+NetBIOSNameServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/netbios/server/NetBIOSNameServer.java
+END
+NetBIOSRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/netbios/server/NetBIOSRequest.java
+END
+PacketReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/netbios/server/PacketReceiver.java
+END
+QueryNameListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/netbios/server/QueryNameListener.java
+END

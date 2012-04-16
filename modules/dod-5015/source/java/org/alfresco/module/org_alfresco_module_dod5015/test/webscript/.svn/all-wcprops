@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript
+END
+BootstraptestDataRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript/BootstraptestDataRestApiTest.java
+END
+RmRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript/RmRestApiTest.java
+END
+RMConstraintScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript/RMConstraintScriptTest.java
+END
+EventRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript/EventRestApiTest.java
+END
+RoleRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript/RoleRestApiTest.java
+END
+EmailMapScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript/EmailMapScriptTest.java
+END
+DispositionRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript/DispositionRestApiTest.java
+END
+RMCaveatConfigScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/webscript/RMCaveatConfigScriptTest.java
+END

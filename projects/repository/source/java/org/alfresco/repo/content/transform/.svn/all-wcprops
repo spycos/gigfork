@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform
+END
+ProxyContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ProxyContentTransformer.java
+END
+TikaAutoContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TikaAutoContentTransformerTest.java
+END
+MailContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/MailContentTransformer.java
+END
+PdfBoxPdfToImageContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PdfBoxPdfToImageContentTransformerTest.java
+END
+AbstractContentTransformerLimitsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/AbstractContentTransformerLimitsTest.java
+END
+RemoteOpenOfficeContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/RemoteOpenOfficeContentTransformer.java
+END
+StringExtractingContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/StringExtractingContentTransformerTest.java
+END
+RuntimeExecutableContentTransformerOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/RuntimeExecutableContentTransformerOptions.java
+END
+OOXMLThumbnailContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/OOXMLThumbnailContentTransformer.java
+END
+MediaWikiContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/MediaWikiContentTransformerTest.java
+END
+PoiOOXMLContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20781/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PoiOOXMLContentTransformer.java
+END
+ContentTransformerRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ContentTransformerRegistryTest.java
+END
+PoiHssfContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PoiHssfContentTransformerTest.java
+END
+ContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ContentTransformer.java
+END
+ContentTransformerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ContentTransformerHelper.java
+END
+TikaSpringConfiguredContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22683/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TikaSpringConfiguredContentTransformer.java
+END
+TextToPdfContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TextToPdfContentTransformerTest.java
+END
+ArchiveContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ArchiveContentTransformer.java
+END
+HtmlParserContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/HtmlParserContentTransformerTest.java
+END
+PdfBoxContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20780/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PdfBoxContentTransformer.java
+END
+AbstractContentTransformer2.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/AbstractContentTransformer2.java
+END
+TextMiningContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TextMiningContentTransformer.java
+END
+PoiContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/20781/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PoiContentTransformer.java
+END
+AppleIWorksContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/AppleIWorksContentTransformerTest.java
+END
+AbstractContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/AbstractContentTransformerTest.java
+END
+ComplexContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/34387/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ComplexContentTransformer.java
+END
+FailoverContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33898/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/FailoverContentTransformer.java
+END
+BinaryPassThroughContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/BinaryPassThroughContentTransformer.java
+END
+TikaPoweredContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20769/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TikaPoweredContentTransformerTest.java
+END
+TransformerInfoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TransformerInfoException.java
+END
+RuntimeExecutableContentTransformerWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/RuntimeExecutableContentTransformerWorker.java
+END
+TikaAutoContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TikaAutoContentTransformer.java
+END
+MailContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/MailContentTransformerTest.java
+END
+PdfBoxPdfToImageContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PdfBoxPdfToImageContentTransformer.java
+END
+AbstractContentTransformerLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/AbstractContentTransformerLimits.java
+END
+RuntimeExecutableContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/RuntimeExecutableContentTransformerTest.java
+END
+ExplictTransformationDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ExplictTransformationDetails.java
+END
+TransformerDebug.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TransformerDebug.java
+END
+StringExtractingContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/StringExtractingContentTransformer.java
+END
+OOXMLThumbnailContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/OOXMLThumbnailContentTransformerTest.java
+END
+MediaWikiContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/MediaWikiContentTransformer.java
+END
+PoiOOXMLContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PoiOOXMLContentTransformerTest.java
+END
+ContentTransformerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ContentTransformerRegistry.java
+END
+ContentTransformerWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ContentTransformerWorker.java
+END
+PoiHssfContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PoiHssfContentTransformer.java
+END
+HtmlParserContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/HtmlParserContentTransformer.java
+END
+ArchiveContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ArchiveContentTransformerTest.java
+END
+TextToPdfContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TextToPdfContentTransformer.java
+END
+EMLTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/EMLTransformer.java
+END
+PdfBoxContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PdfBoxContentTransformerTest.java
+END
+TextMiningContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TextMiningContentTransformerTest.java
+END
+PoiContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PoiContentTransformerTest.java
+END
+OOoContentTransformerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/19785/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/OOoContentTransformerHelper.java
+END
+TikaPoweredContainerExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/34883/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TikaPoweredContainerExtractor.java
+END
+AppleIWorksContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/AppleIWorksContentTransformer.java
+END
+AbstractContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/AbstractContentTransformer.java
+END
+FailoverContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/FailoverContentTransformerTest.java
+END
+ComplexContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/ComplexContentTransformerTest.java
+END
+OpenOfficeContentTransformerWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/OpenOfficeContentTransformerWorker.java
+END
+FailoverContentTransformerTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18146/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/FailoverContentTransformerTest-context.xml
+END
+BinaryPassThroughContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/BinaryPassThroughContentTransformerTest.java
+END
+OpenOfficeContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/OpenOfficeContentTransformerTest.java
+END
+TikaPoweredContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/TikaPoweredContentTransformer.java
+END
+PdfToImageContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/PdfToImageContentTransformer.java
+END

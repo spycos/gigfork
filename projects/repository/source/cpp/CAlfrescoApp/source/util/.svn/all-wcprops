@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util
+END
+Exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/Exception.cpp
+END
+DataPacker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/DataPacker.cpp
+END
+Long.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/Long.cpp
+END
+FileName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/FileName.cpp
+END
+ByteArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/ByteArray.cpp
+END
+DataBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/DataBuffer.cpp
+END
+System.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/System.cpp
+END
+Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/Debug.cpp
+END
+String.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/String.cpp
+END
+Integer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/source/util/Integer.cpp
+END

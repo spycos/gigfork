@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/db
+END
+DbNodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/db/DbNodeServiceImpl.java
+END
+DbNodeServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22255/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/db/DbNodeServiceImplTest.java
+END
+DeletedNodeCleanupWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/db/DeletedNodeCleanupWorker.java
+END

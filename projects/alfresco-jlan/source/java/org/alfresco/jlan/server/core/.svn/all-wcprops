@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/32892/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core
+END
+DeviceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/DeviceInterface.java
+END
+SharedDeviceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/SharedDeviceList.java
+END
+DeviceContextException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/DeviceContextException.java
+END
+DeviceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/DeviceContext.java
+END
+ShareType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/ShareType.java
+END
+InvalidDeviceInterfaceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/InvalidDeviceInterfaceException.java
+END
+SharedDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/20023/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/SharedDevice.java
+END
+NoPooledMemoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32892/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/NoPooledMemoryException.java
+END
+ShareMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/core/ShareMapper.java
+END

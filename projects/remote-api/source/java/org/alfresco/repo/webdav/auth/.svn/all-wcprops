@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/32811/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth
+END
+RemoteUserMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/RemoteUserMapper.java
+END
+BaseAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/BaseAuthenticationFilter.java
+END
+NTLMAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/NTLMAuthenticationFilter.java
+END
+KerberosAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/KerberosAuthenticationFilter.java
+END
+HTTPRequestAuthenticationFilterTestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/HTTPRequestAuthenticationFilterTestFilter.java
+END
+AuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/AuthenticationFilter.java
+END
+BaseSSOAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/BaseSSOAuthenticationFilter.java
+END
+WebDAVUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/WebDAVUser.java
+END
+SharepointConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/SharepointConstants.java
+END
+AuthenticationDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/AuthenticationDriver.java
+END
+BaseNTLMAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32811/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/BaseNTLMAuthenticationFilter.java
+END
+BaseKerberosAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/BaseKerberosAuthenticationFilter.java
+END
+HTTPRequestAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/auth/HTTPRequestAuthenticationFilter.java
+END

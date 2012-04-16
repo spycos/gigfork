@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/transformers
+END
+SampleEncryptionTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/transformers/SampleEncryptionTransformer.java
+END
+SampleEncryptionTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/transformers/SampleEncryptionTransformerTest.java
+END
+CompressionTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/transformers/CompressionTransformer.java
+END
+CompressionTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/transformers/CompressionTransformerTest.java
+END

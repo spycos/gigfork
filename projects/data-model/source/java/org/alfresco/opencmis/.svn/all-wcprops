@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis
+END
+EnumLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/EnumLabel.java
+END
+CMISAccessControlFormatEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/CMISAccessControlFormatEnum.java
+END
+CMISUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/CMISUtils.java
+END
+EnumFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/EnumFactory.java
+END

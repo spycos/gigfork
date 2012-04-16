@@ -1,0 +1,1199 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws
+END
+EnumPropertiesPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumPropertiesPolicy.java
+END
+Aspects.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19063/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/Aspects.java
+END
+EnumPropertiesRelationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumPropertiesRelationship.java
+END
+CreateRelationshipResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreateRelationshipResponse.java
+END
+CheckIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CheckIn.java
+END
+RemoveObjectFromFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/RemoveObjectFromFolder.java
+END
+EnumDateTimeResolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumDateTimeResolution.java
+END
+ApplyACL.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ApplyACL.java
+END
+CmisRepositoryInfoType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisRepositoryInfoType.java
+END
+GetFolderTreeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetFolderTreeResponse.java
+END
+GetObjectRelationships.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectRelationships.java
+END
+GetTypeDescendantsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetTypeDescendantsResponse.java
+END
+CmisPermissionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPermissionDefinition.java
+END
+GetACLResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetACLResponse.java
+END
+GetObjectOfLatestVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectOfLatestVersion.java
+END
+CmisACLCapabilityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisACLCapabilityType.java
+END
+EnumPropertiesDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumPropertiesDocument.java
+END
+CreateDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreateDocumentResponse.java
+END
+CmisChoiceId.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoiceId.java
+END
+EnumTypeOfChanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumTypeOfChanges.java
+END
+GetObjectResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectResponse.java
+END
+GetContentStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetContentStream.java
+END
+EnumRelationshipDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumRelationshipDirection.java
+END
+GetRepositories.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetRepositories.java
+END
+GetDescendants.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetDescendants.java
+END
+CmisChoiceString.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoiceString.java
+END
+GetObjectByPathResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectByPathResponse.java
+END
+GetRenditionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetRenditionsResponse.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ObjectFactory.java
+END
+CreateFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreateFolder.java
+END
+CmisTypeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisTypeContainer.java
+END
+GetAllVersions.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetAllVersions.java
+END
+SetContentStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/SetContentStream.java
+END
+CmisObjectInFolderListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisObjectInFolderListType.java
+END
+GetObjectParents.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectParents.java
+END
+EnumServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumServiceException.java
+END
+CmisTypeFolderDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisTypeFolderDefinitionType.java
+END
+CmisTypeDefinitionListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisTypeDefinitionListType.java
+END
+CheckOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CheckOut.java
+END
+RepositoryServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/RepositoryServicePort.java
+END
+CreateDocumentFromSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreateDocumentFromSource.java
+END
+CmisPropertiesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertiesType.java
+END
+EnumPropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumPropertyType.java
+END
+CancelCheckOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CancelCheckOut.java
+END
+CmisPropertyBooleanDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyBooleanDefinitionType.java
+END
+EnumPropertiesBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumPropertiesBase.java
+END
+MoveObjectResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/MoveObjectResponse.java
+END
+EnumPropertiesFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumPropertiesFolder.java
+END
+CmisPropertyDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyDateTime.java
+END
+CmisRepositoryEntryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisRepositoryEntryType.java
+END
+CmisChoiceDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoiceDateTime.java
+END
+CmisPropertyHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyHtml.java
+END
+GetFolderParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetFolderParent.java
+END
+DiscoveryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/DiscoveryService.java
+END
+CmisPropertyIdDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyIdDefinitionType.java
+END
+GetTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetTypeDefinition.java
+END
+CmisChoiceHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoiceHtml.java
+END
+CmisPropertyBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyBoolean.java
+END
+DeleteTreeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/DeleteTreeResponse.java
+END
+GetContentChanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetContentChanges.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/Query.java
+END
+CmisTypeDocumentDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisTypeDocumentDefinitionType.java
+END
+GetChildrenResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetChildrenResponse.java
+END
+DeleteObjectResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/DeleteObjectResponse.java
+END
+EnumVersioningState.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumVersioningState.java
+END
+CmisPropertyDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyDefinitionType.java
+END
+PolicyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/PolicyService.java
+END
+CmisObjectParentsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisObjectParentsType.java
+END
+GetPropertiesOfLatestVersionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetPropertiesOfLatestVersionResponse.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/package-info.java
+END
+GetAppliedPoliciesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetAppliedPoliciesResponse.java
+END
+EnumBaseObjectTypeIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumBaseObjectTypeIds.java
+END
+GetTypeChildren.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetTypeChildren.java
+END
+CmisPropertyUriDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyUriDefinitionType.java
+END
+GetRepositoryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetRepositoryInfo.java
+END
+AddObjectToFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/AddObjectToFolderResponse.java
+END
+CmisProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisProperty.java
+END
+GetAllowableActionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetAllowableActionsResponse.java
+END
+CmisChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoice.java
+END
+GetCheckedOutDocsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetCheckedOutDocsResponse.java
+END
+CmisTypeDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisTypeDefinitionType.java
+END
+RemovePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/RemovePolicy.java
+END
+UpdatePropertiesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/UpdatePropertiesResponse.java
+END
+CmisObjectListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisObjectListType.java
+END
+CmisPropertyUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyUri.java
+END
+EnumCapabilityRendition.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumCapabilityRendition.java
+END
+ApplyPolicyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ApplyPolicyResponse.java
+END
+CreateRelationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreateRelationship.java
+END
+EnumRenditionKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumRenditionKind.java
+END
+DeleteContentStreamResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/DeleteContentStreamResponse.java
+END
+CmisTypeRelationshipDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisTypeRelationshipDefinitionType.java
+END
+GetFolderTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetFolderTree.java
+END
+DiscoveryServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/DiscoveryServicePort.java
+END
+GetTypeDescendants.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetTypeDescendants.java
+END
+GetACL.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetACL.java
+END
+CmisAllowableActionsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisAllowableActionsType.java
+END
+EnumBasicPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumBasicPermissions.java
+END
+CreatePolicyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreatePolicyResponse.java
+END
+CreateDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreateDocument.java
+END
+MultiFilingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/MultiFilingService.java
+END
+VersioningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/VersioningService.java
+END
+CmisChoiceBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoiceBoolean.java
+END
+GetObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObject.java
+END
+GetPropertiesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetPropertiesResponse.java
+END
+CmisPropertyId.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyId.java
+END
+CmisPropertyInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyInteger.java
+END
+GetObjectByPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectByPath.java
+END
+GetRenditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetRenditions.java
+END
+SetAspects.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19037/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/SetAspects.java
+END
+NavigationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/NavigationService.java
+END
+EnumAllowableActionsKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumAllowableActionsKey.java
+END
+RelationshipService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/RelationshipService.java
+END
+CheckInResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CheckInResponse.java
+END
+RemoveObjectFromFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/RemoveObjectFromFolderResponse.java
+END
+ApplyACLResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ApplyACLResponse.java
+END
+PolicyServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/PolicyServicePort.java
+END
+EnumCapabilityJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumCapabilityJoin.java
+END
+CmisPropertyString.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyString.java
+END
+GetObjectRelationshipsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectRelationshipsResponse.java
+END
+ObjectServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ObjectServicePort.java
+END
+GetObjectOfLatestVersionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectOfLatestVersionResponse.java
+END
+MoveObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/MoveObject.java
+END
+CmisAccessControlEntryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisAccessControlEntryType.java
+END
+CmisChangeEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChangeEventType.java
+END
+GetContentStreamResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetContentStreamResponse.java
+END
+GetRepositoriesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetRepositoriesResponse.java
+END
+CmisRepositoryCapabilitiesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisRepositoryCapabilitiesType.java
+END
+CmisException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisException.java
+END
+GetDescendantsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetDescendantsResponse.java
+END
+CmisAccessControlListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisAccessControlListType.java
+END
+CmisACLType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisACLType.java
+END
+CreateFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreateFolderResponse.java
+END
+CmisPropertyDecimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyDecimal.java
+END
+GetAllVersionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetAllVersionsResponse.java
+END
+ACLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ACLService.java
+END
+SetContentStreamResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/SetContentStreamResponse.java
+END
+DeleteTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/DeleteTree.java
+END
+GetObjectParentsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetObjectParentsResponse.java
+END
+CheckOutResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CheckOutResponse.java
+END
+CmisObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisObjectType.java
+END
+CreateDocumentFromSourceResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreateDocumentFromSourceResponse.java
+END
+CmisChoiceUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoiceUri.java
+END
+EnumCardinality.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumCardinality.java
+END
+GetChildren.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetChildren.java
+END
+DeleteObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/DeleteObject.java
+END
+CancelCheckOutResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CancelCheckOutResponse.java
+END
+EnumCapabilityChanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumCapabilityChanges.java
+END
+CmisPropertyStringDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyStringDefinitionType.java
+END
+CmisContentStreamType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisContentStreamType.java
+END
+GetFolderParentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetFolderParentResponse.java
+END
+GetPropertiesOfLatestVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetPropertiesOfLatestVersion.java
+END
+GetAppliedPolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetAppliedPolicies.java
+END
+GetTypeDefinitionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetTypeDefinitionResponse.java
+END
+MultiFilingServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/MultiFilingServicePort.java
+END
+VersioningServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/VersioningServicePort.java
+END
+CmisObjectInFolderContainerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisObjectInFolderContainerType.java
+END
+AddObjectToFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/AddObjectToFolder.java
+END
+EnumUpdatability.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumUpdatability.java
+END
+CmisPermissionMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPermissionMapping.java
+END
+GetContentChangesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetContentChangesResponse.java
+END
+GetAllowableActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetAllowableActions.java
+END
+CmisChoiceInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoiceInteger.java
+END
+QueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/QueryResponse.java
+END
+NavigationServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/NavigationServicePort.java
+END
+EnumUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumUsers.java
+END
+GetCheckedOutDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetCheckedOutDocs.java
+END
+ObjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ObjectService.java
+END
+RelationshipServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/RelationshipServicePort.java
+END
+CmisPropertyDateTimeDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyDateTimeDefinitionType.java
+END
+CmisFaultType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisFaultType.java
+END
+CmisPropertyDecimalDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyDecimalDefinitionType.java
+END
+EnumUnfileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumUnfileObject.java
+END
+UpdateProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/UpdateProperties.java
+END
+CmisPropertyHtmlDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyHtmlDefinitionType.java
+END
+RepositoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/RepositoryService.java
+END
+EnumCapabilityContentStreamUpdates.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumCapabilityContentStreamUpdates.java
+END
+ApplyPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ApplyPolicy.java
+END
+EnumSupportedPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumSupportedPermissions.java
+END
+CmisObjectInFolderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisObjectInFolderType.java
+END
+DeleteContentStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/DeleteContentStream.java
+END
+CmisRenditionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisRenditionType.java
+END
+GetTypeChildrenResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetTypeChildrenResponse.java
+END
+GetRepositoryInfoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetRepositoryInfoResponse.java
+END
+EnumIncludeRelationships.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumIncludeRelationships.java
+END
+CmisListOfIdsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisListOfIdsType.java
+END
+CmisAccessControlPrincipalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisAccessControlPrincipalType.java
+END
+EnumContentStreamAllowed.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumContentStreamAllowed.java
+END
+CreatePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CreatePolicy.java
+END
+CmisQueryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisQueryType.java
+END
+CmisChoiceDecimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisChoiceDecimal.java
+END
+ACLServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/ACLServicePort.java
+END
+EnumCapabilityACL.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumCapabilityACL.java
+END
+EnumACLPropagation.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumACLPropagation.java
+END
+CmisTypePolicyDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisTypePolicyDefinitionType.java
+END
+CmisPropertyIntegerDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisPropertyIntegerDefinitionType.java
+END
+CmisExtensionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/CmisExtensionType.java
+END
+EnumCapabilityQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/EnumCapabilityQuery.java
+END
+GetProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/17243/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/GetProperties.java
+END
+RemovePolicyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/cmis/ws/RemovePolicyResponse.java
+END

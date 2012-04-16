@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util
+END
+JNDIPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/JNDIPath.java
+END
+PathMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/PathMapper.java
+END
+PathMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/PathMapperTest.java
+END
+TraceableThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/TraceableThreadFactory.java
+END
+ReadWriteLockExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/ReadWriteLockExecuter.java
+END
+InputStreamContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/InputStreamContent.java
+END
+DynamicallySizedThreadPoolExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/DynamicallySizedThreadPoolExecutor.java
+END
+OrCompositeNameMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/OrCompositeNameMatcher.java
+END
+BaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/BaseTest.java
+END
+OneToManyHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/OneToManyHashMap.java
+END
+CronTriggerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/CronTriggerBean.java
+END
+AbstractTriggerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/AbstractTriggerBean.java
+END
+MaxSizeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/MaxSizeMap.java
+END
+JMXUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/29296/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/JMXUtils.java
+END
+RegexNameMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/RegexNameMatcher.java
+END
+RegexNameMatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/RegexNameMatcherTest.java
+END
+TempFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/19910/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/TempFileProvider.java
+END
+TempFileProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/19818/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/TempFileProviderTest.java
+END
+ISO8601DateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/30402/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/ISO8601DateFormat.java
+END
+ISO8601DateFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/30402/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/ISO8601DateFormatTest.java
+END
+ArgumentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/ArgumentHelper.java
+END
+OneToManyBiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/OneToManyBiMap.java
+END
+PatternFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/32797/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/PatternFilter.java
+END
+VmShutdownListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/30178/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/VmShutdownListener.java
+END
+Deleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/30171/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/Deleter.java
+END
+NameMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/NameMatcher.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/MD5.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/Debug.java
+END
+GUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/GUID.java
+END
+FileFilterMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/32934/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/FileFilterMode.java
+END
+EqualsHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/22059/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/EqualsHelperTest.java
+END
+EqualsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/22059/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/EqualsHelper.java
+END
+VirtServerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/VirtServerUtils.java
+END
+VersionNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/VersionNumber.java
+END
+VersionNumberTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/VersionNumberTest.java
+END
+Triple.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/Triple.java
+END
+CachingDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/CachingDateFormat.java
+END
+TriggerBeanSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/TriggerBeanSPI.java
+END
+ExpiringValueCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/ExpiringValueCache.java
+END
+OneToManyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/OneToManyMap.java
+END
+SchedulerStarterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/SchedulerStarterBean.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/Content.java
+END
+ParameterCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/ParameterCheck.java
+END
+LogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/LogUtil.java
+END
+Convert.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/Convert.java
+END
+PropertyCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/PropertyCheck.java
+END
+OneToManyHashBiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/OneToManyHashBiMap.java
+END
+IPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/29179/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/IPUtils.java
+END
+TriggerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/TriggerBean.java
+END
+ReflectionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/ReflectionHelper.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/30044/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/Pair.java
+END
+DNSNameMangler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/DNSNameMangler.java
+END
+DNSNameManglerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/DNSNameManglerTest.java
+END
+SerializationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/SerializationUtils.java
+END

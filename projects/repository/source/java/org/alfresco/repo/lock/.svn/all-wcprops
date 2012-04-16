@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock
+END
+LockBehaviourImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock/LockBehaviourImplTest.java
+END
+LockAcquisitionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29290/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock/LockAcquisitionException.java
+END
+LockTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock/LockTestSuite.java
+END
+JobLockService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/22966/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock/JobLockService.java
+END
+JobLockServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/22966/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock/JobLockServiceTest.java
+END
+JobLockServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29643/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock/JobLockServiceImpl.java
+END
+LockServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock/LockServiceImpl.java
+END
+LockServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/21377/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/lock/LockServiceImplTest.java
+END

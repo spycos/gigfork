@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/scheduled
+END
+scheduled_removeHold.js
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/scheduled/scheduled_removeHold.js
+END
+scheduled_cutoff.js
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/scheduled/scheduled_cutoff.js
+END

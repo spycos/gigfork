@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE beans PUBLIC '-//SPRING//DTD BEAN//EN' 'http://www.springframework.org/dtd/spring-beans.dtd'>
+
+<beans>
+
+    <!--
+        Unlike the JGroupsMessengerFactory, this messengerFactory bean doesn't require an explicit
+        dependency (through the depends-on attribute) as it specifies the dependency through the
+        reference to the hazelcastInstance bean.
+      -->
+    <bean id="messengerFactory" class="org.alfresco.repo.cluster.HazelcastMessengerFactory">
+        <property name="hazelcast" ref="hazelcastInstance"/>
+    </bean>
+    
+    <bean id="hazelcastInstance" class="com.hazelcast.core.Hazelcast" factory-method="newHazelcastInstance">
+        <constructor-arg>
+            <bean class="com.hazelcast.config.Config">
+                <property name="groupConfig">
+                    <bean class="com.hazelcast.config.GroupConfig">
+                        <property name="name" value="testcluster"/>
+                        <property name="password" value="secret"/>
+                    </bean>
+                </property>
+            </bean>
+        </constructor-arg>
+    </bean>
+</beans>

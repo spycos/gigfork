@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm
+END
+Join.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/Join.java
+END
+AlfrescoTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoTimer.java
+END
+NullScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28137/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/NullScope.java
+END
+WorkflowTaskInstance.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/15746/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/WorkflowTaskInstance.hbm.xml
+END
+JbpmWorkflowServiceIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JbpmWorkflowServiceIntegrationTest.java
+END
+NodeListConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/NodeListConverter.java
+END
+WorkflowTaskInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/WorkflowTaskInstanceFactory.java
+END
+JBPMSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMSpringTest.java
+END
+NodeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/NodeConverter.java
+END
+jbpm.CreateTimerAction.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.CreateTimerAction.hbm.xml
+END
+jbpm.ExecuteNodeJob.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.ExecuteNodeJob.hbm.xml
+END
+AlfrescoExecuteNodeJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoExecuteNodeJob.java
+END
+AlfrescoTaskNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoTaskNode.java
+END
+jbpm.ext.queries.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.ext.queries.hbm.xml
+END
+ForEachFork.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28995/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/ForEachFork.java
+END
+JBPMNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMNodeList.java
+END
+JBPMTransactionTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMTransactionTemplate.java
+END
+jbpm.Timer.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.Timer.hbm.xml
+END
+jbpm.node.types.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.node.types.xml
+END
+JBPMNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28137/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMNode.java
+END
+AlfrescoJobExecutorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/32063/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoJobExecutorThread.java
+END
+JBPMSpringAssignmentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMSpringAssignmentHandler.java
+END
+jbpm.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/15748/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.cfg.xml
+END
+JoinEndForkedTokens.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JoinEndForkedTokens.java
+END
+JBPMJpdlXmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMJpdlXmlReader.java
+END
+JBPMSpringActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/29326/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMSpringActionHandler.java
+END
+JBPMTestSpringActionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMTestSpringActionHandler.java
+END
+AlfrescoJobExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoJobExecutor.java
+END
+JbpmMultitenantWorkflowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JbpmMultitenantWorkflowTest.java
+END
+jbpm.converter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.converter.properties
+END
+JBPMJunit4LoadTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMJunit4LoadTests.java
+END
+jbpm.Join.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.Join.hbm.xml
+END
+jbpm.varmapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.varmapping.xml
+END
+AlfrescoJbpmConfigurationFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/26214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoJbpmConfigurationFactoryBean.java
+END
+JBPMEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMEngine.java
+END
+JBPMEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMEngineTest.java
+END
+AlfrescoCreateTimerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28846/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoCreateTimerAction.java
+END
+JBPMJpdlArchiveParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMJpdlArchiveParser.java
+END
+ReviewAndApproveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29326/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/ReviewAndApproveTest.java
+END
+WorkflowTaskInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/WorkflowTaskInstance.java
+END
+jbpm.TaskNode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.TaskNode.hbm.xml
+END
+AlfrescoJavaScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoJavaScript.java
+END
+jbpm.parsers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.parsers.xml
+END
+jbpm.action.types.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/jbpm.action.types.xml
+END
+JBPMScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JBPMScheduler.java
+END
+AlfrescoAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29705/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoAssignment.java
+END
+JbpmTimerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32196/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/JbpmTimerTest.java
+END
+AlfrescoJavaScriptIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jbpm/AlfrescoJavaScriptIntegrationTest.java
+END

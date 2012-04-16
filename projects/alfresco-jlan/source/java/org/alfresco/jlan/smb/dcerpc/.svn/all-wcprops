@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/30943/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc
+END
+PolicyHandleCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/PolicyHandleCache.java
+END
+DCEBufferException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEBufferException.java
+END
+UUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/UUID.java
+END
+DCEReadableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEReadableList.java
+END
+DCEException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEException.java
+END
+PolicyHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/PolicyHandle.java
+END
+DCEReadable.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEReadable.java
+END
+DCEPipeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEPipeType.java
+END
+DCEDataPacker.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEDataPacker.java
+END
+Wkssvc.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/Wkssvc.java
+END
+DCEBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEBuffer.java
+END
+Srvsvc.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/Srvsvc.java
+END
+DCEWriteableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEWriteableList.java
+END
+DCEList.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEList.java
+END
+DCECommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCECommand.java
+END
+DCEWriteable.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/DCEWriteable.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/CustomLogin/source/alfresco/extension
+END
+web-client-config-custom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/CustomLogin/source/alfresco/extension/web-client-config-custom.xml
+END
+webclient.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/CustomLogin/source/alfresco/extension/webclient.properties
+END

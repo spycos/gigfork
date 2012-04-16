@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect
+END
+avm-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/avm-insert-SqlMap.xml
+END
+node-update-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/31108/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/node-update-SqlMap.xml
+END
+propval-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/propval-insert-SqlMap.xml
+END
+activities-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28001/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/activities-insert-SqlMap.xml
+END
+usage-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/usage-insert-SqlMap.xml
+END
+node-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/node-insert-SqlMap.xml
+END
+audit-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/audit-insert-SqlMap.xml
+END
+node-select-children-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/31382/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/node-select-children-SqlMap.xml
+END
+activities-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/activities-common-SqlMap.xml
+END
+content-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/content-insert-SqlMap.xml
+END
+locks-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/locks-insert-SqlMap.xml
+END
+permissions-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/permissions-insert-SqlMap.xml
+END
+locale-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/locale-insert-SqlMap.xml
+END
+qname-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.MySQLInnoDBDialect/qname-insert-SqlMap.xml
+END

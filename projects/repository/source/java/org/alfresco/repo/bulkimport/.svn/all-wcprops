@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/31370/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport
+END
+FilesystemTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/FilesystemTracker.java
+END
+ContentStoreMapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/ContentStoreMapProvider.java
+END
+DirectoryAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/DirectoryAnalyser.java
+END
+NodeImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/NodeImporter.java
+END
+MetadataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/MetadataLoader.java
+END
+BulkImportParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31243/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/BulkImportParameters.java
+END
+ImportableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/ImportableItem.java
+END
+ImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/ImportFilter.java
+END
+BulkFSImportEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/BulkFSImportEvent.java
+END
+BulkFilesystemImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/31243/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/BulkFilesystemImporter.java
+END
+AnalysedDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31283/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/AnalysedDirectory.java
+END
+CreateInPlaceTestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/CreateInPlaceTestData.java
+END
+BulkImportStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/BulkImportStatus.java
+END
+ContentDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/ContentDataFactory.java
+END
+CreateTestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/CreateTestData.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/32753/alfresco/HEAD/root/projects/repository/source/test-resources/activiti
+END
+testDiagram.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28333/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testDiagram.bpmn20.xml
+END
+testTransaction.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testTransaction.bpmn20.xml
+END
+testTimerTransaction.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testTimerTransaction.bpmn20.xml
+END
+testCustomActiviti.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32753/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testCustomActiviti.bpmn20.xml
+END
+testSignalling.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testSignalling.bpmn20.xml
+END
+testJob.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testJob.bpmn20.xml
+END
+test-activiti-component-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30847/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/test-activiti-component-context.xml
+END
+testAdhoc.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testAdhoc.bpmn20.xml
+END
+testTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testTimer.bpmn20.xml
+END
+testReview.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/activiti/testReview.bpmn20.xml
+END

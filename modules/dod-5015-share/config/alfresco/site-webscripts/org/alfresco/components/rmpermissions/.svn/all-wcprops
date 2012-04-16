@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/rmpermissions
+END
+rmpermissions.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/21309/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/rmpermissions/rmpermissions.get.html.ftl
+END
+rmpermissions.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/16298/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/rmpermissions/rmpermissions.get.properties
+END
+rmpermissions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/16177/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/rmpermissions/rmpermissions.get.desc.xml
+END
+rmpermissions.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/rmpermissions/rmpermissions.get.head.ftl
+END

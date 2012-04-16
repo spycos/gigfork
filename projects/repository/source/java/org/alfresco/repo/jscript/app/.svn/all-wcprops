@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app
+END
+GoogleDocsCustomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/32102/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/GoogleDocsCustomResponse.java
+END
+BasePropertyDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/BasePropertyDecorator.java
+END
+JSONConversionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/JSONConversionComponent.java
+END
+TagPropertyDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/TagPropertyDecorator.java
+END
+VtiServerCustomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/VtiServerCustomResponse.java
+END
+CategoryPropertyDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/CategoryPropertyDecorator.java
+END
+PropertyDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/PropertyDecorator.java
+END
+UsernamePropertyDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/UsernamePropertyDecorator.java
+END
+CustomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/CustomResponse.java
+END
+IgnorePropertyDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/app/IgnorePropertyDecorator.java
+END

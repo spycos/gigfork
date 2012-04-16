@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/17464/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Synchronization/default
+END
+default-synchronization-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/17464/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Synchronization/default/default-synchronization-context.xml
+END
+default-synchronization.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/17464/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Synchronization/default/default-synchronization.properties
+END

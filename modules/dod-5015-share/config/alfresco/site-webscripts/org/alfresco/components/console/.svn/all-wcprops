@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console
+END
+rm-list-of-values.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-list-of-values.get.js
+END
+rm-list-of-values.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-list-of-values.get.desc.xml
+END
+rm-email-mappings.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-email-mappings.get.head.ftl
+END
+rm-define-roles.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-define-roles.get.js
+END
+rm-events.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-events.get.head.ftl
+END
+rm-define-roles.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-define-roles.get.desc.xml
+END
+rm-audit.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-audit.get.head.ftl
+END
+rm-userrights.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-userrights.get.properties
+END
+rm-references.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-references.get.js
+END
+rm-console-title.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-console-title.get.desc.xml
+END
+rm-references.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-references.get.desc.xml
+END
+rm-list-of-values.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-list-of-values.get.head.ftl
+END
+rm-email-mappings.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/16557/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-email-mappings.get.properties
+END
+rm-events.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-events.get.properties
+END
+rm-define-roles.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-define-roles.get.head.ftl
+END
+rm-audit.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18161/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-audit.get.properties
+END
+rm-custom-metadata.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-custom-metadata.get.js
+END
+rm-custom-metadata.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-custom-metadata.get.desc.xml
+END
+rm-list-of-values.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-list-of-values.get.properties
+END
+rm-references.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-references.get.head.ftl
+END
+rm-define-roles.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/16301/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-define-roles.get.properties
+END
+rm-console-title.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-console-title.get.properties
+END
+rm-custom-metadata.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-custom-metadata.get.head.ftl
+END
+rm-references.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-references.get.properties
+END
+rm-custom-metadata.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/30165/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-custom-metadata.get.properties
+END
+rm-userrights.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-userrights.get.html.ftl
+END
+rm-email-mappings.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-email-mappings.get.html.ftl
+END
+rm-events.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-events.get.html.ftl
+END
+rm-audit.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-audit.get.html.ftl
+END
+rm-list-of-values.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-list-of-values.get.html.ftl
+END
+rm-define-roles.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/24116/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-define-roles.get.html.ftl
+END
+rm-console.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-console.lib.js
+END
+rm-console-access.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-console-access.ftl
+END
+rm-console-title.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-console-title.get.html.ftl
+END
+rm-references.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-references.get.html.ftl
+END
+rm-userrights.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-userrights.get.js
+END
+rm-userrights.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-userrights.get.desc.xml
+END
+rm-email-mappings.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/16537/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-email-mappings.get.js
+END
+rm-events.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-events.get.js
+END
+rm-email-mappings.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-email-mappings.get.desc.xml
+END
+rm-custom-metadata.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-custom-metadata.get.html.ftl
+END
+rm-events.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-events.get.desc.xml
+END
+rm-audit.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-audit.get.js
+END
+rm-audit.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/16469/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-audit.get.desc.xml
+END
+rm-userrights.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/console/rm-userrights.get.head.ftl
+END

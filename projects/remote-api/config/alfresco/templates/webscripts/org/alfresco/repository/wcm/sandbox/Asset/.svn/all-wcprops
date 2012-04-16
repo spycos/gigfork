@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/32894/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset
+END
+asset.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/12557/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.post.desc.xml
+END
+asset.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/12547/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.put.json.ftl
+END
+submit.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/12215/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/submit.post.json.ftl
+END
+content.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/content.get.json.ftl
+END
+asset.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/12572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.post.json.js
+END
+revert.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/12308/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/revert.post.json.ftl
+END
+asset.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/12547/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.get.json.ftl
+END
+modified.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/12547/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/modified.get.json.ftl
+END
+asset.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/12547/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.delete.js
+END
+asset.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/12557/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.delete.desc.xml
+END
+properties.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/properties.post.desc.xml
+END
+asset.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/12547/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.post.json.ftl
+END
+asset.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/12557/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.put.desc.xml
+END
+content.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/content.get.js
+END
+properties.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/properties.post.json.js
+END
+submit.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/13611/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/submit.post.desc.xml
+END
+content.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/content.get.desc.xml
+END
+revert.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/13611/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/revert.post.desc.xml
+END
+asset.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32894/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.lib.ftl
+END
+asset.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/12547/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.get.js
+END
+asset.put.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/12572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.put.json.js
+END
+asset.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/12557/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.get.desc.xml
+END
+modified.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/12215/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/modified.get.js
+END
+modified.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/13611/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/modified.get.desc.xml
+END
+submit.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/12215/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/submit.post.json.js
+END
+asset.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/12544/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/asset.delete.json.ftl
+END
+properties.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/properties.post.json.ftl
+END
+revert.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/12308/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/wcm/sandbox/Asset/revert.post.json.js
+END

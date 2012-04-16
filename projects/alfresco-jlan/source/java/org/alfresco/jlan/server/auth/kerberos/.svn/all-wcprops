@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos
+END
+KerberosDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/KerberosDetails.java
+END
+KrbTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/KrbTicket.java
+END
+PrincipalName.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/PrincipalName.java
+END
+EncApRepPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/EncApRepPart.java
+END
+KerberosApRep.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/KerberosApRep.java
+END
+KerberosApReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/KerberosApReq.java
+END
+KrbAuthContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/KrbAuthContext.java
+END
+EncKrbTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/EncKrbTicket.java
+END
+KrbAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/KrbAuthenticator.java
+END
+SessionSetupPrivilegedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/kerberos/SessionSetupPrivilegedAction.java
+END

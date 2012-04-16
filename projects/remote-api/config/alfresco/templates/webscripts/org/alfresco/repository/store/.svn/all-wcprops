@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30351/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/store
+END
+remoteavm.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/11212/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/store/remoteavm.post.desc.xml
+END
+remoteadm.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/28338/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/store/remoteadm.get.desc.xml
+END
+remoteavm.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/15800/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/store/remoteavm.get.desc.xml
+END
+remoteadm.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30351/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/store/remoteadm.delete.desc.xml
+END
+remoteavm.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/11212/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/store/remoteavm.delete.desc.xml
+END
+remoteadm.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/30351/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/store/remoteadm.post.desc.xml
+END

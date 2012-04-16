@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru
+END
+PassthruDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/PassthruDetails.java
+END
+TcpipSMBNetworkSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/TcpipSMBNetworkSession.java
+END
+RangeDomainMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/RangeDomainMapping.java
+END
+AuthenticateSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/AuthenticateSession.java
+END
+DomainMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/DomainMapping.java
+END
+PassthruServers.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/PassthruServers.java
+END
+PassthruAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/PassthruAuthenticator.java
+END
+SessionSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/SessionSettings.java
+END
+SubnetDomainMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/SubnetDomainMapping.java
+END
+PassthruServerDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/PassthruServerDetails.java
+END
+SMBPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/SMBPacket.java
+END
+AuthSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/passthru/AuthSessionFactory.java
+END

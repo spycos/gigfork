@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui
+END
+ObsoleteEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/ObsoleteEvaluator.java
+END
+RemoveDestroyInstructionsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/RemoveDestroyInstructionsEvaluator.java
+END
+RecordsManagementActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/RecordsManagementActionListener.java
+END
+AddTransferInstructionsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/AddTransferInstructionsEvaluator.java
+END
+SupersededEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/SupersededEvaluator.java
+END
+RemoveHoldEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/RemoveHoldEvaluator.java
+END
+CutoffEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/CutoffEvaluator.java
+END
+HoldEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/HoldEvaluator.java
+END
+AddDestroyInstructionsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/AddDestroyInstructionsEvaluator.java
+END
+RemoveTransferInstructionsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/RemoveTransferInstructionsEvaluator.java
+END
+BaseEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/modules/records-mgmt/source/java/org/alfresco/module/recordsManagement/ui/BaseEvaluator.java
+END

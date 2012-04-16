@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/8659/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol
+END
+ACL.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/ACL.java
+END
+GetClassPermissionsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/GetClassPermissionsResult.java
+END
+NewAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/8659/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/NewAuthority.java
+END
+AccessStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/AccessStatus.java
+END
+HasPermissionsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/HasPermissionsResult.java
+END
+SiblingAuthorityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8659/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/SiblingAuthorityFilter.java
+END
+ACE.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/ACE.java
+END
+OwnerResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/OwnerResult.java
+END
+GetPermissionsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/GetPermissionsResult.java
+END
+AccessControlServiceSoapPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/8659/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/AccessControlServiceSoapPort.java
+END
+deploy.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/8659/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/deploy.wsdd
+END
+AccessControlFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/AccessControlFault.java
+END
+AuthorityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/8659/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/accesscontrol/AuthorityFilter.java
+END

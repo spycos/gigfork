@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/sharepoint/amp/config/alfresco/module/org.alfresco.module.vti/context
+END
+vti-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/sharepoint/amp/config/alfresco/module/org.alfresco.module.vti/context/vti-context.xml
+END
+vti.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/sharepoint/amp/config/alfresco/module/org.alfresco.module.vti/context/vti.properties
+END
+vti-handler-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/33923/alfresco/HEAD/root/modules/sharepoint/amp/config/alfresco/module/org.alfresco.module.vti/context/vti-handler-context.xml
+END

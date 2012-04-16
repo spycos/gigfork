@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/core/source/test-resources
+END
+config-props.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/8637/alfresco/HEAD/root/projects/core/source/test-resources/config-props.properties
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/core/source/test-resources/config.xml
+END
+config-props.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/8637/alfresco/HEAD/root/projects/core/source/test-resources/config-props.xml
+END
+custom-config.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/4662/alfresco/HEAD/root/projects/core/source/test-resources/custom-config.jar
+END
+config-multi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/17788/alfresco/HEAD/root/projects/core/source/test-resources/config-multi.xml
+END
+config-areas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/core/source/test-resources/config-areas.xml
+END
+config-replace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/core/source/test-resources/config-replace.xml
+END

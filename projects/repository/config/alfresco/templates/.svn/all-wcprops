@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/32795/alfresco/HEAD/root/projects/repository/config/alfresco/templates
+END
+following-email-templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/following-email-templates.xml
+END
+new-user-templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates.xml
+END
+readme.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/18298/alfresco/HEAD/root/projects/repository/config/alfresco/templates/readme.ftl
+END
+content_template_examples.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content_template_examples.xml
+END
+activities-email-templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates.xml
+END
+rss_templates.acp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/rss_templates.acp
+END
+readme_template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/readme_template.xml
+END
+email_templates.acp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/templates/email_templates.acp
+END
+software_engineering_project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/templates/software_engineering_project.xml
+END
+system-overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/templates/system-overview.html
+END
+notify_email_templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates.xml
+END
+invite-email-templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates.xml
+END

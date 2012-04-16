@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29420/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/contact
+END
+form.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/contact/form.post.js
+END
+form.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/contact/form.post.desc.xml
+END
+form.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29420/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/contact/form.get.html.ftl
+END
+form.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/contact/form.get.js
+END
+form.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/contact/form.get.desc.xml
+END
+form.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/contact/form.post.html.ftl
+END

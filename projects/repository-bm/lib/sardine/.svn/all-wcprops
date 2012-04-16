@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/repository-bm/lib/sardine
+END
+httpcore-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/28089/alfresco/HEAD/root/projects/repository-bm/lib/sardine/httpcore-4.1.jar
+END
+httpclient-4.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/28089/alfresco/HEAD/root/projects/repository-bm/lib/sardine/httpclient-4.0.3.jar
+END
+sardine-146-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/repository-bm/lib/sardine/sardine-146-patched.jar
+END

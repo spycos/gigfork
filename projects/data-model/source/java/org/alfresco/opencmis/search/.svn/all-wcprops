@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/search
+END
+CMISFTSQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/search/CMISFTSQueryParser.java
+END
+CMISQueryOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/search/CMISQueryOptions.java
+END
+CMISQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/search/CMISQueryParser.java
+END
+CmisFunctionEvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/search/CmisFunctionEvaluationContext.java
+END

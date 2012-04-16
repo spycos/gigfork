@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/apache/lucene/store
+END
+AlfrescoFSDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/4937/alfresco/HEAD/root/projects/repository/source/java/org/apache/lucene/store/AlfrescoFSDirectory.java
+END
+FSDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/apache/lucene/store/FSDirectory.java
+END

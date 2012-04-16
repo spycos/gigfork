@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/32631/alfresco/HEAD/root/projects/repository/source/test-resources/cachingstore
+END
+test-std-quota-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/32631/alfresco/HEAD/root/projects/repository/source/test-resources/cachingstore/test-std-quota-context.xml
+END
+test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/30066/alfresco/HEAD/root/projects/repository/source/test-resources/cachingstore/test-context.xml
+END
+test-slow-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29838/alfresco/HEAD/root/projects/repository/source/test-resources/cachingstore/test-slow-context.xml
+END
+test-cleaner-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32628/alfresco/HEAD/root/projects/repository/source/test-resources/cachingstore/test-cleaner-context.xml
+END

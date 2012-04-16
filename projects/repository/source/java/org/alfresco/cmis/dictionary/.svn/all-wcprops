@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary
+END
+CMISDictionaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISDictionaryTest.java
+END
+CMISFolderTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISFolderTypeDefinition.java
+END
+CMISBasePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/29544/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISBasePropertyDefinition.java
+END
+CMISDocumentTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISDocumentTypeDefinition.java
+END
+CMISAbstractDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISAbstractDictionaryService.java
+END
+CMISPolicyTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISPolicyTypeDefinition.java
+END
+CMISRelationshipTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISRelationshipTypeDefinition.java
+END
+CMISAbstractTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/23532/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISAbstractTypeDefinition.java
+END
+CMISStrictDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISStrictDictionaryService.java
+END
+CMISObjectTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/dictionary/CMISObjectTypeDefinition.java
+END

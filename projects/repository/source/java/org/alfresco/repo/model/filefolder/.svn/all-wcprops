@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder
+END
+testModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/testModel.xml
+END
+HiddenFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/32804/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/HiddenFileFilter.java
+END
+FilenameFilteringInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/FilenameFilteringInterceptor.java
+END
+FileFolderPerformanceTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/31222/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/FileFolderPerformanceTester.java
+END
+MLTranslationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30915/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/MLTranslationInterceptor.java
+END
+HiddenFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/33096/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/HiddenFileInfo.java
+END
+FileFolderDuplicateChildTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/FileFolderDuplicateChildTest.java
+END
+HiddenAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/HiddenAspect.java
+END
+HiddenAspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33096/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/HiddenAspectTest.java
+END
+FileInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/32797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/FileInfoImpl.java
+END
+FileFolderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/FileFolderServiceImpl.java
+END
+FileFolderServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/FileFolderServiceImplTest.java
+END

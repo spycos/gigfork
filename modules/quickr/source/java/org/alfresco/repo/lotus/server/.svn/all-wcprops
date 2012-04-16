@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/server
+END
+QuickrServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/server/QuickrServlet.java
+END
+QuickrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/server/QuickrServer.java
+END
+QuickrServletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/server/QuickrServletContext.java
+END
+QuickrServletConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/server/QuickrServletConfig.java
+END

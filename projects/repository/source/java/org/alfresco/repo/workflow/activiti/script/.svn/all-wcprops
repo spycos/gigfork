@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/script
+END
+ActivitiScriptBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/script/ActivitiScriptBase.java
+END
+AlfrescoScriptDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/script/AlfrescoScriptDelegate.java
+END
+DelegateExecutionScriptBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/script/DelegateExecutionScriptBase.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/15160/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/subsystems/testsubsystem/testType
+END
+mytest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/15160/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/subsystems/testsubsystem/testType/mytest-context.xml
+END
+testProps.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/15160/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/subsystems/testsubsystem/testType/testProps.properties
+END

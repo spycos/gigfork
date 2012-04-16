@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/29725/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default
+END
+split-button-arrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/9313/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/split-button-arrow.png
+END
+split-button-arrow-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/9313/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/split-button-arrow-hover.png
+END
+button.css
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29725/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/button.css
+END
+button-skin.css
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29725/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/button-skin.css
+END
+split-button-arrow-disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/9313/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/split-button-arrow-disabled.png
+END
+menu-button-arrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/9313/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/menu-button-arrow.png
+END
+split-button-arrow-active.png
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/9313/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/split-button-arrow-active.png
+END
+split-button-arrow-focus.png
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/9313/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/split-button-arrow-focus.png
+END
+menu-button-arrow-disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/9313/alfresco/HEAD/root/projects/slingshot/source/web/yui/button/assets/skins/default/menu-button-arrow-disabled.png
+END

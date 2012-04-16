@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32743/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/search
+END
+SearchProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/search/SearchProperties.java
+END
+SaveSearchDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/search/SaveSearchDialog.java
+END
+SearchContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32743/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/search/SearchContext.java
+END
+AdvancedSearchDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31782/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/search/AdvancedSearchDialog.java
+END
+EditSearchDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/search/EditSearchDialog.java
+END

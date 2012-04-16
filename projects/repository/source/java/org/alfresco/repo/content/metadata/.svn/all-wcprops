@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/33799/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata
+END
+TikaPoweredMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaPoweredMetadataExtracter.java
+END
+MetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/31152/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MetadataExtracter.java
+END
+AbstractMappingMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/33799/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/AbstractMappingMetadataExtracter.java
+END
+HtmlMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/6246/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/HtmlMetadataExtracter.properties
+END
+DWGMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/DWGMetadataExtracter.java
+END
+DWGMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/DWGMetadataExtracterTest.java
+END
+TikaSpringConfiguredMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaSpringConfiguredMetadataExtracter.java
+END
+MailMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MailMetadataExtracter.java
+END
+MailMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20669/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MailMetadataExtracterTest.java
+END
+OpenOfficeMetadataWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OpenOfficeMetadataWorker.java
+END
+TikaAudioMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/31013/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaAudioMetadataExtracter.properties
+END
+PoiMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/PoiMetadataExtracter.java
+END
+PoiMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/PoiMetadataExtracterTest.java
+END
+OfficeMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20640/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OfficeMetadataExtracterTest.java
+END
+OfficeMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OfficeMetadataExtracter.java
+END
+DWGMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19927/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/DWGMetadataExtracter.properties
+END
+TikaSpringConfiguredMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/22683/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaSpringConfiguredMetadataExtracter.properties
+END
+MailMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/6246/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MailMetadataExtracter.properties
+END
+MP3MetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MP3MetadataExtracter.java
+END
+MP3MetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33788/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MP3MetadataExtracterTest.java
+END
+OpenDocumentMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OpenDocumentMetadataExtracterTest.java
+END
+OpenDocumentMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OpenDocumentMetadataExtracter.java
+END
+PoiMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20640/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/PoiMetadataExtracter.properties
+END
+AbstractMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/AbstractMetadataExtracter.java
+END
+AbstractMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/AbstractMetadataExtracterTest.java
+END
+OfficeMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/5677/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OfficeMetadataExtracter.properties
+END
+RFC822MetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/RFC822MetadataExtracter.java
+END
+RFC822MetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/RFC822MetadataExtracterTest.java
+END
+MP3MetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/31013/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MP3MetadataExtracter.properties
+END
+OpenDocumentMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/5690/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OpenDocumentMetadataExtracter.properties
+END
+OpenOfficeMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/19792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OpenOfficeMetadataExtracterTest.java
+END
+OpenOfficeMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20669/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OpenOfficeMetadataExtracter.java
+END
+RFC822MetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/RFC822MetadataExtracter.properties
+END
+TikaAutoMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/32320/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaAutoMetadataExtracter.java
+END
+TikaAutoMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/32320/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaAutoMetadataExtracterTest.java
+END
+PdfBoxMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/PdfBoxMetadataExtracterTest.java
+END
+PdfBoxMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/31023/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/PdfBoxMetadataExtracter.java
+END
+OpenOfficeMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/6246/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/OpenOfficeMetadataExtracter.properties
+END
+DefaultOpenOfficeMetadataWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/DefaultOpenOfficeMetadataWorker.java
+END
+MappingMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/30702/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MappingMetadataExtracterTest.java
+END
+TikaAutoMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/31013/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaAutoMetadataExtracter.properties
+END
+PdfBoxMetadataExtracter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/5928/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/PdfBoxMetadataExtracter.properties
+END
+HtmlMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/HtmlMetadataExtracter.java
+END
+HtmlMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/HtmlMetadataExtracterTest.java
+END
+MetadataExtracterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20946/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/MetadataExtracterRegistry.java
+END
+TikaAudioMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/33788/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaAudioMetadataExtracter.java
+END
+TikaAudioMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33788/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/TikaAudioMetadataExtracterTest.java
+END

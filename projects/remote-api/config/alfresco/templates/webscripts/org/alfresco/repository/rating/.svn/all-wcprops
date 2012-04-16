@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating
+END
+rating.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/21161/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating/rating.delete.desc.xml
+END
+rating.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating/rating.delete.json.ftl
+END
+ratings.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating/ratings.get.desc.xml
+END
+ratings.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating/ratings.get.json.ftl
+END
+rating.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating/rating.post.desc.xml
+END
+rating.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating/rating.post.json.ftl
+END
+ratingdefinitions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating/ratingdefinitions.get.desc.xml
+END
+ratingdefinitions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rating/ratingdefinitions.get.json.ftl
+END

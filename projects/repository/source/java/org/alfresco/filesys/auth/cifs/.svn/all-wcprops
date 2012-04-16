@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/auth/cifs
+END
+EnterpriseCifsAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/auth/cifs/EnterpriseCifsAuthenticator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/auth/cifs/package-info.java
+END
+AuthTokenAuthContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/auth/cifs/AuthTokenAuthContext.java
+END
+PassthruCifsAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/auth/cifs/PassthruCifsAuthenticator.java
+END
+CifsAuthenticatorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/auth/cifs/CifsAuthenticatorBase.java
+END
+AlfrescoCifsAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/auth/cifs/AlfrescoCifsAuthenticator.java
+END

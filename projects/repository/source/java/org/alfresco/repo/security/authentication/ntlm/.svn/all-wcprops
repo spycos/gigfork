@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28528/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ntlm
+END
+NTLMAuthenticationComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ntlm/NTLMAuthenticationComponentImpl.java
+END
+NLTMAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ntlm/NLTMAuthenticator.java
+END
+NTLMAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ntlm/NTLMAuthenticationProvider.java
+END
+NTLMPassthruToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ntlm/NTLMPassthruToken.java
+END
+NTLMLocalToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ntlm/NTLMLocalToken.java
+END
+NullMutableAuthenticationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28528/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ntlm/NullMutableAuthenticationDao.java
+END
+NTLMChallenge.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ntlm/NTLMChallenge.java
+END

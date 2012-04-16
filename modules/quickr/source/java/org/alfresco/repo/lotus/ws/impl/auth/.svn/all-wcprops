@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/auth
+END
+Authenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/auth/Authenticator.java
+END
+LtpaAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/auth/LtpaAuthenticator.java
+END
+BasicAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/auth/BasicAuthenticator.java
+END
+ChainingAuthProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/auth/ChainingAuthProxyFactory.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco
+END
+webscripts.lib.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/10800/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webscripts.lib.html.ftl
+END
+paging.lib.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/22906/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/paging.lib.atom.ftl
+END

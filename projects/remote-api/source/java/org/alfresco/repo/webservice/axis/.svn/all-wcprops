@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/axis
+END
+TicketCallbackSpringHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/axis/TicketCallbackSpringHandler.java
+END
+SpringBeanRPCProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/axis/SpringBeanRPCProvider.java
+END
+QueryConfigHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/axis/QueryConfigHandler.java
+END
+WSDDSpringBeanRPCProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/axis/WSDDSpringBeanRPCProvider.java
+END
+TicketCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/axis/TicketCallbackHandler.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene
+END
+lucene-search-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/lucene-search-context.xml
+END
+cmis-api-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29185/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/cmis-api-context.xml
+END
+index-recovery-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29624/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/index-recovery-context.xml
+END
+common-search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/common-search.properties
+END
+scheduled-jobs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/scheduled-jobs.properties
+END
+lucene-search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/lucene-search.properties
+END
+scheduled-jobs-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/scheduled-jobs-context.xml
+END
+bootstrap-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29096/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/bootstrap-context.xml
+END
+index-recovery.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/index-recovery.properties
+END
+opencmis-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/lucene/opencmis-context.xml
+END

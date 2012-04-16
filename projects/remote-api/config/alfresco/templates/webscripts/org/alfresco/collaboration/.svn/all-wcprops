@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration
+END
+colleaguePresence.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/colleaguePresence.get.desc.xml
+END
+calendarSummary.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/calendarSummary.get.js
+END
+calendarSummary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/calendarSummary.get.desc.xml
+END
+gallerySummary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/gallerySummary.get.html.ftl
+END
+viewgallery.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/viewgallery.get.js
+END
+docLibrary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/docLibrary.get.desc.xml
+END
+viewgallery.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/viewgallery.get.desc.xml
+END
+docSummary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/docSummary.get.html.ftl
+END
+blogSummary.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/blogSummary.get.js
+END
+blogSummary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/blogSummary.get.desc.xml
+END
+tagActions.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/tagActions.post.js
+END
+tagActions.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/tagActions.post.desc.xml
+END
+emailSummary.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/emailSummary.get.js
+END
+emailSummary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/emailSummary.get.desc.xml
+END
+tagActions.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/tagActions.get.html.ftl
+END
+calendar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/calendar.get.desc.xml
+END
+blogSpace.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/blogSpace.get.html.ftl
+END
+gallerySummary.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/gallerySummary.get.js
+END
+gallerySummary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/gallerySummary.get.desc.xml
+END
+forumSummary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/forumSummary.get.html.ftl
+END
+tagQuery.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/tagQuery.get.json.ftl
+END
+docSummary.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/docSummary.get.js
+END
+docSummary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/docSummary.get.desc.xml
+END
+tagActions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/tagActions.get.desc.xml
+END
+projectSpace.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/projectSpace.get.html.ftl
+END
+gallery.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/gallery.get.js
+END
+blogSpace.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/blogSpace.get.js
+END
+gallery.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/gallery.get.desc.xml
+END
+blogSpace.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/blogSpace.get.desc.xml
+END
+colleaguePresence.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/colleaguePresence.get.html.ftl
+END
+tagQuery.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/tagQuery.get.js
+END
+tagQuery.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/tagQuery.get.desc.xml
+END
+calendarSummary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/calendarSummary.get.html.ftl
+END
+forumSummary.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/forumSummary.get.js
+END
+docLibrary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/docLibrary.get.html.ftl
+END
+viewgallery.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/viewgallery.get.html.ftl
+END
+gallery.get.xml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/gallery.get.xml.ftl
+END
+forumSummary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/forumSummary.get.desc.xml
+END
+blogSummary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/blogSummary.get.html.ftl
+END
+emailSummary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/emailSummary.get.html.ftl
+END
+projectSpace.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/projectSpace.get.js
+END
+projectSpace.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/projectSpace.get.desc.xml
+END
+tagActions.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/tagActions.post.json.ftl
+END
+calendar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/calendar.get.html.ftl
+END
+colleaguePresence.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/collaboration/colleaguePresence.get.js
+END

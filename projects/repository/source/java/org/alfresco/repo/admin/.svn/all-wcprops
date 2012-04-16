@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/34222/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin
+END
+RepoModelDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepoModelDefinition.java
+END
+RepoAdminInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepoAdminInterpreter.java
+END
+Log4JHierarchyInitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/Log4JHierarchyInitTest.java
+END
+Log4JHierarchyInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/Log4JHierarchyInit.java
+END
+IndexConfigurationCheckerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/IndexConfigurationCheckerImpl.java
+END
+IndexConfigurationCheckerBootstrapBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/IndexConfigurationCheckerBootstrapBean.java
+END
+SysAdminParamsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/22043/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/SysAdminParamsImpl.java
+END
+RepositoryState.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepositoryState.java
+END
+RepositoryStartBootstrapBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepositoryStartBootstrapBean.java
+END
+RepoServerMgmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepoServerMgmt.java
+END
+RepoAdminServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34222/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepoAdminServiceImplTest.java
+END
+RepoAdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepoAdminServiceImpl.java
+END
+DummyIndexConfigurationCheckerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/DummyIndexConfigurationCheckerImpl.java
+END
+RepoServerMgmtMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepoServerMgmtMBean.java
+END
+IndexConfigurationChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/IndexConfigurationChecker.java
+END
+RepositoryEndBootstrapBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/RepositoryEndBootstrapBean.java
+END
+SysAdminParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/22043/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/SysAdminParams.java
+END
+ConfigurationChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29624/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/ConfigurationChecker.java
+END
+BaseInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/BaseInterpreter.java
+END

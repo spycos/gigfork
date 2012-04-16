@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/32795/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates
+END
+notify.htm
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates/notify.htm
+END
+notify_es.htm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates/notify_es.htm
+END
+notify_fr.htm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates/notify_fr.htm
+END
+notify_de.htm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates/notify_de.htm
+END
+notify_nl.htm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates/notify_nl.htm
+END
+notify_ja.htm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32795/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates/notify_ja.htm
+END
+notify_it.htm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/notify_email_templates/notify_it.htm
+END

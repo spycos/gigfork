@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32915/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs
+END
+GoogleDocumentServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30832/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs/GoogleDocumentServiceSystemTest.java
+END
+GoogleDocsPermissionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/20046/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs/GoogleDocsPermissionContext.java
+END
+GoogleDocsModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/20018/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs/GoogleDocsModel.java
+END
+GoogleDocsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30832/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs/GoogleDocsService.java
+END
+GoogleEditableAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28681/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs/GoogleEditableAspect.java
+END
+GoolgeDocsUnsupportedMimetypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs/GoolgeDocsUnsupportedMimetypeException.java
+END
+GoogleDocsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32915/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs/GoogleDocsServiceImpl.java
+END
+GoogleDocsServiceInitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30832/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/googledocs/GoogleDocsServiceInitException.java
+END

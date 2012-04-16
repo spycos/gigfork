@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms
+END
+FormElementReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormElementReader.java
+END
+ControlParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/ControlParam.java
+END
+AspectEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/21333/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/AspectEvaluator.java
+END
+ConstraintHandlersElementReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/ConstraintHandlersElementReader.java
+END
+DefaultControlsConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/DefaultControlsConfigElement.java
+END
+NodeTypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/NodeTypeEvaluator.java
+END
+Control.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/Control.java
+END
+DependenciesElementReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/21567/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/DependenciesElementReader.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/20760/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/Mode.java
+END
+FormsConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormsConfigElement.java
+END
+FieldVisibilityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20760/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FieldVisibilityManager.java
+END
+FieldVisibilityManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FieldVisibilityManagerTest.java
+END
+Visibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/Visibility.java
+END
+FormConfigBasicTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormConfigBasicTest.java
+END
+FormConfigBasicOverrideTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/24879/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormConfigBasicOverrideTest.java
+END
+FormConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/24879/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormConfigElement.java
+END
+ConstraintHandlersConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/ConstraintHandlersConfigElement.java
+END
+DefaultControlsElementReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/DefaultControlsElementReader.java
+END
+FormFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormFieldTest.java
+END
+FormField.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormField.java
+END
+NodeMetadataBasedEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/NodeMetadataBasedEvaluator.java
+END
+FormConfigNegativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormConfigNegativeTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/package.html
+END
+FormSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormSetTest.java
+END
+FormSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormSet.java
+END
+ServiceBasedEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/ServiceBasedEvaluator.java
+END
+FormsElementReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormsElementReader.java
+END
+ModelTypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/ModelTypeEvaluator.java
+END
+DependenciesConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22493/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/DependenciesConfigElement.java
+END
+TaskTypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/TaskTypeEvaluator.java
+END
+FormConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FormConfigTest.java
+END
+ConstraintHandlerDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/ConstraintHandlerDefinition.java
+END
+ConstraintHandlersConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/ConstraintHandlersConfigTest.java
+END
+FieldVisibilityInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/FieldVisibilityInstruction.java
+END
+DefaultControlsConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-framework-commons/source/java/org/alfresco/web/config/forms/DefaultControlsConfigTest.java
+END

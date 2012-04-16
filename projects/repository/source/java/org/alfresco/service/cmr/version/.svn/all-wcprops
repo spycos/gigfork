@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/version
+END
+ReservedVersionNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/version/ReservedVersionNameException.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/version/Version.java
+END
+VersionServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/version/VersionServiceException.java
+END
+VersionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/version/VersionService.java
+END
+VersionHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/version/VersionHistory.java
+END
+VersionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/version/VersionType.java
+END
+VersionDoesNotExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/version/VersionDoesNotExistException.java
+END

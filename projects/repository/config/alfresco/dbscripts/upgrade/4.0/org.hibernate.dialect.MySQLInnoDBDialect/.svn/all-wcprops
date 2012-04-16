@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.MySQLInnoDBDialect
+END
+AclChangeSet-Tracking.sql
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.MySQLInnoDBDialect/AclChangeSet-Tracking.sql
+END
+Node-Locale.sql
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.MySQLInnoDBDialect/Node-Locale.sql
+END
+NodeAssoc-Ordering.sql
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/28309/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.MySQLInnoDBDialect/NodeAssoc-Ordering.sql
+END
+ActivitiTaskIdIndexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.MySQLInnoDBDialect/ActivitiTaskIdIndexes.sql
+END
+Solr-Tracking.sql
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/32635/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.MySQLInnoDBDialect/Solr-Tracking.sql
+END

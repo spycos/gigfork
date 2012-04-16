@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rating
+END
+AllRatingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/21585/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rating/AllRatingTests.java
+END
+RatingDefinitionsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/21068/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rating/RatingDefinitionsGet.java
+END
+RatingDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rating/RatingDelete.java
+END
+RatingsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/21161/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rating/RatingsGet.java
+END
+RatingPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rating/RatingPost.java
+END
+AbstractRatingWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/21161/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rating/AbstractRatingWebScript.java
+END
+RatingRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rating/RatingRestApiTest.java
+END

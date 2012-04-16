@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation
+END
+WorkflowModelNominatedInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/WorkflowModelNominatedInvitation.java
+END
+ModeratedActionApprove.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/ModeratedActionApprove.java
+END
+ModeratedActionReject.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/ModeratedActionReject.java
+END
+NominatedInvitationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/NominatedInvitationImpl.java
+END
+InvitationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/InvitationImpl.java
+END
+ActivitiInvitationServiceImplTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/ActivitiInvitationServiceImplTests.java
+END
+ModeratedInvitationProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/ModeratedInvitationProcess.java
+END
+InvitationProcessDescriptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/InvitationProcessDescriptionImpl.java
+END
+AbstractInvitationServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/AbstractInvitationServiceImplTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/13378/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/package.html
+END
+InvitationSearchCriteriaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/InvitationSearchCriteriaImpl.java
+END
+NominatedInvitationProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/NominatedInvitationProcess.java
+END
+InvitationProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/InvitationProcess.java
+END
+JbpmInvitationServiceImplTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/JbpmInvitationServiceImplTests.java
+END
+WorkflowModelModeratedInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/WorkflowModelModeratedInvitation.java
+END
+InvitationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/InvitationServiceImpl.java
+END
+InvitationProcessDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/InvitationProcessDescription.java
+END
+ModeratedInvitationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/ModeratedInvitationImpl.java
+END
+FullInvitationServiceImplTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/FullInvitationServiceImplTests.java
+END
+InviteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/InviteHelper.java
+END

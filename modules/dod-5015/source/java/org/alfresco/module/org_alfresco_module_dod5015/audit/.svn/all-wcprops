@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit
+END
+RecordsManagementAuditQueryParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/RecordsManagementAuditQueryParameters.java
+END
+FilePlanNodeRefPathDataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/FilePlanNodeRefPathDataExtractor.java
+END
+FilePlanIdentifierDataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/FilePlanIdentifierDataExtractor.java
+END
+RecordsManagementAuditService.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/RecordsManagementAuditService.java
+END
+RecordsManagementAuditEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/RecordsManagementAuditEntry.java
+END
+AuditEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/AuditEvent.java
+END
+RecordsManagementAuditServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/RecordsManagementAuditServiceImpl.java
+END
+AuthenticatedUserRolesDataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/AuthenticatedUserRolesDataExtractor.java
+END
+FilePlanNamePathDataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/audit/FilePlanNamePathDataExtractor.java
+END

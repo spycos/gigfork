@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29416/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/interceptor
+END
+ModelDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/interceptor/ModelDecorator.java
+END
+ApplicationDataInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/29416/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/interceptor/ApplicationDataInterceptor.java
+END
+CmisSessionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/interceptor/CmisSessionInterceptor.java
+END

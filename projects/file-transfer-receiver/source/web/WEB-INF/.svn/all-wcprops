@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/30981/alfresco/HEAD/root/projects/file-transfer-receiver/source/web/WEB-INF
+END
+web-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29661/alfresco/HEAD/root/projects/file-transfer-receiver/source/web/WEB-INF/web-application-context.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/30981/alfresco/HEAD/root/projects/file-transfer-receiver/source/web/WEB-INF/web.xml
+END

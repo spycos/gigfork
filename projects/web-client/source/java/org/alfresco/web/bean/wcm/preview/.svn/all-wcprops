@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/preview
+END
+PreviewURIService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/preview/PreviewURIService.java
+END
+StoreSpecificPreviewURIService.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/preview/StoreSpecificPreviewURIService.java
+END
+VirtualisationServerPreviewURIService.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/preview/VirtualisationServerPreviewURIService.java
+END
+NullPreviewURIService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/preview/NullPreviewURIService.java
+END
+URITemplatePreviewURIService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/preview/URITemplatePreviewURIService.java
+END

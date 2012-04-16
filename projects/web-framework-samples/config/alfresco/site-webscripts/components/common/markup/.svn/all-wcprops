@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup
+END
+edit.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/edit.get.desc.xml
+END
+view.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/view.get.html.ftl
+END
+edit.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/edit.post.html.ftl
+END
+view.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/view.get.js
+END
+edit.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/edit.post.js
+END
+view.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/view.get.desc.xml
+END
+edit.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/edit.post.desc.xml
+END
+edit.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/edit.get.head.ftl
+END
+edit.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/12260/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/edit.get.html.ftl
+END
+view.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/view.get.head.ftl
+END
+edit.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/markup/edit.get.js
+END

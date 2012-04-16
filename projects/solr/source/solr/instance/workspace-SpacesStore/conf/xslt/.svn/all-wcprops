@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/workspace-SpacesStore/conf/xslt
+END
+example.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/workspace-SpacesStore/conf/xslt/example.xsl
+END
+example_atom.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/workspace-SpacesStore/conf/xslt/example_atom.xsl
+END
+luke.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/workspace-SpacesStore/conf/xslt/luke.xsl
+END
+example_rss.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/workspace-SpacesStore/conf/xslt/example_rss.xsl
+END

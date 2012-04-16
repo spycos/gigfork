@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/util
+END
+Dispatcher.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/util/Dispatcher.js
+END
+Cookie.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/util/Cookie.js
+END
+JSON.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/util/JSON.js
+END
+JSONP.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/util/JSONP.js
+END
+URI.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/util/URI.js
+END
+XHR.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/util/XHR.js
+END
+JSONRequest.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/util/JSONRequest.js
+END

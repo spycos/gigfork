@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/context
+END
+IContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/context/IContextListener.java
+END
+UIContextService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/context/UIContextService.java
+END

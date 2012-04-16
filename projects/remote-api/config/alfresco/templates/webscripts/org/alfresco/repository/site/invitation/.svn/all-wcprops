@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32893/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation
+END
+invitation.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/13913/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.delete.js
+END
+invitations.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/20040/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitations.get.js
+END
+invitation.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.delete.desc.xml
+END
+invitation.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/13523/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.delete.json.ftl
+END
+invitations.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitations.get.desc.xml
+END
+invitations.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/20040/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitations.get.json.ftl
+END
+invitation.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.post.desc.xml
+END
+invitation.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/20040/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.post.json.ftl
+END
+invitation.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/32893/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.post.json.js
+END
+invitation.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/20040/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.get.js
+END
+invitation.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.get.desc.xml
+END
+invitation.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/20040/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/site/invitation/invitation.get.json.ftl
+END

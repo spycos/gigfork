@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/installer/war-commands
+END
+clean_tomcat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/installer/war-commands/clean_tomcat.sh
+END
+apply_amps.bat
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/installer/war-commands/apply_amps.bat
+END
+apply_amps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/installer/war-commands/apply_amps.sh
+END
+clean_tomcat.bat
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/22724/alfresco/HEAD/root/projects/installer/war-commands/clean_tomcat.bat
+END

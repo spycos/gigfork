@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect
+END
+AlfrescoCreate-AuditTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-AuditTables.sql
+END
+Schema-Reference-ACT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/Schema-Reference-ACT.xml
+END
+AlfrescoCreate-LockTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-LockTables.sql
+END
+Schema-Reference-JBPM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/Schema-Reference-JBPM.xml
+END
+AlfrescoCreate-ContentTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-ContentTables.sql
+END
+AlfrescoCreate-ActivityTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-ActivityTables.sql
+END
+AlfrescoCreate-PropertyValueTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-PropertyValueTables.sql
+END
+Schema-Reference-ALF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/Schema-Reference-ALF.xml
+END
+AlfrescoCreate-AvmTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-AvmTables.sql
+END
+Schema-Reference-AVM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/Schema-Reference-AVM.xml
+END
+AlfrescoCreate-SubscriptionTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/29968/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-SubscriptionTables.sql
+END
+AlfrescoCreate-UsageTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-UsageTables.sql
+END
+AlfrescoCreate-RepoTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/32635/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.PostgreSQLDialect/AlfrescoCreate-RepoTables.sql
+END

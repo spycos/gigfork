@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/cleanup
+END
+NodeCleanupRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/cleanup/NodeCleanupRegistry.java
+END
+NodeCleanupWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/cleanup/NodeCleanupWorker.java
+END
+NodeCleanupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/cleanup/NodeCleanupJob.java
+END
+AbstractNodeCleanupWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22255/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/cleanup/AbstractNodeCleanupWorker.java
+END
+TransactionCleanupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/cleanup/TransactionCleanupTest.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook
+END
+FacebookServletRuntime.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookServletRuntime.java
+END
+FacebookError.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookError.java
+END
+FacebookAPIRuntime.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookAPIRuntime.java
+END
+FacebookServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookServletRequest.java
+END
+FacebookAPIServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookAPIServlet.java
+END
+FacebookModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookModel.java
+END
+FacebookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookService.java
+END
+FacebookAppModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookAppModel.java
+END
+FacebookAuthenticatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookAuthenticatorFactory.java
+END
+FacebookServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/facebook/FacebookServlet.java
+END

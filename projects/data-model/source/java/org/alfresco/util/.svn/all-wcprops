@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util
+END
+ISO9075.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util/ISO9075.java
+END
+ISO9075Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util/ISO9075Test.java
+END
+SearchLanguageConversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util/SearchLanguageConversion.java
+END
+SearchLanguageConversionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util/SearchLanguageConversionTest.java
+END
+NoAutoStartClassPathXmlApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/20951/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util/NoAutoStartClassPathXmlApplicationContext.java
+END
+BaseApplicationContextHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util/BaseApplicationContextHelper.java
+END
+DataModelTestApplicationContextHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util/DataModelTestApplicationContextHelper.java
+END
+LazyClassPathXmlApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20951/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/util/LazyClassPathXmlApplicationContext.java
+END

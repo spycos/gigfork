@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/dictionary
+END
+RepoDictionaryDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/dictionary/RepoDictionaryDAOTest.java
+END
+TestModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/dictionary/TestModel.java
+END
+DictionaryRepositoryBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/dictionary/DictionaryRepositoryBootstrap.java
+END
+DictionaryRepositoryBootstrapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/dictionary/DictionaryRepositoryBootstrapTest.java
+END
+DictionaryModelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/dictionary/DictionaryModelType.java
+END
+DictionaryModelTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19260/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/dictionary/DictionaryModelTypeTest.java
+END
+RepositoryLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/dictionary/RepositoryLocation.java
+END

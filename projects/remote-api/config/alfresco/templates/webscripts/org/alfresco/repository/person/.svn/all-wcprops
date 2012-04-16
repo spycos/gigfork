@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person
+END
+user-csv-upload.post_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post_de.properties
+END
+person.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/13829/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.delete.js
+END
+user-csv-upload.post_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post_ja.properties
+END
+user-csv-upload.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.get.desc.xml
+END
+person.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/13611/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.delete.desc.xml
+END
+people.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22903/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/people.post.desc.xml
+END
+user-csv-upload.get.csv.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.get.csv.ftl
+END
+person.sites.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.sites.get.js
+END
+user-csv-upload.post.html.status.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post.html.status.ftl
+END
+person.sites.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.sites.get.desc.xml
+END
+user-csv-upload.get.xlsx.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.get.xlsx.ftl
+END
+changepassword.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/19290/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/changepassword.post.json.ftl
+END
+user-csv-upload.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post.desc.xml
+END
+changepassword.post.json.401.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/changepassword.post.json.401.ftl
+END
+people.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/13886/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/people.get.json.ftl
+END
+user-csv-upload.post_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/31467/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post_es.properties
+END
+user-csv-upload.post.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post.properties
+END
+changepassword.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24212/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/changepassword.post.desc.xml
+END
+person.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/9886/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.put.json.ftl
+END
+people.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/13886/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/people.get.js
+END
+people.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/24212/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/people.get.desc.xml
+END
+person.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.get.json.ftl
+END
+person.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/13611/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.put.desc.xml
+END
+people.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30501/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/people.post.json.js
+END
+user-csv-upload.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.get.html.ftl
+END
+person.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.get.js
+END
+person.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.lib.ftl
+END
+user-csv-upload.post_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post_fr.properties
+END
+user-csv-upload.get.xls.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.get.xls.ftl
+END
+person.put.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/14267/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.put.json.js
+END
+person.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.get.desc.xml
+END
+user-csv-upload.post_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post_nl.properties
+END
+person.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/13829/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.delete.json.ftl
+END
+user-csv-upload.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post.html.ftl
+END
+people.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/9500/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/people.post.json.ftl
+END
+user-csv-upload.post_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post_it.properties
+END
+person.sites.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/person.sites.get.json.ftl
+END
+user-csv-upload.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/person/user-csv-upload.post.json.ftl
+END

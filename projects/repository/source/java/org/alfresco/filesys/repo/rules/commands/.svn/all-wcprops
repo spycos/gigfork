@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands
+END
+OpenFileCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/31363/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/OpenFileCommand.java
+END
+DeleteFileCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/DeleteFileCommand.java
+END
+CreateFileCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32068/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/CreateFileCommand.java
+END
+CopyContentCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/CopyContentCommand.java
+END
+CloseFileCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/CloseFileCommand.java
+END
+MoveFileCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/MoveFileCommand.java
+END
+RenameFileCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/RenameFileCommand.java
+END
+ReturnValueCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/ReturnValueCommand.java
+END
+ReduceQuotaCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/ReduceQuotaCommand.java
+END
+RemoveTempFileCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/RemoveTempFileCommand.java
+END
+CompoundCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/CompoundCommand.java
+END
+DoNothingCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/DoNothingCommand.java
+END
+UpdateQuotaCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/UpdateQuotaCommand.java
+END
+CallbackCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/CallbackCommand.java
+END
+RemoveNoContentFileOnError.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/31363/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/RemoveNoContentFileOnError.java
+END
+PostCommitCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/commands/PostCommitCommand.java
+END

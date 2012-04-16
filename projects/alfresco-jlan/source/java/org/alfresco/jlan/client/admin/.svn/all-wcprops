@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin
+END
+EventlogHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/EventlogHandle.java
+END
+DataDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/DataDecoder.java
+END
+EventlogPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/EventlogPipeFile.java
+END
+RAPReadable.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/RAPReadable.java
+END
+LsarpcPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/LsarpcPipeFile.java
+END
+NetLogonPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/NetLogonPipeFile.java
+END
+SrvsvcPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/SrvsvcPipeFile.java
+END
+ServiceManagerHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/ServiceManagerHandle.java
+END
+WinregPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/WinregPipeFile.java
+END
+LSAPolicyHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/LSAPolicyHandle.java
+END
+ServiceHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/ServiceHandle.java
+END
+SvcctlPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/SvcctlPipeFile.java
+END
+ClientTransPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/ClientTransPacket.java
+END
+SamrPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/SamrPipeFile.java
+END
+InitShutPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/InitShutPipeFile.java
+END
+IPCPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/IPCPipeFile.java
+END
+AdminSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/AdminSession.java
+END
+SamrPolicyHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/SamrPolicyHandle.java
+END
+WkssvcPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/client/admin/WkssvcPipeFile.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts
+END
+forum-post.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/30672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post.get.desc.xml
+END
+forum-post.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/9969/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post.get.json.ftl
+END
+forum-post-replies.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/30672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post-replies.get.desc.xml
+END
+forum-post-replies.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/9593/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post-replies.get.json.ftl
+END
+forum-post.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/24457/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post.delete.desc.xml
+END
+forum-post.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/9593/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post.delete.json.ftl
+END
+forum-post-replies.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/24457/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post-replies.post.desc.xml
+END
+forum-post-replies.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/9969/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post-replies.post.json.ftl
+END
+forum-post.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/24457/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post.put.desc.xml
+END
+forum-post.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/9969/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/discussions/posts/forum-post.put.json.ftl
+END

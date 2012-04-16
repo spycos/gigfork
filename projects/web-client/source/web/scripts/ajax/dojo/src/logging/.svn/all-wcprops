@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/logging
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/logging/__package__.js
+END
+Logger.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/logging/Logger.js
+END
+ConsoleLogger.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/logging/ConsoleLogger.js
+END

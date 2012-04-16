@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar
+END
+view.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/33270/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get.html.ftl
+END
+toolbar.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get_de.properties
+END
+enabledViews.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30376/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/enabledViews.js
+END
+toolbar.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get_ja.properties
+END
+calendar.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get_de.properties
+END
+info.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32709/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get_fr.properties
+END
+view.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/30376/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get.config.xml
+END
+calendar.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29412/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get_ja.properties
+END
+info.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32709/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get_nl.properties
+END
+info.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32709/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get_it.properties
+END
+info.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get.html.ftl
+END
+toolbar.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get_es.properties
+END
+calendar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/9302/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get.desc.xml
+END
+view.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/12492/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get.js
+END
+view.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/9302/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get.desc.xml
+END
+toolbar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30807/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get.html.ftl
+END
+calendar.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get_es.properties
+END
+view.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get_fr.properties
+END
+calendar.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get.head.ftl
+END
+view.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get_nl.properties
+END
+view.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30899/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get.head.ftl
+END
+info.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32709/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get_de.properties
+END
+info.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get_ja.properties
+END
+view.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get_it.properties
+END
+calendar.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get.properties
+END
+view.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/30538/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get.properties
+END
+info.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30612/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get.js
+END
+info.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/9502/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get.desc.xml
+END
+helper.js
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33270/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/helper.js
+END
+info.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32709/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get_es.properties
+END
+toolbar.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get.js
+END
+view.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get_de.properties
+END
+toolbar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/9975/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get.desc.xml
+END
+view.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get_ja.properties
+END
+toolbar.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get_fr.properties
+END
+toolbar.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get.head.ftl
+END
+info.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/32687/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/info.get.properties
+END
+toolbar.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get_nl.properties
+END
+toolbar.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get_it.properties
+END
+calendar.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get_fr.properties
+END
+view.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/view.get_es.properties
+END
+toolbar.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30807/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/toolbar.get.properties
+END
+calendar.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get_nl.properties
+END
+calendar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22331/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get.html.ftl
+END
+calendar.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/calendar/calendar.get_it.properties
+END

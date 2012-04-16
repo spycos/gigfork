@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details
+END
+dod5015-path.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/18910/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-path.get.html.ftl
+END
+dod5015-folder-actions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/22621/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-folder-actions.get.js
+END
+dod5015-folder-actions.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/16093/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-folder-actions.get.properties
+END
+dod5015-folder-actions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/14476/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-folder-actions.get.desc.xml
+END
+dod5015-path.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/16588/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-path.get.properties
+END
+dod5015-path.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/15215/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-path.get.desc.xml
+END
+dod5015-folder-actions.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/16664/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-folder-actions.get.config.xml
+END
+dod5015-folder-actions.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-folder-actions.get.head.ftl
+END
+dod5015-folder-actions.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/22621/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-folder-actions.get.html.ftl
+END
+dod5015-path.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/folder-details/dod5015-path.get.head.ftl
+END

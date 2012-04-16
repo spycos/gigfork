@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-editor/source/web/WEB-INF
+END
+urlrewrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-editor/source/web/WEB-INF/urlrewrite.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-editor/source/web/WEB-INF/web.xml
+END
+awe.tld
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/21716/alfresco/HEAD/root/projects/web-editor/source/web/WEB-INF/awe.tld
+END
+surf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-editor/source/web/WEB-INF/surf.xml
+END

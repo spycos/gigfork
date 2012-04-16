@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18984/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/press-release
+END
+press-release-full.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18984/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/press-release/press-release-full.xslt
+END
+press-release.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/press-release/press-release.xsd
+END
+press-release-full.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/press-release/press-release-full.ftl
+END
+press-release-summary.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18984/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/press-release/press-release-summary.xslt
+END

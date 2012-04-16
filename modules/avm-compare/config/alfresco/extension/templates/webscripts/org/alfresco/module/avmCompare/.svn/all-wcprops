@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/8464/alfresco/HEAD/root/modules/avm-compare/config/alfresco/extension/templates/webscripts/org/alfresco/module/avmCompare
+END
+avm_compare.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/8464/alfresco/HEAD/root/modules/avm-compare/config/alfresco/extension/templates/webscripts/org/alfresco/module/avmCompare/avm_compare.get.desc.xml
+END
+avm_compare.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/8464/alfresco/HEAD/root/modules/avm-compare/config/alfresco/extension/templates/webscripts/org/alfresco/module/avmCompare/avm_compare.post.desc.xml
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport
+END
+initiate.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/initiate.post.html.ftl
+END
+ui.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/ui.get.html.ftl
+END
+ajaxspace.get.text.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/ajaxspace.get.text.ftl
+END
+status.get.xml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/status.get.xml.ftl
+END
+initiate.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/32905/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/initiate.post.desc.xml
+END
+ui.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32905/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/ui.get.desc.xml
+END
+status.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/status.get.html.ftl
+END
+ajaxspace.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/32905/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/ajaxspace.get.desc.xml
+END
+ajaxspace.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/ajaxspace.get.json.ftl
+END
+status.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/32905/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/bulkfilesystemimport/status.get.desc.xml
+END

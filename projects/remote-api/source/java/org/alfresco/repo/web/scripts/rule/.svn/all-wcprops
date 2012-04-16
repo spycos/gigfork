@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule
+END
+RulePut.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/RulePut.java
+END
+ActionConstraintsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/ActionConstraintsGet.java
+END
+RuleGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/RuleGet.java
+END
+ActionDefinitionsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/ActionDefinitionsGet.java
+END
+RulePost.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/RulePost.java
+END
+AbstractRuleWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19415/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/AbstractRuleWebScript.java
+END
+ActionConditionDefinitionsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/ActionConditionDefinitionsGet.java
+END
+ActionConstraintGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/ActionConstraintGet.java
+END
+RulesetGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/RulesetGet.java
+END
+InheritedRulesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/InheritedRulesGet.java
+END
+RuleServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/RuleServiceTest.java
+END
+ActionQueuePost.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19415/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/ActionQueuePost.java
+END
+RulesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/RulesGet.java
+END
+RuleDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/RuleDelete.java
+END
+RuleTypesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/rule/RuleTypesGet.java
+END

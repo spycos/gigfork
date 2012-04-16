@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers
+END
+cmis_test.gunit
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/cmis_test.gunit
+END
+FTSQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/FTSQueryParser.java
+END
+fts_test.gunit
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/fts_test.gunit
+END
+CMIS.g
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMIS.g
+END
+GenerateUnicodeRanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/31729/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/GenerateUnicodeRanges.java
+END
+AlfrescoFunctionEvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/AlfrescoFunctionEvaluationContext.java
+END
+FTS.g
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/FTS.g
+END
+FTSQueryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/FTSQueryException.java
+END
+gUnitExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/gUnitExecutor.java
+END
+CMIS_FTSLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMIS_FTSLexer.java
+END
+CMIS_FTSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMIS_FTSTest.java
+END
+CMISParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMISParser.java
+END
+FTSParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/FTSParser.java
+END
+cmis_fts_test.gunit
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/cmis_fts_test.gunit
+END
+CMIS_FTS.g
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMIS_FTS.g
+END
+CMIS.tokens
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28519/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMIS.tokens
+END
+FTS.tokens
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31729/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/FTS.tokens
+END
+CMIS_FTSParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMIS_FTSParser.java
+END
+CMIS_FTS.tokens
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMIS_FTS.tokens
+END
+CMISTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMISTest.java
+END
+CMISLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/CMISLexer.java
+END
+FTSLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/FTSLexer.java
+END
+FTSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32015/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/parsers/FTSTest.java
+END

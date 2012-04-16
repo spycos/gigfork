@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/22731/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report
+END
+TransferReport2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/22731/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/TransferReport2.xsd
+END
+TransferReportModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/TransferReportModel.java
+END
+TransferReportModel2.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/22731/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/TransferReportModel2.java
+END
+XMLTransferEventFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22731/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/XMLTransferEventFormatterFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18913/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/package-info.java
+END
+TransferReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/21836/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/TransferReporter.java
+END
+TransferReporterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/22731/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/TransferReporterImpl.java
+END
+XMLTransferEventFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/22731/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/XMLTransferEventFormatter.java
+END
+TransferReport.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19870/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/TransferReport.xsd
+END
+XMLTransferReportWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/22731/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/report/XMLTransferReportWriter.java
+END

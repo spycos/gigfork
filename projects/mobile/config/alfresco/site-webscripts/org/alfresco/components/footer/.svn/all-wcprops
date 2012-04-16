@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/footer
+END
+footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/14046/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.ftl
+END
+footer.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/14046/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get.html.ftl
+END
+footer.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get.properties
+END
+footer.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/13854/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get.desc.xml
+END
+footer.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/14046/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.post.html.ftl
+END
+footer.post.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.post.properties
+END
+footer.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/14046/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.post.desc.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/15054/alfresco/HEAD/root/projects/extensions/firefox/alfrescoext
+END
+install.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/15054/alfresco/HEAD/root/projects/extensions/firefox/alfrescoext/install.rdf
+END
+install.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/4652/alfresco/HEAD/root/projects/extensions/firefox/alfrescoext/install.js
+END
+alfrescoext-0.92.xpi
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/15054/alfresco/HEAD/root/projects/extensions/firefox/alfrescoext/alfrescoext-0.92.xpi
+END
+alfrescoext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/extensions/firefox/alfrescoext/alfrescoext.jar
+END

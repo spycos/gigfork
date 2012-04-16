@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/7370/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Query.java
+END
+CML.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CML.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Category.java
+END
+NamedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/7370/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/NamedValue.java
+END
+ContentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/ContentFormat.java
+END
+CMLAddAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLAddAspect.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Node.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Version.java
+END
+Classification.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Classification.java
+END
+PropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/PropertyDefinition.java
+END
+NodeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/NodeDefinition.java
+END
+CMLCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/4633/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLCreate.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Predicate.java
+END
+CMLMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/4633/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLMove.java
+END
+Cardinality.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Cardinality.java
+END
+CMLCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/4633/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLCopy.java
+END
+VersionHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/VersionHistory.java
+END
+ParentReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/4633/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/ParentReference.java
+END
+RoleDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/RoleDefinition.java
+END
+ClassDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/ClassDefinition.java
+END
+CMLUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLUpdate.java
+END
+NamespaceConfigurationInner.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/NamespaceConfigurationInner.java
+END
+CMLWriteContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLWriteContent.java
+END
+ResultSetRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/ResultSetRow.java
+END
+AssociationDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/AssociationDefinition.java
+END
+ValueDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/ValueDefinition.java
+END
+CMLRemoveAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLRemoveAssociation.java
+END
+LocaleConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/LocaleConfiguration.java
+END
+CMLAddChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/4633/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLAddChild.java
+END
+ResultSetRowNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/ResultSetRowNode.java
+END
+CMLRemoveAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLRemoveAspect.java
+END
+ResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/ResultSet.java
+END
+ResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/ResultSetMetaData.java
+END
+CMLCreateAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLCreateAssociation.java
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Store.java
+END
+QueryConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/QueryConfiguration.java
+END
+CMLRemoveChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLRemoveChild.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/4633/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/Reference.java
+END
+CMLDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/types/CMLDelete.java
+END

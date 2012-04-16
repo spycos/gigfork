@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag
+END
+FormProcessorTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/FormProcessorTag.java
+END
+PendingSubmissionsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/PendingSubmissionsTag.java
+END
+LinkValidationReportTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/LinkValidationReportTag.java
+END
+AVMLockIconTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/AVMLockIconTag.java
+END
+UserSandboxesTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/UserSandboxesTag.java
+END
+LinkValidationSummaryTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/LinkValidationSummaryTag.java
+END
+DeploymentServersTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/DeploymentServersTag.java
+END
+LinkValidationProgressTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/LinkValidationProgressTag.java
+END
+AVMListTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/AVMListTag.java
+END
+DeployWebsiteTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/DeployWebsiteTag.java
+END
+DeploymentReportsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/DeploymentReportsTag.java
+END
+SandboxSnapshotsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/tag/SandboxSnapshotsTag.java
+END

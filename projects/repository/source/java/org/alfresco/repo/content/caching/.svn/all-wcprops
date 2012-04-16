@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/34711/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching
+END
+ContentCacheImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32633/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/ContentCacheImpl.java
+END
+ContentCacheImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/32634/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/ContentCacheImplTest.java
+END
+FullTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/FullTest.java
+END
+CachingContentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/34711/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/CachingContentStore.java
+END
+CachingContentStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/34711/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/CachingContentStoreTest.java
+END
+CachingContentStoreEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/CachingContentStoreEvent.java
+END
+CacheFileProps.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/CacheFileProps.java
+END
+CachingContentStoreSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/CachingContentStoreSpringTest.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/30066/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/Key.java
+END
+FileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30066/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/FileHandler.java
+END
+CacheMissException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29662/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/CacheMissException.java
+END
+CachingContentStoreTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/CachingContentStoreTestSuite.java
+END
+ContentCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/ContentCache.java
+END
+CachingContentStoreCreatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/CachingContentStoreCreatedEvent.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/repository
+END
+UpdateResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/repository/UpdateResult.java
+END
+QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/repository/QueryResult.java
+END
+RepositoryServiceSoapPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/repository/RepositoryServiceSoapPort.java
+END
+RepositoryFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/repository/RepositoryFault.java
+END
+Association.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/repository/Association.java
+END
+deploy.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/repository/deploy.wsdd
+END

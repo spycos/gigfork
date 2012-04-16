@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren
+END
+FilterSortNodeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/FilterSortNodeEntity.java
+END
+GetChildrenAuditableCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/29524/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenAuditableCannedQuery.java
+END
+GetChildrenAuditableCannedQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/29524/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenAuditableCannedQueryParams.java
+END
+GetChildrenWithTargetAssocsAuditableCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/29831/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenWithTargetAssocsAuditableCannedQueryFactory.java
+END
+FilterPropString.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/FilterPropString.java
+END
+testModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/testModel.xml
+END
+GetChildrenCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenCannedQueryFactory.java
+END
+GetChildrenWithTargetAssocsAuditableCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/29831/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenWithTargetAssocsAuditableCannedQuery.java
+END
+GetChildrenWithTargetAssocsAuditableCannedQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/29831/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenWithTargetAssocsAuditableCannedQueryParams.java
+END
+FilterProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/FilterProp.java
+END
+GetChildrenCannedQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenCannedQueryTest.java
+END
+GetChildrenCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenCannedQuery.java
+END
+FilterType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/FilterType.java
+END
+GetChildrenAuditableCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29831/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenAuditableCannedQueryFactory.java
+END
+GetChildrenCannedQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/getchildren/GetChildrenCannedQueryParams.java
+END

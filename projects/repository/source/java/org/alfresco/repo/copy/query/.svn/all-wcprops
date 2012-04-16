@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/query
+END
+AbstractCopyCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/query/AbstractCopyCannedQueryFactory.java
+END
+CopyEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/query/CopyEntity.java
+END
+GetCopiesCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/query/GetCopiesCannedQueryFactory.java
+END
+GetCopiedCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28680/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/query/GetCopiedCannedQueryFactory.java
+END
+CopyParametersEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/query/CopyParametersEntity.java
+END

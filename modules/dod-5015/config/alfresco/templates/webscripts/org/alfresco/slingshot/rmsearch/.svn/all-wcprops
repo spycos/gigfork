@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29060/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch
+END
+rmsavedsearches.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch/rmsavedsearches.post.desc.xml
+END
+rmsavedsearches.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/15345/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch/rmsavedsearches.post.json.ftl
+END
+rmsavedsearches.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch/rmsavedsearches.get.desc.xml
+END
+rmsavedsearches.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/15754/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch/rmsavedsearches.get.json.ftl
+END
+rmsavedsearches.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/28821/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch/rmsavedsearches.delete.desc.xml
+END
+rmsavedsearches.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/28821/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch/rmsavedsearches.delete.json.ftl
+END
+rmsearch.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29060/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch/rmsearch.get.desc.xml
+END
+rmsearch.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29060/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/rmsearch/rmsearch.get.json.ftl
+END

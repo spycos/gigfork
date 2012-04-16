@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail
+END
+thumbnails.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnails.get.js
+END
+thumbnail.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnail.delete.desc.xml
+END
+thumbnails.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnails.get.desc.xml
+END
+thumbnails.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/9452/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnails.get.json.ftl
+END
+thumbnail.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnail.put.desc.xml
+END
+thumbnails.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnails.post.desc.xml
+END
+thumbnails.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/9452/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnails.post.json.ftl
+END
+thumbnaildefinitions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/10437/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnaildefinitions.get.js
+END
+thumbnaildefinitions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/24468/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnaildefinitions.get.desc.xml
+END
+thumbnaildefinitions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/10437/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnaildefinitions.get.json.ftl
+END
+thumbnail.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnail.get.js
+END
+thumbnail.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/10076/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnail.lib.ftl
+END
+thumbnail.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnail.get.desc.xml
+END
+thumbnails.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/thumbnail/thumbnails.post.json.js
+END

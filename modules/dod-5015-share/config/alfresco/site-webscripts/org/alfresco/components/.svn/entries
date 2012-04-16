@@ -1,0 +1,73 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2011-09-09T13:57:52.969318Z
+30388
+mhatfield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+rmreferences
+dir
+
+upload
+dir
+
+new-rmreference
+dir
+
+rmresults-common
+dir
+
+fileplan
+dir
+
+folder-details
+dir
+
+document-details
+dir
+
+console
+dir
+
+form
+dir
+
+edit-metadata
+dir
+
+documentlibrary
+dir
+
+rmsearch
+dir
+
+rmaudit
+dir
+
+dashlets
+dir
+
+rmpermissions
+dir
+

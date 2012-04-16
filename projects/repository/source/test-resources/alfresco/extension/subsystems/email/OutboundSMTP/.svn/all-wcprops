@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/extension/subsystems/email/OutboundSMTP
+END
+outboundSMTP-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/extension/subsystems/email/OutboundSMTP/outboundSMTP-test-context.xml
+END

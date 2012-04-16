@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/12712/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action
+END
+ActionExecutionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/ActionExecutionResult.java
+END
+ActionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/ActionFilter.java
+END
+ActionItemDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/12712/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/ActionItemDefinition.java
+END
+ActionServiceSoapPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/ActionServiceSoapPort.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/8481/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/Condition.java
+END
+ActionItemDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/ActionItemDefinitionType.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/Rule.java
+END
+ActionFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/ActionFault.java
+END
+ParameterDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/ParameterDefinition.java
+END
+RuleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/RuleType.java
+END
+deploy.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/deploy.wsdd
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/Action.java
+END
+RuleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/action/RuleFilter.java
+END

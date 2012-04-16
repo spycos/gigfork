@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32590/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing
+END
+ChannelsDeleteWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/ChannelsDeleteWebScript.java
+END
+ChannelPut.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/ChannelPut.java
+END
+AuthCallbackWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/32590/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/AuthCallbackWebScript.java
+END
+ChannelReauthWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/ChannelReauthWebScript.java
+END
+ChannelTypeIconGetWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/30819/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/ChannelTypeIconGetWebScript.java
+END
+AuthFormGetWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/AuthFormGetWebScript.java
+END
+PublishingJsonParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/31057/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/PublishingJsonParser.java
+END
+PublishingQueuePost.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30794/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/PublishingQueuePost.java
+END
+ChannelsPostWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/ChannelsPostWebScript.java
+END
+PublishingWebScriptConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/PublishingWebScriptConstants.java
+END
+PublishingWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30794/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/PublishingWebScript.java
+END
+PublishingEventsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30438/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/PublishingEventsGet.java
+END
+ChannelAuthHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32575/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/ChannelAuthHelper.java
+END
+ChannelsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/ChannelsGet.java
+END
+PublishingRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/31057/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/PublishingRestApiTest.java
+END
+PublishingModelBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/31169/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/PublishingModelBuilder.java
+END
+ChannelTypesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/publishing/ChannelTypesGet.java
+END

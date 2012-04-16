@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/32931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site
+END
+InviteSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/32931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/InviteSender.java
+END
+InviteSenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/InviteSenderTest.java
+END
+CancelInviteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/CancelInviteAction.java
+END
+AbstractInvitationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/AbstractInvitationAction.java
+END
+SendInviteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/SendInviteAction.java
+END
+SiteNominatedInvitationProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/SiteNominatedInvitationProcess.java
+END
+RejectInviteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/RejectInviteAction.java
+END
+InviteInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/InviteInfo.java
+END
+AcceptInviteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/AcceptInviteAction.java
+END
+SiteModeratedInvitationProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/SiteModeratedInvitationProcess.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/13378/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/site/package.html
+END

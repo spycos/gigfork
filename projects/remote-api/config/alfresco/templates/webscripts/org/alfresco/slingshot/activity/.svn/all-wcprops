@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/activity
+END
+create-activity.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/activity/create-activity.post.json.js
+END
+create-activity.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/activity/create-activity.post.desc.xml
+END
+create-activity.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/activity/create-activity.post.json.ftl
+END

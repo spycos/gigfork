@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls
+END
+ambiguous.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/15002/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/ambiguous.ftl
+END
+hidden.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/19222/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/hidden.ftl
+END
+info.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/23037/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/info.ftl
+END
+selectmany.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/selectmany.ftl
+END
+numberrange.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/22389/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/numberrange.ftl
+END
+size.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22300/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/size.ftl
+END
+content.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/22700/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/content.ftl
+END
+association.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/association.ftl
+END
+textarea.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/23037/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/textarea.ftl
+END
+readonly.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/23037/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/readonly.ftl
+END
+category.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/category.ftl
+END
+date.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/date.ftl
+END
+selectone.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/selectone.ftl
+END
+period.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/21851/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/period.ftl
+END
+invisible.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/14678/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/invisible.ftl
+END
+encoding.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/22148/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/encoding.ftl
+END
+checkbox.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/checkbox.ftl
+END
+number.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/23037/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/number.ftl
+END
+authority.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/authority.ftl
+END
+textfield.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/23037/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/textfield.ftl
+END
+mimetype.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/33869/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/mimetype.ftl
+END
+daterange.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/daterange.ftl
+END
+richtext.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/23037/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/richtext.ftl
+END

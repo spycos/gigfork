@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/31186/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts
+END
+blog-posts-publishedext.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/31186/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-publishedext.get.desc.xml
+END
+blog-posts-publishedext.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/10610/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-publishedext.get.json.ftl
+END
+blog-posts.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/31186/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts.get.desc.xml
+END
+blog-posts.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/10610/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts.get.json.ftl
+END
+blog-posts-mypublished.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/31186/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-mypublished.get.desc.xml
+END
+blog-posts-mypublished.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/10610/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-mypublished.get.json.ftl
+END
+blog-posts.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/24457/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts.post.desc.xml
+END
+blog-posts.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/10610/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts.post.json.ftl
+END
+blog-posts-mydrafts.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/31186/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-mydrafts.get.desc.xml
+END
+blog-posts-mydrafts.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/10610/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-mydrafts.get.json.ftl
+END
+blog-posts-new.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/31186/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-new.get.desc.xml
+END
+blog-posts-new.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/10610/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-new.get.json.ftl
+END
+blog-posts-per-month.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/31186/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-per-month.get.desc.xml
+END
+blog-posts-per-month.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/10309/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/blogs/posts/blog-posts-per-month.get.json.ftl
+END

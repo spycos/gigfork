@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/alfresco-open-mirror/!svn/ver/28529/alfresco/HEAD/root/modules/sharepoint/amp/lib
+END
+jetty-6.1.26.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/28529/alfresco/HEAD/root/modules/sharepoint/amp/lib/jetty-6.1.26.jar
+END
+jetty-util-6.1.26.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/28529/alfresco/HEAD/root/modules/sharepoint/amp/lib/jetty-util-6.1.26.jar
+END

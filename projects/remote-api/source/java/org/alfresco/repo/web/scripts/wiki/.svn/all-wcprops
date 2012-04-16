@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/31686/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki
+END
+WikiPageGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki/WikiPageGet.java
+END
+WikiPageDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki/WikiPageDelete.java
+END
+WikiPageVersionGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki/WikiPageVersionGet.java
+END
+WikiPagePut.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki/WikiPagePut.java
+END
+AbstractWikiWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/31360/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki/AbstractWikiWebScript.java
+END
+WikiRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/31360/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki/WikiRestApiTest.java
+END
+WikiPageListGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/31686/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki/WikiPageListGet.java
+END
+WikiPageMovePost.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/wiki/WikiPageMovePost.java
+END

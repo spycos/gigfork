@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/versionlabel
+END
+SerialVersionLabelPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/versionlabel/SerialVersionLabelPolicy.java
+END
+SerialVersionLabelPolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/versionlabel/SerialVersionLabelPolicyTest.java
+END

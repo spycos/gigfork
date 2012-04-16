@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions
+END
+SubscriptionServiceFollowingCountGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServiceFollowingCountGet.java
+END
+SubscriptionServiceFollowsPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServiceFollowsPost.java
+END
+SubscriptionServiceUnfollowPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServiceUnfollowPost.java
+END
+SubscriptionServiceFollowersGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServiceFollowersGet.java
+END
+SubscriptionServicePrivateListPut.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServicePrivateListPut.java
+END
+SubscriptionServiceFollowingGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServiceFollowingGet.java
+END
+SubscriptionServiceFollowersCountGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServiceFollowersCountGet.java
+END
+AbstractSubscriptionServiceWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/AbstractSubscriptionServiceWebScript.java
+END
+SubscriptionServicePrivateListGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServicePrivateListGet.java
+END
+SubscriptionServiceRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/28962/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServiceRestApiTest.java
+END
+SubscriptionServiceFollowPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/30210/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/subscriptions/SubscriptionServiceFollowPost.java
+END

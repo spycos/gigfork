@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/32925/alfresco/HEAD/root/projects/slingshot/source/web/modules/document-details
+END
+revert-version.css
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/16877/alfresco/HEAD/root/projects/slingshot/source/web/modules/document-details/revert-version.css
+END
+historic-properties-viewer.css
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30802/alfresco/HEAD/root/projects/slingshot/source/web/modules/document-details/historic-properties-viewer.css
+END
+revert-version.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/source/web/modules/document-details/revert-version.js
+END
+historic-properties-viewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/32925/alfresco/HEAD/root/projects/slingshot/source/web/modules/document-details/historic-properties-viewer.js
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/34805/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules
+END
+RunAsFullyAuthenticatedRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/34317/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/RunAsFullyAuthenticatedRule.java
+END
+AbstractPersonRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/34289/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/AbstractPersonRule.java
+END
+AlfrescoPeople.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34317/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/AlfrescoPeople.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/34289/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/package-info.java
+END
+AlfrescoPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34317/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/AlfrescoPerson.java
+END
+LoadTestRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/34289/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/LoadTestRule.java
+END
+TemporaryNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34777/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/TemporaryNodes.java
+END
+TemporaryNodesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/34777/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/TemporaryNodesTest.java
+END
+ApplicationContextInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/34805/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/ApplicationContextInit.java
+END
+ApplicationContextInitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/34805/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/ApplicationContextInitTest.java
+END
+dummy1-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/34805/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/dummy1-context.xml
+END
+dummy2-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/34805/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/test/junitrules/dummy2-context.xml
+END

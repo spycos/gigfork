@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18516/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values
+END
+rmconstraint.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/16137/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraint.post.desc.xml
+END
+rmconstraint.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/16137/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraint.post.json.ftl
+END
+rmconstraintvalue.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/18516/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraintvalue.get.js
+END
+rmconstraint.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/16137/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraint.post.json.js
+END
+rmconstraintvalue.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/16137/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraintvalue.get.desc.xml
+END
+rmconstraintvalue.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/16137/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraintvalue.get.json.ftl
+END
+rmconstraint.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/16137/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraint.get.js
+END
+rmconstraintvalue.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/15924/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraintvalue.delete.js
+END
+rmconstraint.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/16169/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraint.get.desc.xml
+END
+rmconstraint.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/16137/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraint.get.json.ftl
+END
+rmconstraintvalue.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/15924/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraintvalue.delete.desc.xml
+END
+rmconstraintvalue.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/16137/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmconstraint/values/rmconstraintvalue.delete.json.ftl
+END

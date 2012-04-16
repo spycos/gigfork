@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dialog
+END
+DialogUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dialog/DialogUtils.java
+END
+DialogMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dialog/DialogMetaInfo.java
+END
+DialogsMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dialog/DialogsMetaInfo.java
+END
+DialogMetaInfoComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dialog/DialogMetaInfoComparator.java
+END

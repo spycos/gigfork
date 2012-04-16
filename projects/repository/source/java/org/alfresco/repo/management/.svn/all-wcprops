@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management
+END
+DynamicMBeanExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/DynamicMBeanExporter.java
+END
+SafeApplicationEventMulticaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/SafeApplicationEventMulticaster.java
+END
+JmxDumpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31691/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/JmxDumpUtil.java
+END
+DynamicMBeanExportOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/DynamicMBeanExportOperations.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/rpc
+END
+RpcService.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/rpc/RpcService.js
+END
+yahoo.smd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/rpc/yahoo.smd
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/rpc/__package__.js
+END
+JsonService.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/rpc/JsonService.js
+END
+JotService.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/rpc/JotService.js
+END
+Deferred.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/rpc/Deferred.js
+END
+YahooService.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/rpc/YahooService.js
+END

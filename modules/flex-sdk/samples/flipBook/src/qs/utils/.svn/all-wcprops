@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/utils
+END
+ColorUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/utils/ColorUtils.as
+END
+Vector.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/utils/Vector.as
+END
+DLinkedList.as
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/utils/DLinkedList.as
+END
+DLinkedListNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/utils/DLinkedListNode.as
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/preview
+END
+web-preview.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22518/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/preview/web-preview.get.html.ftl
+END
+web-preview.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/preview/web-preview.get.properties
+END
+web-preview.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/preview/web-preview.get.desc.xml
+END
+web-preview.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/preview/web-preview.get.head.ftl
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean
+END
+Authentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/Authentication.java
+END
+LoginTicketDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/LoginTicketDelete.java
+END
+AbstractLoginBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/AbstractLoginBean.java
+END
+Touch.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/Touch.java
+END
+BaseRemoteStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/BaseRemoteStore.java
+END
+SearchProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/SearchProxy.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/Login.java
+END
+ADMRemoteStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/ADMRemoteStore.java
+END
+KeywordSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/KeywordSearch.java
+END
+AVMRemoteStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28391/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/AVMRemoteStore.java
+END
+LoginTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/LoginTicket.java
+END
+LoginPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/LoginPost.java
+END
+SearchEngines.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bean/SearchEngines.java
+END

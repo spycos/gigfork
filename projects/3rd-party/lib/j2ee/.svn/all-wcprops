@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/alfresco-open-mirror/!svn/ver/18108/alfresco/HEAD/root/projects/3rd-party/lib/j2ee
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/15708/alfresco/HEAD/root/projects/3rd-party/lib/j2ee/servlet.jar
+END
+portlet_20.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/18108/alfresco/HEAD/root/projects/3rd-party/lib/j2ee/portlet_20.jar
+END
+jsp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/15708/alfresco/HEAD/root/projects/3rd-party/lib/j2ee/jsp.jar
+END

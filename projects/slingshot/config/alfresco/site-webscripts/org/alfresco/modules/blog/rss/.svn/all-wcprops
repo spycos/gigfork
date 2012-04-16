@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss
+END
+postlist-rss.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/13572/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get.js
+END
+postlist-rss.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/9881/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get.properties
+END
+postlist-rss.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/19858/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get.desc.xml
+END
+postlist-rss.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get_es.properties
+END
+postlist-rss.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get_fr.properties
+END
+postlist-rss.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get_de.properties
+END
+postlist-rss.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get_nl.properties
+END
+postlist-rss.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get_ja.properties
+END
+postlist-rss.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get_it.properties
+END
+postlist-rss.get.rss.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/blog/rss/postlist-rss.get.rss.ftl
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/source/wsdl
+END
+CMIS-Messaging.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/source/wsdl/CMIS-Messaging.xsd
+END
+CMISWS-Service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/source/wsdl/CMISWS-Service.wsdl
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/source/wsdl/xml.xsd
+END
+CMIS-Core.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/source/wsdl/CMIS-Core.xsd
+END

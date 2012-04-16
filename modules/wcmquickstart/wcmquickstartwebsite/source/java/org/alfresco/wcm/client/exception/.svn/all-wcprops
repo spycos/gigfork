@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/exception
+END
+PageNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/exception/PageNotFoundException.java
+END
+EditorialException.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/exception/EditorialException.java
+END

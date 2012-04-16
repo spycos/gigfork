@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/data
+END
+OpmlStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/data/OpmlStore.js
+END
+CsvStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/data/CsvStore.js
+END
+RdfStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/data/RdfStore.js
+END
+YahooStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/data/YahooStore.js
+END

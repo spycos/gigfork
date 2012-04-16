@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test
+END
+DOD5015Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/DOD5015Test.java
+END
+CapabilitiesTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/CapabilitiesTestSuite.java
+END
+JScriptTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/JScriptTestSuite.java
+END
+WebScriptTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/WebScriptTestSuite.java
+END
+ServicesTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/ServicesTestSuite.java
+END

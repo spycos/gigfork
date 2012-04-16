@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/sample/WcfCmisTest/src
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/sample/WcfCmisTest/src/app.config
+END
+CmisTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/sample/WcfCmisTest/src/CmisTest.sln
+END
+CmisTest.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/sample/WcfCmisTest/src/CmisTest.csproj
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/sample/WcfCmisTest/src/Program.cs
+END

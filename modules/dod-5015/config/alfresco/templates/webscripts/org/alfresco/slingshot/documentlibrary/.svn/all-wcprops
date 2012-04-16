@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary
+END
+dod5015-doclist.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/15414/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-doclist.get.html.ftl
+END
+dod5015-savedsearches.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/15253/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-savedsearches.get.js
+END
+dod5015-savedsearches.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-savedsearches.get.desc.xml
+END
+dod5015-doclist.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/18910/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-doclist.get.json.ftl
+END
+dod5015-transfer.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/16609/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-transfer.get.js
+END
+dod5015-transfer.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-transfer.get.desc.xml
+END
+dod5015-node.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-node.get.js
+END
+dod5015-node.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-node.get.desc.xml
+END
+dod5015-treenode.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-treenode.get.json.ftl
+END
+dod5015-doclist.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-doclist.lib.js
+END
+dod5015-evaluator.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-evaluator.lib.js
+END
+dod5015-filters.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/19943/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-filters.lib.js
+END
+dod5015-savedsearches.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/15253/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-savedsearches.get.json.ftl
+END
+dod5015-doclist.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-doclist.get.js
+END
+dod5015-doclist.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-doclist.get.desc.xml
+END
+dod5015-transfer.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/16646/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-transfer.get.json.ftl
+END
+dod5015-treenode.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-treenode.get.js
+END
+dod5015-node.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-node.get.json.ftl
+END
+dod5015-treenode.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/dod5015-treenode.get.desc.xml
+END

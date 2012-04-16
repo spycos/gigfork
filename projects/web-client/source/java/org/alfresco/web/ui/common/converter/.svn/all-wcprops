@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/converter
+END
+MultiValueConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/converter/MultiValueConverter.java
+END
+ByteSizeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/converter/ByteSizeConverter.java
+END
+XMLDateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/converter/XMLDateConverter.java
+END
+BooleanLabelConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/converter/BooleanLabelConverter.java
+END

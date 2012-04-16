@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/9961/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/module/org.alfresco.module.knowledgeBase
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/6596/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/module/org.alfresco.module.knowledgeBase/module.properties
+END
+module-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/9960/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/module/org.alfresco.module.knowledgeBase/module-context.xml
+END

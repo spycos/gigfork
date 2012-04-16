@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/23532/alfresco/HEAD/root/projects/sdk/samples/CustomAspect
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/CustomAspect/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/CustomAspect/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/23532/alfresco/HEAD/root/projects/sdk/samples/CustomAspect/build.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rendition
+END
+patchthumbnailsasrenditions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rendition/patchthumbnailsasrenditions.get.desc.xml
+END
+patchthumbnailsasrenditions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/rendition/patchthumbnailsasrenditions.get.json.ftl
+END

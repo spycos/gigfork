@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18162/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/workflow
+END
+workflow.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/15629/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/workflow/workflow.get.html.ftl
+END
+workflow.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/14046/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/workflow/workflow.get.js
+END
+workflow.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/14792/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/workflow/workflow.get.properties
+END
+workflow.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/14046/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/workflow/workflow.get.desc.xml
+END
+workflow.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18162/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/workflow/workflow.get.head.ftl
+END

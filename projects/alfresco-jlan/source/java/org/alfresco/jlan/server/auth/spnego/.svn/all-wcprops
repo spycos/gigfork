@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/spnego
+END
+NegTokenTarg.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/spnego/NegTokenTarg.java
+END
+OID.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/spnego/OID.java
+END
+SPNEGO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/spnego/SPNEGO.java
+END
+NegTokenInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/auth/spnego/NegTokenInit.java
+END

@@ -1,0 +1,151 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-13T14:21:53.975980Z
+35229
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+repository
+dir
+
+avm
+dir
+
+blog
+dir
+
+discussion
+dir
+
+thumbnail
+dir
+
+rating
+dir
+
+invitation
+dir
+
+transfer
+dir
+
+notification
+dir
+
+attributes
+dir
+
+email
+dir
+
+lock
+dir
+
+rendition
+dir
+
+model
+dir
+
+urlshortening
+dir
+
+site
+dir
+
+publishing
+dir
+
+usage
+dir
+
+search
+dir
+
+audit
+dir
+
+view
+dir
+
+coci
+dir
+
+preference
+dir
+
+tagging
+dir
+
+avmsync
+dir
+
+links
+dir
+
+module
+dir
+
+version
+dir
+
+admin
+dir
+
+remote
+dir
+
+wiki
+dir
+
+activities
+dir
+
+subscriptions
+dir
+
+security
+dir
+
+rule
+dir
+
+ml
+dir
+
+webdav
+dir
+
+replication
+dir
+
+calendar
+dir
+
+workflow
+dir
+
+action
+dir
+

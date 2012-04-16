@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki
+END
+version.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/30664/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/version.get.desc.xml
+END
+page.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30144/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.put.json.ftl
+END
+pagelist.get.rss.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/pagelist.get.rss.ftl
+END
+page.get.mediawiki.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29613/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.get.mediawiki.ftl
+END
+move.post_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28540/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post_it.properties
+END
+page.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/29620/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.get.html.ftl
+END
+pagelist.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/31686/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/pagelist.get.json.ftl
+END
+move.post.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post.properties
+END
+move.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/10565/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post.json.ftl
+END
+page.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/32528/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.get.json.ftl
+END
+version.get.mediawiki.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/9993/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/version.get.mediawiki.ftl
+END
+page.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.delete.desc.xml
+END
+version.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/9993/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/version.get.html.ftl
+END
+page.get.json.404.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/13572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.get.json.404.ftl
+END
+move.post_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post_de.properties
+END
+move.post_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post_ja.properties
+END
+page.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.put.desc.xml
+END
+pagelist.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30664/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/pagelist.get.desc.xml
+END
+page.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30664/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.get.desc.xml
+END
+move.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post.desc.xml
+END
+page.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/9637/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/page.delete.json.ftl
+END
+move.post_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28540/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post_fr.properties
+END
+move.post_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28540/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post_es.properties
+END
+move.post_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/wiki/move.post_nl.properties
+END

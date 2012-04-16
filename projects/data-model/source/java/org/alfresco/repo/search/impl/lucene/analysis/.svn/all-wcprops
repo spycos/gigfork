@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis
+END
+MLTokenDuplicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/MLTokenDuplicator.java
+END
+NumericEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/NumericEncoder.java
+END
+PathTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/PathTokenFilter.java
+END
+PathTokenFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/PathTokenFilterTest.java
+END
+IntegerTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/IntegerTokenFilter.java
+END
+FloatAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/FloatAnalyser.java
+END
+LongTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/LongTokenFilter.java
+END
+FrenchSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/FrenchSnowballAnalyser.java
+END
+DanishSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/DanishSnowballAnalyser.java
+END
+DoubleAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/DoubleAnalyser.java
+END
+GermanSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/GermanSnowballAnalyser.java
+END
+LovinsSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/LovinsSnowballAnalyser.java
+END
+KPSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/KPSnowballAnalyser.java
+END
+FloatTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/FloatTokenFilter.java
+END
+PorterSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/PorterSnowballAnalyser.java
+END
+LowerCaseVerbatimAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/LowerCaseVerbatimAnalyser.java
+END
+ItalianSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/ItalianSnowballAnalyser.java
+END
+AlfrescoStandardFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/AlfrescoStandardFilter.java
+END
+RussianSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/RussianSnowballAnalyser.java
+END
+NorwegianSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/NorwegianSnowballAnalyser.java
+END
+EnglishSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/EnglishSnowballAnalyser.java
+END
+PathAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/PathAnalyser.java
+END
+FinnishSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/FinnishSnowballAnalyser.java
+END
+AnalysisException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/AnalysisException.java
+END
+VerbatimMLAnalayser.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/VerbatimMLAnalayser.java
+END
+DateTimeTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/DateTimeTokenFilter.java
+END
+PortugueseSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/PortugueseSnowballAnalyser.java
+END
+SpanishSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/SpanishSnowballAnalyser.java
+END
+SwedishSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/SwedishSnowballAnalyser.java
+END
+MLAnalayser.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/MLAnalayser.java
+END
+DutchSnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/DutchSnowballAnalyser.java
+END
+VerbatimAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/VerbatimAnalyser.java
+END
+NumericEncodingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/NumericEncodingTest.java
+END
+CategoryAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/CategoryAnalyser.java
+END
+DateAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/DateAnalyser.java
+END
+AlfrescoStandardAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28479/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/AlfrescoStandardAnalyser.java
+END
+VerbatimTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/VerbatimTokenFilter.java
+END
+DoubleTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/DoubleTokenFilter.java
+END
+DateTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/DateTokenFilter.java
+END
+FrenchSnowballAnalyserThatRemovesAccents.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/FrenchSnowballAnalyserThatRemovesAccents.java
+END
+DateTimeAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/DateTimeAnalyser.java
+END
+IntegerAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/IntegerAnalyser.java
+END
+German2SnowballAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/German2SnowballAnalyser.java
+END
+EmptyAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/28480/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/EmptyAnalyser.java
+END
+LongAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/analysis/LongAnalyser.java
+END

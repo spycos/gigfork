@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31096/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow
+END
+WorkflowFormPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/WorkflowFormPersister.java
+END
+PackageItemsFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/21705/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/PackageItemsFieldProcessor.java
+END
+TypedPropertyValueGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/31096/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/TypedPropertyValueGetter.java
+END
+FormPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/FormPersister.java
+END
+ContentModelFormPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/ContentModelFormPersister.java
+END
+TaskOwnerFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22392/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/TaskOwnerFieldProcessor.java
+END
+AbstractWorkflowFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/29990/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/AbstractWorkflowFormProcessor.java
+END
+FieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/FieldType.java
+END
+TaskFormProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/31096/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/TaskFormProcessorTest.java
+END
+TaskFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/29990/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/TaskFormProcessor.java
+END
+DataKeyMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/DataKeyMatcher.java
+END
+TaskFormPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/29990/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/TaskFormPersister.java
+END
+MessageFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/22384/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/MessageFieldProcessor.java
+END
+WorkflowFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/29990/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/WorkflowFormProcessor.java
+END
+TransitionFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/TransitionFieldProcessor.java
+END
+DataKeyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/DataKeyInfo.java
+END
+WorkflowFormProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/workflow/WorkflowFormProcessorTest.java
+END

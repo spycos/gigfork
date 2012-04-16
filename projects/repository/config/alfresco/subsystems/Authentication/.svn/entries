@@ -1,0 +1,80 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-03-01T11:41:07.388532Z
+34305
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+ldap
+dir
+
+external
+dir
+
+ldap-ad
+dir
+
+common-ldap-context.xml
+file
+
+
+
+
+2012-04-02T09:57:21.000000Z
+31f55ce7b01563ba93160d14623ae45e
+2010-09-27T12:47:35.626843Z
+22725
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17704
+
+alfrescoNtlm
+dir
+
+passthru
+dir
+
+kerberos
+dir
+

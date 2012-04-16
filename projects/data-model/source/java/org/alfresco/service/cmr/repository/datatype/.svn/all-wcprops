@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/repository/datatype
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/repository/datatype/Duration.java
+END
+TypeConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/repository/datatype/TypeConversionException.java
+END
+TypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/28115/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/repository/datatype/TypeConverter.java
+END
+DefaultTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/repository/datatype/DefaultTypeConverter.java
+END
+DefaultTypeConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28282/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/repository/datatype/DefaultTypeConverterTest.java
+END

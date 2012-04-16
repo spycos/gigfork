@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote
+END
+ClientTicketHolderGlobal.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/ClientTicketHolderGlobal.java
+END
+RepoRemoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/RepoRemoteService.java
+END
+RepoRemoteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/RepoRemoteImpl.java
+END
+ClientTicketHolderThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/ClientTicketHolderThread.java
+END
+LoaderRemoteServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/LoaderRemoteServer.java
+END
+ReauthenticatingAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/ReauthenticatingAdvice.java
+END
+RepoRemoteInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/RepoRemoteInputStream.java
+END
+AVMSyncServiceRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/AVMSyncServiceRemote.java
+END
+RepoRemoteOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/RepoRemoteOutputStream.java
+END
+FileFolderRemoteServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/FileFolderRemoteServer.java
+END
+RepoRemoteTransportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/RepoRemoteTransportService.java
+END
+ClientTicketHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/ClientTicketHolder.java
+END
+AVMRemoteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/AVMRemoteImpl.java
+END
+FileFolderRemoteClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/FileFolderRemoteClient.java
+END
+AVMRemoteInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/AVMRemoteInputStream.java
+END
+AVMRemoteOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/remote/AVMRemoteOutputStream.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/jsp/content
+END
+edit-simple-workflow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/edit-simple-workflow.jsp
+END
+edit-content-properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/edit-content-properties.jsp
+END
+add-content-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/add-content-dialog.jsp
+END
+upload-new-version.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/upload-new-version.jsp
+END
+preview-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/preview-file.jsp
+END
+update-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/update-file.jsp
+END
+document-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/document-details.jsp
+END
+apply-doc-template.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/apply-doc-template.jsp
+END
+edit-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/edit-file.jsp
+END
+edit-html-inline.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/edit-html-inline.jsp
+END
+edit-link-properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/edit-link-properties.jsp
+END
+view-content-properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/view-content-properties.jsp
+END
+filelink-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/filelink-details.jsp
+END
+versioned-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/versioned-details.jsp
+END
+edit-text-inline.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/content/edit-text-inline.jsp
+END

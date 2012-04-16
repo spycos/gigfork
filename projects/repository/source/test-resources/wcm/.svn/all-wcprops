@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/17105/alfresco/HEAD/root/projects/repository/source/test-resources/wcm
+END
+wcm-test-preview-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/14642/alfresco/HEAD/root/projects/repository/source/test-resources/wcm/wcm-test-preview-context.xml
+END
+jbpm.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/17105/alfresco/HEAD/root/projects/repository/source/test-resources/wcm/jbpm.cfg.xml
+END
+small-61-items.zip
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/16858/alfresco/HEAD/root/projects/repository/source/test-resources/wcm/small-61-items.zip
+END
+wcm-jbpm-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/projects/repository/source/test-resources/wcm/wcm-jbpm-context.xml
+END

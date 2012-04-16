@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/operations
+END
+OpenFileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/29687/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/operations/OpenFileOperation.java
+END
+DeleteFileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/operations/DeleteFileOperation.java
+END
+CreateFileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/32068/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/operations/CreateFileOperation.java
+END
+CloseFileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/operations/CloseFileOperation.java
+END
+MoveFileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/operations/MoveFileOperation.java
+END
+RenameFileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/operations/RenameFileOperation.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom
+END
+Selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/Selection.js
+END
+TreeWalker.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/TreeWalker.js
+END
+Element.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/Element.js
+END
+Serializer.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/Serializer.js
+END
+ScriptLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/ScriptLoader.js
+END
+Range.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/Range.js
+END
+RangeUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/RangeUtils.js
+END
+TridentSelection.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/TridentSelection.js
+END
+DOMUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/DOMUtils.js
+END
+Sizzle.js
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/Sizzle.js
+END
+EventUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/dom/EventUtils.js
+END

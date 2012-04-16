@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/31310/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forum
+END
+DiscussableAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forum/DiscussableAspect.java
+END
+CommentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forum/CommentService.java
+END
+CommentsRollupAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28664/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forum/CommentsRollupAspect.java
+END
+CommentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forum/CommentServiceImpl.java
+END
+CommentsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/31310/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forum/CommentsTest.java
+END
+ForumPostBehaviours.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30751/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forum/ForumPostBehaviours.java
+END

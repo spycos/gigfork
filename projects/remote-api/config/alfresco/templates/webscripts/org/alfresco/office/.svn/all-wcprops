@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office
+END
+docActions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/14813/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/docActions.get.js
+END
+docActions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/docActions.get.desc.xml
+END
+searchResults.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/15674/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/searchResults.get.js
+END
+searchResults.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/searchResults.get.desc.xml
+END
+callexternal.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/callexternal.get.html.ftl
+END
+myTasksDetail.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18126/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/myTasksDetail.get.html.ftl
+END
+myTasks.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/myTasks.get.js
+END
+myTasks.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/myTasks.get.desc.xml
+END
+office.inc.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/office.inc.ftl
+END
+tags.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/tags.get.js
+END
+navigation.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/13532/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/navigation.get.js
+END
+tags.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/tags.get.desc.xml
+END
+documentDetails.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22892/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/documentDetails.get.html.ftl
+END
+navigation.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/navigation.get.desc.xml
+END
+getUsers.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/getUsers.get.js
+END
+getUsers.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/getUsers.get.desc.xml
+END
+searchResults.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/searchResults.get.html.ftl
+END
+myAlfresco.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/myAlfresco.get.desc.xml
+END
+search.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/search.get.desc.xml
+END
+myTasks.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/22892/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/myTasks.get.html.ftl
+END
+docActions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/docActions.get.json.ftl
+END
+tags.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/22892/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/tags.get.html.ftl
+END
+navigation.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/navigation.get.html.ftl
+END
+myTasksDetail.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/myTasksDetail.get.desc.xml
+END
+callexternal.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/callexternal.get.desc.xml
+END
+myAlfresco.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/22892/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/myAlfresco.get.html.ftl
+END
+search.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/22892/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/search.get.html.ftl
+END
+getUsers.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/getUsers.get.json.ftl
+END
+documentDetails.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/office/documentDetails.get.desc.xml
+END

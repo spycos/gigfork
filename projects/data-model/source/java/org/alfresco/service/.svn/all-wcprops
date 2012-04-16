@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service
+END
+PublicService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/PublicService.java
+END
+Auditable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/22209/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/Auditable.java
+END
+NotAuditable.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/NotAuditable.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/15629/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/invite
+END
+invite.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/14430/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/invite/invite.get.head.ftl
+END
+invite.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/15629/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/invite/invite.get.html.ftl
+END
+invite.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/invite/invite.get.js
+END
+invite.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/14792/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/invite/invite.get.properties
+END
+invite.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/invite/invite.get.desc.xml
+END

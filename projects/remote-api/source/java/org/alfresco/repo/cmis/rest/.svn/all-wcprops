@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/32155/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest
+END
+AlfrescoCMISExtensionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19037/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/AlfrescoCMISExtensionFactory.java
+END
+CMISTemplateResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/22906/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISTemplateResultSet.java
+END
+CMISQueryWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19579/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISQueryWebScript.java
+END
+CMISQueryReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISQueryReader.java
+END
+CMISChildrenMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISChildrenMethod.java
+END
+CMISTypeDefinitionMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISTypeDefinitionMethod.java
+END
+CMISResultSetMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22906/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISResultSetMethod.java
+END
+CMISAssocsMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISAssocsMethod.java
+END
+SetAspectsExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19433/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/SetAspectsExtension.java
+END
+CMISAclMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISAclMethod.java
+END
+CMISWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISWebScript.java
+END
+CMISAspectsMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19037/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISAspectsMethod.java
+END
+CMISScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32155/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISScript.java
+END
+CMISConstantsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISConstantsFactory.java
+END
+CMISRenditionsMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISRenditionsMethod.java
+END
+CMISPropertyValueMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19037/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/CMISPropertyValueMethod.java
+END

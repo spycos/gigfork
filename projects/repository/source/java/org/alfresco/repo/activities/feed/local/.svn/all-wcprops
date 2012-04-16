@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/feed/local
+END
+LocalFeedGridJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32755/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/feed/local/LocalFeedGridJob.java
+END
+LocalFeedTaskProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/32708/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/feed/local/LocalFeedTaskProcessor.java
+END
+LocalFeedGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32755/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/feed/local/LocalFeedGenerator.java
+END
+LocalFeedTaskSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/feed/local/LocalFeedTaskSplitter.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/3rd-party/lib/jbpm
+END
+springmodules-jbpm31.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/jbpm/springmodules-jbpm31.jar
+END
+bsh-1.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/jbpm/bsh-1.3.0.jar
+END
+jbpm-identity-3.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/3rd-party/lib/jbpm/jbpm-identity-3.3.1.jar
+END
+jbpm-jpdl-3.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/3rd-party/lib/jbpm/jbpm-jpdl-3.3.1.jar
+END

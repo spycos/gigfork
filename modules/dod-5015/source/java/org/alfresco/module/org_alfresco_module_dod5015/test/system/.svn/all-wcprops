@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/system
+END
+PerformanceDataLoadSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/system/PerformanceDataLoadSystemTest.java
+END
+DODDataLoadSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/system/DODDataLoadSystemTest.java
+END
+RecordsManagementServiceImplSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/system/RecordsManagementServiceImplSystemTest.java
+END
+NotificationServiceHelperSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/system/NotificationServiceHelperSystemTest.java
+END
+CapabilitiesSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/system/CapabilitiesSystemTest.java
+END

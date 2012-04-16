@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/29492/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/locks
+END
+AbstractLockDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29290/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/locks/AbstractLockDAOImpl.java
+END
+LockEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/locks/LockEntity.java
+END
+LockDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/locks/LockDAO.java
+END
+LockDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29492/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/locks/LockDAOTest.java
+END
+LockResourceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/locks/LockResourceEntity.java
+END
+LockDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/locks/LockDetails.java
+END

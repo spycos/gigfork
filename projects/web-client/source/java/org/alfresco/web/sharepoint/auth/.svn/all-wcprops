@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/32059/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/sharepoint/auth
+END
+BasicAuthenticationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32059/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/sharepoint/auth/BasicAuthenticationHandler.java
+END
+AbstractAuthenticationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/sharepoint/auth/AbstractAuthenticationHandler.java
+END

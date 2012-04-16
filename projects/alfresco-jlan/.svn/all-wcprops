@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan
+END
+jlan.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/jlan.properties
+END
+jlanConfigDB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/jlanConfigDB.xml
+END
+historylog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/historylog.txt
+END
+runsrvcl.bat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/32089/alfresco/HEAD/root/projects/alfresco-jlan/runsrvcl.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/.project
+END
+jlanserver.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/jlanserver.dtd
+END
+runsrvcl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/32089/alfresco/HEAD/root/projects/alfresco-jlan/runsrvcl.sh
+END
+runtests.bat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/runtests.bat
+END
+port445.reg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/port445.reg
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/.classpath
+END
+runtests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/runtests.sh
+END
+clusterTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/clusterTests.xml
+END
+runsrv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/runsrv.bat
+END
+runsrv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/runsrv.sh
+END
+jlanConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/9552/alfresco/HEAD/root/projects/alfresco-jlan/jlanConfig.xml
+END
+jlanConfigCluster.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/jlanConfigCluster.xml
+END

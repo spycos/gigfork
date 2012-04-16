@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/messages
+END
+audit-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/messages/audit-service.properties
+END
+notification-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/30332/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/messages/notification-service.properties
+END
+admin-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/messages/admin-service.properties
+END
+records-management-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/messages/records-management-service.properties
+END
+action-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/messages/action-service.properties
+END
+dod5015-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/messages/dod5015-model.properties
+END
+records-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30560/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/messages/records-model.properties
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28438/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/keystore-tests
+END
+ks-test-2.jks
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28438/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/keystore-tests/ks-test-2.jks
+END
+ks-test-3.jks
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28438/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/keystore-tests/ks-test-3.jks
+END
+ks-test-4.jks
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28438/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/keystore-tests/ks-test-4.jks
+END
+passwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28438/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/keystore-tests/passwords.txt
+END
+encryption-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28438/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/keystore-tests/encryption-test-context.xml
+END
+ks-test-1.jks
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28438/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/keystore-tests/ks-test-1.jks
+END

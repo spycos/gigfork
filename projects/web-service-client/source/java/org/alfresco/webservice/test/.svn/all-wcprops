@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28434/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test
+END
+ContentServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/ContentServiceSystemTest.java
+END
+ClassificationServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/ClassificationServiceSystemTest.java
+END
+ActionServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/ActionServiceSystemTest.java
+END
+AuthenticationServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/AuthenticationServiceSystemTest.java
+END
+RepositoryServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/RepositoryServiceSystemTest.java
+END
+AuthoringServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/28434/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/AuthoringServiceSystemTest.java
+END
+AccessControlServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/AccessControlServiceSystemTest.java
+END
+AdministrationServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/AdministrationServiceSystemTest.java
+END
+ContentUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/20796/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/ContentUtilsTest.java
+END
+DictionaryServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/DictionaryServiceSystemTest.java
+END
+TimeoutSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/TimeoutSystemTest.java
+END
+WebServiceSuiteSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/WebServiceSuiteSystemTest.java
+END
+BaseWebServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-service-client/source/java/org/alfresco/webservice/test/BaseWebServiceSystemTest.java
+END

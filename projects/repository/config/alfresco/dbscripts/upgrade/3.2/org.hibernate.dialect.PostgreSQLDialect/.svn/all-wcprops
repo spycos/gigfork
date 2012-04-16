@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.PostgreSQLDialect
+END
+remove-AVM-issuer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.PostgreSQLDialect/remove-AVM-issuer.sql
+END
+AlfrescoSchemaUpdate-3.2-ContentTables2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/18151/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.PostgreSQLDialect/AlfrescoSchemaUpdate-3.2-ContentTables2.sql
+END
+child-assoc-qname-crc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/19112/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.PostgreSQLDialect/child-assoc-qname-crc.sql
+END
+jbpm-upgrade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/19112/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.PostgreSQLDialect/jbpm-upgrade.sql
+END
+modify-AVM-mimetype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/19112/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.PostgreSQLDialect/modify-AVM-mimetype.sql
+END

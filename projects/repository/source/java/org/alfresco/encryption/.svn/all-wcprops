@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/31499/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption
+END
+EncryptionChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/31499/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/EncryptionChecker.java
+END
+reencryption_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30208/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/reencryption_model.xml
+END
+EncryptionKeysRegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30422/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/EncryptionKeysRegistryImpl.java
+END
+keystore-parameters.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30070/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/keystore-parameters.properties
+END
+EncryptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/30405/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/EncryptorTest.java
+END
+KeyStoreTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31283/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/KeyStoreTests.java
+END
+KeyStoreKeyProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/30208/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/KeyStoreKeyProviderTest.java
+END
+BootstrapReEncryptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30405/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/BootstrapReEncryptor.java
+END
+KeyStoreChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/30405/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/KeyStoreChecker.java
+END
+ReEncryptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31283/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/ReEncryptor.java
+END
+EncryptionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/30405/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/encryption/EncryptionTests.java
+END

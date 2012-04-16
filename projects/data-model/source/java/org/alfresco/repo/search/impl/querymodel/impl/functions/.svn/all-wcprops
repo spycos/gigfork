@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions
+END
+FTSPhrase.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/FTSPhrase.java
+END
+FTSPrefixTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/FTSPrefixTerm.java
+END
+GreaterThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/GreaterThan.java
+END
+FTSWildTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/FTSWildTerm.java
+END
+In.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/In.java
+END
+PropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/PropertyAccessor.java
+END
+Descendant.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/Descendant.java
+END
+FTSRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/FTSRange.java
+END
+NotEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/NotEquals.java
+END
+Score.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/Score.java
+END
+Exists.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/Exists.java
+END
+GreaterThanOrEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/GreaterThanOrEquals.java
+END
+LessThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/LessThan.java
+END
+FTSProximity.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/FTSProximity.java
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/Child.java
+END
+FTSTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/FTSTerm.java
+END
+Like.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/Like.java
+END
+Lower.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/Lower.java
+END
+Equals.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/Equals.java
+END
+Upper.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/Upper.java
+END
+FTSFuzzyTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/FTSFuzzyTerm.java
+END
+LessThanOrEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/functions/LessThanOrEquals.java
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action
+END
+CompositeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/CompositeAction.java
+END
+ActionServiceTransientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionServiceTransientException.java
+END
+ActionExecutionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/21175/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionExecutionStatus.java
+END
+CompositeActionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/CompositeActionCondition.java
+END
+ExecutionDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/22382/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ExecutionDetails.java
+END
+ActionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionList.java
+END
+ActionServiceTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionServiceTransport.java
+END
+ParameterizedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ParameterizedItem.java
+END
+ActionServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionServiceException.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/Action.java
+END
+ActionTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionTrackingService.java
+END
+ActionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionStatus.java
+END
+ExecutionSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ExecutionSummary.java
+END
+CancellableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/21340/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/CancellableAction.java
+END
+ParameterizedItemDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ParameterizedItemDefinition.java
+END
+ActionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionCondition.java
+END
+ParameterConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ParameterConstraint.java
+END
+ActionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionDefinition.java
+END
+ParameterDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ParameterDefinition.java
+END
+ActionConditionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionConditionDefinition.java
+END
+ActionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/action/ActionService.java
+END

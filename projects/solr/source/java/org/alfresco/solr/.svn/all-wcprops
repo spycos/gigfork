@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr
+END
+AlfrescoUpdateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29904/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/AlfrescoUpdateHandler.java
+END
+SolrDocumentLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/28089/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/SolrDocumentLoader.java
+END
+SolrDocumentLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/22294/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/SolrDocumentLoaderTest.java
+END
+AlfrescoSolrEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/AlfrescoSolrEventListener.java
+END
+AlfrescoSolrEventListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/AlfrescoSolrEventListenerTest.java
+END
+AlfrescoSolrDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/AlfrescoSolrDataModel.java
+END
+SolrLuceneAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/SolrLuceneAnalyser.java
+END
+AlfrescoCoreAdminHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/AlfrescoCoreAdminHandler.java
+END
+ClearLocaleSearchComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29904/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/ClearLocaleSearchComponent.java
+END
+NodeReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/NodeReport.java
+END
+SetLocaleSearchComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/29904/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/SetLocaleSearchComponent.java
+END
+AlfrescoReplicationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/AlfrescoReplicationHandler.java
+END
+AlfrescoDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/30756/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/AlfrescoDataType.java
+END
+ContextAwareQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/29904/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/ContextAwareQuery.java
+END
+AclReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/AclReport.java
+END
+PropertyDefinitionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29342/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/PropertyDefinitionWrapper.java
+END

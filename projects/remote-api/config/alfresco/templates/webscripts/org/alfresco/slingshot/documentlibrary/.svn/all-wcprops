@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary
+END
+containers.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/18117/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/containers.get.json.ftl
+END
+node.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/30664/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node.get.desc.xml
+END
+treenode.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/treenode.get.json.ftl
+END
+node-templates.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/29789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node-templates.post.desc.xml
+END
+location.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/19991/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/location.get.json.ftl
+END
+permissions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/19511/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/permissions.get.json.ftl
+END
+categorynode.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/categorynode.get.html.ftl
+END
+node-templates.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/29951/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node-templates.post.json.js
+END
+doclist.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/doclist.get.js
+END
+doclist.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/doclist.get.desc.xml
+END
+permissions.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/18910/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/permissions.post.json.ftl
+END
+container.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/14358/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/container.get.json.ftl
+END
+categorynode.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/categorynode.get.json.ftl
+END
+treenode.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/treenode.get.js
+END
+containers.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/34271/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/containers.get.js
+END
+roles.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/18910/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/roles.get.json.ftl
+END
+treenode.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/treenode.get.desc.xml
+END
+containers.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/containers.get.desc.xml
+END
+type.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/14613/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/type.post.json.ftl
+END
+location.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/location.get.js
+END
+location.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/30664/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/location.get.desc.xml
+END
+activity.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32300/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/activity.post.json.js
+END
+permissions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31571/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/permissions.get.js
+END
+permissions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/permissions.get.desc.xml
+END
+images.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/11117/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/images.get.html.ftl
+END
+permissions.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/permissions.post.desc.xml
+END
+container.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/14476/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/container.get.js
+END
+container.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/container.get.desc.xml
+END
+categorynode.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/18910/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/categorynode.get.js
+END
+aspects.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/18153/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/aspects.get.json.ftl
+END
+activity.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/9681/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/activity.post.json.ftl
+END
+categorynode.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/30664/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/categorynode.get.desc.xml
+END
+roles.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/roles.get.desc.xml
+END
+images.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/21960/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/images.get.json.ftl
+END
+type.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/type.post.desc.xml
+END
+evaluator.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29467/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/evaluator.lib.js
+END
+permissions.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/24021/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/permissions.post.json.js
+END
+parse-args.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/parse-args.lib.js
+END
+item.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/item.lib.ftl
+END
+filters.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/filters.lib.js
+END
+type.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/14613/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/type.post.json.js
+END
+aspects.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18153/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/aspects.get.js
+END
+node-templates.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/29789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node-templates.get.json.ftl
+END
+activity.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/activity.post.desc.xml
+END
+aspects.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/aspects.get.desc.xml
+END
+images.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/18163/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/images.get.js
+END
+images.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/images.get.desc.xml
+END
+node.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/18910/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node.get.json.ftl
+END
+node-templates.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/29951/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node-templates.post.json.ftl
+END
+doclist.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/9578/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/doclist.get.html.ftl
+END
+node-templates.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/29789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node-templates.get.js
+END
+treenode.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/9236/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/treenode.get.html.ftl
+END
+node-templates.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/29789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node-templates.get.desc.xml
+END
+doclist.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/doclist.get.json.ftl
+END
+node.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/documentlibrary/node.get.js
+END

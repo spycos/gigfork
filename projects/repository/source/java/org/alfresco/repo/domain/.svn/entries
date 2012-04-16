@@ -1,0 +1,224 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-13T14:21:53.975980Z
+35229
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+solr
+dir
+
+control
+dir
+
+avm
+dir
+
+propval
+dir
+
+node
+dir
+
+encoding
+dir
+
+CrcHelper.java
+file
+
+
+
+
+2012-04-02T09:56:44.000000Z
+32207e7f303cb8895fd7dd3396e89703
+2010-03-16T15:05:47.924266Z
+19312
+mrogers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4367
+
+mimetype
+dir
+
+patch
+dir
+
+locale
+dir
+
+schema
+dir
+
+hibernate
+dir
+
+qname
+dir
+
+DomainTestSuite.java
+file
+
+
+
+
+2012-04-02T09:56:44.000000Z
+f0bc16653454359efc654b9db08c3eb6
+2011-06-08T17:29:54.923605Z
+28292
+dhulley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2709
+
+PropertyValue.java
+file
+
+
+
+
+2012-04-02T09:56:44.000000Z
+e7aae5b3256cd73306ffc259ae8c3834
+2011-06-20T11:50:37.983029Z
+28480
+dhulley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37033
+
+PropertyValueTest.java
+file
+
+
+
+
+2012-04-02T09:56:44.000000Z
+7681052cf5660ca768d80cfe6b9cd36b
+2010-06-17T19:35:49.000879Z
+20693
+dhulley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3741
+
+usage
+dir
+
+activities
+dir
+
+contentdata
+dir
+
+query
+dir
+
+audit
+dir
+
+subscriptions
+dir
+
+locks
+dir
+
+permissions
+dir
+

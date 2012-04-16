@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/12788/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar
+END
+color_functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/color_functions.js
+END
+saveEventDetails.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/saveEventDetails.js
+END
+calendarUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/calendarUtil.js
+END
+editEventHandlers.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/editEventHandlers.js
+END
+initializeEventDetails.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/12788/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/initializeEventDetails.js
+END
+color_picker.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/color_picker.js
+END
+colorpicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/colorpicker.js
+END
+color.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/color.js
+END
+js_color_picker_v2.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/js_color_picker_v2.js
+END
+captureDayViewEvents.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/captureDayViewEvents.js
+END
+calendarScripts.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/calendarScripts.js
+END
+eventRetrieversDayView.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/eventRetrieversDayView.js
+END
+eventCaptureHandlers.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/eventCaptureHandlers.js
+END
+eventRetrieversMonthView.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/eventRetrieversMonthView.js
+END
+ColorPicker2.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/ColorPicker2.js
+END
+captureWeekViewEvents.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/captureWeekViewEvents.js
+END
+calendarSearch.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/calendarSearch.js
+END
+eventRetrieversWeekView.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/7546/alfresco/HEAD/root/projects/web-client/source/web/scripts/calendar/eventRetrieversWeekView.js
+END

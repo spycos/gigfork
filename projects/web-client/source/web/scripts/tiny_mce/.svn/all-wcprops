@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/license.txt
+END
+jquery.tinymce.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/jquery.tinymce.js
+END
+tiny_mce.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/tiny_mce.js
+END
+tiny_mce_popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/tiny_mce_popup.js
+END
+tiny_mce_src.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/tiny_mce_src.js
+END

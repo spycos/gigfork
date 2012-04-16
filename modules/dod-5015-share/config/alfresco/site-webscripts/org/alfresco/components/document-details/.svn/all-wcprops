@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details
+END
+dod5015-document-actions.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-actions.get.html.ftl
+END
+dod5015-document-details.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-details.lib.js
+END
+dod5015-document-references.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-references.get.html.ftl
+END
+dod5015-document-actions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-actions.get.js
+END
+dod5015-document-actions.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/16093/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-actions.get.properties
+END
+dod5015-document-actions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/14476/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-actions.get.desc.xml
+END
+dod5015-document-references.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-references.get.js
+END
+dod5015-document-references.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/alfresco-open-mirror/!svn/ver/16619/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-references.get.properties
+END
+dod5015-document-references.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/15879/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-references.get.desc.xml
+END
+dod5015-document-actions.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/16664/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-actions.get.config.xml
+END
+dod5015-document-actions.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-actions.get.head.ftl
+END
+dod5015-document-references.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/document-details/dod5015-document-references.get.head.ftl
+END

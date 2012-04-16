@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/22225/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/replication/script
+END
+ScriptReplicationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/22225/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/replication/script/ScriptReplicationService.java
+END
+test_replicationService.js
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/22225/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/replication/script/test_replicationService.js
+END
+ScriptReplicationDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/22208/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/replication/script/ScriptReplicationDefinition.java
+END

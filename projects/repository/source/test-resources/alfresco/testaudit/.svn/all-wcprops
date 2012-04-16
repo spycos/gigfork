@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit
+END
+alfresco-audit-test-alf-12638.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-alf-12638.xml
+END
+alfresco-audit-test-bad-01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18841/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-bad-01.xml
+END
+alfresco-audit-test-bad-02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18841/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-bad-02.xml
+END
+alfresco-audit-test-bad-03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18841/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-bad-03.xml
+END
+alfresco-audit-test-bad-04.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18841/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-bad-04.xml
+END
+alfresco-audit-test-bad-05.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18841/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-bad-05.xml
+END
+alfresco-audit-test-bad-06.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18841/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-bad-06.xml
+END
+alfresco-audit-test-repository.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/22560/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-repository.xml
+END
+alfresco-audit-test-authenticationservice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18841/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test-authenticationservice.xml
+END
+alfresco-audit-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22207/alfresco/HEAD/root/projects/repository/source/test-resources/alfresco/testaudit/alfresco-audit-test.xml
+END

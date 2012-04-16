@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32017/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search
+END
+CMISQueryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/CMISQueryService.java
+END
+CMISQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/CMISQueryServiceImpl.java
+END
+CMISResultSetColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/CMISResultSetColumn.java
+END
+QueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32017/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/QueryTest.java
+END
+CMISResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29606/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/CMISResultSet.java
+END
+CMISResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/CMISResultSetMetaData.java
+END
+CMISResultSetSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/CMISResultSetSelector.java
+END
+CMISResultSetRowIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/CMISResultSetRowIterator.java
+END
+CMISResultSetRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29606/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/opencmis/search/CMISResultSetRow.java
+END

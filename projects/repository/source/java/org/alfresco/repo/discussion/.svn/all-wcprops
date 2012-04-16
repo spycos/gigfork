@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32158/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/discussion
+END
+PostInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29772/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/discussion/PostInfoImpl.java
+END
+DiscussionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32158/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/discussion/DiscussionServiceImpl.java
+END
+DiscussionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/31303/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/discussion/DiscussionServiceImplTest.java
+END
+TopicInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29704/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/discussion/TopicInfoImpl.java
+END

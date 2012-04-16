@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28355/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/impl
+END
+GuestSessionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/28355/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/impl/GuestSessionFactoryImpl.java
+END
+UrlUtilsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22438/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/impl/UrlUtilsImpl.java
+END
+AlfrescoCmisIdEncoderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/22438/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/impl/AlfrescoCmisIdEncoderImpl.java
+END
+AlfrescoTicketCmisAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/28355/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/impl/AlfrescoTicketCmisAuthenticationProvider.java
+END
+AlfrescoTicketCmisAuthenticationProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/alfresco-open-mirror/!svn/ver/28355/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/impl/AlfrescoTicketCmisAuthenticationProviderTest.java
+END
+CmisSessionPoolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/28355/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/impl/CmisSessionPoolImpl.java
+END

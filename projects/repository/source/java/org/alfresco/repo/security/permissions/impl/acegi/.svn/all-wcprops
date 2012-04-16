@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi
+END
+MarkingAfterInvocationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/28734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/MarkingAfterInvocationProvider.java
+END
+ACLEntryVoterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/ACLEntryVoterException.java
+END
+ACLEntryVoter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/ACLEntryVoter.java
+END
+ACLEntryVoterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19880/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/ACLEntryVoterTest.java
+END
+AffirmativeBasedAccessDecisionManger.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/AffirmativeBasedAccessDecisionManger.java
+END
+MethodSecurityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/MethodSecurityInterceptor.java
+END
+ACLEntryAfterInvocationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/32806/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/ACLEntryAfterInvocationProvider.java
+END
+ACLEntryAfterInvocationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32806/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/ACLEntryAfterInvocationTest.java
+END
+AbstractCannedQueryPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/28737/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/AbstractCannedQueryPermissions.java
+END
+FilteringResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/FilteringResultSet.java
+END
+FilteringResultSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/19719/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/FilteringResultSetTest.java
+END
+MethodSecurityBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29252/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/MethodSecurityBean.java
+END
+WrappedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/acegi/WrappedList.java
+END

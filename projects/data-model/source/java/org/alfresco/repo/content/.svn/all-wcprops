@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/content
+END
+DataModelContentTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/20963/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/content/DataModelContentTestSuite.java
+END
+MimetypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/content/MimetypeMap.java
+END
+MimetypeMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/content/MimetypeMapTest.java
+END

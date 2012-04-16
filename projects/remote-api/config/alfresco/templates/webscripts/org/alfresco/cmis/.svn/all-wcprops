@@ -1,0 +1,701 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis
+END
+descendants.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/descendants.get.atomfeed.ftl
+END
+children.post.atomentry.201.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18897/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/children.post.atomentry.201.ftl
+END
+pwc.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.get.js
+END
+typedescendants.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/typedescendants.get.atomfeed.ftl
+END
+pwc.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.get.desc.xml
+END
+children.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/children.post.js
+END
+queries.post.cmisquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/queries.post.cmisquery.js
+END
+content.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/content.put.desc.xml
+END
+versions.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18897/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/versions.get.atomfeed.ftl
+END
+checkedout.post.atomentry.js
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/checkedout.post.atomentry.js
+END
+index.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/index.get.js
+END
+index.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/index.get.desc.xml
+END
+versions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/versions.get.js
+END
+checkedout.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18897/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/checkedout.get.atomfeed.ftl
+END
+content.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/content.get.desc.xml
+END
+checkedout.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/checkedout.get.js
+END
+item.patch.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.patch.desc.xml
+END
+queries.post.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/22906/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/queries.post.atomfeed.ftl
+END
+relationships.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationships.get.atomfeed.ftl
+END
+pwc.put.atom.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.put.atom.js
+END
+unfiled.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/unfiled.get.atomfeed.ftl
+END
+allowableactions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/allowableactions.get.js
+END
+pwc.get.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18897/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.get.atomentry.ftl
+END
+tree.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/tree.delete.desc.xml
+END
+allowableactions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/allowableactions.get.desc.xml
+END
+children.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18897/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/children.get.atomfeed.ftl
+END
+relationships.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationships.get.js
+END
+item.put.atom.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.put.atom.js
+END
+relallowableactions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18897/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relallowableactions.get.js
+END
+item.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.put.desc.xml
+END
+acl.put.js
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/acl.put.js
+END
+children.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/children.get.js
+END
+parent.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/parent.get.js
+END
+parent.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/parent.get.desc.xml
+END
+tree.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/tree.get.atomfeed.ftl
+END
+typechildren.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/typechildren.get.desc.xml
+END
+relallowableactions.get.cmisallowableactions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/18897/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relallowableactions.get.cmisallowableactions.ftl
+END
+item.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.get.desc.xml
+END
+content.put.text.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/content.put.text.ftl
+END
+query.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/22906/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/query.get.atomfeed.ftl
+END
+changes.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/changes.get.atomfeed.ftl
+END
+policies.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/policies.get.js
+END
+policies.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/policies.get.desc.xml
+END
+changes.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/changes.get.js
+END
+pwc.patch.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.patch.desc.xml
+END
+cmis.schema-desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/19698/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/cmis.schema-desc.xml
+END
+policies.post.atom.js
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19239/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/policies.post.atom.js
+END
+pwc.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.delete.js
+END
+pwc.put.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/22541/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.put.atomentry.ftl
+END
+parents.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/parents.get.desc.xml
+END
+item.patch.atom.js
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.patch.atom.js
+END
+descendants.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/descendants.delete.js
+END
+parent.get.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/parent.get.atomentry.ftl
+END
+relationship.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationship.delete.desc.xml
+END
+test.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/test.post.desc.xml
+END
+descendants.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/descendants.get.js
+END
+cmis.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/cmis.get.js
+END
+relationships.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationships.post.desc.xml
+END
+descendants.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/descendants.get.desc.xml
+END
+cmis.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/cmis.get.desc.xml
+END
+typedescendants.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/typedescendants.get.js
+END
+typedescendants.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/typedescendants.get.desc.xml
+END
+children.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/children.post.desc.xml
+END
+relationship.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationship.get.js
+END
+relationship.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationship.get.desc.xml
+END
+pwc.patch.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/22541/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.patch.atomentry.ftl
+END
+item.patch.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.patch.atomentry.ftl
+END
+versions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/versions.get.desc.xml
+END
+acl.put.cmisacl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/acl.put.cmisacl.ftl
+END
+checkedout.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/checkedout.get.desc.xml
+END
+type.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/type.get.js
+END
+tree.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/tree.delete.js
+END
+type.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/type.get.desc.xml
+END
+queries.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/queries.post.desc.xml
+END
+relationships.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationships.get.desc.xml
+END
+typechildren.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/typechildren.get.atomfeed.ftl
+END
+relallowableactions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relallowableactions.get.desc.xml
+END
+unfiled.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/unfiled.get.desc.xml
+END
+item.get.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/29279/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.get.atomentry.ftl
+END
+acl.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/acl.put.desc.xml
+END
+children.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/children.get.desc.xml
+END
+relationships.post.atom.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18897/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationships.post.atom.js
+END
+allowableactions.get.cmisallowableactions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/allowableactions.get.cmisallowableactions.ftl
+END
+typechildren.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/typechildren.get.js
+END
+relationship.get.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationship.get.atomentry.ftl
+END
+children.post.atom.js
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/children.post.atom.js
+END
+content.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/content.delete.js
+END
+item.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29279/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.get.js
+END
+content.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/content.delete.desc.xml
+END
+acl.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/acl.get.js
+END
+tree.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/tree.get.js
+END
+acl.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/acl.get.desc.xml
+END
+tree.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/tree.get.desc.xml
+END
+policies.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/19239/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/policies.get.atomfeed.ftl
+END
+query.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/query.get.js
+END
+query.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/query.get.desc.xml
+END
+parents.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/parents.get.atomfeed.ftl
+END
+pwc.patch.atom.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.patch.atom.js
+END
+changes.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/changes.get.desc.xml
+END
+type.get.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/type.get.atomentry.ftl
+END
+parents.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/parents.get.js
+END
+package-desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19729/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/package-desc.xml
+END
+pwc.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.delete.desc.xml
+END
+policies.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/policies.post.desc.xml
+END
+descendants.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/descendants.delete.desc.xml
+END
+checkedout.post.atomentry.201.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18896/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/checkedout.post.atomentry.201.ftl
+END
+cmis.get.atomsvc.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/cmis.get.atomsvc.ftl
+END
+item.put.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.put.atomentry.ftl
+END
+item.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.delete.js
+END
+item.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/item.delete.desc.xml
+END
+acl.get.cmisacl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/acl.get.cmisacl.ftl
+END
+index.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29824/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/index.get.html.ftl
+END
+pwc.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/pwc.put.desc.xml
+END
+relationship.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationship.delete.js
+END
+checkedout.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/checkedout.post.desc.xml
+END
+relationships.post.atomentry.201.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/relationships.post.atomentry.201.ftl
+END

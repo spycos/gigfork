@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/renditions
+END
+CMISRenditionServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/renditions/CMISRenditionServiceTest.java
+END
+CMISRenditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20166/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/renditions/CMISRenditionImpl.java
+END
+CMISRenditionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/20166/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/renditions/CMISRenditionServiceImpl.java
+END

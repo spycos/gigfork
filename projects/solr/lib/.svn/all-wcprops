@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/alfresco-open-mirror/!svn/ver/31161/alfresco/HEAD/root/projects/solr/lib
+END
+apache-solr-solrj-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/31161/alfresco/HEAD/root/projects/solr/lib/apache-solr-solrj-1.4.1.jar
+END
+lucene-analyzers-2.9.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/31161/alfresco/HEAD/root/projects/solr/lib/lucene-analyzers-2.9.3.jar
+END
+lucene-core-2.9.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/31161/alfresco/HEAD/root/projects/solr/lib/lucene-core-2.9.3.jar
+END
+lucene-regex-2.9.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/31161/alfresco/HEAD/root/projects/solr/lib/lucene-regex-2.9.3.jar
+END
+lucene-snowball-2.9.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/31161/alfresco/HEAD/root/projects/solr/lib/lucene-snowball-2.9.3.jar
+END
+apache-solr-core-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/29976/alfresco/HEAD/root/projects/solr/lib/apache-solr-core-1.4.1.jar
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.PostgreSQLDialect
+END
+AlfrescoSchemaUpdate-2.1-A--to--2.2-ACL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.PostgreSQLDialect/AlfrescoSchemaUpdate-2.1-A--to--2.2-ACL.sql
+END
+upgrade-0-create-missing-tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.PostgreSQLDialect/upgrade-0-create-missing-tables.sql
+END
+upgrade-from-2.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.PostgreSQLDialect/upgrade-from-2.1.sql
+END
+upgrade-from-2.2SP1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.PostgreSQLDialect/upgrade-from-2.2SP1.sql
+END
+AlfrescoSchemaUpdate-2.2-ACL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.PostgreSQLDialect/AlfrescoSchemaUpdate-2.2-ACL.sql
+END

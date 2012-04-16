@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.Dialect
+END
+AlfrescoPostCreate-JBPM-FK-indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.Dialect/AlfrescoPostCreate-JBPM-FK-indexes.sql
+END
+AlfrescoPostCreate-JBPM-Extra.sql
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/20796/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.Dialect/AlfrescoPostCreate-JBPM-Extra.sql
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/32821/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config
+END
+JndiPropertiesFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/JndiPropertiesFactoryBean.java
+END
+NonBlockingLazyInitTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32821/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/NonBlockingLazyInitTargetSource.java
+END
+SystemPropertiesFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/SystemPropertiesFactoryBean.java
+END
+JndiPropertyPlaceholderConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/32559/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/JndiPropertyPlaceholderConfigurer.java
+END
+JNDIConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/JNDIConstants.java
+END
+PathMatchingHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/PathMatchingHelper.java
+END
+JndiObjectFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/JndiObjectFactoryBean.java
+END
+SystemPropertiesSetterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/SystemPropertiesSetterBean.java
+END
+SystemPropertiesSetterBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/config/SystemPropertiesSetterBeanTest.java
+END

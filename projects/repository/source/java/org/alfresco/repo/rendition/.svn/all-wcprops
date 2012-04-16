@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition
+END
+RenditionedAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32129/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionedAspect.java
+END
+RenditionDefinitionPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionDefinitionPersister.java
+END
+MultiUserRenditionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/MultiUserRenditionTest.java
+END
+RenditionLocationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/23330/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionLocationResolver.java
+END
+RenditionLocationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20622/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionLocationImpl.java
+END
+AllRenditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/AllRenditionTests.java
+END
+RenditionServicePermissionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionServicePermissionsTest.java
+END
+CompositeRenditionDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/CompositeRenditionDefinitionImpl.java
+END
+StandardRenditionLocationResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/23330/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/StandardRenditionLocationResolverImpl.java
+END
+MockedTestServiceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/31577/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/MockedTestServiceRegistry.java
+END
+RenditionServiceIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionServiceIntegrationTest.java
+END
+RenditionLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/20622/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionLocation.java
+END
+RenditionDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/20070/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionDefinitionImpl.java
+END
+StandardRenditionLocationResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/StandardRenditionLocationResolverTest.java
+END
+RenditionDefinitionPersisterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28721/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionDefinitionPersisterImpl.java
+END
+PerformRenditionActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20945/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/PerformRenditionActionExecuter.java
+END
+renditionTestTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/renditionTestTemplate.ftl
+END
+RenditionNodeManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionNodeManagerTest.java
+END
+RenditionNodeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32866/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionNodeManager.java
+END
+RenditionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionServiceImpl.java
+END
+RenditionPreventionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionPreventionRegistry.java
+END
+RenderingEngineDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenderingEngineDefinitionImpl.java
+END
+RenditionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rendition/RenditionServiceImplTest.java
+END

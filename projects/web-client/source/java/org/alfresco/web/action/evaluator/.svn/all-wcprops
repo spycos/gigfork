@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/32106/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator
+END
+DiscussionCopyEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/DiscussionCopyEvaluator.java
+END
+ManagePermissionIsMainStoreEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/ManagePermissionIsMainStoreEvaluator.java
+END
+EditDocOnlineHttpEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditDocOnlineHttpEvaluator.java
+END
+CancelWorkflowEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CancelWorkflowEvaluator.java
+END
+UnlockDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/UnlockDocEvaluator.java
+END
+WCMWorkflowEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMWorkflowEvaluator.java
+END
+CreateForumNodeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CreateForumNodeEvaluator.java
+END
+CreateWebFormEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CreateWebFormEvaluator.java
+END
+ForumsCheckinDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/ForumsCheckinDocEvaluator.java
+END
+CreateFormEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CreateFormEvaluator.java
+END
+DeleteDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/DeleteDocEvaluator.java
+END
+StartWorkflowEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/StartWorkflowEvaluator.java
+END
+UnlockedDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/UnlockedDocEvaluator.java
+END
+CheckoutDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CheckoutDocEvaluator.java
+END
+RejectNonDraftDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/RejectNonDraftDocEvaluator.java
+END
+DiscussionCutEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/DiscussionCutEvaluator.java
+END
+WCMLockEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMLockEvaluator.java
+END
+CancelCheckoutDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CancelCheckoutDocEvaluator.java
+END
+ApproveDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32106/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/ApproveDocEvaluator.java
+END
+WCMUnlockEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMUnlockEvaluator.java
+END
+EditDocWebDavEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditDocWebDavEvaluator.java
+END
+UploadNewVersionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/UploadNewVersionEvaluator.java
+END
+NewEditionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/NewEditionEvaluator.java
+END
+BaseActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/BaseActionEvaluator.java
+END
+WCMConflictEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMConflictEvaluator.java
+END
+WCMWorkflowDeletedEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMWorkflowDeletedEvaluator.java
+END
+EditDocOnlineWebDavEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditDocOnlineWebDavEvaluator.java
+END
+TakeOwnershipDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/TakeOwnershipDocEvaluator.java
+END
+WCMDeleteLayeredFolderEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMDeleteLayeredFolderEvaluator.java
+END
+MultilingualDetailsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/MultilingualDetailsEvaluator.java
+END
+WCMContentManagerEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMContentManagerEvaluator.java
+END
+EditDocOfflineEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditDocOfflineEvaluator.java
+END
+DoneEditingDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/DoneEditingDocEvaluator.java
+END
+CancelEditingDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CancelEditingDocEvaluator.java
+END
+EditDocCIFSEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditDocCIFSEvaluator.java
+END
+RegenerateRenditionsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/22904/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/RegenerateRenditionsEvaluator.java
+END
+ShortcutNodeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/ShortcutNodeEvaluator.java
+END
+DiscussNodeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/DiscussNodeEvaluator.java
+END
+ViewPermissionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/ViewPermissionEvaluator.java
+END
+WCMWorkflowLayeredFolderEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMWorkflowLayeredFolderEvaluator.java
+END
+EditDocOnlineCIFSEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditDocOnlineCIFSEvaluator.java
+END
+CreateWebProjectEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CreateWebProjectEvaluator.java
+END
+WCMLayeredFolderEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMLayeredFolderEvaluator.java
+END
+GroupActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/GroupActionEvaluator.java
+END
+CheckinDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CheckinDocEvaluator.java
+END
+CreateProjectEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CreateProjectEvaluator.java
+END
+ApproveNonDraftDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/ApproveNonDraftDocEvaluator.java
+END
+CutNodeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CutNodeEvaluator.java
+END
+WCMStagingReadonlyEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMStagingReadonlyEvaluator.java
+END
+RejectDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/RejectDocEvaluator.java
+END
+MakeMultilingualEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/MakeMultilingualEvaluator.java
+END
+WCMStagingOnlyEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/WCMStagingOnlyEvaluator.java
+END
+EditWebFormEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditWebFormEvaluator.java
+END
+AddTranslationEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/AddTranslationEvaluator.java
+END
+UpdateDocEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/UpdateDocEvaluator.java
+END
+EditFormEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditFormEvaluator.java
+END
+EditDocHttpEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/EditDocHttpEvaluator.java
+END
+CreateForumMLNodeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/action/evaluator/CreateForumMLNodeEvaluator.java
+END

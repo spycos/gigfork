@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions
+END
+transform-image.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/transform-image.jsp
+END
+specialise-type.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/specialise-type.jsp
+END
+actions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/actions.jsp
+END
+simple-workflow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/simple-workflow.jsp
+END
+script.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/script.jsp
+END
+add-features.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/add-features.jsp
+END
+move.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/move.jsp
+END
+link-category.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/link-category.jsp
+END
+remove-features.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/remove-features.jsp
+END
+copy-to-web-project.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/copy-to-web-project.jsp
+END
+import.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/import.jsp
+END
+copy.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/copy.jsp
+END
+transform.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/transform.jsp
+END
+check-in.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/check-in.jsp
+END
+mail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/mail.jsp
+END
+check-out.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/actions/check-out.jsp
+END

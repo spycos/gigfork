@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content
+END
+StreamACP.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content/StreamACP.java
+END
+MimetypeDescriptionsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content/MimetypeDescriptionsGet.java
+END
+StreamJMXDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22849/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content/StreamJMXDump.java
+END
+ContentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content/ContentSet.java
+END
+StreamContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content/StreamContent.java
+END
+ContentGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20125/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content/ContentGet.java
+END
+MimetypesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content/MimetypesGet.java
+END
+ContentDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/content/ContentDelete.java
+END

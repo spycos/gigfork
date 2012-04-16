@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom
+END
+Selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/Selection.js
+END
+Element.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/Element.js
+END
+Serializer.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/Serializer.js
+END
+ScriptLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/ScriptLoader.js
+END
+Range.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/Range.js
+END
+XMLWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/XMLWriter.js
+END
+TridentSelection.js
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/TridentSelection.js
+END
+DOMUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/DOMUtils.js
+END
+Sizzle.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/Sizzle.js
+END
+Event.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/Event.js
+END
+EventUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/EventUtils.js
+END
+StringWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/dom/StringWriter.js
+END

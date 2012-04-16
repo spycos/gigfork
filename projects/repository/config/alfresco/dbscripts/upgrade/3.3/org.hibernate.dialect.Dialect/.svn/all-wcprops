@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.Dialect
+END
+fix-Repo-seqs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.Dialect/fix-Repo-seqs.sql
+END
+node-prop-serializable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.Dialect/node-prop-serializable.sql
+END
+remove-VersionCount.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/18778/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.Dialect/remove-VersionCount.sql
+END
+fix-AVM-seqs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.Dialect/fix-AVM-seqs.sql
+END

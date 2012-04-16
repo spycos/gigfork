@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax
+END
+NavigatorPluginBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/NavigatorPluginBean.java
+END
+PortletActionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/PortletActionsBean.java
+END
+ContentUpdateBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/ContentUpdateBean.java
+END
+PickerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24211/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/PickerBean.java
+END
+TaskInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/TaskInfoBean.java
+END
+CategoryBrowserPluginBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/CategoryBrowserPluginBean.java
+END
+NodeInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/NodeInfoBean.java
+END
+FileUploadBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19850/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/FileUploadBean.java
+END
+MySpacesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/MySpacesBean.java
+END
+PresenceProxyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ajax/PresenceProxyBean.java
+END

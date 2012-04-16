@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/search
+END
+search.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29530/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/search/search.get.desc.xml
+END
+search.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/search/search.get.json.ftl
+END
+search.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/32742/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/search/search.lib.js
+END
+search.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/29530/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/search/search.get.config.xml
+END
+search.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/9904/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/search/search.get.html.ftl
+END
+search.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/22694/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/search/search.get.js
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit
+END
+DisableAuditableBehaviourInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/32047/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/DisableAuditableBehaviourInterceptor.java
+END
+AuditBootstrapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/23187/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditBootstrapTest.java
+END
+BeanIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/BeanIdentifier.java
+END
+AuditServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/22980/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditServiceImpl.java
+END
+AuditComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditComponentImpl.java
+END
+AuditFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditFilter.java
+END
+AuditTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28576/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditTestSuite.java
+END
+PropertyAuditFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/PropertyAuditFilter.java
+END
+PropertyAuditFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/PropertyAuditFilterTest.java
+END
+AuditableAnnotationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22209/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditableAnnotationTest.java
+END
+AuditException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditException.java
+END
+AuditMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditMethodInterceptor.java
+END
+AuditComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditComponent.java
+END
+AuditComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditComponentTest.java
+END
+AuditableAspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32060/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AuditableAspectTest.java
+END
+BeanIdentifierImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/BeanIdentifierImpl.java
+END
+AnnotationTestInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/AnnotationTestInterface.java
+END

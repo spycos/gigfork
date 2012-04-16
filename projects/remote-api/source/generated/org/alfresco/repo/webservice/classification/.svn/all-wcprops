@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/classification
+END
+CategoriesResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/classification/CategoriesResult.java
+END
+ClassificationServiceSoapPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/classification/ClassificationServiceSoapPort.java
+END
+ClassificationFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/classification/ClassificationFault.java
+END
+AppliedCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/classification/AppliedCategory.java
+END
+deploy.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/generated/org/alfresco/repo/webservice/classification/deploy.wsdd
+END

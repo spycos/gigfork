@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/solr/source/solr/instance/docs
+END
+optimize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/solr/source/solr/instance/docs/optimize.xml
+END
+test-1-add.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/solr/source/solr/instance/docs/test-1-add.xml
+END
+commit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/solr/source/solr/instance/docs/commit.xml
+END
+test-1-delete.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/solr/source/solr/instance/docs/test-1-delete.xml
+END

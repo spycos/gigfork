@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/repository
+END
+AssociationQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/repository/AssociationQuery.java
+END
+ChildAssociationQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/repository/ChildAssociationQuery.java
+END
+RepositoryQuerySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/repository/RepositoryQuerySession.java
+END
+SearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19416/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/repository/SearchQuery.java
+END
+ParentAssociationQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/repository/ParentAssociationQuery.java
+END
+RepositoryWebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webservice/repository/RepositoryWebService.java
+END

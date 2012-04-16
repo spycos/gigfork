@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/34812/alfresco/HEAD/root/projects/repository/config/alfresco/extension
+END
+lifecycle-messages.properties.sample
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/config/alfresco/extension/lifecycle-messages.properties.sample
+END
+language-specific-index-and-search-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18133/alfresco/HEAD/root/projects/repository/config/alfresco/extension/language-specific-index-and-search-context.xml.sample
+END
+content-expiration-debug-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/6692/alfresco/HEAD/root/projects/repository/config/alfresco/extension/content-expiration-debug-context.xml.sample
+END
+activiti-adhoc-timer.bpmn20.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/config/alfresco/extension/activiti-adhoc-timer.bpmn20.xml.sample
+END
+custom-metadata-extrators-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/34749/alfresco/HEAD/root/projects/repository/config/alfresco/extension/custom-metadata-extrators-context.xml.sample
+END
+lifecycle-process.bpmn20.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/config/alfresco/extension/lifecycle-process.bpmn20.xml.sample
+END
+video-thumbnail-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/33799/alfresco/HEAD/root/projects/repository/config/alfresco/extension/video-thumbnail-context.xml.sample
+END
+example-model-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/repository/config/alfresco/extension/example-model-context.xml.sample
+END
+exampleModel.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/22846/alfresco/HEAD/root/projects/repository/config/alfresco/extension/exampleModel.xml.sample
+END
+ghostscript-pdf-rendering-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/34812/alfresco/HEAD/root/projects/repository/config/alfresco/extension/ghostscript-pdf-rendering-context.xml.sample
+END
+bm-remote-loader-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/config/alfresco/extension/bm-remote-loader-context.xml.sample
+END
+lifecycleModel.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/17296/alfresco/HEAD/root/projects/repository/config/alfresco/extension/lifecycleModel.xml.sample
+END
+caching-content-store-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31034/alfresco/HEAD/root/projects/repository/config/alfresco/extension/caching-content-store-context.xml.sample
+END
+unsecured-public-services-security-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/16895/alfresco/HEAD/root/projects/repository/config/alfresco/extension/unsecured-public-services-security-context.xml.sample
+END
+wcm-xml-metadata-extracter-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/20000/alfresco/HEAD/root/projects/repository/config/alfresco/extension/wcm-xml-metadata-extracter-context.xml.sample
+END
+lifecycle-workflow-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/config/alfresco/extension/lifecycle-workflow-context.xml.sample
+END
+index-tracking-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/7369/alfresco/HEAD/root/projects/repository/config/alfresco/extension/index-tracking-context.xml.sample
+END
+benchmark-override-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/12484/alfresco/HEAD/root/projects/repository/config/alfresco/extension/benchmark-override-context.xml.sample
+END
+custom-model-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/extension/custom-model-context.xml.sample
+END
+xpdf-transform-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/config/alfresco/extension/xpdf-transform-context.xml.sample
+END
+pdfminer-transform-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/config/alfresco/extension/pdfminer-transform-context.xml.sample
+END
+activiti-adhoc-timer-workflow-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/config/alfresco/extension/activiti-adhoc-timer-workflow-context.xml.sample
+END
+asynchronous-avm-indexing-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/6736/alfresco/HEAD/root/projects/repository/config/alfresco/extension/asynchronous-avm-indexing-context.xml.sample
+END
+war-deployers-jboss-beans.xml.fragment.sample
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/config/alfresco/extension/war-deployers-jboss-beans.xml.fragment.sample
+END
+lifecycle_processdefinition.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22974/alfresco/HEAD/root/projects/repository/config/alfresco/extension/lifecycle_processdefinition.xml.sample
+END
+activiti-adhoc-timer-messages.properties.sample
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/config/alfresco/extension/activiti-adhoc-timer-messages.properties.sample
+END
+ehcache-custom.xml.sample.cluster
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/extension/ehcache-custom.xml.sample.cluster
+END
+replicating-content-services-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/31997/alfresco/HEAD/root/projects/repository/config/alfresco/extension/replicating-content-services-context.xml.sample
+END
+disabled-avm-indexing-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/5716/alfresco/HEAD/root/projects/repository/config/alfresco/extension/disabled-avm-indexing-context.xml.sample
+END
+scheduled-action-services-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30551/alfresco/HEAD/root/projects/repository/config/alfresco/extension/scheduled-action-services-context.xml.sample
+END
+openoffice-text-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/config/alfresco/extension/openoffice-text-context.xml.sample
+END
+deployment-attempt-cleaner-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/14798/alfresco/HEAD/root/projects/repository/config/alfresco/extension/deployment-attempt-cleaner-context.xml.sample
+END
+remote-openoffice-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/10613/alfresco/HEAD/root/projects/repository/config/alfresco/extension/remote-openoffice-context.xml.sample
+END
+customModel.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/extension/customModel.xml.sample
+END
+video-transformation-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33799/alfresco/HEAD/root/projects/repository/config/alfresco/extension/video-transformation-context.xml.sample
+END

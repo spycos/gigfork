@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28404/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata
+END
+dod5015-edit-metadata-mgr.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/15323/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/dod5015-edit-metadata-mgr.get.desc.xml
+END
+dod5015-edit-metadata-mgr.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/15674/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/dod5015-edit-metadata-mgr.get.html.ftl
+END
+dod5015-edit-metadata-mgr.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/28404/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/dod5015-edit-metadata-mgr.get.js
+END
+dod5015-edit-metadata-mgr.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/15323/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/dod5015-edit-metadata-mgr.get.properties
+END

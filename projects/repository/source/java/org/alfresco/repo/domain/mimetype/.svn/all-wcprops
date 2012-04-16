@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/mimetype
+END
+AbstractMimetypeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/mimetype/AbstractMimetypeDAOImpl.java
+END
+MimetypeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/mimetype/MimetypeEntity.java
+END
+MimetypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/mimetype/MimetypeDAO.java
+END
+MimetypeDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/mimetype/MimetypeDAOTest.java
+END

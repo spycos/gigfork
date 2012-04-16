@@ -1,0 +1,2789 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages
+END
+forum-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/messages/forum-model.properties
+END
+content-filter-languages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-filter-languages_fr.properties
+END
+form-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/form-service_es.properties
+END
+publishing-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-model_es.properties
+END
+bootstrap-spaces.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-spaces.properties
+END
+activities-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activities-service_es.properties
+END
+email-server-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-server-model.properties
+END
+bootstrap-readme-template_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-readme-template_ja.properties
+END
+repoadmin-interpreter-help_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/repoadmin-interpreter-help_fr.properties
+END
+notification-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/notification-service_de.properties
+END
+bootstrap-example-javascripts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-example-javascripts.properties
+END
+wcm-services_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcm-services_es.properties
+END
+copy-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/copy-service_fr.properties
+END
+template-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/template-service_es.properties
+END
+form-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/22392/alfresco/HEAD/root/projects/repository/config/alfresco/messages/form-service.properties
+END
+rule-config_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rule-config_fr.properties
+END
+discussion-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/discussion-messages_ja.properties
+END
+bootstrap-imapScripts_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-imapScripts_nl.properties
+END
+site-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28443/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-service.properties
+END
+bootstrap-javascripts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-javascripts.properties
+END
+activity-list.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activity-list.properties
+END
+patch-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/patch-service_de.properties
+END
+bootstrap-tutorial_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-tutorial_nl.properties
+END
+transfer-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-service_es.properties
+END
+publishing-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31574/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-service_de.properties
+END
+slingshot.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/slingshot.properties
+END
+action-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/21100/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-service.properties
+END
+action-config_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-config_it.properties
+END
+bpm-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bpm-messages_nl.properties
+END
+lock-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/lock-service_es.properties
+END
+imap-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/repository/config/alfresco/messages/imap-service_it.properties
+END
+bootstrap-templates_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-templates_de.properties
+END
+content-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-service_ja.properties
+END
+slingshot_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/slingshot_ja.properties
+END
+schema-update_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/schema-update_de.properties
+END
+form-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/form-service_fr.properties
+END
+publishing-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-model_fr.properties
+END
+activities-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activities-service_fr.properties
+END
+wdr-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wdr-messages_nl.properties
+END
+tenant-interpreter-help_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/tenant-interpreter-help_ja.properties
+END
+subscription-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32902/alfresco/HEAD/root/projects/repository/config/alfresco/messages/subscription-service_de.properties
+END
+jbpm-engine-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/jbpm-engine-messages_it.properties
+END
+wcmapp-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcmapp-model_de.properties
+END
+wcm-services_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcm-services_fr.properties
+END
+template-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/template-service_fr.properties
+END
+bootstrap-imapScripts_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-imapScripts_es.properties
+END
+workflow-package-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-package-messages_nl.properties
+END
+bootstrap-spaces_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32754/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-spaces_de.properties
+END
+email-server-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-server-model_de.properties
+END
+replication_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/33019/alfresco/HEAD/root/projects/repository/config/alfresco/messages/replication_nl.properties
+END
+module-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/module-messages_de.properties
+END
+tenant-interpreter-help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/tenant-interpreter-help.txt
+END
+system-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-messages_ja.properties
+END
+permissions-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/permissions-service_it.properties
+END
+bootstrap-tutorial_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-tutorial_es.properties
+END
+period-provider_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/period-provider_it.properties
+END
+initiate-inplace_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/messages/initiate-inplace_nl.properties
+END
+transfer-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31533/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-service_fr.properties
+END
+bpm-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bpm-messages_es.properties
+END
+site-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-model_ja.properties
+END
+activiti-engine-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activiti-engine-messages_nl.properties
+END
+lock-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/lock-service_fr.properties
+END
+activity-list_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activity-list_ja.properties
+END
+content-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-model_de.properties
+END
+bootstrap-webScriptsExtensions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScriptsExtensions.properties
+END
+notification-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/notification-service_it.properties
+END
+lock-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/22556/alfresco/HEAD/root/projects/repository/config/alfresco/messages/lock-service.properties
+END
+wdr-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31467/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wdr-messages_es.properties
+END
+bootstrap-webScripts_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScripts_nl.properties
+END
+patch-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/patch-service_it.properties
+END
+site-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-service_nl.properties
+END
+templates-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/messages/templates-messages_nl.properties
+END
+publishing-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31539/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-service_it.properties
+END
+workflow-package-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-package-messages_es.properties
+END
+avm-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31138/alfresco/HEAD/root/projects/repository/config/alfresco/messages/avm-messages_de.properties
+END
+bootstrap-imapScripts_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-imapScripts_fr.properties
+END
+replication_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/33011/alfresco/HEAD/root/projects/repository/config/alfresco/messages/replication_es.properties
+END
+ui-inplace_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/ui-inplace_ja.properties
+END
+wdr-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wdr-messages.properties
+END
+coci-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/coci-service_nl.properties
+END
+bootstrap-templates_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/31849/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-templates_it.properties
+END
+bootstrap-tutorial_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-tutorial_fr.properties
+END
+initiate-inplace_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/projects/repository/config/alfresco/messages/initiate-inplace_es.properties
+END
+webdav-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/webdav-messages_nl.properties
+END
+bpm-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bpm-messages_fr.properties
+END
+activiti-engine-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31467/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activiti-engine-messages_es.properties
+END
+bootstrap-javascripts_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-javascripts_de.properties
+END
+schema-update_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/schema-update_it.properties
+END
+version-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/version-service_nl.properties
+END
+subscription-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/subscription-service_it.properties
+END
+wcmapp-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcmapp-model_it.properties
+END
+email-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-service.properties
+END
+email-server-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-server-model_it.properties
+END
+bootstrap-spaces_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32793/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-spaces_it.properties
+END
+module-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/module-messages_it.properties
+END
+bootstrap-example-javascripts_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-example-javascripts_nl.properties
+END
+bootstrap-webScripts_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScripts_es.properties
+END
+rendition-config_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rendition-config_nl.properties
+END
+repoadmin-interpreter-help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/repoadmin-interpreter-help.txt
+END
+wdr-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wdr-messages_fr.properties
+END
+site-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-service_es.properties
+END
+application-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/application-model_nl.properties
+END
+templates-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/repository/config/alfresco/messages/templates-messages_es.properties
+END
+transfer-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-model_de.properties
+END
+system-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-model_ja.properties
+END
+patch-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/patch-service.properties
+END
+workflow-package-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-package-messages_fr.properties
+END
+replication_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/33012/alfresco/HEAD/root/projects/repository/config/alfresco/messages/replication_fr.properties
+END
+coci-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/coci-service_es.properties
+END
+bootstrap-content-template-examples_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-content-template-examples_nl.properties
+END
+content-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-model_it.properties
+END
+webdav-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/webdav-messages_es.properties
+END
+repoadmin-interpreter-help.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/repoadmin-interpreter-help.properties
+END
+initiate-inplace_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/projects/repository/config/alfresco/messages/initiate-inplace_fr.properties
+END
+content-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-model.properties
+END
+data-list-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/data-list-model_nl.properties
+END
+workflow-interpreter-help_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-interpreter-help_de.properties
+END
+version-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/version-service_es.properties
+END
+activiti-engine-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activiti-engine-messages_fr.properties
+END
+categories_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/categories_nl.properties
+END
+bootstrap-example-javascripts_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-example-javascripts_es.properties
+END
+avm-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31213/alfresco/HEAD/root/projects/repository/config/alfresco/messages/avm-messages_it.properties
+END
+action-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-service_ja.properties
+END
+rendition-config_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rendition-config_es.properties
+END
+bootstrap-webScripts_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32608/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScripts_fr.properties
+END
+avm-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/30694/alfresco/HEAD/root/projects/repository/config/alfresco/messages/avm-messages.properties
+END
+application-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/application-model_es.properties
+END
+bootstrap-readme-template_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-readme-template_de.properties
+END
+system-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-messages.properties
+END
+site-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-service_fr.properties
+END
+templates-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/repository/config/alfresco/messages/templates-messages_fr.properties
+END
+bootstrap-webScriptsExtensions_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScriptsExtensions_ja.properties
+END
+invitation-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/invitation-service_ja.properties
+END
+email-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-service_ja.properties
+END
+bootstrap-javascripts_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-javascripts_it.properties
+END
+discussion-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/discussion-messages_de.properties
+END
+forum-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/forum-model_ja.properties
+END
+application-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/messages/application-model.properties
+END
+bootstrap-content-template-examples_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-content-template-examples_es.properties
+END
+publishing-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31368/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-service.properties
+END
+coci-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/coci-service_fr.properties
+END
+webdav-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/webdav-messages_fr.properties
+END
+data-list-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/data-list-model_es.properties
+END
+action-config_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-config_nl.properties
+END
+version-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/version-service_fr.properties
+END
+rule-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/19468/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rule-config.properties
+END
+content-filter-languages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-filter-languages_ja.properties
+END
+categories_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/messages/categories_es.properties
+END
+imap-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/imap-service_nl.properties
+END
+transfer-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-model_it.properties
+END
+repoadmin-interpreter-help_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/repoadmin-interpreter-help_ja.properties
+END
+content-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-service_de.properties
+END
+subscription-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28883/alfresco/HEAD/root/projects/repository/config/alfresco/messages/subscription-service.properties
+END
+slingshot_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/slingshot_de.properties
+END
+copy-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/copy-service_ja.properties
+END
+rule-config_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rule-config_ja.properties
+END
+bootstrap-example-javascripts_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-example-javascripts_fr.properties
+END
+rendition-config_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rendition-config_fr.properties
+END
+tenant-interpreter-help_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/tenant-interpreter-help_de.properties
+END
+application-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/application-model_fr.properties
+END
+jbpm-engine-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/jbpm-engine-messages_nl.properties
+END
+workflow-interpreter-help_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-interpreter-help_it.properties
+END
+system-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-messages_de.properties
+END
+bootstrap-content-template-examples_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-content-template-examples_fr.properties
+END
+permissions-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/permissions-service_nl.properties
+END
+period-provider_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/period-provider_nl.properties
+END
+action-config_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-config_es.properties
+END
+data-list-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/data-list-model_fr.properties
+END
+site-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-model_de.properties
+END
+coci-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/21100/alfresco/HEAD/root/projects/repository/config/alfresco/messages/coci-service.properties
+END
+form-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/form-service_ja.properties
+END
+imap-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32542/alfresco/HEAD/root/projects/repository/config/alfresco/messages/imap-service_es.properties
+END
+publishing-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-model_ja.properties
+END
+activities-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activities-service_ja.properties
+END
+categories_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/categories_fr.properties
+END
+notification-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/notification-service_nl.properties
+END
+bootstrap-readme-template_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-readme-template_it.properties
+END
+activity-list_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activity-list_de.properties
+END
+wcm-services_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcm-services_ja.properties
+END
+template-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/template-service_ja.properties
+END
+workflow-interpreter-help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28578/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-interpreter-help.txt
+END
+discussion-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/discussion-messages_it.properties
+END
+patch-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/patch-service_nl.properties
+END
+jbpm-engine-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/jbpm-engine-messages_es.properties
+END
+discussion-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/13915/alfresco/HEAD/root/projects/repository/config/alfresco/messages/discussion-messages.properties
+END
+publishing-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-service_nl.properties
+END
+transfer-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-service_ja.properties
+END
+ui-inplace_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/31338/alfresco/HEAD/root/projects/repository/config/alfresco/messages/ui-inplace_de.properties
+END
+permissions-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/permissions-service_es.properties
+END
+bootstrap-webScripts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScripts.properties
+END
+lock-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/lock-service_ja.properties
+END
+period-provider_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/period-provider_es.properties
+END
+bootstrap-templates_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-templates_nl.properties
+END
+content-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-service_it.properties
+END
+slingshot_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/slingshot_it.properties
+END
+action-config_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-config_fr.properties
+END
+content-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-service.properties
+END
+schema-update_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/schema-update_nl.properties
+END
+subscription-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/subscription-service_nl.properties
+END
+imap-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/imap-service_fr.properties
+END
+notification-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/notification-service_es.properties
+END
+tenant-interpreter-help_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/tenant-interpreter-help_it.properties
+END
+wcmapp-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcmapp-model_nl.properties
+END
+transfer-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-model.properties
+END
+bootstrap-spaces_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32794/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-spaces_nl.properties
+END
+email-server-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-server-model_nl.properties
+END
+bootstrap-imapScripts_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-imapScripts_ja.properties
+END
+module-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/module-messages_nl.properties
+END
+patch-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/patch-service_es.properties
+END
+system-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-messages_it.properties
+END
+jbpm-engine-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/jbpm-engine-messages_fr.properties
+END
+bootstrap-tutorial_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-tutorial_ja.properties
+END
+publishing-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31467/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-service_es.properties
+END
+system-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-model_de.properties
+END
+bpm-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bpm-messages_ja.properties
+END
+site-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-model_it.properties
+END
+permissions-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/permissions-service_fr.properties
+END
+bootstrap-templates_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-templates_es.properties
+END
+period-provider_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/period-provider_fr.properties
+END
+activity-list_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activity-list_it.properties
+END
+content-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-model_nl.properties
+END
+schema-update_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/schema-update_es.properties
+END
+subscription-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/subscription-service_es.properties
+END
+wdr-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wdr-messages_ja.properties
+END
+notification-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/notification-service_fr.properties
+END
+wcmapp-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcmapp-model_es.properties
+END
+bootstrap-spaces_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32754/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-spaces_es.properties
+END
+data-list-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28405/alfresco/HEAD/root/projects/repository/config/alfresco/messages/data-list-model.properties
+END
+email-server-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-server-model_es.properties
+END
+avm-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/messages/avm-messages_nl.properties
+END
+module-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/module-messages_es.properties
+END
+workflow-package-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-package-messages_ja.properties
+END
+ui-inplace_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/projects/repository/config/alfresco/messages/ui-inplace_it.properties
+END
+replication_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/33018/alfresco/HEAD/root/projects/repository/config/alfresco/messages/replication_ja.properties
+END
+action-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-service_de.properties
+END
+patch-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/patch-service_fr.properties
+END
+bootstrap-webScriptsExtensions_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScriptsExtensions_de.properties
+END
+publishing-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31533/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-service_fr.properties
+END
+initiate-inplace_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/initiate-inplace_ja.properties
+END
+invitation-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/invitation-service_de.properties
+END
+bootstrap-javascripts_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-javascripts_nl.properties
+END
+email-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-service_de.properties
+END
+activiti-engine-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activiti-engine-messages_ja.properties
+END
+forum-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/forum-model_de.properties
+END
+content-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-model_es.properties
+END
+bootstrap-templates_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-templates_fr.properties
+END
+schema-update_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/schema-update_fr.properties
+END
+template-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/5085/alfresco/HEAD/root/projects/repository/config/alfresco/messages/template-service.properties
+END
+subscription-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/subscription-service_fr.properties
+END
+content-filter-languages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-filter-languages_de.properties
+END
+bootstrap-webScripts_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScripts_ja.properties
+END
+transfer-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-model_nl.properties
+END
+wcmapp-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcmapp-model_fr.properties
+END
+site-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-service_ja.properties
+END
+templates-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/templates-messages_ja.properties
+END
+repoadmin-interpreter-help_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/repoadmin-interpreter-help_de.properties
+END
+system-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-model_it.properties
+END
+initiate-inplace.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/config/alfresco/messages/initiate-inplace.properties
+END
+avm-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31134/alfresco/HEAD/root/projects/repository/config/alfresco/messages/avm-messages_es.properties
+END
+email-server-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-server-model_fr.properties
+END
+copy-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/copy-service_de.properties
+END
+action-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-config.properties
+END
+bootstrap-spaces_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-spaces_fr.properties
+END
+module-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/module-messages_fr.properties
+END
+rule-config_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rule-config_de.properties
+END
+coci-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/coci-service_ja.properties
+END
+categories.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/messages/categories.properties
+END
+webdav-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/webdav-messages_ja.properties
+END
+workflow-interpreter-help_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-interpreter-help_nl.properties
+END
+bootstrap-javascripts_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-javascripts_es.properties
+END
+version-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/version-service_ja.properties
+END
+content-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-model_fr.properties
+END
+jbpm-engine-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/config/alfresco/messages/jbpm-engine-messages.properties
+END
+site-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-model.properties
+END
+bootstrap-example-javascripts_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-example-javascripts_ja.properties
+END
+action-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28137/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-service_it.properties
+END
+rendition-config_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rendition-config_ja.properties
+END
+form-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/form-service_de.properties
+END
+bootstrap-imapScripts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-imapScripts.properties
+END
+transfer-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/31467/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-model_es.properties
+END
+bootstrap-content-template-examples.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-content-template-examples.properties
+END
+activities-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activities-service_de.properties
+END
+bootstrap-readme-template_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-readme-template_nl.properties
+END
+publishing-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-model_de.properties
+END
+application-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/application-model_ja.properties
+END
+bootstrap-webScriptsExtensions_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScriptsExtensions_it.properties
+END
+invitation-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/invitation-service_it.properties
+END
+avm-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31213/alfresco/HEAD/root/projects/repository/config/alfresco/messages/avm-messages_fr.properties
+END
+wcm-services_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcm-services_de.properties
+END
+email-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-service_it.properties
+END
+discussion-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/discussion-messages_nl.properties
+END
+template-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/template-service_de.properties
+END
+forum-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/forum-model_it.properties
+END
+bootstrap-content-template-examples_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-content-template-examples_ja.properties
+END
+activiti-engine-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30019/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activiti-engine-messages.properties
+END
+workflow-interpreter-help_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-interpreter-help_es.properties
+END
+data-list-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/repository/config/alfresco/messages/data-list-model_ja.properties
+END
+transfer-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-service_de.properties
+END
+bootstrap-javascripts_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-javascripts_fr.properties
+END
+content-filter-languages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-filter-languages_it.properties
+END
+lock-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/lock-service_de.properties
+END
+categories_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/categories_ja.properties
+END
+content-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-service_nl.properties
+END
+repoadmin-interpreter-help_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/repoadmin-interpreter-help_it.properties
+END
+workflow-interpreter-help.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-interpreter-help.properties
+END
+slingshot_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/slingshot_nl.properties
+END
+copy-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/copy-service_it.properties
+END
+rule-config_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rule-config_it.properties
+END
+copy-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/messages/copy-service.properties
+END
+bootstrap-readme-template_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-readme-template_es.properties
+END
+replication.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/32880/alfresco/HEAD/root/projects/repository/config/alfresco/messages/replication.properties
+END
+tenant-interpreter-help_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/tenant-interpreter-help_nl.properties
+END
+transfer-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/31533/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-model_fr.properties
+END
+bootstrap-tutorial.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-tutorial.properties
+END
+discussion-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/discussion-messages_es.properties
+END
+schema-update.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/repository/config/alfresco/messages/schema-update.properties
+END
+bootstrap-imapScripts_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-imapScripts_de.properties
+END
+bootstrap-readme-template.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-readme-template.properties
+END
+system-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-messages_nl.properties
+END
+system-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/14780/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-model.properties
+END
+bootstrap-tutorial_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-tutorial_de.properties
+END
+workflow-interpreter-help_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-interpreter-help_fr.properties
+END
+action-config_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-config_ja.properties
+END
+bpm-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bpm-messages_de.properties
+END
+form-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/form-service_it.properties
+END
+imap-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/imap-service_ja.properties
+END
+activity-list_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activity-list_nl.properties
+END
+activities-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activities-service_it.properties
+END
+publishing-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-model_it.properties
+END
+content-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-service_es.properties
+END
+slingshot_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/slingshot_es.properties
+END
+wcm-services_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcm-services_it.properties
+END
+template-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28137/alfresco/HEAD/root/projects/repository/config/alfresco/messages/template-service_it.properties
+END
+tenant-interpreter-help_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/tenant-interpreter-help_es.properties
+END
+bootstrap-readme-template_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-readme-template_fr.properties
+END
+wdr-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wdr-messages_de.properties
+END
+jbpm-engine-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/jbpm-engine-messages_ja.properties
+END
+period-provider.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/15311/alfresco/HEAD/root/projects/repository/config/alfresco/messages/period-provider.properties
+END
+transfer-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-service_it.properties
+END
+discussion-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/discussion-messages_fr.properties
+END
+ui-inplace_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/messages/ui-inplace_nl.properties
+END
+system-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-messages_es.properties
+END
+workflow-package-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-package-messages_de.properties
+END
+replication_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/33030/alfresco/HEAD/root/projects/repository/config/alfresco/messages/replication_de.properties
+END
+lock-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/repository/config/alfresco/messages/lock-service_it.properties
+END
+invitation-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/repository/config/alfresco/messages/invitation-service.properties
+END
+bpm-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/32950/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bpm-messages.properties
+END
+permissions-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/permissions-service_ja.properties
+END
+period-provider_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/period-provider_ja.properties
+END
+wcmapp-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcmapp-model.properties
+END
+initiate-inplace_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31338/alfresco/HEAD/root/projects/repository/config/alfresco/messages/initiate-inplace_de.properties
+END
+site-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-model_es.properties
+END
+activiti-engine-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activiti-engine-messages_de.properties
+END
+activity-list_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activity-list_es.properties
+END
+notification-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/notification-service_ja.properties
+END
+content-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-service_fr.properties
+END
+slingshot_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/slingshot_fr.properties
+END
+bootstrap-imapScripts_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-imapScripts_it.properties
+END
+patch-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/patch-service_ja.properties
+END
+tenant-interpreter-help_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/tenant-interpreter-help_fr.properties
+END
+bootstrap-webScripts_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScripts_de.properties
+END
+bootstrap-tutorial_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-tutorial_it.properties
+END
+site-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-service_de.properties
+END
+system-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-model_nl.properties
+END
+templates-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/repository/config/alfresco/messages/templates-messages_de.properties
+END
+publishing-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-service_ja.properties
+END
+ui-inplace_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/31467/alfresco/HEAD/root/projects/repository/config/alfresco/messages/ui-inplace_es.properties
+END
+bpm-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bpm-messages_it.properties
+END
+system-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-messages_fr.properties
+END
+coci-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/coci-service_de.properties
+END
+bootstrap-templates_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-templates_ja.properties
+END
+imap-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28848/alfresco/HEAD/root/projects/repository/config/alfresco/messages/imap-service.properties
+END
+webdav-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/webdav-messages_de.properties
+END
+site-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-model_fr.properties
+END
+module-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5606/alfresco/HEAD/root/projects/repository/config/alfresco/messages/module-messages.properties
+END
+schema-update_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/schema-update_ja.properties
+END
+version-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/version-service_de.properties
+END
+activity-list_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activity-list_fr.properties
+END
+subscription-service_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/subscription-service_ja.properties
+END
+wdr-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wdr-messages_it.properties
+END
+rendition-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rendition-config.properties
+END
+wcmapp-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcmapp-model_ja.properties
+END
+activities-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activities-service.properties
+END
+publishing-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-model.properties
+END
+email-server-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-server-model_ja.properties
+END
+bootstrap-spaces_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32783/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-spaces_ja.properties
+END
+templates-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/templates-messages.properties
+END
+module-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/module-messages_ja.properties
+END
+action-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-service_nl.properties
+END
+workflow-package-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-package-messages_it.properties
+END
+bootstrap-example-javascripts_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-example-javascripts_de.properties
+END
+replication_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/33013/alfresco/HEAD/root/projects/repository/config/alfresco/messages/replication_it.properties
+END
+rendition-config_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rendition-config_de.properties
+END
+workflow-package-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-package-messages.properties
+END
+application-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/application-model_de.properties
+END
+bootstrap-webScriptsExtensions_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScriptsExtensions_nl.properties
+END
+system-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-model_es.properties
+END
+invitation-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/invitation-service_nl.properties
+END
+initiate-inplace_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/projects/repository/config/alfresco/messages/initiate-inplace_it.properties
+END
+ui-inplace_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/projects/repository/config/alfresco/messages/ui-inplace_fr.properties
+END
+email-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-service_nl.properties
+END
+forum-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/forum-model_nl.properties
+END
+activiti-engine-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activiti-engine-messages_it.properties
+END
+content-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-model_ja.properties
+END
+bootstrap-content-template-examples_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-content-template-examples_de.properties
+END
+transfer-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-service.properties
+END
+version-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/22556/alfresco/HEAD/root/projects/repository/config/alfresco/messages/version-service.properties
+END
+notification-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29844/alfresco/HEAD/root/projects/repository/config/alfresco/messages/notification-service.properties
+END
+ui-inplace.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/config/alfresco/messages/ui-inplace.properties
+END
+data-list-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/data-list-model_de.properties
+END
+content-filter-languages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-filter-languages_nl.properties
+END
+bootstrap-webScripts_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScripts_it.properties
+END
+categories_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/categories_de.properties
+END
+repoadmin-interpreter-help_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/repoadmin-interpreter-help_nl.properties
+END
+site-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/site-service_it.properties
+END
+templates-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/repository/config/alfresco/messages/templates-messages_it.properties
+END
+copy-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/copy-service_nl.properties
+END
+avm-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/avm-messages_ja.properties
+END
+action-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-service_es.properties
+END
+rule-config_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rule-config_nl.properties
+END
+coci-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/coci-service_it.properties
+END
+bootstrap-webScriptsExtensions_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScriptsExtensions_es.properties
+END
+wcm-services.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/16858/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcm-services.properties
+END
+invitation-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/invitation-service_es.properties
+END
+permissions-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/messages/permissions-service.properties
+END
+system-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/system-model_fr.properties
+END
+webdav-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/webdav-messages_it.properties
+END
+email-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-service_es.properties
+END
+forum-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/forum-model_es.properties
+END
+bootstrap-javascripts_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-javascripts_ja.properties
+END
+version-service_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/version-service_it.properties
+END
+tenant-interpreter-help.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/messages/tenant-interpreter-help.properties
+END
+content-filter-languages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-filter-languages_es.properties
+END
+action-config_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-config_de.properties
+END
+bootstrap-example-javascripts_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-example-javascripts_it.properties
+END
+form-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/form-service_nl.properties
+END
+rendition-config_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rendition-config_it.properties
+END
+activities-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/activities-service_nl.properties
+END
+publishing-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/publishing-model_nl.properties
+END
+imap-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/imap-service_de.properties
+END
+repoadmin-interpreter-help_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/repoadmin-interpreter-help_es.properties
+END
+transfer-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-model_ja.properties
+END
+application-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/application-model_it.properties
+END
+copy-service_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/copy-service_es.properties
+END
+wcm-services_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/wcm-services_nl.properties
+END
+content-filter-languages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/5817/alfresco/HEAD/root/projects/repository/config/alfresco/messages/content-filter-languages.properties
+END
+rule-config_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/rule-config_es.properties
+END
+action-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/action-service_fr.properties
+END
+template-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/template-service_nl.properties
+END
+bootstrap-content-template-examples_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-content-template-examples_it.properties
+END
+bootstrap-webScriptsExtensions_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/31533/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-webScriptsExtensions_fr.properties
+END
+jbpm-engine-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/jbpm-engine-messages_de.properties
+END
+invitation-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/invitation-service_fr.properties
+END
+bootstrap-templates.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/messages/bootstrap-templates.properties
+END
+transfer-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/messages/transfer-service_nl.properties
+END
+workflow-interpreter-help_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/workflow-interpreter-help_ja.properties
+END
+email-service_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/repository/config/alfresco/messages/email-service_fr.properties
+END
+data-list-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/repository/config/alfresco/messages/data-list-model_it.properties
+END
+forum-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/messages/forum-model_fr.properties
+END
+webdav-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/messages/webdav-messages.properties
+END
+lock-service_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/messages/lock-service_nl.properties
+END
+categories_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/repository/config/alfresco/messages/categories_it.properties
+END
+permissions-service_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/permissions-service_de.properties
+END
+period-provider_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/repository/config/alfresco/messages/period-provider_de.properties
+END

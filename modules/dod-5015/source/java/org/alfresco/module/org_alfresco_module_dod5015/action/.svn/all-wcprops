@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/action
+END
+RecordsManagementActionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/action/RecordsManagementActionServiceImpl.java
+END
+RMActionExecuterAbstractBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/action/RMActionExecuterAbstractBase.java
+END
+ScheduledDispositionJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/action/ScheduledDispositionJob.java
+END
+RMDispositionActionExecuterAbstractBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/action/RMDispositionActionExecuterAbstractBase.java
+END
+RecordsManagementActionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/action/RecordsManagementActionResult.java
+END
+RecordsManagementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/action/RecordsManagementAction.java
+END
+RecordsManagementActionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/action/RecordsManagementActionService.java
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search
+END
+TransactionSynchronisationAwareIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/TransactionSynchronisationAwareIndexer.java
+END
+AbstractSearcherComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/AbstractSearcherComponent.java
+END
+AbstractResultSetRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/AbstractResultSetRow.java
+END
+SearcherException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/SearcherException.java
+END
+AbstractResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/AbstractResultSet.java
+END
+BackgroundIndexerAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/BackgroundIndexerAware.java
+END
+QueryRegisterComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/QueryRegisterComponentImpl.java
+END
+AbstractResultSetRowIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/AbstractResultSetRowIterator.java
+END
+IndexerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/IndexerComponent.java
+END
+AVMSnapShotTriggeredIndexingMethodInterceptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/AVMSnapShotTriggeredIndexingMethodInterceptorImpl.java
+END
+DocumentNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/DocumentNavigator.java
+END
+MLAnaysisModeExpansionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/MLAnaysisModeExpansionTest.java
+END
+QueryRegisterComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/QueryRegisterComponentTest.java
+END
+QueryRegisterComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/QueryRegisterComponent.java
+END
+IndexerAndSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/IndexerAndSearcher.java
+END
+QueryCollectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/QueryCollectionImpl.java
+END
+SimpleResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/SimpleResultSetMetaData.java
+END
+IndexerAndSearcherFactoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/IndexerAndSearcherFactoryException.java
+END
+AVMSnapShotTriggeredIndexingMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29624/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/AVMSnapShotTriggeredIndexingMethodInterceptor.java
+END
+QueryParameterDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/QueryParameterDefImpl.java
+END
+EmptyResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/EmptyResultSet.java
+END
+NodeServiceXPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/NodeServiceXPath.java
+END
+IndexMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/IndexMode.java
+END
+IndexerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/IndexerException.java
+END
+CannedQueryDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/CannedQueryDefImpl.java
+END
+SearchTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/SearchTestSuite.java
+END
+SearcherComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/SearcherComponent.java
+END
+SearcherComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/22190/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/SearcherComponentTest.java
+END
+QueryCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/QueryCollection.java
+END
+QueryParameterRefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/QueryParameterRefImpl.java
+END
+SupportsBackgroundIndexing.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/SupportsBackgroundIndexing.java
+END
+SearchServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/21406/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/SearchServiceTest.java
+END
+ResultSetRowIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/ResultSetRowIterator.java
+END
+CannedQueryDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/CannedQueryDef.java
+END
+Indexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/Indexer.java
+END

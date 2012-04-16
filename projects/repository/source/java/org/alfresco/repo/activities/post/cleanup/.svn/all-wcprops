@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/post/cleanup
+END
+PostCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/post/cleanup/PostCleaner.java
+END
+PostCleanupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/post/cleanup/PostCleanupJob.java
+END

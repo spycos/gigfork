@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile
+END
+userprofile.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/9991/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/userprofile.post.json.ftl
+END
+uploadavatar.post.html.status.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/16929/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/uploadavatar.post.html.status.ftl
+END
+uploadavatar.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/20570/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/uploadavatar.post.js
+END
+userstatus.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/userstatus.post.desc.xml
+END
+uploadavatar.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/uploadavatar.post.desc.xml
+END
+resetavatar.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/14700/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/resetavatar.put.json.ftl
+END
+usercontents.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/31288/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/usercontents.get.js
+END
+usercontents.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/usercontents.get.desc.xml
+END
+userstatus.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/28589/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/userstatus.post.json.js
+END
+uploadavatar.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/13932/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/uploadavatar.post.html.ftl
+END
+userprofile.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/userprofile.post.desc.xml
+END
+userstatus.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/21567/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/userstatus.post.json.ftl
+END
+uploadavatar.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/13932/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/uploadavatar.post.json.ftl
+END
+resetavatar.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/resetavatar.put.desc.xml
+END
+userprofile.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/21405/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/userprofile.post.json.js
+END
+usercontents.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/usercontents.get.json.ftl
+END
+avatar.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/avatar.get.js
+END
+avatar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/avatar.get.desc.xml
+END
+resetavatar.put.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/20570/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/slingshot/profile/resetavatar.put.json.js
+END

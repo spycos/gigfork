@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient
+END
+HttpMethodResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/HttpMethodResponse.java
+END
+AbstractHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/31483/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/AbstractHttpClient.java
+END
+MD5EncryptionParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/MD5EncryptionParameters.java
+END
+SecureHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/SecureHttpClient.java
+END
+HttpClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/HttpClientFactory.java
+END
+GetRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/GetRequest.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/Request.java
+END
+HeadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/HeadRequest.java
+END
+EncryptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/EncryptionService.java
+END
+AlfrescoHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/AlfrescoHttpClient.java
+END
+AuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/AuthenticationException.java
+END
+PostRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/PostRequest.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/httpclient/Response.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/33019/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/22478/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/.project
+END
+README_wcmqs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/22385/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/README_wcmqs.txt
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/.springBeans
+END

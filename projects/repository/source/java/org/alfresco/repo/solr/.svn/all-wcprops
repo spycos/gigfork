@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr
+END
+Acl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/Acl.java
+END
+SolrInactiveEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29296/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/SolrInactiveEvent.java
+END
+AclChangeSetParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/AclChangeSetParameters.java
+END
+AclReaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/AclReaders.java
+END
+SOLRTrackingComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/SOLRTrackingComponentImpl.java
+END
+AlfrescoModelDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28714/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/AlfrescoModelDiff.java
+END
+MetaDataResultsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29904/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/MetaDataResultsFilter.java
+END
+NodeParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/NodeParameters.java
+END
+NodeMetaDataParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/NodeMetaDataParameters.java
+END
+SolrActiveEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29299/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/SolrActiveEvent.java
+END
+testModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28472/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/testModel.xml
+END
+AlfrescoModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/AlfrescoModel.java
+END
+SolrEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/29296/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/SolrEvent.java
+END
+AclChangeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/AclChangeSet.java
+END
+SOLRTrackingComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34204/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/SOLRTrackingComponentTest.java
+END
+SOLRTrackingComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/SOLRTrackingComponent.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/Transaction.java
+END
+NodeMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/NodeMetaData.java
+END
+SOLRAdminClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/SOLRAdminClient.java
+END
+SOLRWatcherJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29296/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/solr/SOLRWatcherJob.java
+END

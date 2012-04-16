@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers
+END
+BaseConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/BaseConditionHandler.java
+END
+PropertyValueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/PropertyValueHandler.java
+END
+InCategoryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/InCategoryHandler.java
+END
+HasTagHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/HasTagHandler.java
+END
+IsSubTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/IsSubTypeHandler.java
+END
+CompositeConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/CompositeConditionHandler.java
+END
+HasAspectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/HasAspectHandler.java
+END
+CompareMimeTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/CompareMimeTypeHandler.java
+END

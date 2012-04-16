@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic
+END
+RenameOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/RenameOption.java
+END
+WorkspaceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/WorkspaceType.java
+END
+PutOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/PutOption.java
+END
+DocumentStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/DocumentStatus.java
+END
+VtiType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/VtiType.java
+END
+DwsError.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/31753/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/DwsError.java
+END
+VtiConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/VtiConstraint.java
+END
+VtiProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/VtiProperty.java
+END
+GetOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/GetOption.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/Permission.java
+END
+VtiSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/VtiSort.java
+END
+VtiError.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/31717/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/VtiError.java
+END
+CAMLMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/CAMLMethod.java
+END
+VtiSortField.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/dic/VtiSortField.java
+END

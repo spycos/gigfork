@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/external
+END
+external-filter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/16065/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/external/external-filter.properties
+END
+external-filter-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/external/external-filter-context.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin
+END
+emailmap.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16520/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/emailmap.get.desc.xml
+END
+emailmap.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16520/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/emailmap.get.json.ftl
+END
+emailmap.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/16520/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/emailmap.post.desc.xml
+END
+emailmap.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/16032/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/emailmap.post.json.ftl
+END
+emailmap.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16520/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/emailmap.put.desc.xml
+END
+emailmap.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16520/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/emailmap.put.json.ftl
+END
+emailmap.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/16520/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/emailmap.lib.ftl
+END

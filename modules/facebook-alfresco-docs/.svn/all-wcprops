@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/29382/alfresco/HEAD/root/modules/facebook-alfresco-docs
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/7455/alfresco/HEAD/root/modules/facebook-alfresco-docs/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/29382/alfresco/HEAD/root/modules/facebook-alfresco-docs/build.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/tagging
+END
+TagDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/tagging/TagDetails.java
+END
+TaggingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/tagging/TaggingService.java
+END
+TagScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/tagging/TagScope.java
+END

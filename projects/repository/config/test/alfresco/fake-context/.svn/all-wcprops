@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context
+END
+context-a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context/context-a.xml
+END
+nested.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context/nested.xml
+END
+context-b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context/context-b.xml
+END
+context-c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context/context-c.xml
+END
+application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context/application-context.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context/README.txt
+END
+override-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context/override-1.xml
+END
+override-2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18598/alfresco/HEAD/root/projects/repository/config/test/alfresco/fake-context/override-2.xml
+END

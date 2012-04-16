@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities
+END
+ActivityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/ActivityServiceImpl.java
+END
+ActivityServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/32321/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/ActivityServiceImplTest.java
+END
+SiteActivityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28589/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/SiteActivityTest.java
+END
+ActivityPostServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/32321/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/ActivityPostServiceImpl.java
+END
+ActivityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28425/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/activities/ActivityType.java
+END

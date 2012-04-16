@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/installer
+END
+wcm-bootstrap-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/32330/alfresco/HEAD/root/projects/installer/wcm-bootstrap-context.xml
+END
+deployment.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/18704/alfresco/HEAD/root/projects/installer/deployment.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/interceptors
+END
+SOAPExceptionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/interceptors/SOAPExceptionInterceptor.java
+END
+AtomExceptionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/interceptors/AtomExceptionInterceptor.java
+END
+AuthenticationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/interceptors/AuthenticationInterceptor.java
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl
+END
+BaseQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseQuery.java
+END
+BaseFunctionalConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseFunctionalConstraint.java
+END
+BaseOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseOrdering.java
+END
+BaseComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseComparison.java
+END
+BaseListArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseListArgument.java
+END
+BaseSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseSelector.java
+END
+BaseArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseArgument.java
+END
+BaseParameterArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseParameterArgument.java
+END
+BaseSelectorArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseSelectorArgument.java
+END
+BaseConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseConstraint.java
+END
+BaseFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseFunction.java
+END
+BaseDynamicArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseDynamicArgument.java
+END
+BasePropertyArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BasePropertyArgument.java
+END
+BaseFunctionArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseFunctionArgument.java
+END
+BaseDisjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseDisjunction.java
+END
+BaseConjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseConjunction.java
+END
+BaseStaticArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseStaticArgument.java
+END
+BaseArgumentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseArgumentDefinition.java
+END
+BaseColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseColumn.java
+END
+BaseLiteralArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseLiteralArgument.java
+END
+BaseJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/BaseJoin.java
+END
+DuplicateSelectorNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/DuplicateSelectorNameException.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info
+END
+SessionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/SessionInfo.java
+END
+ServiceStatusList.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ServiceStatusList.java
+END
+WorkstationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/WorkstationInfo.java
+END
+PerfDataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/PerfDataBlock.java
+END
+ServiceConfigInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ServiceConfigInfo.java
+END
+NTService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/NTService.java
+END
+RegistryValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/RegistryValue.java
+END
+ConnectionInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ConnectionInfoList.java
+END
+ShareInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ShareInfoList.java
+END
+ConnectionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ConnectionInfo.java
+END
+ServiceStatusExInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ServiceStatusExInfo.java
+END
+ServerFileInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ServerFileInfoList.java
+END
+EventlogRecordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/EventlogRecordList.java
+END
+ShareInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ShareInfo.java
+END
+ServiceStatusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ServiceStatusInfo.java
+END
+RegistryKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/RegistryKey.java
+END
+ServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ServerInfo.java
+END
+ServerFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ServerFileInfo.java
+END
+EventlogRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/EventlogRecord.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/UserInfo.java
+END
+SessionInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/SessionInfoList.java
+END
+ServiceStatusExList.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/ServiceStatusExList.java
+END
+RegistryKeyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/info/RegistryKeyInfo.java
+END

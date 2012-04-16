@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30524/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/bootstrap/content
+END
+rma_isClosed.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/15892/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/bootstrap/content/rma_isClosed.js
+END
+record-superseded-email.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/30524/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/bootstrap/content/record-superseded-email.ftl
+END
+recordsCustomModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/16465/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/bootstrap/content/recordsCustomModel.xml
+END
+rmEventConfigBootstrap.json
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/16651/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/bootstrap/content/rmEventConfigBootstrap.json
+END
+onCreate_supersedes.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/30332/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/bootstrap/content/onCreate_supersedes.js
+END
+notify-records-due-for-review-email.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/30524/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/bootstrap/content/notify-records-due-for-review-email.ftl
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums
+END
+forum.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/forum.jsp
+END
+create-reply-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/create-reply-dialog.jsp
+END
+forum-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/forum-details.jsp
+END
+forums.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/forums.jsp
+END
+create-topic-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/create-topic-dialog.jsp
+END
+forums-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/forums-details.jsp
+END
+topic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/topic.jsp
+END
+create-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/create-dialog.jsp
+END
+topic-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/topic-details.jsp
+END
+create-post-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/forums/create-post-dialog.jsp
+END

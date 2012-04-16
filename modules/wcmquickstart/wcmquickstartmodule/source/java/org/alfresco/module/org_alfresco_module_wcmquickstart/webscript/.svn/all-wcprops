@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32012/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript
+END
+AssetGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/AssetGet.java
+END
+WebscriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/WebscriptTest.java
+END
+SectionGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/32012/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/SectionGet.java
+END
+TranslationDetailsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/TranslationDetailsGet.java
+END
+UpdateWebSiteRenditionsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/UpdateWebSiteRenditionsGet.java
+END
+AssetSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/23178/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/AssetSearch.java
+END
+WebAssetPreviewerGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/WebAssetPreviewerGet.java
+END
+FixWebAssets1.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/FixWebAssets1.java
+END
+FixWebAssets2.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/FixWebAssets2.java
+END
+AssetCollectionGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/AssetCollectionGet.java
+END
+LoadWebSiteDataGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/23056/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/LoadWebSiteDataGet.java
+END
+WebsiteInfoGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/webscript/WebsiteInfoGet.java
+END

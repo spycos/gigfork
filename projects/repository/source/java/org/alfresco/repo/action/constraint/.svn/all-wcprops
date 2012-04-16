@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/29628/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint
+END
+FolderContentsParameterConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29628/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint/FolderContentsParameterConstraint.java
+END
+MimetypeParameterConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint/MimetypeParameterConstraint.java
+END
+BaseParameterConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint/BaseParameterConstraint.java
+END
+ActionParameterConstraintTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint/ActionParameterConstraintTest.java
+END
+AspectParameterConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint/AspectParameterConstraint.java
+END
+TypeParameterConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint/TypeParameterConstraint.java
+END
+EnumParameterConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint/EnumParameterConstraint.java
+END
+PropertyParameterConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/constraint/PropertyParameterConstraint.java
+END

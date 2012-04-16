@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/dtd
+END
+urlrewrite3.1.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/dtd/urlrewrite3.1.dtd
+END
+log4j.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/dtd/log4j.dtd
+END

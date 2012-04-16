@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator
+END
+HasChildEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/HasChildEvaluatorTest.java
+END
+HasChildEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/HasChildEvaluator.java
+END
+NoConditionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/NoConditionEvaluator.java
+END
+ActionConditionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/ActionConditionEvaluator.java
+END
+IsSubTypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/IsSubTypeEvaluator.java
+END
+IsSubTypeEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/IsSubTypeEvaluatorTest.java
+END
+ComparePropertyValueEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/ComparePropertyValueEvaluatorTest.java
+END
+ComparePropertyValueEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/ComparePropertyValueEvaluator.java
+END
+CompareMimeTypeEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/CompareMimeTypeEvaluatorTest.java
+END
+CompareMimeTypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/CompareMimeTypeEvaluator.java
+END
+HasVersionHistoryEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/HasVersionHistoryEvaluator.java
+END
+ActionConditionEvaluatorAbstractBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/ActionConditionEvaluatorAbstractBase.java
+END
+InCategoryEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/InCategoryEvaluator.java
+END
+HasTagEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/HasTagEvaluatorTest.java
+END
+HasTagEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/HasTagEvaluator.java
+END
+CompositeConditionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/CompositeConditionEvaluator.java
+END
+HasAspectEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/HasAspectEvaluatorTest.java
+END
+HasAspectEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/HasAspectEvaluator.java
+END

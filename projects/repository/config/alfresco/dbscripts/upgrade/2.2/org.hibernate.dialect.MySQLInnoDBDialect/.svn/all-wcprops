@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.MySQLInnoDBDialect
+END
+AlfrescoSchemaUpdate-2.2-CleanNodeStatuses.sql
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/alfresco-open-mirror/!svn/ver/21488/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoSchemaUpdate-2.2-CleanNodeStatuses.sql
+END
+AlfrescoSchemaUpdate-2.1-A--to--2.2-ACL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/alfresco-open-mirror/!svn/ver/21369/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoSchemaUpdate-2.1-A--to--2.2-ACL.sql
+END
+upgrade-0-create-missing-tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.MySQLInnoDBDialect/upgrade-0-create-missing-tables.sql
+END
+upgrade-from-2.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.MySQLInnoDBDialect/upgrade-from-2.1.sql
+END
+AddFKIndexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.MySQLInnoDBDialect/AddFKIndexes.sql
+END
+upgrade-from-2.2SP1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.MySQLInnoDBDialect/upgrade-from-2.2SP1.sql
+END
+AlfrescoSchemaUpdate-2.2-ACL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/21369/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoSchemaUpdate-2.2-ACL.sql
+END

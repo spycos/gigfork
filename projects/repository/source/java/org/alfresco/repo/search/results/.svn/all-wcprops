@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results
+END
+SortedResultSetRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/SortedResultSetRow.java
+END
+ChildAssocRefResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/ChildAssocRefResultSet.java
+END
+DetachedResultSetRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/DetachedResultSetRow.java
+END
+ChildAssocRefResultSetRowIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/ChildAssocRefResultSetRowIterator.java
+END
+ResultSetSPIWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/ResultSetSPIWrapper.java
+END
+SortedResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/SortedResultSet.java
+END
+ChildAssocRefResultSetRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/ChildAssocRefResultSetRow.java
+END
+DetachedResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/DetachedResultSet.java
+END
+SortedResultSetRowIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/results/SortedResultSetRowIterator.java
+END

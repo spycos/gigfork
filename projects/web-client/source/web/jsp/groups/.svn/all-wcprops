@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/web-client/source/web/jsp/groups
+END
+add-user.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/groups/add-user.jsp
+END
+delete-group.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/groups/delete-group.jsp
+END
+groups.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/groups/groups.jsp
+END
+new-group.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/web-client/source/web/jsp/groups/new-group.jsp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/test-resources
+END
+test-config-e30-2145.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/14510/alfresco/HEAD/root/projects/web-client/source/test-resources/test-config-e30-2145.xml
+END
+test-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/16913/alfresco/HEAD/root/projects/web-client/source/test-resources/test-config.xml
+END
+test-config-dialogs-wizards.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/7976/alfresco/HEAD/root/projects/web-client/source/test-resources/test-config-dialogs-wizards.xml
+END
+test-config-override.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/16913/alfresco/HEAD/root/projects/web-client/source/test-resources/test-config-override.xml
+END

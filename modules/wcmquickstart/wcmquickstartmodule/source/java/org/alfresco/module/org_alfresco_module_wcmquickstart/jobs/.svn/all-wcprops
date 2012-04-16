@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24867/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs
+END
+DynamicCollectionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/DynamicCollectionProcessor.java
+END
+FeedbackProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/23027/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/FeedbackProcessor.java
+END
+AvailabilityProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/AvailabilityProcessor.java
+END
+PublishQueueProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/jobs/PublishQueueProcessor.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/32795/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates
+END
+new-user-email_es.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates/new-user-email_es.html
+END
+new-user-email_fr.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates/new-user-email_fr.html
+END
+new-user-email_de.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates/new-user-email_de.html
+END
+new-user-email_nl.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates/new-user-email_nl.html
+END
+new-user-email_ja.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32795/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates/new-user-email_ja.html
+END
+new-user-email_it.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates/new-user-email_it.html
+END
+new-user-email.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/new-user-templates/new-user-email.html
+END

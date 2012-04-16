@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/test-resources/imap
+END
+test-8bit-message.eml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/test-resources/imap/test-8bit-message.eml
+END
+imapservice_test_folder_a.acp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/14997/alfresco/HEAD/root/projects/repository/source/test-resources/imap/imapservice_test_folder_a.acp
+END
+test-tnef-message.eml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/test-resources/imap/test-tnef-message.eml
+END
+load_test_data.acp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/14997/alfresco/HEAD/root/projects/repository/source/test-resources/imap/load_test_data.acp
+END

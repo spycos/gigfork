@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging
+END
+TagDetailsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19646/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/TagDetailsImpl.java
+END
+TaggingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/TaggingServiceImpl.java
+END
+TaggingServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32267/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/TaggingServiceImplTest.java
+END
+RefreshTagScopeActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20566/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/RefreshTagScopeActionExecuter.java
+END
+TagScopeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/TagScopeImpl.java
+END
+TagScopePropertyMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32862/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/TagScopePropertyMethodInterceptor.java
+END
+UpdateTagScopesQuartzJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/UpdateTagScopesQuartzJob.java
+END
+UpdateTagScopesActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/31619/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/UpdateTagScopesActionExecuter.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/23099/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/templates/org/alfresco
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19084/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/templates/org/alfresco/login.js
+END
+metadata.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19154/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/templates/org/alfresco/metadata.ftl
+END
+login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19086/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/templates/org/alfresco/login.ftl
+END

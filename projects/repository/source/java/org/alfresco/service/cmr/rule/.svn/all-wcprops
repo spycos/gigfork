@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/31255/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rule
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rule/Rule.java
+END
+RuleServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rule/RuleServiceException.java
+END
+RuleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/31255/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rule/RuleService.java
+END
+RuleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rule/RuleType.java
+END

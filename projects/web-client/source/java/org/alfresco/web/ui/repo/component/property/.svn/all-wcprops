@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33763/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property
+END
+UIAssociationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/33763/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/UIAssociationEditor.java
+END
+UIProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/UIProperty.java
+END
+UIChildAssociationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/33763/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/UIChildAssociationEditor.java
+END
+UIAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/UIAssociation.java
+END
+UIPropertySheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/UIPropertySheet.java
+END
+PropertySheetItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/PropertySheetItem.java
+END
+BaseAssociationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33763/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/BaseAssociationEditor.java
+END
+UIChildAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/UIChildAssociation.java
+END
+UISeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/property/UISeparator.java
+END

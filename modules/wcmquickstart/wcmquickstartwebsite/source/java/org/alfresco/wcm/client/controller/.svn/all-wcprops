@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30597/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/controller
+END
+StreamedAssetController.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/30597/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/controller/StreamedAssetController.java
+END
+ContactFormValidationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/controller/ContactFormValidationTest.java
+END
+RssController.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/controller/RssController.java
+END
+GenericTemplateAssetController.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/controller/GenericTemplateAssetController.java
+END
+SearchFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/29332/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/java/org/alfresco/wcm/client/controller/SearchFormController.java
+END

@@ -1,0 +1,64 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-02-08T11:06:09.748222Z
+33758
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+repository
+dir
+
+test
+dir
+
+importer
+dir
+
+tck
+dir
+
+session
+dir
+
+dictionary
+dir
+
+query
+dir
+
+version
+dir
+
+exporter
+dir
+
+api
+dir
+
+util
+dir
+
+item
+dir
+

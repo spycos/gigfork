@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/system-build-test/source/java/org/alfresco/repo
+END
+RepoJettyStartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/system-build-test/source/java/org/alfresco/repo/RepoJettyStartTest.java
+END
+SolrClientTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/system-build-test/source/java/org/alfresco/repo/SolrClientTestSuite.java
+END
+MiscSystemTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/system-build-test/source/java/org/alfresco/repo/MiscSystemTestSuite.java
+END
+RepoJettyStopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/source/java/org/alfresco/repo/RepoJettyStopTest.java
+END

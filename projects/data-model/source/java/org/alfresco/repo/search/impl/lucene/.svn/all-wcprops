@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene
+END
+LuceneFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/LuceneFunction.java
+END
+AbstractLuceneQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/AbstractLuceneQueryParser.java
+END
+AnalysisMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/AnalysisMode.java
+END
+AbstractAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/AbstractAnalyzer.java
+END
+LuceneAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/LuceneAnalyser.java
+END
+LuceneUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29523/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/LuceneUtils.java
+END
+LuceneUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28988/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/LuceneUtilsTest.java
+END
+LuceneQueryParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/LuceneQueryParserException.java
+END
+MultiReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/MultiReader.java
+END
+LuceneQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/LuceneQueryParser.java
+END
+LuceneXPathHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/LuceneXPathHandler.java
+END

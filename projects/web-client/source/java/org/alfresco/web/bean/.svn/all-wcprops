@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean
+END
+SpaceLinkDetailsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/SpaceLinkDetailsDialog.java
+END
+SidebarBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/SidebarBean.java
+END
+AboutBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/AboutBean.java
+END
+CategoriesProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/CategoriesProperties.java
+END
+TemplateMailHelperBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/TemplateMailHelperBean.java
+END
+BaseDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/BaseDetailsBean.java
+END
+CategoryBrowserBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/CategoryBrowserBean.java
+END
+FileUploadBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/FileUploadBean.java
+END
+ErrorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/ErrorBean.java
+END
+MultiValueEditorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/MultiValueEditorBean.java
+END
+NavigationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/NavigationBean.java
+END
+BrowseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/32797/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/BrowseBean.java
+END
+LinkPropertiesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/LinkPropertiesDialog.java
+END
+LoginOutcomeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/LoginOutcomeBean.java
+END
+NodeEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/NodeEventListener.java
+END
+TemplateSupportBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19928/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/TemplateSupportBean.java
+END
+LoginBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/LoginBean.java
+END

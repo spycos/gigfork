@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/30254/alfresco/HEAD/root/projects/repository/config/alfresco/keystore
+END
+ssl-keystore-passwords.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/ssl-keystore-passwords.properties
+END
+keystore-passwords.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/30208/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/keystore-passwords.properties
+END
+browser.p12
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/30208/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/browser.p12
+END
+keystore
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/30208/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/keystore
+END
+ssl.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/ssl.keystore
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/30254/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/readme.txt
+END
+ssl-truststore-passwords.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/ssl-truststore-passwords.properties
+END
+CreateSSLKeystores.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/30254/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/CreateSSLKeystores.txt
+END
+ssl.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/repository/config/alfresco/keystore/ssl.truststore
+END

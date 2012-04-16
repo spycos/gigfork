@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup
+END
+ContentStoreCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup/ContentStoreCleaner.java
+END
+ContentStoreCleanerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup/ContentStoreCleanerTest.java
+END
+EagerContentStoreCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup/EagerContentStoreCleaner.java
+END
+ContentStoreCleanerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup/ContentStoreCleanerListener.java
+END
+DeletedContentBackupCleanerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup/DeletedContentBackupCleanerListener.java
+END
+FileWipingContentCleanerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup/FileWipingContentCleanerListener.java
+END
+ContentStoreCleanupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup/ContentStoreCleanupJob.java
+END
+ContentStoreCleanerScalabilityRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/cleanup/ContentStoreCleanerScalabilityRunner.java
+END

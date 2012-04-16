@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web
+END
+VtiAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/VtiAction.java
+END
+VtiRequestDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/VtiRequestDispatcher.java
+END
+VtiFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/VtiFilter.java
+END
+VtiEncodingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/VtiEncodingUtils.java
+END
+VtiUtilBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31710/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/VtiUtilBase.java
+END

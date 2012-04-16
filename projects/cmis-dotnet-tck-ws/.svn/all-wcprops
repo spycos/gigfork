@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/.project
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/app.config
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/build.bat
+END
+WcfCmisTests.sln
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/WcfCmisTests.sln
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/readme.txt
+END
+WcfCmisTests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/WcfCmisTests.csproj
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lfx
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lfx/html.js
+END
+shadow.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lfx/shadow.js
+END
+extras.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lfx/extras.js
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lfx/__package__.js
+END
+Animation.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lfx/Animation.js
+END
+rounded.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lfx/rounded.js
+END
+toggle.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lfx/toggle.js
+END

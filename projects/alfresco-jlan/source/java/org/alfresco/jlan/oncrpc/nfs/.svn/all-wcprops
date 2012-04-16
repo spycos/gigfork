@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs
+END
+BadCookieException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/BadCookieException.java
+END
+FileIdCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/FileIdCache.java
+END
+BadHandleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/BadHandleException.java
+END
+NFSConfigSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19374/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/NFSConfigSection.java
+END
+NFSHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/NFSHandle.java
+END
+NFSSessionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/NFSSessionTable.java
+END
+StaleHandleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/StaleHandleException.java
+END
+NFSSrvSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/NFSSrvSession.java
+END
+NFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/NFS.java
+END
+ShareDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/ShareDetails.java
+END
+SearchCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/SearchCache.java
+END
+ShareDetailsHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/ShareDetailsHash.java
+END
+NFSServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/NFSServer.java
+END
+NetworkFileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/nfs/NetworkFileCache.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm
+END
+AVMStorePropertyEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMStorePropertyEntity.java
+END
+AVMChildEntryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMChildEntryEntity.java
+END
+AVMNodeChildEntryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMNodeChildEntryEntity.java
+END
+AVMNodeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMNodeDAO.java
+END
+AVMNodeLinksDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19337/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMNodeLinksDAO.java
+END
+AVMMergeLinkEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMMergeLinkEntity.java
+END
+AVMLockDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/20773/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMLockDAO.java
+END
+AVMHistoryLinkEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMHistoryLinkEntity.java
+END
+AVMAspectEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMAspectEntity.java
+END
+AVMVersionRootDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19898/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMVersionRootDAO.java
+END
+AbstractAVMNodeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28540/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AbstractAVMNodeDAOImpl.java
+END
+AVMVersionLayeredNodeEntryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMVersionLayeredNodeEntryEntity.java
+END
+AVMStoreDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMStoreDAOTest.java
+END
+AVMStoreDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMStoreDAO.java
+END
+AbstractAVMNodeLinksDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19337/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AbstractAVMNodeLinksDAOImpl.java
+END
+AVMNodeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMNodeEntity.java
+END
+AVMNodeAspectEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMNodeAspectEntity.java
+END
+AbstractAVMLockDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/20773/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AbstractAVMLockDAOImpl.java
+END
+AbstractAVMVersionRootDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AbstractAVMVersionRootDAOImpl.java
+END
+AVMVersionRootEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMVersionRootEntity.java
+END
+AbstractAVMStoreDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AbstractAVMStoreDAOImpl.java
+END
+AVMNodePropertyEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMNodePropertyEntity.java
+END
+AVMStoreEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/AVMStoreEntity.java
+END

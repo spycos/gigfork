@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/31107/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/googledocs/default
+END
+testBook.xls
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/20061/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/googledocs/default/testBook.xls
+END
+googledocs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/31107/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/googledocs/default/googledocs.properties
+END
+googledocs-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20018/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/googledocs/default/googledocs-model.xml
+END
+googledocs-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30832/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/googledocs/default/googledocs-context.xml
+END
+test.docx
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/20018/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/googledocs/default/test.docx
+END
+test.xlsx
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/20018/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/googledocs/default/test.xlsx
+END

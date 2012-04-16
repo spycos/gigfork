@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/config/alfresco
+END
+web-services-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29811/alfresco/HEAD/root/projects/remote-api/config/alfresco/web-services-application-context.xml
+END
+web-scripts-application-context-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18420/alfresco/HEAD/root/projects/remote-api/config/alfresco/web-scripts-application-context-test.xml
+END
+cmis-ws-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/cmis-ws-context.xml
+END
+remote-api-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/remote-api-context.xml
+END
+web-scripts-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/config/alfresco/web-scripts-application-context.xml
+END
+web-scripts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/web-scripts-config.xml
+END
+web-scripts-cmis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/web-scripts-cmis-config.xml
+END

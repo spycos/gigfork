@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/cmis-tck-ws/lib
+END
+axis-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/axis-1.4.jar
+END
+one-jar-ant-task-0.96.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/one-jar-ant-task-0.96.jar
+END
+wsdl4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/wsdl4j.jar
+END
+opensaml-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/opensaml-1.0.1.jar
+END
+wss4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/wss4j.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/xercesImpl.jar
+END
+commons-discovery-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/commons-discovery-0.2.jar
+END
+wsi-test-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/wsi-test-tools.jar
+END
+saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/saaj.jar
+END
+uddi4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/uddi4j.jar
+END
+axis-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/axis-ant.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/jaxrpc.jar
+END
+spring-mock.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/spring-mock.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/junit.jar
+END
+xmlParserAPIs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/xmlParserAPIs.jar
+END
+xmlsec-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/xmlsec-1.4.1.jar
+END
+geronimo-javamail_1.4_spec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/geronimo-javamail_1.4_spec-1.3.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/commons-logging-1.1.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/log4j-1.2.15.jar
+END
+spring-2.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/spring-2.0.6.jar
+END
+geronimo-activation_1.1_spec-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/lib/geronimo-activation_1.1_spec-1.0.2.jar
+END

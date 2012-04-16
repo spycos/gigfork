@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/32008/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search
+END
+CMISResultSetRowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32008/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISResultSetRowImpl.java
+END
+CMISQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/21628/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISQueryServiceImpl.java
+END
+QueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/30557/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/QueryTest.java
+END
+CMISResultSetColumnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISResultSetColumnImpl.java
+END
+CMIS-query-test-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMIS-query-test-model.xml
+END
+CMISResultSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISResultSetImpl.java
+END
+CMISResultSetMetaDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/21628/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISResultSetMetaDataImpl.java
+END
+CMISResultSetSelectorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISResultSetSelectorImpl.java
+END
+CMISResultSetRowIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISResultSetRowIteratorImpl.java
+END
+CMISFTSQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISFTSQueryParser.java
+END
+CMISQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/22931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CMISQueryParser.java
+END
+CmisFunctionEvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/search/CmisFunctionEvaluationContext.java
+END

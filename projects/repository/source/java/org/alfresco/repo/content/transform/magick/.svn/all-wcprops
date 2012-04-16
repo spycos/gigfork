@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/magick
+END
+ImageResizeOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/32539/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/magick/ImageResizeOptions.java
+END
+ImageCropOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32539/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/magick/ImageCropOptions.java
+END
+alfresco.gif
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/magick/alfresco.gif
+END
+ImageTransformationOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32539/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/magick/ImageTransformationOptions.java
+END
+ImageMagickContentTransformerWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/magick/ImageMagickContentTransformerWorker.java
+END
+AbstractImageMagickContentTransformerWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32254/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/magick/AbstractImageMagickContentTransformerWorker.java
+END
+ImageMagickContentTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/transform/magick/ImageMagickContentTransformerTest.java
+END

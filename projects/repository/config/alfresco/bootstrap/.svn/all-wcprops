@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap
+END
+nodeTemplatesSpace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/29764/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/nodeTemplatesSpace.xml
+END
+transferTargetRule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/21746/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/transferTargetRule.xml
+END
+replicationActionSpace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/20947/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/replicationActionSpace.xml
+END
+version2Store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/10574/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/version2Store.xml
+END
+example_javascripts2.acp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/example_javascripts2.acp
+END
+imapScripts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/imapScripts.xml
+END
+lightWeightVersionStore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/5221/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/lightWeightVersionStore.xml
+END
+sitesSpace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32797/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/sitesSpace.xml
+END
+webScriptsExtensions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webScriptsExtensions.xml
+END
+multilingualRoot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/5742/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/multilingualRoot.xml
+END
+descriptor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/10722/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/descriptor.xml
+END
+spacesArchive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/spacesArchive.xml
+END
+customWebClientExtensionSpace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/customWebClientExtensionSpace.xml
+END
+transferSpaces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/transferSpaces.xml
+END
+system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/16922/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/system.xml
+END
+alfrescoAuthorityStore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/15658/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/alfrescoAuthorityStore.xml
+END
+webScripts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webScripts.xml
+END
+categories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/11201/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/categories.xml
+END
+customWorkflowDefsSpace.acp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/customWorkflowDefsSpace.acp
+END
+renderingActionSpace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/19192/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/renderingActionSpace.xml
+END
+imapSpaces.acp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/imapSpaces.acp
+END
+customModelsSpace.acp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/customModelsSpace.acp
+END
+webScriptsReadme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/6102/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webScriptsReadme.xml
+END
+alfrescoAuthorityStoreDefaultMembers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/15658/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/alfrescoAuthorityStoreDefaultMembers.xml
+END
+publishingRootFolder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29255/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/publishingRootFolder.xml
+END
+imapSpacesTemplates.acp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/imapSpacesTemplates.acp
+END
+example_javascripts.acp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/example_javascripts.acp
+END
+alfrescoUserStore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/alfrescoUserStore.xml
+END
+tagRootCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/7479/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/tagRootCategory.xml
+END
+systemRegistry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/4953/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/systemRegistry.xml
+END
+scheduledActionsFolder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/scheduledActionsFolder.xml
+END
+spaces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/29829/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/spaces.xml
+END
+customMessagesSpace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/customMessagesSpace.xml
+END
+transferTargetRuleFolder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/21746/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/transferTargetRuleFolder.xml
+END

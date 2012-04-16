@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/audit
+END
+AuditClearPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/22145/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/audit/AuditClearPost.java
+END
+AuditControlGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22145/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/audit/AuditControlGet.java
+END
+AuditWebScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/audit/AuditWebScriptTest.java
+END
+AuditQueryGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/22203/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/audit/AuditQueryGet.java
+END
+AbstractAuditWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/22197/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/audit/AbstractAuditWebScript.java
+END
+AuditControlPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/22145/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/audit/AuditControlPost.java
+END

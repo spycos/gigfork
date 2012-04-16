@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/compare
+END
+ContentPropertyName.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/compare/ContentPropertyName.java
+END
+DatePropertyValueComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/32412/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/compare/DatePropertyValueComparator.java
+END
+ComparePropertyValueOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/compare/ComparePropertyValueOperation.java
+END
+PropertyValueComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/compare/PropertyValueComparator.java
+END
+NumericPropertyValueComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/compare/NumericPropertyValueComparator.java
+END
+TextPropertyValueComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/evaluator/compare/TextPropertyValueComparator.java
+END

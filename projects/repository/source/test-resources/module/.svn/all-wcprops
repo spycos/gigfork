@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/33880/alfresco/HEAD/root/projects/repository/source/test-resources/module
+END
+test_v1.amp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5606/alfresco/HEAD/root/projects/repository/source/test-resources/module/test_v1.amp
+END
+test_v2.amp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5606/alfresco/HEAD/root/projects/repository/source/test-resources/module/test_v2.amp
+END
+dependent_on_test_v1.amp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/5601/alfresco/HEAD/root/projects/repository/source/test-resources/module/dependent_on_test_v1.amp
+END
+module-importer-test-categories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/4956/alfresco/HEAD/root/projects/repository/source/test-resources/module/module-importer-test-categories.xml
+END
+test_v3.amp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/33781/alfresco/HEAD/root/projects/repository/source/test-resources/module/test_v3.amp
+END
+dependent_on_test_v2.amp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/5601/alfresco/HEAD/root/projects/repository/source/test-resources/module/dependent_on_test_v2.amp
+END
+test_v4.amp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/33880/alfresco/HEAD/root/projects/repository/source/test-resources/module/test_v4.amp
+END
+empty.war
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/33793/alfresco/HEAD/root/projects/repository/source/test-resources/module/empty.war
+END
+module-component-test-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/4956/alfresco/HEAD/root/projects/repository/source/test-resources/module/module-component-test-beans.xml
+END
+test.war
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/33880/alfresco/HEAD/root/projects/repository/source/test-resources/module/test.war
+END

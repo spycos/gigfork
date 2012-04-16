@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28528/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/alfrescoNtlm
+END
+alfresco-authentication.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/14030/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/alfrescoNtlm/alfresco-authentication.properties
+END
+alfresco-authentication-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/28528/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/alfrescoNtlm/alfresco-authentication-context.xml
+END

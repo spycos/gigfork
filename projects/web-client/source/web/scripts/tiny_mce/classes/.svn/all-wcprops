@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes
+END
+LegacyInput.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/LegacyInput.js
+END
+Developer.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/Developer.js
+END
+Editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/Editor.js
+END
+tinymce.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/tinymce.js
+END
+EditorCommands.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/EditorCommands.js
+END
+CommandManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/CommandManager.js
+END
+ControlManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/ControlManager.js
+END
+ForceBlocks.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/ForceBlocks.js
+END
+AddOnManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/AddOnManager.js
+END
+UndoManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/UndoManager.js
+END
+EditorManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/EditorManager.js
+END
+WindowManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/WindowManager.js
+END
+Popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/Popup.js
+END
+Formatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/scripts/tiny_mce/classes/Formatter.js
+END

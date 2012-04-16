@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/20870/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/external
+END
+external-authentication-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20870/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/external/external-authentication-context.xml
+END
+external-authentication.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/16065/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/external/external-authentication.properties
+END

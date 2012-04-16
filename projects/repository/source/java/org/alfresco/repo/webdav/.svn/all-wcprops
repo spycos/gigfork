@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/34748/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav
+END
+LockStoreFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/LockStoreFactoryImpl.java
+END
+MTNodesCache2.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34548/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/MTNodesCache2.java
+END
+SimpleLockStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/SimpleLockStore.java
+END
+LockInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/34213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/LockInfo.java
+END
+LockStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/LockStore.java
+END
+WebDavBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31609/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/WebDavBootstrap.java
+END
+LockStoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/LockStoreImpl.java
+END
+WebDavServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/34748/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/WebDavServiceImpl.java
+END
+LockStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/34213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/webdav/LockStoreFactory.java
+END

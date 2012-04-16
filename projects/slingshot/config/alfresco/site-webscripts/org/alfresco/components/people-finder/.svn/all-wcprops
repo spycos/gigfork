@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder
+END
+authority-finder.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get_ja.properties
+END
+group-finder.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get_de.properties
+END
+group-finder.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get_ja.properties
+END
+authority-query.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22288/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-query.get.js
+END
+authority-query.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/15575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-query.get.desc.xml
+END
+authority-finder.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/15575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get.desc.xml
+END
+people-finder.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get_fr.properties
+END
+group-finder.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get.desc.xml
+END
+people-finder.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get_nl.properties
+END
+authority-finder.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get_es.properties
+END
+people-finder.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get_it.properties
+END
+people-finder.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/29345/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get.html.ftl
+END
+authority-finder.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get.head.ftl
+END
+group-finder.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get_es.properties
+END
+group-finder.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get.head.ftl
+END
+authority-finder.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/18126/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get.properties
+END
+people-finder.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get_de.properties
+END
+group-finder.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/18126/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get.properties
+END
+people-finder.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get_ja.properties
+END
+people-finder.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/10278/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get.desc.xml
+END
+people-finder.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get_es.properties
+END
+people-finder.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get.head.ftl
+END
+authority-finder.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get_fr.properties
+END
+authority-finder.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get_nl.properties
+END
+group-finder.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get_fr.properties
+END
+people-finder.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/22736/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/people-finder.get.properties
+END
+authority-finder.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get.html.ftl
+END
+authority-finder.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get_it.properties
+END
+group-finder.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get_nl.properties
+END
+authority-query.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/18153/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-query.get.json.ftl
+END
+group-finder.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get_it.properties
+END
+group-finder.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28614/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/group-finder.get.html.ftl
+END
+authority-finder.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/30250/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/people-finder/authority-finder.get_de.properties
+END

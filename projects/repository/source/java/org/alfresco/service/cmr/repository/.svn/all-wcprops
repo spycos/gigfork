@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository
+END
+TemplateImageResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TemplateImageResolver.java
+END
+TemplateValueConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TemplateValueConverter.java
+END
+ScriptProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/ScriptProcessor.java
+END
+DuplicateChildNodeNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30468/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/DuplicateChildNodeNameException.java
+END
+CrossRepositoryCopyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/CrossRepositoryCopyService.java
+END
+TemplateProcessorExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TemplateProcessorExtension.java
+END
+CopyServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/CopyServiceException.java
+END
+TemplateProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TemplateProcessor.java
+END
+CyclicChildRelationshipException.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/CyclicChildRelationshipException.java
+END
+TransformationOptionPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TransformationOptionPair.java
+END
+TransformationOptionPairTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TransformationOptionPairTest.java
+END
+NoTransformerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/NoTransformerException.java
+END
+FileTypeImageSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/FileTypeImageSize.java
+END
+TransformationOptionLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TransformationOptionLimits.java
+END
+TransformationOptionLimitsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TransformationOptionLimitsTest.java
+END
+TransformationOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TransformationOptions.java
+END
+ScriptService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/ScriptService.java
+END
+AspectMissingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/AspectMissingException.java
+END
+TemplateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TemplateException.java
+END
+CopyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/CopyService.java
+END
+ContentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/ContentService.java
+END
+TemplateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/TemplateService.java
+END
+ScriptLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/repository/ScriptLocation.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/invite
+END
+invite-email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/invite/invite-email.xml
+END
+moderated-reject-email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/13692/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/invite/moderated-reject-email.xml
+END
+moderated-reject-email.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/13862/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/invite/moderated-reject-email.ftl
+END

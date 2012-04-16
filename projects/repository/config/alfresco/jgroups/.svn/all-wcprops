@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/jgroups
+END
+alfresco-jgroups-TCP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/jgroups/alfresco-jgroups-TCP.xml
+END
+alfresco-jgroups-UDP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/16866/alfresco/HEAD/root/projects/repository/config/alfresco/jgroups/alfresco-jgroups-UDP.xml
+END
+JGroups-2.8.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/16866/alfresco/HEAD/root/projects/repository/config/alfresco/jgroups/JGroups-2.8.xsd
+END

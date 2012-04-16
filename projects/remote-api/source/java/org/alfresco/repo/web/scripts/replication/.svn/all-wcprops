@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication
+END
+AbstractReplicationWebscript.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22021/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/AbstractReplicationWebscript.java
+END
+ReplicationModelBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/22376/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/ReplicationModelBuilder.java
+END
+ReplicationRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/ReplicationRestApiTest.java
+END
+ReplicationDefinitionGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/21589/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/ReplicationDefinitionGet.java
+END
+ReplicationDefinitionDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/21739/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/ReplicationDefinitionDelete.java
+END
+ReplicationDefinitionsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/21539/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/ReplicationDefinitionsGet.java
+END
+ReplicationDefinitionPut.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22021/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/ReplicationDefinitionPut.java
+END
+ReplicationDefinitionsPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22021/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/ReplicationDefinitionsPost.java
+END
+ReplicationServiceStatusGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/replication/ReplicationServiceStatusGet.java
+END

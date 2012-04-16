@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/config/launcher
+END
+ftr-custom-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/config/launcher/ftr-custom-context.xml
+END
+ftr-launcher.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/config/launcher/ftr-launcher.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/config/launcher/log4j.properties
+END
+ftr-launcher-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/config/launcher/ftr-launcher-context.xml
+END
+ftr-custom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/config/launcher/ftr-custom.properties
+END

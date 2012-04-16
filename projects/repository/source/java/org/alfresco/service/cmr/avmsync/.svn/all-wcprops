@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avmsync
+END
+AVMSyncException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avmsync/AVMSyncException.java
+END
+AVMSyncService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avmsync/AVMSyncService.java
+END
+AVMDifference.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avmsync/AVMDifference.java
+END

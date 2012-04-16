@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/json
+END
+AlfrescoJsonSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/json/AlfrescoJsonSerializer.java
+END
+ExceptionJsonSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/json/ExceptionJsonSerializer.java
+END
+ExceptionJsonSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/json/ExceptionJsonSerializerTest.java
+END
+JsonSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/json/JsonSerializer.java
+END
+DefaultJsonSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/json/DefaultJsonSerializer.java
+END
+AbstractJsonSerializerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/json/AbstractJsonSerializerBean.java
+END

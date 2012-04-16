@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/13536/alfresco/HEAD/root/projects/repository/source/test-resources/log4j
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/13536/alfresco/HEAD/root/projects/repository/source/test-resources/log4j/log4j.properties
+END
+log4j-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/13536/alfresco/HEAD/root/projects/repository/source/test-resources/log4j/log4j-test-context.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/ui
+END
+AddBlogDetailsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/ui/AddBlogDetailsEvaluator.java
+END
+BlogActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/ui/BlogActionListener.java
+END
+UpdateBlogEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/ui/UpdateBlogEvaluator.java
+END
+RemoveBlogDetailsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/ui/RemoveBlogDetailsEvaluator.java
+END
+BlogSelectorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/ui/BlogSelectorGenerator.java
+END
+PostBlogEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/ui/PostBlogEvaluator.java
+END
+BlogDetailsActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/ui/BlogDetailsActionListener.java
+END

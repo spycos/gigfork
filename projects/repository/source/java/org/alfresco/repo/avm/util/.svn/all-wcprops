@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util
+END
+BulkReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/BulkReader.java
+END
+RemoteBulkLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/RemoteBulkLoader.java
+END
+AVMUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/AVMUtil.java
+END
+FileExtensionNameMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/FileExtensionNameMatcher.java
+END
+VersionPathStuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/VersionPathStuffer.java
+END
+VersionPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/VersionPathTest.java
+END
+BulkLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/BulkLoader.java
+END
+VersionPathUnstuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/VersionPathUnstuffer.java
+END
+SimplePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/SimplePath.java
+END
+HrefBearingRequestPathNameMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/HrefBearingRequestPathNameMatcher.java
+END
+UriSchemeNameMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/UriSchemeNameMatcher.java
+END
+RawServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/util/RawServices.java
+END

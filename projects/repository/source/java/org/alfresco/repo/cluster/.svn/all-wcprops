@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/34614/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster
+END
+JGroupsMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33886/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/JGroupsMessenger.java
+END
+JGroupsMessengerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33886/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/JGroupsMessengerTest.java
+END
+ClusterChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterChecker.java
+END
+BuildSafeTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/BuildSafeTestSuite.java
+END
+ClusterNodePairStatusEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterNodePairStatusEvent.java
+END
+MessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/33830/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/MessageReceiver.java
+END
+MessageSendingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/33830/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/MessageSendingException.java
+END
+ClusterValidateResponseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterValidateResponseEvent.java
+END
+HazelcastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33894/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/HazelcastTest.java
+END
+HazelcastMessengerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/34614/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/HazelcastMessengerFactory.java
+END
+HazelcastMessengerFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33886/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/HazelcastMessengerFactoryTest.java
+END
+MessengerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/MessengerFactory.java
+END
+ClusterCheckEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterCheckEvent.java
+END
+HazelcastConfigFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/HazelcastConfigFactoryBeanTest.java
+END
+HazelcastConfigFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/HazelcastConfigFactoryBean.java
+END
+ClusterNodeStopTrackingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterNodeStopTrackingEvent.java
+END
+ClusterEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterEvent.java
+END
+HazelcastMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33894/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/HazelcastMessenger.java
+END
+HazelcastMessengerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33886/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/HazelcastMessengerTest.java
+END
+ClusterMessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterMessageEvent.java
+END
+Messenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33886/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/Messenger.java
+END
+MessengerTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/33894/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/MessengerTestHelper.java
+END
+ClusterNodeExistsEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterNodeExistsEvent.java
+END
+JGroupsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33894/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/JGroupsTest.java
+END
+JGroupsMessengerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/JGroupsMessengerFactory.java
+END
+HazelcastInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/HazelcastInstanceFactory.java
+END
+ClusterTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33944/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterTestSuite.java
+END
+MessengerFactoryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33886/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/MessengerFactoryProvider.java
+END
+ClusterValidateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/34605/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cluster/ClusterValidateEvent.java
+END

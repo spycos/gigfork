@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript
+END
+Actions.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Actions.java
+END
+ClasspathScriptLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ClasspathScriptLocation.java
+END
+SlingshotDocLibCustomResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/SlingshotDocLibCustomResponse.java
+END
+RhinoScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/RhinoScriptTest.java
+END
+RhinoScriptProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/RhinoScriptProcessor.java
+END
+Presence.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Presence.java
+END
+ValueConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ValueConverter.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Search.java
+END
+ApplicationScriptUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ApplicationScriptUtils.java
+END
+ScriptUrls.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptUrls.java
+END
+ScriptNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptNode.java
+END
+test_onCreateNode_cmContent.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/4634/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test_onCreateNode_cmContent.js
+END
+test_script1.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/5869/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test_script1.js
+END
+BaseScopableProcessorExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/BaseScopableProcessorExtension.java
+END
+ChildAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ChildAssociation.java
+END
+test_script3.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test_script3.js
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Session.java
+END
+CategoryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29264/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/CategoryNode.java
+END
+Behaviour.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Behaviour.java
+END
+ScriptTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/22208/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptTestUtils.java
+END
+ScriptUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/32390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptUtils.java
+END
+test_onCreateChildAssociation.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/6005/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test_onCreateChildAssociation.js
+END
+test_onAddAspect_cmCountable.js
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/4634/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test_onAddAspect_cmCountable.js
+END
+Classification.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29264/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Classification.java
+END
+Scopeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Scopeable.java
+END
+ScriptAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28975/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptAction.java
+END
+ScriptLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29760/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptLogger.java
+END
+test_childbynameparents.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/15184/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test_childbynameparents.js
+END
+ScriptableQNameMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptableQNameMap.java
+END
+ScriptBehaviour.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptBehaviour.java
+END
+ScriptBehaviourTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptBehaviourTest.java
+END
+ScriptVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31402/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptVersion.java
+END
+Association.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Association.java
+END
+CategoryTemplateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/CategoryTemplateNode.java
+END
+test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/4634/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test-context.xml
+END
+test_script2.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test_script2.js
+END
+ExecuteScriptJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ExecuteScriptJob.java
+END
+ScriptPagingNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptPagingNodes.java
+END
+AVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/AVM.java
+END
+ContentAwareScriptableQNameMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ContentAwareScriptableQNameMap.java
+END
+People.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/32257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/People.java
+END
+NativeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/NativeMap.java
+END
+CrossRepositoryCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/CrossRepositoryCopy.java
+END
+AVMScriptStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/AVMScriptStore.java
+END
+Imap.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/Imap.java
+END
+AVMNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/AVMNode.java
+END
+ScriptableHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/ScriptableHashMap.java
+END
+test_childfilefolders.js
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/16980/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/jscript/test_childfilefolders.js
+END

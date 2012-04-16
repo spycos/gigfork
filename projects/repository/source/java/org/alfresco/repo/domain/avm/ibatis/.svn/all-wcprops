@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/ibatis
+END
+AVMNodeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/ibatis/AVMNodeDAOImpl.java
+END
+AVMNodeLinksDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/ibatis/AVMNodeLinksDAOImpl.java
+END
+AVMLockDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/ibatis/AVMLockDAOImpl.java
+END
+AVMVersionRootDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/ibatis/AVMVersionRootDAOImpl.java
+END
+AVMStoreDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/avm/ibatis/AVMStoreDAOImpl.java
+END

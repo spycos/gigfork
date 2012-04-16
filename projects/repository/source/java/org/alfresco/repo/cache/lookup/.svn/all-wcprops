@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/31102/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cache/lookup
+END
+EntityLookupCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/31102/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cache/lookup/EntityLookupCache.java
+END
+EntityLookupCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/cache/lookup/EntityLookupCacheTest.java
+END

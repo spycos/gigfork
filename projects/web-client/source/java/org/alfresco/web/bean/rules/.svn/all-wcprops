@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules
+END
+CreateCompositeRuleWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/CreateCompositeRuleWizard.java
+END
+DeleteRuleDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/DeleteRuleDialog.java
+END
+RulesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/RulesDialog.java
+END
+CreateRuleWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/CreateRuleWizard.java
+END
+EditRuleWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/23059/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/EditRuleWizard.java
+END

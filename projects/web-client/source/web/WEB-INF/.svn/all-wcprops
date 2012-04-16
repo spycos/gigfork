@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF
+END
+alfresco.tld
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/15298/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/alfresco.tld
+END
+faces-config-navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/7976/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-navigation.xml
+END
+faces-config-repo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-repo.xml
+END
+repo.tld
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/17906/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/repo.tld
+END
+portlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/8345/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/portlet.xml
+END
+jboss-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/14106/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/jboss-web.xml
+END
+faces-config-custom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-custom.xml
+END
+sun-jaxws.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/sun-jaxws.xml
+END
+web-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/web-application-context.xml
+END
+alfresco-object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/alfresco-object.xml
+END
+faces-config-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-app.xml
+END
+faces-config-enterprise.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-enterprise.xml
+END
+c.tld
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/c.tld
+END
+chiba.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/6717/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/chiba.xml
+END
+jboss-portlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/jboss-portlet.xml
+END
+faces-config-wcm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-wcm.xml
+END
+wcm.tld
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/wcm.tld
+END
+faces-config-jbpm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-jbpm.xml
+END
+faces-config-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7976/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-common.xml
+END
+faces-config-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/faces-config-beans.xml
+END
+liferay-plugin-package.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19470/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/liferay-plugin-package.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/web/WEB-INF/web.xml
+END

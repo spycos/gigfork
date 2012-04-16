@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/32958/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/access
+END
+NodeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/access/NodeInfo.java
+END
+AccessAuditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29863/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/access/AccessAuditor.java
+END
+AccessAuditorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/access/AccessAuditorTest.java
+END
+NodeInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/access/NodeInfoFactory.java
+END
+NodeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29802/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/access/NodeChange.java
+END
+NodeChangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32958/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/audit/access/NodeChangeTest.java
+END

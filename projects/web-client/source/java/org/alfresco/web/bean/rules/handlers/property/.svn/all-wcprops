@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/property
+END
+DatePropertyValueConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/property/DatePropertyValueConditionHandler.java
+END
+IntegerPropertyValueConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/property/IntegerPropertyValueConditionHandler.java
+END
+TextPropertyValueConditionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/rules/handlers/property/TextPropertyValueConditionHandler.java
+END

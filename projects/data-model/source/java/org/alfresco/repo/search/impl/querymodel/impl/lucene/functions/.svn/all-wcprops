@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions
+END
+LuceneGreaterThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneGreaterThan.java
+END
+LuceneFTSWildTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneFTSWildTerm.java
+END
+LuceneIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneIn.java
+END
+LucenePropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LucenePropertyAccessor.java
+END
+LuceneDescendant.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/30557/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneDescendant.java
+END
+LuceneFTSRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneFTSRange.java
+END
+LuceneNotEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneNotEquals.java
+END
+LuceneScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneScore.java
+END
+LuceneExists.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneExists.java
+END
+LuceneGreaterThanOrEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneGreaterThanOrEquals.java
+END
+LuceneLessThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneLessThan.java
+END
+LuceneFTSProximity.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/32009/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneFTSProximity.java
+END
+LuceneChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/30557/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneChild.java
+END
+LuceneFTSTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneFTSTerm.java
+END
+LuceneLike.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneLike.java
+END
+LuceneLower.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneLower.java
+END
+LuceneEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneEquals.java
+END
+LuceneUpper.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneUpper.java
+END
+LuceneFTSFuzzyTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneFTSFuzzyTerm.java
+END
+LuceneLessThanOrEquals.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneLessThanOrEquals.java
+END
+LuceneFTSPhrase.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneFTSPhrase.java
+END
+LuceneFTSPrefixTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/functions/LuceneFTSPrefixTerm.java
+END

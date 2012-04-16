@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/source/java/org/apache/lucene/search
+END
+TermScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/source/java/org/apache/lucene/search/TermScorer.java
+END
+TermQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/source/java/org/apache/lucene/search/TermQuery.java
+END

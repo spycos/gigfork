@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets
+END
+checkedout-docs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/checkedout-docs.jsp
+END
+myspaces-webscript.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/myspaces-webscript.jsp
+END
+getting-started.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/getting-started.jsp
+END
+mywebfiles-webscript.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/mywebfiles-webscript.jsp
+END
+opensearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/opensearch.jsp
+END
+my-images.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/my-images.jsp
+END
+mywebforms-webscript.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/mywebforms-webscript.jsp
+END
+my-docs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/my-docs.jsp
+END
+mytasks-webscript.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/mytasks-webscript.jsp
+END
+doclist-webscript.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dashboards/dashlets/doclist-webscript.jsp
+END

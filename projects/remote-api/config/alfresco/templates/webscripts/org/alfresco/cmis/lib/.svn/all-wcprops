@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29279/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/lib
+END
+modify.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/lib/modify.lib.js
+END
+links.lib.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/24910/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/lib/links.lib.atom.ftl
+END
+ns.lib.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/lib/ns.lib.atom.ftl
+END
+atomentry.lib.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/23233/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/lib/atomentry.lib.atom.ftl
+END
+read.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29279/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/lib/read.lib.js
+END
+atomfeed.lib.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/lib/atomfeed.lib.atom.ftl
+END
+constants.lib.js
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/17259/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/lib/constants.lib.js
+END

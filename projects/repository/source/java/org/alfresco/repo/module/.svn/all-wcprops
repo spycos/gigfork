@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/34673/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module
+END
+ComponentsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ComponentsTest.java
+END
+LoggerModuleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/LoggerModuleComponent.java
+END
+ModuleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ModuleComponent.java
+END
+ModuleComponentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30277/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ModuleComponentHelper.java
+END
+ModuleComponentHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/34673/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ModuleComponentHelperTest.java
+END
+ModuleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ModuleServiceImpl.java
+END
+ImporterModuleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ImporterModuleComponent.java
+END
+ModuleStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/25016/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ModuleStarter.java
+END
+AbstractModuleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/AbstractModuleComponent.java
+END
+ModuleDetailsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33707/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ModuleDetailsImpl.java
+END
+ModuleDetailsImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33707/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/ModuleDetailsImplTest.java
+END

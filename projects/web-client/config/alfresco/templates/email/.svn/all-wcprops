@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/email
+END
+notify_user_email.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/email/notify_user_email.ftl
+END
+invite_user_email.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/email/invite_user_email.ftl
+END

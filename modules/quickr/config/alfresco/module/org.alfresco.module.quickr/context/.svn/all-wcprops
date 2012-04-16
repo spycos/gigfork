@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr/context
+END
+lotus.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr/context/lotus.properties
+END
+custom-lotus-ws-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr/context/custom-lotus-ws-context.xml.sample
+END
+custom-lotus.properties.sample
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr/context/custom-lotus.properties.sample
+END
+lotus-ws-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr/context/lotus-ws-context.xml
+END

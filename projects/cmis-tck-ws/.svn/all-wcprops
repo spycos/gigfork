@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/cmis-tck-ws
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/28139/alfresco/HEAD/root/projects/cmis-tck-ws/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/19270/alfresco/HEAD/root/projects/cmis-tck-ws/build.xml
+END

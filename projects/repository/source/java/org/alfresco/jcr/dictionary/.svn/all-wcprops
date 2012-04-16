@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary
+END
+PropertyDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/PropertyDefinitionImpl.java
+END
+NodeDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/NodeDefinitionImpl.java
+END
+NodeTypeNameIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/NodeTypeNameIterator.java
+END
+ClassMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/20885/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/ClassMap.java
+END
+NodeTypeManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/NodeTypeManagerImpl.java
+END
+NamespaceRegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/NamespaceRegistryImpl.java
+END
+DataTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28480/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/DataTypeMap.java
+END
+NodeTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/NodeTypeImpl.java
+END
+JCRNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/JCRNamespace.java
+END
+JCRNamespacePrefixResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/JCRNamespacePrefixResolver.java
+END
+VersionableMixin.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/dictionary/VersionableMixin.java
+END

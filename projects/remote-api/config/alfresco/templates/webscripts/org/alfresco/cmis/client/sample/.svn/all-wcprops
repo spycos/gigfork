@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30739/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample
+END
+cmisdocbrowser.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisdocbrowser.get.desc.xml
+END
+cmissamples.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmissamples.post.js
+END
+cmissamples.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmissamples.post.desc.xml
+END
+cmiscreatefolder.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmiscreatefolder.get.html.ftl
+END
+cmissamples.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmissamples.get.html.ftl
+END
+cmiscurrent.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmiscurrent.get.js
+END
+cmisserver.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisserver.get.html.ftl
+END
+cmisdownload.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisdownload.get.html.ftl
+END
+cmiscurrent.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmiscurrent.get.desc.xml
+END
+cmisdocbrowser.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/30739/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisdocbrowser.get.html.ftl
+END
+cmisupload.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisupload.get.desc.xml
+END
+cmissamples.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmissamples.post.html.ftl
+END
+cmisupload.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisupload.post.js
+END
+cmisupload.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisupload.post.desc.xml
+END
+cmiscurrent.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmiscurrent.get.html.ftl
+END
+cmiscreatefolder.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmiscreatefolder.get.js
+END
+cmiscreatefolder.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmiscreatefolder.get.desc.xml
+END
+cmisupload.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisupload.get.html.ftl
+END
+cmissamples.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmissamples.get.js
+END
+cmissamples.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmissamples.get.desc.xml
+END
+cmisserver.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisserver.get.js
+END
+cmisupload.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisupload.post.html.ftl
+END
+cmisdownload.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisdownload.get.js
+END
+cmisserver.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisserver.get.desc.xml
+END
+cmisdownload.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisdownload.get.desc.xml
+END
+cmisdocbrowser.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/cmis/client/sample/cmisdocbrowser.get.js
+END

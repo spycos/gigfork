@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/31238/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/reportd
+END
+TransferDestinationReport.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/22161/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/reportd/TransferDestinationReport.xsd
+END
+XMLTransferDestinationReportWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/31238/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/reportd/XMLTransferDestinationReportWriter.java
+END
+TransferDestinationReportModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/22161/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/reportd/TransferDestinationReportModel.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22161/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/reportd/package-info.java
+END

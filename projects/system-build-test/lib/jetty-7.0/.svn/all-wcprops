@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0
+END
+jetty-all-7.3.0.v20110203-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-all-7.3.0.v20110203-sources.jar
+END
+jetty-deploy-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-deploy-7.3.0.v20110203.jar
+END
+jetty-annotations-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-annotations-7.3.0.v20110203.jar
+END
+jetty-jmx-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-jmx-7.3.0.v20110203.jar
+END
+jetty-policy-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-policy-7.3.0.v20110203.jar
+END
+jetty-xml-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-xml-7.3.0.v20110203.jar
+END
+jetty-server-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-server-7.3.0.v20110203.jar
+END
+jetty-io-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-io-7.3.0.v20110203.jar
+END
+jetty-security-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-security-7.3.0.v20110203.jar
+END
+jetty-servlets-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-servlets-7.3.0.v20110203.jar
+END
+jetty-ajp-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-ajp-7.3.0.v20110203.jar
+END
+jetty-continuation-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-continuation-7.3.0.v20110203.jar
+END
+jetty-util-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-util-7.3.0.v20110203.jar
+END
+jetty-webapp-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-webapp-7.3.0.v20110203.jar
+END
+jetty-client-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-client-7.3.0.v20110203.jar
+END
+jetty-http-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-http-7.3.0.v20110203.jar
+END
+servlet-api-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/servlet-api-2.5.jar
+END
+jetty-rewrite-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-rewrite-7.3.0.v20110203.jar
+END
+jetty-plus-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-plus-7.3.0.v20110203.jar
+END
+jetty-servlet-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-servlet-7.3.0.v20110203.jar
+END
+jetty-jndi-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-jndi-7.3.0.v20110203.jar
+END
+jetty-websocket-7.3.0.v20110203.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28217/alfresco/HEAD/root/projects/system-build-test/lib/jetty-7.0/jetty-websocket-7.3.0.v20110203.jar
+END

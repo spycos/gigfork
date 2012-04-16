@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/kerberos
+END
+kerberos-filter-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/kerberos/kerberos-filter-context.xml
+END
+kerberos-filter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/kerberos/kerberos-filter.properties
+END

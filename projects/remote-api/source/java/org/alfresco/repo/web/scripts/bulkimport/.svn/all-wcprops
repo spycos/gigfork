@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bulkimport
+END
+AbstractBulkFileSystemImportWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32975/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bulkimport/AbstractBulkFileSystemImportWebScript.java
+END
+BulkFilesystemImportStatusWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/bulkimport/BulkFilesystemImportStatusWebScript.java
+END

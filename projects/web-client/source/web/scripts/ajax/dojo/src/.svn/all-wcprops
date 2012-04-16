@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src
+END
+storage.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/storage.js
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/html.js
+END
+hostenv_svg.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/hostenv_svg.js
+END
+io.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/io.js
+END
+AdapterRegistry.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/AdapterRegistry.js
+END
+a11y.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/a11y.js
+END
+animation.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/animation.js
+END
+ns.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/ns.js
+END
+crypto.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/crypto.js
+END
+hostenv_jsc.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/hostenv_jsc.js
+END
+hostenv_rhino.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/hostenv_rhino.js
+END
+math.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/math.js
+END
+validate.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/validate.js
+END
+browser_debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/browser_debug.js
+END
+regexp.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/regexp.js
+END
+hostenv_dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/hostenv_dashboard.js
+END
+svg.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/svg.js
+END
+bootstrap2.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/bootstrap2.js
+END
+style.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/style.js
+END
+profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/profile.js
+END
+loader_xd.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/loader_xd.js
+END
+string.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/string.js
+END
+loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/loader.js
+END
+hostenv_wsh.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/hostenv_wsh.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/data.js
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/json.js
+END
+DeferredList.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/DeferredList.js
+END
+date.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/date.js
+END
+dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/dom.js
+END
+hostenv_spidermonkey.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/hostenv_spidermonkey.js
+END
+Deferred.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/Deferred.js
+END
+lang.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/lang.js
+END
+event.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/event.js
+END
+iCalendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/iCalendar.js
+END
+debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/debug.js
+END
+docs.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/docs.js
+END
+hostenv_browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/hostenv_browser.js
+END
+flash.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/flash.js
+END
+experimental.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/experimental.js
+END
+bootstrap1.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/bootstrap1.js
+END
+behavior.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/behavior.js
+END
+hostenv_adobesvg.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/web-client/source/web/scripts/ajax/dojo/src/hostenv_adobesvg.js
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/quickr
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/alfresco-open-mirror/!svn/ver/28529/alfresco/HEAD/root/modules/quickr/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/.project
+END
+README_quickr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/21621/alfresco/HEAD/root/modules/quickr/README_quickr.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/alfresco-open-mirror/!svn/ver/29382/alfresco/HEAD/root/modules/quickr/build.xml
+END

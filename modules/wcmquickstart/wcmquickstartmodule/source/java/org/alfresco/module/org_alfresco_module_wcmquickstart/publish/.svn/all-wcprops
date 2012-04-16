@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/30494/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish
+END
+UpwardsSectionFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/UpwardsSectionFinder.java
+END
+PublishBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/PublishBootstrap.java
+END
+TransferPathMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/TransferPathMapper.java
+END
+RenditionsFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/23233/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/RenditionsFinder.java
+END
+PublishTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/PublishTest.java
+END
+ExistingNodeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/ExistingNodeFilter.java
+END
+WebAssetCollectionPublishingFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/WebAssetCollectionPublishingFinder.java
+END
+WqsNodeCrawlerConfigurerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/alfresco-open-mirror/!svn/ver/23027/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/WqsNodeCrawlerConfigurerImpl.java
+END
+PublishServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/30494/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/PublishServiceImpl.java
+END
+ArticleImageFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/ArticleImageFinder.java
+END
+IndexPageSectionFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/IndexPageSectionFinder.java
+END
+CriticalSectionInfoFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/repos/alfresco-open-mirror/!svn/ver/23233/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/CriticalSectionInfoFinder.java
+END
+InProcessTransmitterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/InProcessTransmitterImpl.java
+END
+DownwardsSectionFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/DownwardsSectionFinder.java
+END
+PublishService.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/PublishService.java
+END
+NodeRefMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/alfresco-open-mirror/!svn/ver/22661/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/NodeRefMapperTest.java
+END
+NodeRefMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/22661/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/NodeRefMapper.java
+END
+WebPublishingManifestNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/repos/alfresco-open-mirror/!svn/ver/30494/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/WebPublishingManifestNodeFactory.java
+END
+NodeCrawlerConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/alfresco-open-mirror/!svn/ver/23027/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/NodeCrawlerConfigurer.java
+END
+CheckedOutNodeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/publish/CheckedOutNodeFilter.java
+END

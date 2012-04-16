@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp
+END
+FTPDataSessionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPDataSessionTable.java
+END
+FTPSiteInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPSiteInterface.java
+END
+FTPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPServer.java
+END
+FTPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPRequest.java
+END
+InvalidPathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/InvalidPathException.java
+END
+FTPAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPAuthenticator.java
+END
+FTPConfigSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPConfigSection.java
+END
+LocalAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/LocalAuthenticator.java
+END
+FTPPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPPath.java
+END
+FTPDataSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPDataSession.java
+END
+FTPDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPDate.java
+END
+FTPCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPCommand.java
+END
+FTPSrvSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPSrvSession.java
+END
+FTPSessionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/ftp/FTPSessionList.java
+END

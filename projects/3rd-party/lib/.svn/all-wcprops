@@ -1,0 +1,905 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/alfresco-open-mirror/!svn/ver/35232/alfresco/HEAD/root/projects/3rd-party/lib
+END
+org.springframework.aop-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.aop-3.0.5.RELEASE.jar
+END
+bcel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/bcel.jar
+END
+vorbis-java-core-0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/33780/alfresco/HEAD/root/projects/3rd-party/lib/vorbis-java-core-0.1.jar
+END
+vorbis-java-tika-0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/33780/alfresco/HEAD/root/projects/3rd-party/lib/vorbis-java-tika-0.1.jar
+END
+resolver-20050927.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/resolver-20050927.jar
+END
+tika-core-1.2-20120405.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/35112/alfresco/HEAD/root/projects/3rd-party/lib/tika-core-1.2-20120405.jar
+END
+acegi-security-0.8.2_patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/32821/alfresco/HEAD/root/projects/3rd-party/lib/acegi-security-0.8.2_patched.jar
+END
+concurrentlinkedhashmap-lru-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/33990/alfresco/HEAD/root/projects/3rd-party/lib/concurrentlinkedhashmap-lru-1.2.jar
+END
+stax-utils-20060502.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/stax-utils-20060502.jar
+END
+jcr-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/jcr-1.0.jar
+END
+hibernate-3.2.6-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/3rd-party/lib/hibernate-3.2.6-patched.jar
+END
+org.springframework.beans-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.beans-3.0.5.RELEASE.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/jakarta-oro-2.0.8.jar
+END
+httpclient-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/29542/alfresco/HEAD/root/projects/3rd-party/lib/httpclient-4.1.1.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/jta.jar
+END
+jid3lib-0.5.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/18463/alfresco/HEAD/root/projects/3rd-party/lib/jid3lib-0.5.4.jar
+END
+FastInfoset-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/FastInfoset-1.2.2.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/jaxrpc.jar
+END
+guessencoding-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/5596/alfresco/HEAD/root/projects/3rd-party/lib/guessencoding-1.0.jar
+END
+xml-resolver-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/xml-resolver-1.2.jar
+END
+jug-asl-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/19297/alfresco/HEAD/root/projects/3rd-party/lib/jug-asl-2.0.0.jar
+END
+geronimo-jaxws_2.1_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/3rd-party/lib/geronimo-jaxws_2.1_spec-1.0.jar
+END
+chemistry-opencmis-server-support-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-server-support-0.6.0.jar
+END
+myfaces-api-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/3rd-party/lib/myfaces-api-1.1.8.jar
+END
+truezip.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/4954/alfresco/HEAD/root/projects/3rd-party/lib/truezip.jar
+END
+geronimo-activation_1.1_spec-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/geronimo-activation_1.1_spec-1.0.2.jar
+END
+axis-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/6741/alfresco/HEAD/root/projects/3rd-party/lib/axis-1.4.jar
+END
+PDFRenderer-0.9.1-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/3rd-party/lib/PDFRenderer-0.9.1-patched.jar
+END
+ooxml-schemas-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/22540/alfresco/HEAD/root/projects/3rd-party/lib/ooxml-schemas-1.1.jar
+END
+jaxws-rt-2.1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/jaxws-rt-2.1.7.jar
+END
+wss4j-1.5.4-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/21628/alfresco/HEAD/root/projects/3rd-party/lib/wss4j-1.5.4-patched.jar
+END
+htmlparser-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/htmlparser-1.6.jar
+END
+XmlSchema-1.4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/3rd-party/lib/XmlSchema-1.4.5.jar
+END
+boilerpipe-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/3rd-party/lib/boilerpipe-1.1.0.jar
+END
+org.springframework.web.servlet-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.web.servlet-3.0.5.RELEASE.jar
+END
+pdfbox-1.6.0-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/3rd-party/lib/pdfbox-1.6.0-patched.jar
+END
+hazelcast-1.9.4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/3rd-party/lib/hazelcast-1.9.4.6.jar
+END
+facebook_070716.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/projects/3rd-party/lib/facebook_070716.jar
+END
+JSlideShare-0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/28910/alfresco/HEAD/root/projects/3rd-party/lib/JSlideShare-0.6.jar
+END
+quartz-1.8.3-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/3rd-party/lib/quartz-1.8.3-patched.jar
+END
+jempbox-1.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/3rd-party/lib/jempbox-1.6.0.jar
+END
+chemistry-opencmis-client-api-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-client-api-0.6.0.jar
+END
+jtds-1.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/3rd-party/lib/jtds-1.2.5.jar
+END
+urlrewritefilter-3.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/17789/alfresco/HEAD/root/projects/3rd-party/lib/urlrewritefilter-3.1.0.jar
+END
+xmlbeans-2.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/18447/alfresco/HEAD/root/projects/3rd-party/lib/xmlbeans-2.3.0.jar
+END
+org.springframework.transaction-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.transaction-3.0.5.RELEASE.jar
+END
+org.springframework.core-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.core-3.0.5.RELEASE.jar
+END
+chemistry-opencmis-test-tck-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-test-tck-0.6.0.jar
+END
+isoparser-1.0-beta-5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/33780/alfresco/HEAD/root/projects/3rd-party/lib/isoparser-1.0-beta-5.jar
+END
+fontbox-1.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/3rd-party/lib/fontbox-1.6.0.jar
+END
+alfresco-opencmis-extension-0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/3rd-party/lib/alfresco-opencmis-extension-0.3.jar
+END
+mimepull-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/mimepull-1.3.jar
+END
+org.springframework.expression-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.expression-3.0.5.RELEASE.jar
+END
+odmg-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/odmg-3.0.jar
+END
+apache-solr-solrj-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/29179/alfresco/HEAD/root/projects/3rd-party/lib/apache-solr-solrj-1.4.1.jar
+END
+antlr-3.3-complete.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/3rd-party/lib/antlr-3.3-complete.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/standard.jar
+END
+jackson-core-asl-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/29085/alfresco/HEAD/root/projects/3rd-party/lib/jackson-core-asl-1.8.3.jar
+END
+commons-modeler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/commons-modeler.jar
+END
+xmlrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/7601/alfresco/HEAD/root/projects/3rd-party/lib/xmlrpc.jar
+END
+icu4j_3_6_1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/5891/alfresco/HEAD/root/projects/3rd-party/lib/icu4j_3_6_1.jar
+END
+json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/18314/alfresco/HEAD/root/projects/3rd-party/lib/json.jar
+END
+geronimo-ws-metadata_2.0_spec-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/geronimo-ws-metadata_2.0_spec-1.1.2.jar
+END
+xercesImpl-2.8.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/xercesImpl-2.8.0.jar
+END
+httpclient-cache-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/29542/alfresco/HEAD/root/projects/3rd-party/lib/httpclient-cache-4.1.1.jar
+END
+junit-dep-4.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/34380/alfresco/HEAD/root/projects/3rd-party/lib/junit-dep-4.10.jar
+END
+org.springframework.orm-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.orm-3.0.5.RELEASE.jar
+END
+poi-ooxml-3.9-beta1-20120329.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/34883/alfresco/HEAD/root/projects/3rd-party/lib/poi-ooxml-3.9-beta1-20120329.jar
+END
+org.springframework.context.support-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.context.support-3.0.5.RELEASE.jar
+END
+geronimo-stax-api_1.0_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/geronimo-stax-api_1.0_spec-1.0.1.jar
+END
+jsr181-api-1.0-MR1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/jsr181-api-1.0-MR1.jar
+END
+hazelcast-spring-1.9.4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/3rd-party/lib/hazelcast-spring-1.9.4.6.jar
+END
+xmlsec-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/7373/alfresco/HEAD/root/projects/3rd-party/lib/xmlsec-1.4.1.jar
+END
+lucene-snowball-2.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/13624/alfresco/HEAD/root/projects/3rd-party/lib/lucene-snowball-2.4.1.jar
+END
+scannotation-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/33788/alfresco/HEAD/root/projects/3rd-party/lib/scannotation-1.0.2.jar
+END
+json-simple-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/json-simple-1.1.jar
+END
+javassist-3.6.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/33788/alfresco/HEAD/root/projects/3rd-party/lib/javassist-3.6.0.GA.jar
+END
+chemistry-tck-atompub-0.1-incubating-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/22924/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-tck-atompub-0.1-incubating-SNAPSHOT.jar
+END
+rome-0.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/3rd-party/lib/rome-0.9.jar
+END
+jsr107cache-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/9233/alfresco/HEAD/root/projects/3rd-party/lib/jsr107cache-1.0.jar
+END
+shale-test-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/6749/alfresco/HEAD/root/projects/3rd-party/lib/shale-test-1.0.4.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/aopalliance.jar
+END
+jooconverter-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/4655/alfresco/HEAD/root/projects/3rd-party/lib/jooconverter-2.1.0.jar
+END
+mockito-all-1.8.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/15746/alfresco/HEAD/root/projects/3rd-party/lib/mockito-all-1.8.0.jar
+END
+tagsoup-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/20634/alfresco/HEAD/root/projects/3rd-party/lib/tagsoup-1.2.jar
+END
+lucene-analyzers-2.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/13624/alfresco/HEAD/root/projects/3rd-party/lib/lucene-analyzers-2.4.1.jar
+END
+cxf-2.2.2-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/19340/alfresco/HEAD/root/projects/3rd-party/lib/cxf-2.2.2-patched.jar
+END
+org.springframework.jdbc-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.jdbc-3.0.5.RELEASE.jar
+END
+chemistry-opencmis-client-bindings-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-client-bindings-0.6.0.jar
+END
+httpcore-4.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/29542/alfresco/HEAD/root/projects/3rd-party/lib/httpcore-4.1.3.jar
+END
+jutf7-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/3rd-party/lib/jutf7-1.0.0.jar
+END
+myfaces-impl-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/28631/alfresco/HEAD/root/projects/3rd-party/lib/myfaces-impl-1.1.8.jar
+END
+bcprov-jdk15-1.45.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/20634/alfresco/HEAD/root/projects/3rd-party/lib/bcprov-jdk15-1.45.jar
+END
+chemistry-opencmis-client-impl-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-client-impl-0.6.0.jar
+END
+tika-parsers-1.2-20120405.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/35112/alfresco/HEAD/root/projects/3rd-party/lib/tika-parsers-1.2-20120405.jar
+END
+jaxws-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/jaxws-api-2.1.jar
+END
+lucene-core-2.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/13624/alfresco/HEAD/root/projects/3rd-party/lib/lucene-core-2.4.1.jar
+END
+subethasmtp-3.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/30913/alfresco/HEAD/root/projects/3rd-party/lib/subethasmtp-3.1.6.jar
+END
+mybatis-spring-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/mybatis-spring-1.0.1.jar
+END
+netcdf-4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/3rd-party/lib/netcdf-4.2.jar
+END
+joda-time-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/joda-time-1.2.1.jar
+END
+slf4j-api-1.5.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/19268/alfresco/HEAD/root/projects/3rd-party/lib/slf4j-api-1.5.11.jar
+END
+chemistry-opencmis-server-bindings-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-server-bindings-0.6.0.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/14279/alfresco/HEAD/root/projects/3rd-party/lib/mail.jar
+END
+poi-3.9-beta1-20120329.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/34883/alfresco/HEAD/root/projects/3rd-party/lib/poi-3.9-beta1-20120329.jar
+END
+chemistry-opencmis-commons-impl-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-commons-impl-0.6.0.jar
+END
+chemistry-opencmis-commons-api-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-commons-api-0.6.0.jar
+END
+org.springframework.web-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.web-3.0.5.RELEASE.jar
+END
+org.springframework.asm-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.asm-3.0.5.RELEASE.jar
+END
+jstl-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/5334/alfresco/HEAD/root/projects/3rd-party/lib/jstl-1.1.0.jar
+END
+greenmail-1.3-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/33329/alfresco/HEAD/root/projects/3rd-party/lib/greenmail-1.3-patched.jar
+END
+jaxb-xjc-2.1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/3rd-party/lib/jaxb-xjc-2.1.7.jar
+END
+org.springframework.context-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28904/alfresco/HEAD/root/projects/3rd-party/lib/org.springframework.context-3.0.5.RELEASE.jar
+END
+chiba-1.3.0-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/3rd-party/lib/chiba-1.3.0-patched.jar
+END
+wsdl4j-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/3rd-party/lib/wsdl4j-1.6.2.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/dom4j-1.6.1.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/20634/alfresco/HEAD/root/projects/3rd-party/lib/asm-3.1.jar
+END
+xpp3-1.1.3_8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/xpp3-1.1.3_8.jar
+END
+stax-api-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/stax-api-1.0.1.jar
+END
+lucene-regex-2.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/18790/alfresco/HEAD/root/projects/3rd-party/lib/lucene-regex-2.4.1.jar
+END
+apache-mime4j-dom-0.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/34883/alfresco/HEAD/root/projects/3rd-party/lib/apache-mime4j-dom-0.7.2.jar
+END
+slf4j-log4j12-1.5.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/19268/alfresco/HEAD/root/projects/3rd-party/lib/slf4j-log4j12-1.5.11.jar
+END
+ant-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/18637/alfresco/HEAD/root/projects/3rd-party/lib/ant-1.7.1.jar
+END
+stax-ex-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/stax-ex-1.2.jar
+END
+bcmail-jdk15-1.45.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/20634/alfresco/HEAD/root/projects/3rd-party/lib/bcmail-jdk15-1.45.jar
+END
+jaxb-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/3rd-party/lib/jaxb-api-2.1.jar
+END
+streambuffer-0.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/streambuffer-0.9.jar
+END
+jackson-mapper-asl-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/29085/alfresco/HEAD/root/projects/3rd-party/lib/jackson-mapper-asl-1.8.3.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/activation-1.1.jar
+END
+jaxb-impl-2.1.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/jaxb-impl-2.1.11.jar
+END
+jaxen-1.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/3rd-party/lib/jaxen-1.1.3.jar
+END
+rhino-js-1.6R7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/13573/alfresco/HEAD/root/projects/3rd-party/lib/rhino-js-1.6R7.jar
+END
+opensaml-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/opensaml-1.0.1.jar
+END
+bsf-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/bsf-2.4.0.jar
+END
+neethi-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/neethi-2.0.4.jar
+END
+geronimo-annotation_1.0_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/geronimo-annotation_1.0_spec-1.1.1.jar
+END
+mybatis-3.0.4-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/32599/alfresco/HEAD/root/projects/3rd-party/lib/mybatis-3.0.4-patched.jar
+END
+drew-image-metadata-extractor-2.4.0-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/20634/alfresco/HEAD/root/projects/3rd-party/lib/drew-image-metadata-extractor-2.4.0-beta-1.jar
+END
+cglib-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/20641/alfresco/HEAD/root/projects/3rd-party/lib/cglib-2.2.jar
+END
+addressing-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/addressing-1.0.jar
+END
+chemistry-opencmis-test-browser-0.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/32767/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-opencmis-test-browser-0.6.0.jar
+END
+freemarker-2.3.18-patched.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/30269/alfresco/HEAD/root/projects/3rd-party/lib/freemarker-2.3.18-patched.jar
+END
+hrtlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/3rd-party/lib/hrtlib.jar
+END
+wstx-asl-3.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/10723/alfresco/HEAD/root/projects/3rd-party/lib/wstx-asl-3.2.4.jar
+END
+jsr250-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/jsr250-api-1.0.jar
+END
+bliki-3.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/8398/alfresco/HEAD/root/projects/3rd-party/lib/bliki-3.0.2.jar
+END
+apache-mime4j-core-0.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/34883/alfresco/HEAD/root/projects/3rd-party/lib/apache-mime4j-core-0.7.2.jar
+END
+chemistry-abdera-0.1-incubating-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/3rd-party/lib/chemistry-abdera-0.1-incubating-SNAPSHOT.jar
+END
+ehcache-core-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/19324/alfresco/HEAD/root/projects/3rd-party/lib/ehcache-core-2.0.0.jar
+END
+poi-scratchpad-3.9-beta1-20120329.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/34883/alfresco/HEAD/root/projects/3rd-party/lib/poi-scratchpad-3.9-beta1-20120329.jar
+END

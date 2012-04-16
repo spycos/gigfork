@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/ibatis
+END
+SizeCurrentParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/ibatis/SizeCurrentParams.java
+END
+AppliedPatchDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28282/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/ibatis/AppliedPatchDAOImpl.java
+END
+PatchDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/ibatis/PatchDAOImpl.java
+END
+IdListOfIdsParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/ibatis/IdListOfIdsParam.java
+END

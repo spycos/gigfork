@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/5037/alfresco/HEAD/root/projects/sdk/samples/BasicAmpSample/config/alfresco/module/sdkDemoAmp
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/5035/alfresco/HEAD/root/projects/sdk/samples/BasicAmpSample/config/alfresco/module/sdkDemoAmp/module.properties
+END
+module-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/5035/alfresco/HEAD/root/projects/sdk/samples/BasicAmpSample/config/alfresco/module/sdkDemoAmp/module-context.xml
+END

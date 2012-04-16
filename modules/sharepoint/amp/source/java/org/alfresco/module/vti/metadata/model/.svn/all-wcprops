@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/33923/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model
+END
+TimeZoneInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/32748/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/TimeZoneInformation.java
+END
+ListBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33923/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/ListBean.java
+END
+MwsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/MwsTemplate.java
+END
+ListTypeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/31761/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/ListTypeBean.java
+END
+DocumentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/DocumentBean.java
+END
+UserBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/UserBean.java
+END
+DocumentVersionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/DocumentVersionBean.java
+END
+MwsStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/MwsStatus.java
+END
+DocsMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/DocsMetaInfo.java
+END
+ListInfoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/33923/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/ListInfoBean.java
+END
+MeetingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/MeetingBean.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/Document.java
+END
+MeetingsInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/MeetingsInformation.java
+END
+LinkBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/LinkBean.java
+END
+DwsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31753/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/DwsBean.java
+END
+AssigneeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/AssigneeBean.java
+END
+SchemaBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/SchemaBean.java
+END
+DwsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31661/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/DwsData.java
+END
+DocMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/DocMetaInfo.java
+END
+TaskBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/TaskBean.java
+END
+SchemaFieldBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/SchemaFieldBean.java
+END
+MemberBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/MemberBean.java
+END
+DwsMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/DwsMetadata.java
+END
+TimeZoneInformationDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/metadata/model/TimeZoneInformationDate.java
+END

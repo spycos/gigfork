@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/plugins/table/js
+END
+row.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/plugins/table/js/row.js
+END
+table.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/plugins/table/js/table.js
+END
+cell.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/plugins/table/js/cell.js
+END
+merge_cells.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/plugins/table/js/merge_cells.js
+END

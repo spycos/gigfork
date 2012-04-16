@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm
+END
+AVMPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/23029/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/AVMPath.java
+END
+AVMSingleFileSearchContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/AVMSingleFileSearchContext.java
+END
+WebProjectStorePseudoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/WebProjectStorePseudoFile.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/package-info.java
+END
+VersionPseudoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/VersionPseudoFile.java
+END
+PseudoFileListSearchContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/PseudoFileListSearchContext.java
+END
+DummyFolderPseudoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/DummyFolderPseudoFile.java
+END
+AVMContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/23031/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/AVMContext.java
+END
+AVMDiskDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/AVMDiskDriver.java
+END
+AVMShareMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29922/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/AVMShareMapper.java
+END
+StorePseudoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/StorePseudoFile.java
+END
+AVMNetworkFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/AVMNetworkFile.java
+END
+AVMSearchContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/AVMSearchContext.java
+END
+StoreType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/avm/StoreType.java
+END

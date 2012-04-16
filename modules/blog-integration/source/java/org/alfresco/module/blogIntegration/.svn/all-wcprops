@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration
+END
+BlogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BlogAction.java
+END
+DefaultBlogIntegrationImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/DefaultBlogIntegrationImplementation.java
+END
+BaseBlogIntegrationImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BaseBlogIntegrationImplementation.java
+END
+BlogIntegrationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BlogIntegrationModel.java
+END
+BlogIntegrationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BlogIntegrationService.java
+END
+BlogDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BlogDetails.java
+END
+BlogIntegrationRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BlogIntegrationRuntimeException.java
+END
+BlogIntegrationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BlogIntegrationServiceImpl.java
+END
+BlogIntegrationImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BlogIntegrationImplementation.java
+END
+BlogIntegrationServiceSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/blog-integration/source/java/org/alfresco/module/blogIntegration/BlogIntegrationServiceSystemTest.java
+END

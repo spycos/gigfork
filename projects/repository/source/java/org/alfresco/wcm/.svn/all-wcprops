@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm
+END
+WCMTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/29728/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/WCMTestSuite.java
+END
+WCMAspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/28995/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/WCMAspectTest.java
+END
+WCMConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29310/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/WCMConcurrentTest.java
+END
+AbstractWCMServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/33078/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/AbstractWCMServiceImplTest.java
+END

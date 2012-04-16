@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/controls/flexBookClasses
+END
+WBookPageImpl.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/controls/flexBookClasses/WBookPageImpl.as
+END
+FlexBookPage.as
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/controls/flexBookClasses/FlexBookPage.as
+END
+FlexBookEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/13552/alfresco/HEAD/root/modules/flex-sdk/samples/flipBook/src/qs/controls/flexBookClasses/FlexBookEvent.as
+END

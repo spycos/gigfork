@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification
+END
+wf-email.html_es.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31260/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification/wf-email.html_es.ftl
+END
+wf-email.html_fr.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31260/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification/wf-email.html_fr.ftl
+END
+wf-email.html_de.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31260/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification/wf-email.html_de.ftl
+END
+wf-email.html_nl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification/wf-email.html_nl.ftl
+END
+wf-email.html_ja.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31260/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification/wf-email.html_ja.ftl
+END
+workflow-email-notification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification/workflow-email-notification.xml
+END
+wf-email.html_it.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31260/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification/wf-email.html_it.ftl
+END
+wf-email.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31260/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/notification/wf-email.html.ftl
+END

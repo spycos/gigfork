@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/32901/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model
+END
+model-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/model-context.xml
+END
+webSiteModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/31497/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/webSiteModel.xml
+END
+website-model_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/30811/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/website-model_es.properties
+END
+website-model_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/website-model_fr.properties
+END
+website-model_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/31338/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/website-model_de.properties
+END
+website-model_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/32901/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/website-model_nl.properties
+END
+website-model_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/website-model_ja.properties
+END
+website-model_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/website-model_it.properties
+END
+website-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/29416/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/model/website-model.properties
+END

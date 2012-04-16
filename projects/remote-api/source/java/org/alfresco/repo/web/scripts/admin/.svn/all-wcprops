@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/admin
+END
+AbstractAdminWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/admin/AbstractAdminWebScript.java
+END
+RepoUsagePost.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/admin/RepoUsagePost.java
+END
+RepoUsageGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/admin/RepoUsageGet.java
+END
+AdminWebScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/admin/AdminWebScriptTest.java
+END
+RepoRestrictionsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/admin/RepoRestrictionsGet.java
+END

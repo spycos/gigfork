@@ -1,0 +1,34 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.1
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2010-06-25T20:55:21.469368Z
+20827
+dhulley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+org.hibernate.dialect.MySQLInnoDBDialect
+dir
+
+org.hibernate.dialect.PostgreSQLDialect
+dir
+

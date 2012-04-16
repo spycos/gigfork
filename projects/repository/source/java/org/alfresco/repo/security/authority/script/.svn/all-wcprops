@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/script
+END
+ScriptGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30935/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/script/ScriptGroup.java
+END
+ScriptUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28523/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/script/ScriptUser.java
+END
+Authority.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/script/Authority.java
+END
+ScriptAuthorityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/script/ScriptAuthorityService.java
+END
+ScriptAuthorityServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/script/ScriptAuthorityServiceTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/blogs
+END
+AllBlogTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28958/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/blogs/AllBlogTests.java
+END
+BlogServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/31192/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/blogs/BlogServiceTest.java
+END
+BlogLibJs.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31184/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/blogs/BlogLibJs.java
+END
+CommentsLibJs.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28606/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/blogs/CommentsLibJs.java
+END
+AbstractBlogWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/32500/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/blogs/AbstractBlogWebScript.java
+END
+BlogPostLibJs.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28606/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/blogs/BlogPostLibJs.java
+END

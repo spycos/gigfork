@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/32932/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor
+END
+FilteredFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FilteredFormProcessor.java
+END
+FormCreationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FormCreationData.java
+END
+FormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FormProcessor.java
+END
+FieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FieldProcessor.java
+END
+FormCreationDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FormCreationDataImpl.java
+END
+FormPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FormPersister.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/Filter.java
+END
+AbstractFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/AbstractFieldProcessor.java
+END
+AbstractFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/AbstractFormProcessor.java
+END
+FormCreationData.java.svntmp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/21565/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FormCreationData.java.svntmp
+END
+AbstractFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/AbstractFilter.java
+END
+FieldProcessorRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FieldProcessorRegistry.java
+END
+FormProcessorRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FormProcessorRegistry.java
+END
+FilterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/FilterRegistry.java
+END

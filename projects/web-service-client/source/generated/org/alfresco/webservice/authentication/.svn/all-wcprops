@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/5075/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authentication
+END
+AuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authentication/AuthenticationService.java
+END
+AuthenticationServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authentication/AuthenticationServiceLocator.java
+END
+AuthenticationServiceSoapPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authentication/AuthenticationServiceSoapPort.java
+END
+AuthenticationFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authentication/AuthenticationFault.java
+END
+AuthenticationServiceSoapBindingStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authentication/AuthenticationServiceSoapBindingStub.java
+END
+AuthenticationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/5075/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authentication/AuthenticationResult.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rendition
+END
+RenditionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19269/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rendition/RenditionDefinition.java
+END
+CompositeRenditionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/19806/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rendition/CompositeRenditionDefinition.java
+END
+RenditionPreventedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rendition/RenditionPreventedException.java
+END
+RenditionServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rendition/RenditionServiceException.java
+END
+RenderCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rendition/RenderCallback.java
+END
+RenderingEngineDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/19269/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rendition/RenderingEngineDefinition.java
+END
+RenditionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/rendition/RenditionService.java
+END

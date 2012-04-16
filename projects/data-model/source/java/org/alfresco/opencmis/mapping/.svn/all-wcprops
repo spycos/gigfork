@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping
+END
+FixedValueLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/FixedValueLuceneBuilder.java
+END
+AbstractSimpleLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/AbstractSimpleLuceneBuilder.java
+END
+ContentStreamMimetypeLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/ContentStreamMimetypeLuceneBuilder.java
+END
+AbstractLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/AbstractLuceneBuilder.java
+END
+ObjectIdLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/ObjectIdLuceneBuilder.java
+END
+CMISMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/CMISMapping.java
+END
+RuntimePropertyLuceneBuilderMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/RuntimePropertyLuceneBuilderMapping.java
+END
+ObjectTypeIdLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/ObjectTypeIdLuceneBuilder.java
+END
+NotSupportedLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/NotSupportedLuceneBuilder.java
+END
+ContentStreamLengthLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/ContentStreamLengthLuceneBuilder.java
+END
+BaseTypeIdLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/BaseTypeIdLuceneBuilder.java
+END
+ParentLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/ParentLuceneBuilder.java
+END
+DirectLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/mapping/DirectLuceneBuilder.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component
+END
+UISandboxSnapshots.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UISandboxSnapshots.java
+END
+UIFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/27950/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UIFormProcessor.java
+END
+UIPendingSubmissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UIPendingSubmissions.java
+END
+UIAVMLockIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UIAVMLockIcon.java
+END
+UIUserSandboxes.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UIUserSandboxes.java
+END
+DeploymentServerConfigComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/DeploymentServerConfigComparator.java
+END
+UIDeploymentServers.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UIDeploymentServers.java
+END
+UIAVMList.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UIAVMList.java
+END
+UIDeployWebsite.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UIDeployWebsite.java
+END
+UIDeploymentReports.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/wcm/component/UIDeploymentReports.java
+END

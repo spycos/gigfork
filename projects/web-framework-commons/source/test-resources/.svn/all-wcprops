@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/24879/alfresco/HEAD/root/projects/web-framework-commons/source/test-resources
+END
+test-config-forms-basic-override.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/24879/alfresco/HEAD/root/projects/web-framework-commons/source/test-resources/test-config-forms-basic-override.xml
+END
+test-config-forms-basic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/24879/alfresco/HEAD/root/projects/web-framework-commons/source/test-resources/test-config-forms-basic.xml
+END
+test-config-forms-negative.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/14145/alfresco/HEAD/root/projects/web-framework-commons/source/test-resources/test-config-forms-negative.xml
+END
+test-config-forms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/15775/alfresco/HEAD/root/projects/web-framework-commons/source/test-resources/test-config-forms.xml
+END

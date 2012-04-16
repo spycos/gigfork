@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query
+END
+ContainerScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/ContainerScorer.java
+END
+StructuredFieldTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/StructuredFieldTerm.java
+END
+CaseInsensitiveFieldRangeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/CaseInsensitiveFieldRangeQuery.java
+END
+LeafScorerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/LeafScorerException.java
+END
+AnyStructuredFieldPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/21733/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/AnyStructuredFieldPosition.java
+END
+CaseInsensitiveTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/CaseInsensitiveTermEnum.java
+END
+PathScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/PathScorer.java
+END
+DeltaReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/DeltaReader.java
+END
+AbstractStructuredFieldPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/21733/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/AbstractStructuredFieldPosition.java
+END
+PathQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/PathQuery.java
+END
+DescendantAndSelfStructuredFieldPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/DescendantAndSelfStructuredFieldPosition.java
+END
+LeafScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/LeafScorer.java
+END
+CaseInsensitiveTermRangeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/CaseInsensitiveTermRangeEnum.java
+END
+CaseInsensitiveFieldQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/CaseInsensitiveFieldQuery.java
+END
+RelativeStructuredFieldPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/21733/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/RelativeStructuredFieldPosition.java
+END
+CachingTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/21718/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/CachingTermPositions.java
+END
+AbsoluteStructuredFieldPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/21733/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/AbsoluteStructuredFieldPosition.java
+END
+SelfAxisStructuredFieldPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/SelfAxisStructuredFieldPosition.java
+END
+StructuredFieldPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/20978/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/lucene/query/StructuredFieldPosition.java
+END

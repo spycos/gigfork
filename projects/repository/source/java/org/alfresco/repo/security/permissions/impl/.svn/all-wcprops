@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl
+END
+AbstractNodePermissionEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AbstractNodePermissionEntry.java
+END
+AclChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AclChange.java
+END
+AclDaoComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AclDaoComponentTest.java
+END
+AbstractReadPermissionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AbstractReadPermissionTest.java
+END
+PermissionServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/PermissionServiceTest.java
+END
+AbstractPermissionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AbstractPermissionTest.java
+END
+SimplePermissionReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/SimplePermissionReference.java
+END
+AlwaysProceedMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AlwaysProceedMethodInterceptor.java
+END
+PermissionsDaoComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/PermissionsDaoComponent.java
+END
+SimplePermissionEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/SimplePermissionEntry.java
+END
+ReadPermissionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/32834/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/ReadPermissionTest.java
+END
+PublicServiceAccessServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/PublicServiceAccessServiceImpl.java
+END
+ModelDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/21406/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/ModelDAO.java
+END
+ExceptionTranslatorMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32353/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/ExceptionTranslatorMethodInterceptor.java
+END
+RequiredPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/RequiredPermission.java
+END
+PermissionReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/PermissionReferenceImpl.java
+END
+AllowPermissionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AllowPermissionServiceImpl.java
+END
+SimpleNodePermissionEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/SimpleNodePermissionEntry.java
+END
+PermissionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/PermissionServiceImpl.java
+END
+AbstractPermissionReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AbstractPermissionReference.java
+END
+AccessPermissionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AccessPermissionImpl.java
+END
+AbstractPermissionEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/permissions/impl/AbstractPermissionEntry.java
+END

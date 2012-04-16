@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/config/alfresco/templates
+END
+my_docs_inline.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/my_docs_inline.ftl
+END
+doc_versionhistory.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/doc_versionhistory.ftl
+END
+my_docs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/my_docs.ftl
+END
+RSS_2.0_recent_docs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/RSS_2.0_recent_docs.ftl
+END
+userhome_docs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/userhome_docs.ftl
+END
+namepath_xpath.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/namepath_xpath.ftl
+END
+my_summary.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/my_summary.ftl
+END
+system_users.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/system_users.ftl
+END
+templates_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/templates_readme.txt
+END
+image_thumbnails.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/image_thumbnails.ftl
+END
+company_logos.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/company_logos.ftl
+END
+xpath_search.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/xpath_search.ftl
+END
+my_images.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/my_images.ftl
+END
+translatable.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/translatable.ftl
+END
+workflow_details.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/workflow_details.ftl
+END
+doc_info.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/doc_info.ftl
+END
+localizable.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/localizable.ftl
+END
+my_spaces.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/my_spaces.ftl
+END
+my_pressreleases.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/my_pressreleases.ftl
+END
+checkedout_docs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/checkedout_docs.ftl
+END
+general_example.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/general_example.ftl
+END
+recent_docs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/recent_docs.ftl
+END

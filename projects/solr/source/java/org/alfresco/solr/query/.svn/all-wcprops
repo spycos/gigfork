@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query
+END
+LuceneQueryBuilderContextSolrImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/LuceneQueryBuilderContextSolrImpl.java
+END
+SolrCachingPathQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingPathQuery.java
+END
+SolrContainerScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrContainerScorer.java
+END
+AbstractQParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/AbstractQParser.java
+END
+SolrCachingReaderQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingReaderQuery.java
+END
+AlfrescoLuceneQParserPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/AlfrescoLuceneQParserPlugin.java
+END
+CmisQParserPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/CmisQParserPlugin.java
+END
+SolrPathScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrPathScorer.java
+END
+SolrCachingAuxDocScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingAuxDocScorer.java
+END
+SolrXPathHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrXPathHandler.java
+END
+SolrQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrQueryParser.java
+END
+SolrPathQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrPathQuery.java
+END
+SolrCachingAuthorityScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingAuthorityScorer.java
+END
+SolrCachingOwnerScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingOwnerScorer.java
+END
+SolrCachingAuxDocQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingAuxDocQuery.java
+END
+SolrCachingPathScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingPathScorer.java
+END
+AlfrescoFTSQParserPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/AlfrescoFTSQParserPlugin.java
+END
+SolrCachingAuthorityQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingAuthorityQuery.java
+END
+SolrCachingReaderScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingReaderScorer.java
+END
+SolrCachingOwnerQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/SolrCachingOwnerQuery.java
+END
+AbstractSolrCachingScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28117/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/query/AbstractSolrCachingScorer.java
+END

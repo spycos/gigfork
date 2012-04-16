@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/shared
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/shared/server.xml
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/30116/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/shared/tomcat-users.xml
+END
+alfresco-global.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/shared/alfresco-global.properties
+END

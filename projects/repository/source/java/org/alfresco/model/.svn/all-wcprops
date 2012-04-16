@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/34167/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/model
+END
+WCMWorkflowModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/model/WCMWorkflowModel.java
+END
+ApplicationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/model/ApplicationModel.java
+END
+ImapModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/model/ImapModel.java
+END
+WCMModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/model/WCMModel.java
+END
+BlogIntegrationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/model/BlogIntegrationModel.java
+END
+WCMAppModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/model/WCMAppModel.java
+END
+ForumModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/model/ForumModel.java
+END

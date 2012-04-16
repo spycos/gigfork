@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain
+END
+DomainTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/DomainTestSuite.java
+END
+PropertyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28480/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/PropertyValue.java
+END
+PropertyValueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/PropertyValueTest.java
+END
+CrcHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/CrcHelper.java
+END

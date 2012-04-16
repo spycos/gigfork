@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/i18n
+END
+testMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/17935/alfresco/HEAD/root/projects/core/source/java/org/alfresco/i18n/testMessages_fr_FR.properties
+END
+ResourceBundleBootstrapComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/i18n/ResourceBundleBootstrapComponent.java
+END
+testMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/17935/alfresco/HEAD/root/projects/core/source/java/org/alfresco/i18n/testMessages.properties
+END

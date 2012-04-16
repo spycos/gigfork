@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/test/apptest
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/test/apptest/install.sh
+END
+results.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/14233/alfresco/HEAD/root/projects/remote-api/source/test/apptest/results.html
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/test/apptest/test.sh
+END
+apptest.readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/10718/alfresco/HEAD/root/projects/remote-api/source/test/apptest/apptest.readme.txt
+END
+credentials.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/10720/alfresco/HEAD/root/projects/remote-api/source/test/apptest/credentials.txt
+END

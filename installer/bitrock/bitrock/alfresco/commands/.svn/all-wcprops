@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands
+END
+Win32Utilsx64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/22717/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands/Win32Utilsx64.dll
+END
+Win32NetBIOS.dll
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/22717/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands/Win32NetBIOS.dll
+END
+Win32NetBIOSx64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/22717/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands/Win32NetBIOSx64.dll
+END
+clean_tomcat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands/clean_tomcat.sh
+END
+apply_amps.bat
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands/apply_amps.bat
+END
+Win32Utils.dll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/22717/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands/Win32Utils.dll
+END
+apply_amps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands/apply_amps.sh
+END
+clean_tomcat.bat
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/installer/bitrock/bitrock/alfresco/commands/clean_tomcat.bat
+END

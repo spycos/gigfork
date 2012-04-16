@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/22545/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework
+END
+avmstore.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/12701/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/avmstore.post.desc.xml
+END
+jsf-client-redirect.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/11811/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/jsf-client-redirect.get.html.ftl
+END
+metadata.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/22545/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/metadata.get.html.ftl
+END
+avm-metadata.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/11811/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/avm-metadata.get.html.ftl
+END
+jsf-client-redirect.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/11840/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/jsf-client-redirect.get.js
+END
+jsf-client-redirect.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/11840/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/jsf-client-redirect.get.desc.xml
+END
+metadata.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/metadata.get.js
+END
+avm-metadata.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/11811/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/avm-metadata.get.js
+END
+avmstore.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/avmstore.get.desc.xml
+END
+metadata.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/metadata.get.desc.xml
+END
+avm-metadata.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/avm-metadata.get.desc.xml
+END
+avmstore.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/12701/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/webframework/avmstore.delete.desc.xml
+END

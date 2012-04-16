@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/metadataloaders
+END
+PropertiesFileMetadataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/metadataloaders/PropertiesFileMetadataLoader.java
+END
+XmlPropertiesFileMetadataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/metadataloaders/XmlPropertiesFileMetadataLoader.java
+END
+AbstractMapBasedMetadataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/metadataloaders/AbstractMapBasedMetadataLoader.java
+END

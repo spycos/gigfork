@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts
+END
+WebScriptUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/28846/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/WebScriptUtil.java
+END
+ReadOnlyTransactionInGetRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30664/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/ReadOnlyTransactionInGetRestApiTest.java
+END
+RepositoryTemplateProcessorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepositoryTemplateProcessorFactory.java
+END
+RepositoryScriptProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19221/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepositoryScriptProcessor.java
+END
+RepositoryImageResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepositoryImageResolver.java
+END
+FileTypeImageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/FileTypeImageUtils.java
+END
+LoginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/LoginTest.java
+END
+RepositoryTemplateProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepositoryTemplateProcessor.java
+END
+WebScriptTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29833/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/WebScriptTestSuite.java
+END
+TestWebScriptRepoServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/TestWebScriptRepoServer.java
+END
+RepositoryContainerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepositoryContainerTest.java
+END
+RepositoryContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30793/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepositoryContainer.java
+END
+RepoStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepoStore.java
+END
+RepoClassPathStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepoClassPathStore.java
+END
+RepositoryServerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepositoryServerModel.java
+END
+AlfrescoRhinoScriptDebugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/AlfrescoRhinoScriptDebugger.java
+END
+RepositoryScriptProcessorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/RepositoryScriptProcessorFactory.java
+END
+BaseWebScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/BaseWebScriptTest.java
+END
+DeclarativeSpreadsheetWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/31357/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/DeclarativeSpreadsheetWebScript.java
+END

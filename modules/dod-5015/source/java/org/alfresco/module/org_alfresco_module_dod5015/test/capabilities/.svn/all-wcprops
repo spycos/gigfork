@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/capabilities
+END
+ApproveRecordsScheduledForCutoffCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/capabilities/ApproveRecordsScheduledForCutoffCapability.java
+END
+BaseCapabilitiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/capabilities/BaseCapabilitiesTest.java
+END
+BaseTestCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/capabilities/BaseTestCapabilities.java
+END
+AddModifyEventDatesCapabilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/capabilities/AddModifyEventDatesCapabilityTest.java
+END
+CapabilitiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/test/capabilities/CapabilitiesTest.java
+END

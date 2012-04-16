@@ -1,0 +1,244 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-16T10:06:16.840378Z
+35257
+fheremans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+processor
+dir
+
+cluster
+dir
+
+clt
+dir
+
+discussion
+dir
+
+invitation
+dir
+
+googledocs
+dir
+
+notification
+dir
+
+attributes
+dir
+
+cache
+dir
+
+urlshortening
+dir
+
+site
+dir
+
+publishing
+dir
+
+search
+dir
+
+query
+dir
+
+audit
+dir
+
+configuration
+dir
+
+content
+dir
+
+copy
+dir
+
+solr
+dir
+
+tagging
+dir
+
+node
+dir
+
+transaction
+dir
+
+policy
+dir
+
+service
+dir
+
+activities
+dir
+
+config
+dir
+
+dictionary
+dir
+
+subscriptions
+dir
+
+security
+dir
+
+rule
+dir
+
+domain
+dir
+
+exporter
+dir
+
+webdav
+dir
+
+workflow
+dir
+
+action
+dir
+
+descriptor
+dir
+
+batch
+dir
+
+thumbnail
+dir
+
+blog
+dir
+
+avm
+dir
+
+rating
+dir
+
+transfer
+dir
+
+lock
+dir
+
+tenant
+dir
+
+jgroups
+dir
+
+rendition
+dir
+
+model
+dir
+
+usage
+dir
+
+shutdown
+dir
+
+coci
+dir
+
+preference
+dir
+
+jscript
+dir
+
+i18n
+dir
+
+links
+dir
+
+module
+dir
+
+version
+dir
+
+forms
+dir
+
+imap
+dir
+
+ownable
+dir
+
+bulkimport
+dir
+
+admin
+dir
+
+forum
+dir
+
+remote
+dir
+
+deploy
+dir
+
+importer
+dir
+
+wiki
+dir
+
+replication
+dir
+
+nodelocator
+dir
+
+calendar
+dir
+
+template
+dir
+
+management
+dir
+
+scheduler
+dir
+

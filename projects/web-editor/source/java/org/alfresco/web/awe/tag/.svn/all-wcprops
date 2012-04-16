@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/23209/alfresco/HEAD/root/projects/web-editor/source/java/org/alfresco/web/awe/tag
+END
+MarkContentTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/22594/alfresco/HEAD/root/projects/web-editor/source/java/org/alfresco/web/awe/tag/MarkContentTag.java
+END
+StartTemplateTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19375/alfresco/HEAD/root/projects/web-editor/source/java/org/alfresco/web/awe/tag/StartTemplateTag.java
+END
+AlfrescoTagUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/23209/alfresco/HEAD/root/projects/web-editor/source/java/org/alfresco/web/awe/tag/AlfrescoTagUtil.java
+END
+EndTemplateTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19375/alfresco/HEAD/root/projects/web-editor/source/java/org/alfresco/web/awe/tag/EndTemplateTag.java
+END
+MarkedContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/21716/alfresco/HEAD/root/projects/web-editor/source/java/org/alfresco/web/awe/tag/MarkedContent.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30649/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util
+END
+AssetSerializerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/alfresco-open-mirror/!svn/ver/23088/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/AssetSerializerFactory.java
+END
+XmlAssetSerializerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/23088/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/XmlAssetSerializerFactory.java
+END
+SiteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/30649/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/SiteHelper.java
+END
+AssetSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/AssetSerializer.java
+END
+WebassetCollectionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/alfresco-open-mirror/!svn/ver/28376/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/WebassetCollectionHelper.java
+END
+AssetSerializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/alfresco-open-mirror/!svn/ver/23088/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/AssetSerializationException.java
+END
+AssetSerializerXmlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/alfresco-open-mirror/!svn/ver/28419/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/AssetSerializerXmlImpl.java
+END
+AssetSerializerXmlImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/AssetSerializerXmlImplTest.java
+END

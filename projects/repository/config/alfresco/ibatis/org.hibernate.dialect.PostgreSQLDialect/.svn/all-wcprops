@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect
+END
+avm-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/avm-insert-SqlMap.xml
+END
+propval-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/propval-insert-SqlMap.xml
+END
+activities-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/activities-insert-SqlMap.xml
+END
+usage-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/usage-insert-SqlMap.xml
+END
+node-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/node-insert-SqlMap.xml
+END
+audit-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/audit-insert-SqlMap.xml
+END
+alfresco-util-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/alfresco-util-SqlMap.xml
+END
+content-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/content-insert-SqlMap.xml
+END
+locks-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28329/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/locks-insert-SqlMap.xml
+END
+permissions-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/permissions-insert-SqlMap.xml
+END
+locale-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/locale-insert-SqlMap.xml
+END
+qname-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.PostgreSQLDialect/qname-insert-SqlMap.xml
+END

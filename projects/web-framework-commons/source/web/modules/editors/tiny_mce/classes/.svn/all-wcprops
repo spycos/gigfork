@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes
+END
+LegacyInput.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/LegacyInput.js
+END
+Editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/Editor.js
+END
+EditorCommands.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/EditorCommands.js
+END
+tinymce.js
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/tinymce.js
+END
+ControlManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/ControlManager.js
+END
+ForceBlocks.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/ForceBlocks.js
+END
+AddOnManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/AddOnManager.js
+END
+UndoManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/UndoManager.js
+END
+EditorManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/EditorManager.js
+END
+WindowManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28306/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/WindowManager.js
+END
+Popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/Popup.js
+END
+Formatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28358/alfresco/HEAD/root/projects/web-framework-commons/source/web/modules/editors/tiny_mce/classes/Formatter.js
+END

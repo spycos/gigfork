@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/19248/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/script
+END
+test_transferService.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19225/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/script/test_transferService.js
+END
+ScriptTransferTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19225/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/script/ScriptTransferTarget.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19163/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/script/package-info.java
+END
+ScriptTransferService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19248/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/script/ScriptTransferService.java
+END
+ScriptTransferServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19248/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/script/ScriptTransferServiceTest.java
+END

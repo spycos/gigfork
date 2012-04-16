@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/security/authentication
+END
+TicketExpiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/security/authentication/TicketExpiredException.java
+END
+TicketComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/security/authentication/TicketComponent.java
+END
+InMemoryTicketComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/security/authentication/InMemoryTicketComponentImpl.java
+END
+AlfrescoSecureContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/security/authentication/AlfrescoSecureContext.java
+END
+AlfrescoSecureContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/security/authentication/AlfrescoSecureContextImpl.java
+END
+AuthenticationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/29833/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/security/authentication/AuthenticationUtil.java
+END
+AuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/security/authentication/AuthenticationException.java
+END

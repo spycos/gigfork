@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control
+END
+userfeed-control.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/24457/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-control.post.desc.xml
+END
+userfeed-control.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/9187/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-control.post.json.ftl
+END
+userfeed-control.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/11034/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-control.post.json.js
+END
+userfeed-control.delete.js
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/9187/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-control.delete.js
+END
+userfeed-controls.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/9187/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-controls.get.js
+END
+userfeed-control.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/24457/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-control.delete.desc.xml
+END
+userfeed-control.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/9187/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-control.delete.json.ftl
+END
+userfeed-controls.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/24457/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-controls.get.desc.xml
+END
+userfeed-controls.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/repository/activities/feed/control/userfeed-controls.get.json.ftl
+END

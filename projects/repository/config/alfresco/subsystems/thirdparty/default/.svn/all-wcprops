@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/thirdparty/default
+END
+imagemagick-transform.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/14351/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/thirdparty/default/imagemagick-transform.properties
+END
+swf-transform.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/thirdparty/default/swf-transform.properties
+END
+imagemagick-transform-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/14947/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/thirdparty/default/imagemagick-transform-context.xml
+END
+swf-transform-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/thirdparty/default/swf-transform-context.xml
+END

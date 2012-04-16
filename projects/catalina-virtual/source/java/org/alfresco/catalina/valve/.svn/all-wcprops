@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/25001/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/catalina/valve
+END
+AVMUrlValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/25001/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/catalina/valve/AVMUrlValve.java
+END
+AVMUrlValveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/catalina/valve/AVMUrlValveTest.java
+END
+AVMRequestDumperValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/catalina/valve/AVMRequestDumperValve.java
+END

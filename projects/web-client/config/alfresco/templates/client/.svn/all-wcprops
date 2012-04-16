@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/client
+END
+task_summary_panel.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/client/task_summary_panel.ftl
+END
+doclist_preview_panel.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/16907/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/client/doclist_preview_panel.ftl
+END
+node_summary_panel.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19455/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/client/node_summary_panel.ftl
+END
+myspaces_preview_panel.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/client/myspaces_preview_panel.ftl
+END
+task_resource_panel.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/16907/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/client/task_resource_panel.ftl
+END
+portlet_node_summary_panel.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/config/alfresco/templates/client/portlet_node_summary_panel.ftl
+END

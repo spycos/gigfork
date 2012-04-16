@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 137
+build
+alfresco.log
+derby.log
+ftreceiver.war
+bin
+work
+file-transfer-actiontest.jar
+alfresco-ftr.log
+derbyDB
+ftr-root
+ftr-staging
+*_report
+
+END

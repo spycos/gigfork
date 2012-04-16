@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/34056/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool
+END
+ModuleManagementToolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/ModuleManagementToolException.java
+END
+ModuleManagementTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/ModuleManagementTool.java
+END
+ModuleManagementToolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/ModuleManagementToolTest.java
+END
+InstalledFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33695/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/InstalledFiles.java
+END
+LogOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33793/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/LogOutput.java
+END
+default-file-mapping.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/5559/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/default-file-mapping.properties
+END
+WarHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33668/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/WarHelper.java
+END
+ModuleDetailsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/33777/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/ModuleDetailsHelper.java
+END
+WarHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/WarHelperImpl.java
+END
+WarHelperImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/34056/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/module/tool/WarHelperImplTest.java
+END

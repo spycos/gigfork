@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/34077/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/test/exportdb
+END
+PostgreSQLDialectExportTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/32711/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/test/exportdb/PostgreSQLDialectExportTester.java
+END
+MySQLDialectExportTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/32711/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/test/exportdb/MySQLDialectExportTester.java
+END
+AbstractExportTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/34077/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/test/exportdb/AbstractExportTester.java
+END

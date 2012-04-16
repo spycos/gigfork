@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30834/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl
+END
+ApproveRecordsScheduledForCutoffCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ApproveRecordsScheduledForCutoffCapability.java
+END
+ManageAccessControlsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ManageAccessControlsCapability.java
+END
+ManuallyChangeDispositionDatesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ManuallyChangeDispositionDatesCapability.java
+END
+AuthorizeNominatedTransfersCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/AuthorizeNominatedTransfersCapability.java
+END
+CreateModifyDestroyFileplanMetadataCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyFileplanMetadataCapability.java
+END
+FileRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/FileRecordsCapability.java
+END
+CreateModifyDestroyTimeframesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyTimeframesCapability.java
+END
+AbstractCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/AbstractCapability.java
+END
+PasswordControlCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/PasswordControlCapability.java
+END
+CreateModifyDestroyFoldersCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyFoldersCapability.java
+END
+ReOpenFoldersCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ReOpenFoldersCapability.java
+END
+SelectAuditMetadataCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/SelectAuditMetadataCapability.java
+END
+UpdateVitalRecordCycleInformationCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/UpdateVitalRecordCycleInformationCapability.java
+END
+DeclareAuditAsRecordCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DeclareAuditAsRecordCapability.java
+END
+CreateModifyDestroyEventsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyEventsCapability.java
+END
+EditSelectionListsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/EditSelectionListsCapability.java
+END
+MakeOptionalPropertiesMandatoryCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/MakeOptionalPropertiesMandatoryCapability.java
+END
+UpdateClassificationDatesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/UpdateClassificationDatesCapability.java
+END
+ViewUpdateReasonsForFreezeCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ViewUpdateReasonsForFreezeCapability.java
+END
+DeclareRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DeclareRecordsCapability.java
+END
+CycleVitalRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CycleVitalRecordsCapability.java
+END
+EnableDisableAuditByTypesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/EnableDisableAuditByTypesCapability.java
+END
+DeleteRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DeleteRecordsCapability.java
+END
+CloseFoldersCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CloseFoldersCapability.java
+END
+ExtendRetentionPeriodOrFreezeCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ExtendRetentionPeriodOrFreezeCapability.java
+END
+TriggerAnEventCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/TriggerAnEventCapability.java
+END
+DestroyRecordsScheduledForDestructionCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DestroyRecordsScheduledForDestructionCapability.java
+END
+DeleteAuditCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DeleteAuditCapability.java
+END
+CreateModifyDestroyUsersAndGroupsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyUsersAndGroupsCapability.java
+END
+CreateModifyDestroyRolesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyRolesCapability.java
+END
+PlanningReviewCyclesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/PlanningReviewCyclesCapability.java
+END
+CreateModifyRecordsInCuttoffFoldersCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyRecordsInCuttoffFoldersCapability.java
+END
+UpgradeDowngradeAndDeclassifyRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/UpgradeDowngradeAndDeclassifyRecordsCapability.java
+END
+AttachRulesToMetadataPropertiesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/AttachRulesToMetadataPropertiesCapability.java
+END
+EditNonRecordMetadataCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/EditNonRecordMetadataCapability.java
+END
+CreateModifyDestroyClassificationGuidesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyClassificationGuidesCapability.java
+END
+DeleteLinksCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DeleteLinksCapability.java
+END
+CreateAndAssociateSelectionListsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateAndAssociateSelectionListsCapability.java
+END
+ExportAuditCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ExportAuditCapability.java
+END
+MapClassificationGuideMetadataCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/MapClassificationGuideMetadataCapability.java
+END
+EditDeclaredRecordMetadataCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/EditDeclaredRecordMetadataCapability.java
+END
+CreateModifyDestroyRecordTypesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyRecordTypesCapability.java
+END
+DestroyRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DestroyRecordsCapability.java
+END
+ChangeOrDeleteReferencesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ChangeOrDeleteReferencesCapability.java
+END
+DeclareRecordsInClosedFoldersCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DeclareRecordsInClosedFoldersCapability.java
+END
+UpdateExemptionCategoriesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/UpdateExemptionCategoriesCapability.java
+END
+DisplayRightsReportCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/DisplayRightsReportCapability.java
+END
+AddModifyEventDatesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/AddModifyEventDatesCapability.java
+END
+UnfreezeCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/UnfreezeCapability.java
+END
+UndeclareRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/UndeclareRecordsCapability.java
+END
+CreateModifyDestroyFileplanTypesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyFileplanTypesCapability.java
+END
+EditRecordMetadataCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/30834/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/EditRecordMetadataCapability.java
+END
+MapEmailMetadataCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/MapEmailMetadataCapability.java
+END
+UpdateTriggerDatesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/UpdateTriggerDatesCapability.java
+END
+AccessAuditCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/AccessAuditCapability.java
+END
+MoveRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/MoveRecordsCapability.java
+END
+CreateModifyDestroyReferenceTypesCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/CreateModifyDestroyReferenceTypesCapability.java
+END
+AuthorizeAllTransfersCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/AuthorizeAllTransfersCapability.java
+END
+ManageAccessRightsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ManageAccessRightsCapability.java
+END
+ViewRecordsCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/source/java/org/alfresco/module/org_alfresco_module_dod5015/capability/impl/ViewRecordsCapability.java
+END

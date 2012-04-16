@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/datalists
+END
+list-deleted.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/datalists/list-deleted.atomentry.ftl
+END
+list-updated.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/datalists/list-updated.atomentry.ftl
+END
+list-created.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/datalists/list-created.atomentry.ftl
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/19916/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws
+END
+CmisMultifilingServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisMultifilingServiceClient.java
+END
+CmisVersioningServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisVersioningServiceClient.java
+END
+CmisObjectServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisObjectServiceClient.java
+END
+AbstractServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/AbstractServiceClient.java
+END
+CmisDiscoveryServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19270/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisDiscoveryServiceClient.java
+END
+AbstractService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/AbstractService.java
+END
+CmisWebServiceTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19270/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisWebServiceTestSuite.java
+END
+CmisServicesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisServicesFactory.java
+END
+CmisAclServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisAclServiceClient.java
+END
+CmisNavigationServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisNavigationServiceClient.java
+END
+CmisPolicyServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisPolicyServiceClient.java
+END
+CmisRepositoryServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19270/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisRepositoryServiceClient.java
+END
+EnumTypesOfFileableObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/EnumTypesOfFileableObjects.java
+END
+CmisRelationshipServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19916/alfresco/HEAD/root/projects/cmis-tck-ws/source/java/org/alfresco/cmis/test/ws/CmisRelationshipServiceClient.java
+END

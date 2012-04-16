@@ -1,0 +1,126 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-13T14:21:53.975980Z
+35229
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+repository
+dir
+
+webscripts.lib.html.ftl
+file
+
+
+
+
+2012-04-02T10:05:34.000000Z
+3a47ab78cc9d307f84c002f7b6f7c859
+2008-09-05T16:34:46.775252Z
+10800
+kroast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1140
+
+vti
+dir
+
+avm
+dir
+
+collaboration
+dir
+
+calendar
+dir
+
+slingshot
+dir
+
+cmis
+dir
+
+office
+dir
+
+webframework
+dir
+
+portlets
+dir
+
+paging.lib.atom.ftl
+file
+
+
+
+
+2012-04-02T10:05:34.000000Z
+d9f3eaac813379bd707e036528e7c765
+2010-10-06T09:40:45.963636Z
+22906
+dcaruana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5727
+

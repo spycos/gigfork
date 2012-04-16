@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/8663/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/content
+END
+ContentServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/content/ContentServiceLocator.java
+END
+ContentServiceSoapPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/8663/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/content/ContentServiceSoapPort.java
+END
+ContentFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/content/ContentFault.java
+END
+ContentServiceSoapBindingStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/8663/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/content/ContentServiceSoapBindingStub.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/content/Content.java
+END
+ContentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/content/ContentService.java
+END
+ContentSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/content/ContentSegment.java
+END

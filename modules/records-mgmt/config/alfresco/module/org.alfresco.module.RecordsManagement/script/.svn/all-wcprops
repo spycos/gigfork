@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script
+END
+onRemoveAspect_rmaHeld.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onRemoveAspect_rmaHeld.js
+END
+onAddAspect_rmaCutoffSchedule.js
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onAddAspect_rmaCutoffSchedule.js
+END
+onAddAspect_rmaSuperseded.js
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onAddAspect_rmaSuperseded.js
+END
+onContentUpdate_rmaRecord.js
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onContentUpdate_rmaRecord.js
+END
+onCreateChildAssociation_rmaFilePlan_cmContains.js
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onCreateChildAssociation_rmaFilePlan_cmContains.js
+END
+onAddAspect_rmaCutoff.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onAddAspect_rmaCutoff.js
+END
+onCreateNode_rmaFilePlan.js
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onCreateNode_rmaFilePlan.js
+END
+onAddAspect_rmaHeld.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onAddAspect_rmaHeld.js
+END
+onAddAspect_rmaObsolete.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/5563/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onAddAspect_rmaObsolete.js
+END
+onAddAspect_rmaRecord.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onAddAspect_rmaRecord.js
+END
+onAddAspect_rmaVitalRecord.js
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/script/onAddAspect_rmaVitalRecord.js
+END

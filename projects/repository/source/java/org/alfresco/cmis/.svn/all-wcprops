@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis
+END
+CMISAccessControlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISAccessControlService.java
+END
+CMISQueryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISQueryException.java
+END
+CMISObjectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISObjectReference.java
+END
+CMISNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISNotSupportedException.java
+END
+CMISDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISDictionaryService.java
+END
+CMISAclCapabilityEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISAclCapabilityEnum.java
+END
+CMISChangeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISChangeType.java
+END
+CMISCardinalityEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISCardinalityEnum.java
+END
+CMISChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISChoice.java
+END
+CMISContentAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISContentAlreadyExistsException.java
+END
+CMISPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29544/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISPropertyDefinition.java
+END
+CMISRepositoryReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISRepositoryReference.java
+END
+CMISTypeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISTypeId.java
+END
+CMISDataTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISDataTypeEnum.java
+END
+CMISVersioningException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISVersioningException.java
+END
+CMISAclSupportedPermissionEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISAclSupportedPermissionEnum.java
+END
+CMISPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29544/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISPropertyAccessor.java
+END
+CMISChangeLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISChangeLogService.java
+END
+CMISResultSetColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISResultSetColumn.java
+END
+CMISVersioningStateEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISVersioningStateEnum.java
+END
+CMISScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISScope.java
+END
+CMISCapabilityChanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISCapabilityChanges.java
+END
+CMISAllowedActionEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISAllowedActionEnum.java
+END
+CMISRenditionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISRenditionService.java
+END
+PropertyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/PropertyFilter.java
+END
+PropertyFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/PropertyFilterTest.java
+END
+CMISServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISServiceException.java
+END
+CMISResultSetRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISResultSetRow.java
+END
+CMISContentStreamAllowedEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISContentStreamAllowedEnum.java
+END
+CMISServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/32155/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISServices.java
+END
+CMISJoinEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISJoinEnum.java
+END
+CMISAccessControlEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISAccessControlEntry.java
+END
+CMISDictionaryModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISDictionaryModel.java
+END
+CMISQueryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISQueryService.java
+END
+CMISChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISChangeEvent.java
+END
+CMISRelationshipDirectionEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISRelationshipDirectionEnum.java
+END
+CMISChangeLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISChangeLog.java
+END
+CMISAclPropagationEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISAclPropagationEnum.java
+END
+CMISQueryEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISQueryEnum.java
+END
+CMISResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISResultSet.java
+END
+CMISTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISTypeDefinition.java
+END
+CMISResultSetSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISResultSetSelector.java
+END
+CMISRendition.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/20166/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISRendition.java
+END
+CMISResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISResultSetMetaData.java
+END
+CMISAccessControlEntriesGroupedByPrincipalId.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISAccessControlEntriesGroupedByPrincipalId.java
+END
+CMISAccessControlReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19057/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISAccessControlReport.java
+END
+CMISTypesFilterEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISTypesFilterEnum.java
+END
+CMISActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISActionEvaluator.java
+END
+CMISPermissionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISPermissionDefinition.java
+END
+CMISPropertyId.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISPropertyId.java
+END
+CMISStreamNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISStreamNotSupportedException.java
+END
+CMISObjectNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISObjectNotFoundException.java
+END
+CMISRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISRuntimeException.java
+END
+CMISBaseObjectTypeIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISBaseObjectTypeIds.java
+END
+CMISConstraintException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISConstraintException.java
+END
+CMISPermissionMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISPermissionMapping.java
+END
+CMISFilterNotValidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISFilterNotValidException.java
+END
+CMISInvalidArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISInvalidArgumentException.java
+END
+CMISRelationshipReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISRelationshipReference.java
+END
+CMISUpdatabilityEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISUpdatabilityEnum.java
+END
+CMISPermissionDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISPermissionDeniedException.java
+END
+CMISQueryOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/CMISQueryOptions.java
+END

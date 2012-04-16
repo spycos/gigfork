@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/28995/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/ldap
+END
+ldap-authentication.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28995/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/ldap/ldap-authentication.properties
+END
+ldap-authentication-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/14934/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Authentication/ldap/ldap-authentication-context.xml
+END

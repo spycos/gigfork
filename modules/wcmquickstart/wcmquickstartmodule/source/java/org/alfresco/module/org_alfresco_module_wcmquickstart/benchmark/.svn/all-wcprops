@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/Tree.java
+END
+CharQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/CharQueue.java
+END
+MarkovChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/MarkovChain.java
+END
+TreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/TreeNode.java
+END
+WebSiteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/WebSiteBuilder.java
+END
+WebSiteGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/WebSiteGenerator.java
+END
+AcpGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/AcpGenerator.java
+END
+WebSiteRandomGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/WebSiteRandomGenerator.java
+END
+WebSiteRandomGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/WebSiteRandomGeneratorTest.java
+END
+TextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/TextGenerator.java
+END
+RandomTextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/benchmark/RandomTextGenerator.java
+END

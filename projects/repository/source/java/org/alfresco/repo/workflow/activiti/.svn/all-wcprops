@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/35257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti
+END
+ActivitiSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiSpringTest.java
+END
+activiti.mysql.create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/activiti.mysql.create.sql
+END
+ActivitiTimerExecutionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiTimerExecutionTest.java
+END
+ActivitiWorkflowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/27980/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiWorkflowManager.java
+END
+ActivitiTaskPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiTaskPropertyHandler.java
+END
+ActivitiScriptNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiScriptNodeList.java
+END
+ActivitiSpringTransactionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiSpringTransactionTest.java
+END
+ActivitiTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/31995/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiTypeConverter.java
+END
+ActivitiEngineInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiEngineInitializer.java
+END
+BaseJavaDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/BaseJavaDelegate.java
+END
+ActivitiScriptNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26218/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiScriptNode.java
+END
+ActivitiConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/31995/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiConstants.java
+END
+ActivitiNodeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiNodeConverter.java
+END
+ActivitiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiUtil.java
+END
+ActivitiSmokeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiSmokeTest.java
+END
+AlfrescoProcessEngineConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/AlfrescoProcessEngineConfiguration.java
+END
+AlfrescoBpmnParseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/AlfrescoBpmnParseListener.java
+END
+AuthenticatedTimerJobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/AuthenticatedTimerJobHandler.java
+END
+ActivitiTaskComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/35257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiTaskComponentTest.java
+END
+AbstractActivitiComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/35257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/AbstractActivitiComponentTest.java
+END
+activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/activiti.cfg.xml
+END
+ActivitiWorkflowManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/30750/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiWorkflowManagerFactory.java
+END
+ActivitiWorkflowComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiWorkflowComponentTest.java
+END
+adhoc.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/adhoc.bpmn20.xml
+END
+ActivitiWorkflowServiceIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/32753/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiWorkflowServiceIntegrationTest.java
+END
+ActivitiMultitenantWorkflowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiMultitenantWorkflowTest.java
+END
+ActivitiTaskTypeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiTaskTypeManager.java
+END
+ActivitiWorkflowEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/ActivitiWorkflowEngine.java
+END

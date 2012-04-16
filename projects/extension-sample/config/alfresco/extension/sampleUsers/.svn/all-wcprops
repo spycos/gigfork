@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/extension-sample/config/alfresco/extension/sampleUsers
+END
+users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/extension-sample/config/alfresco/extension/sampleUsers/users.xml
+END
+homefolder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/extension-sample/config/alfresco/extension/sampleUsers/homefolder.xml
+END
+people.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/extension-sample/config/alfresco/extension/sampleUsers/people.xml
+END
+users.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/extension-sample/config/alfresco/extension/sampleUsers/users.ftl
+END
+homefolder.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/extension-sample/config/alfresco/extension/sampleUsers/homefolder.ftl
+END
+people.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/extension-sample/config/alfresco/extension/sampleUsers/people.ftl
+END

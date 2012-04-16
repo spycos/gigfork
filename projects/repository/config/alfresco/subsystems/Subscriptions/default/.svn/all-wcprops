@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28919/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Subscriptions/default
+END
+subscription-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/28919/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Subscriptions/default/subscription-service-context.xml
+END
+subscription-service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/28919/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Subscriptions/default/subscription-service.properties
+END

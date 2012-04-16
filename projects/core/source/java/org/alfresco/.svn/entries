@@ -1,0 +1,64 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/core/source/java/org/alfresco
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-13T14:21:53.975980Z
+35229
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+i18n
+dir
+
+processor
+dir
+
+hibernate
+dir
+
+config
+dir
+
+query
+dir
+
+encoding
+dir
+
+scripts
+dir
+
+error
+dir
+
+encryption
+dir
+
+ibatis
+dir
+
+util
+dir
+
+httpclient
+dir
+

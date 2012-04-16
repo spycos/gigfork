@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm
+END
+FilePickerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/FilePickerBean.java
+END
+WCMPermissionsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/WCMPermissionsUtils.java
+END
+DeleteLayeredFolderBrowseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeleteLayeredFolderBrowseDialog.java
+END
+DescriptionAttributeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DescriptionAttributeHelper.java
+END
+ManageChangeRequestTaskDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/ManageChangeRequestTaskDialog.java
+END
+WCMCompareUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/WCMCompareUtils.java
+END
+AVMEditBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/20004/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/AVMEditBean.java
+END
+AVMDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/AVMDetailsBean.java
+END
+EditFilePropertiesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/EditFilePropertiesDialog.java
+END
+SubmitDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/SubmitDialog.java
+END
+WebSiteDetailsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/WebSiteDetailsDialog.java
+END
+PromptForWebFormDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/PromptForWebFormDialog.java
+END
+DeploymentProgressBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeploymentProgressBean.java
+END
+EditWebContentWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/EditWebContentWizard.java
+END
+RegenerateRenditionsWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/RegenerateRenditionsWizard.java
+END
+DeleteSandboxDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeleteSandboxDialog.java
+END
+DeleteDeploymentReportsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeleteDeploymentReportsDialog.java
+END
+DeleteWebsiteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeleteWebsiteDialog.java
+END
+RevertSnapshotDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/RevertSnapshotDialog.java
+END
+MonitorDeploymentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/MonitorDeploymentDialog.java
+END
+FileDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/FileDetailsBean.java
+END
+ImportWebsiteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/ImportWebsiteDialog.java
+END
+CreateWebContentWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CreateWebContentWizard.java
+END
+FormWorkflowDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/FormWorkflowDialog.java
+END
+CreateFolderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CreateFolderDialog.java
+END
+SubmitConfigureWorkflowDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/SubmitConfigureWorkflowDialog.java
+END
+CompareSnapshotDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CompareSnapshotDialog.java
+END
+ReleaseTestServerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/ReleaseTestServerDialog.java
+END
+ViewDeploymentReportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/ViewDeploymentReportDialog.java
+END
+DeploymentMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeploymentMonitor.java
+END
+FormDetailsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/FormDetailsDialog.java
+END
+AVMNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/32958/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/AVMNode.java
+END
+CompareToCurrentSnapshotDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CompareToCurrentSnapshotDialog.java
+END
+DeploymentServerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeploymentServerConfig.java
+END
+UpdatePermissionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/UpdatePermissionsDialog.java
+END
+RevertSelectedDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/RevertSelectedDialog.java
+END
+DeleteFolderBrowseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeleteFolderBrowseDialog.java
+END
+EditPermissionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/EditPermissionsDialog.java
+END
+CompareToAnySnapshotDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CompareToAnySnapshotDialog.java
+END
+ManagePermissionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/ManagePermissionsDialog.java
+END
+DeleteFileBrowseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeleteFileBrowseDialog.java
+END
+ChangeExpirationDateDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/ChangeExpirationDateDialog.java
+END
+SetPermissionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29628/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/SetPermissionsDialog.java
+END
+AddAvmContentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/22307/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/AddAvmContentDialog.java
+END
+CreateWebsiteWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CreateWebsiteWizard.java
+END
+RemovePermissionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/RemovePermissionsDialog.java
+END
+EditAvmFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/EditAvmFileDialog.java
+END
+UnlockFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/UnlockFileDialog.java
+END
+AVMWorkflowUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/AVMWorkflowUtil.java
+END
+EditFolderPropertiesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/EditFolderPropertiesDialog.java
+END
+DeleteFolderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeleteFolderDialog.java
+END
+RevertAllDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/RevertAllDialog.java
+END
+AVMUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/AVMUtil.java
+END
+CreateWebappDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CreateWebappDialog.java
+END
+DeleteFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeleteFileDialog.java
+END
+CreateLayeredFolderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CreateLayeredFolderDialog.java
+END
+BasePermissionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/BasePermissionsDialog.java
+END
+EditFormWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19500/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/EditFormWizard.java
+END
+SnapshotSandboxDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/SnapshotSandboxDialog.java
+END
+DeployWebsiteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeployWebsiteDialog.java
+END
+FormTemplatesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/FormTemplatesDialog.java
+END
+WorkflowConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/WorkflowConfiguration.java
+END
+WebProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/WebProject.java
+END
+FolderDetailsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/FolderDetailsBean.java
+END
+CreateFormWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CreateFormWizard.java
+END
+ManageReviewTaskDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/ManageReviewTaskDialog.java
+END
+DeploymentUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/DeploymentUtil.java
+END
+InviteWebsiteUsersWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28137/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/InviteWebsiteUsersWizard.java
+END
+CompareToPreviousSnapshotDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/CompareToPreviousSnapshotDialog.java
+END
+EditWebsiteWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/EditWebsiteWizard.java
+END
+AVMBrowseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wcm/AVMBrowseBean.java
+END

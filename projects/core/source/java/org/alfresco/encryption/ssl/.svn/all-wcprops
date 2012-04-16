@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/30208/alfresco/HEAD/root/projects/core/source/java/org/alfresco/encryption/ssl
+END
+SSLEncryptionParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/encryption/ssl/SSLEncryptionParameters.java
+END
+AuthSSLInitializationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/core/source/java/org/alfresco/encryption/ssl/AuthSSLInitializationError.java
+END
+AuthSSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30208/alfresco/HEAD/root/projects/core/source/java/org/alfresco/encryption/ssl/AuthSSLProtocolSocketFactory.java
+END

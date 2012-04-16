@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet
+END
+BaseDownloadContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/BaseDownloadContentServlet.java
+END
+AcceptLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/AcceptLanguage.java
+END
+DefaultRemoteUserMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/DefaultRemoteUserMapper.java
+END
+DefaultRemoteUserMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/DefaultRemoteUserMapperTest.java
+END
+BaseTemplateContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/BaseTemplateContentServlet.java
+END
+DownloadContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19710/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/DownloadContentServlet.java
+END
+JBPMDeployProcessServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29326/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/JBPMDeployProcessServlet.java
+END
+AbstractAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/AbstractAuthenticationFilter.java
+END
+ExternalAccessServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/22901/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/ExternalAccessServlet.java
+END
+TemplateContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/TemplateContentServlet.java
+END
+GuestDownloadContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19711/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/GuestDownloadContentServlet.java
+END
+GlobalLocalizationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/GlobalLocalizationFilter.java
+END
+AuthenticationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/AuthenticationHelper.java
+END
+BaseServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/BaseServlet.java
+END
+NTLMAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/33829/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/NTLMAuthenticationFilter.java
+END
+FacesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/FacesHelper.java
+END
+DownloadRawContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/DownloadRawContentServlet.java
+END
+KerberosAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/33829/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/KerberosAuthenticationFilter.java
+END
+CommandServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/CommandServlet.java
+END
+AuthenticationStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/AuthenticationStatus.java
+END
+GuestTemplateContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/GuestTemplateContentServlet.java
+END
+UploadContentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19400/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/UploadContentServlet.java
+END
+AuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/AuthenticationFilter.java
+END
+ModeDetectionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/ModeDetectionFilter.java
+END
+UploadFileServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20582/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/UploadFileServlet.java
+END
+WorkflowDefinitionImageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/WorkflowDefinitionImageServlet.java
+END
+WebScriptSSOAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/WebScriptSSOAuthenticationFilter.java
+END
+AdminAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/AdminAuthenticationFilter.java
+END
+HTTPRequestAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/servlet/HTTPRequestAuthenticationFilter.java
+END

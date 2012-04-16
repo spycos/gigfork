@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/22554/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/requisite
+END
+RequsiteModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/21160/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/requisite/RequsiteModel.java
+END
+TransferRequsiteWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/21130/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/requisite/TransferRequsiteWriter.java
+END
+XMLTransferRequsiteWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/22554/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/requisite/XMLTransferRequsiteWriter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/21130/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/requisite/package-info.java
+END
+TransferRequsiteProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/21130/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/requisite/TransferRequsiteProcessor.java
+END
+DeltaListRequsiteProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/21160/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/requisite/DeltaListRequsiteProcessor.java
+END
+XMLTransferRequsiteReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/21160/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/requisite/XMLTransferRequsiteReader.java
+END

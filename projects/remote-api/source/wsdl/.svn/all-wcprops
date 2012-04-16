@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/22216/alfresco/HEAD/root/projects/remote-api/source/wsdl
+END
+content-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/8663/alfresco/HEAD/root/projects/remote-api/source/wsdl/content-service.wsdl
+END
+Alfresco-Core.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/19063/alfresco/HEAD/root/projects/remote-api/source/wsdl/Alfresco-Core.xsd
+END
+action-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/12712/alfresco/HEAD/root/projects/remote-api/source/wsdl/action-service.wsdl
+END
+CMIS-RestAtom.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/wsdl/CMIS-RestAtom.xsd
+END
+authentication-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/5075/alfresco/HEAD/root/projects/remote-api/source/wsdl/authentication-service.wsdl
+END
+access-control-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/8659/alfresco/HEAD/root/projects/remote-api/source/wsdl/access-control-service.wsdl
+END
+repository-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/remote-api/source/wsdl/repository-service.wsdl
+END
+administration-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/6166/alfresco/HEAD/root/projects/remote-api/source/wsdl/administration-service.wsdl
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/wsdl/xml.xsd
+END
+classification-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/4633/alfresco/HEAD/root/projects/remote-api/source/wsdl/classification-service.wsdl
+END
+types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/wsdl/types.xsd
+END
+CMIS-Messaging.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/wsdl/CMIS-Messaging.xsd
+END
+authoring-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/5309/alfresco/HEAD/root/projects/remote-api/source/wsdl/authoring-service.wsdl
+END
+Alfresco-CMISWS-Service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/19037/alfresco/HEAD/root/projects/remote-api/source/wsdl/Alfresco-CMISWS-Service.wsdl
+END
+headers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/remote-api/source/wsdl/headers.xsd
+END
+cml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/14306/alfresco/HEAD/root/projects/remote-api/source/wsdl/cml.xsd
+END
+dictionary-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/22216/alfresco/HEAD/root/projects/remote-api/source/wsdl/dictionary-service.wsdl
+END
+CMISWS-Service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/wsdl/CMISWS-Service.wsdl
+END
+CMIS-Core.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/wsdl/CMIS-Core.xsd
+END

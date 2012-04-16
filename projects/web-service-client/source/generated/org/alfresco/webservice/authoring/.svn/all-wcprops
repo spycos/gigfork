@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring
+END
+LockTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/LockTypeEnum.java
+END
+AuthoringService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/AuthoringService.java
+END
+CheckinResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/CheckinResult.java
+END
+CheckoutResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/CheckoutResult.java
+END
+VersionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/VersionResult.java
+END
+AuthoringServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/AuthoringServiceLocator.java
+END
+AuthoringServiceSoapPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/AuthoringServiceSoapPort.java
+END
+CancelCheckoutResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/CancelCheckoutResult.java
+END
+AuthoringFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/AuthoringFault.java
+END
+LockStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/LockStatus.java
+END
+AuthoringServiceSoapBindingStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/authoring/AuthoringServiceSoapBindingStub.java
+END

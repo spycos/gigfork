@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/tenant
+END
+SingleTServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/tenant/SingleTServiceImpl.java
+END
+Tenant.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/tenant/Tenant.java
+END
+TenantUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30993/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/tenant/TenantUserService.java
+END
+TenantService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/tenant/TenantService.java
+END
+TenantDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/tenant/TenantDeployer.java
+END

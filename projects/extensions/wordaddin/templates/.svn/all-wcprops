@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/14141/alfresco/HEAD/root/projects/extensions/wordaddin/templates
+END
+doc_actions.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/4787/alfresco/HEAD/root/projects/extensions/wordaddin/templates/doc_actions.js
+END
+search.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/search.js
+END
+version.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/version.js
+END
+navigation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/navigation.ftl
+END
+doc_details.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/doc_details.js
+END
+document_details.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/document_details.ftl
+END
+my_alfresco.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/my_alfresco.ftl
+END
+search.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/search.ftl
+END
+navigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/navigation.js
+END
+version_history.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/14141/alfresco/HEAD/root/projects/extensions/wordaddin/templates/version_history.ftl
+END
+my_alfresco.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/4901/alfresco/HEAD/root/projects/extensions/wordaddin/templates/my_alfresco.js
+END

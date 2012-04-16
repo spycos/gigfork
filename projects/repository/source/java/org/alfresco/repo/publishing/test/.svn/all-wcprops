@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/32575/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/test
+END
+publishing-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28575/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/test/publishing-test-context.xml
+END
+SiteType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29255/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/test/SiteType.java
+END
+TestChannelType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32575/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/test/TestChannelType1.java
+END
+TestChannelType2.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32575/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/test/TestChannelType2.java
+END
+TestChannelType3.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32575/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/test/TestChannelType3.java
+END

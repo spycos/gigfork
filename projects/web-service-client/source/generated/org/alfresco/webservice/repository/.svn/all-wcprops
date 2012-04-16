@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository
+END
+RepositoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository/RepositoryService.java
+END
+UpdateResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository/UpdateResult.java
+END
+QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository/QueryResult.java
+END
+RepositoryServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository/RepositoryServiceLocator.java
+END
+RepositoryServiceSoapPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository/RepositoryServiceSoapPort.java
+END
+RepositoryFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository/RepositoryFault.java
+END
+Association.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository/Association.java
+END
+RepositoryServiceSoapBindingStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/5018/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice/repository/RepositoryServiceSoapBindingStub.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/registry
+END
+RegistryKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19267/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/registry/RegistryKey.java
+END
+RegistryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/registry/RegistryService.java
+END
+RegistryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/registry/RegistryServiceImpl.java
+END
+RegistryServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/admin/registry/RegistryServiceImplTest.java
+END

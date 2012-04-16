@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/30833/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/model
+END
+dod5015Model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28225/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/model/dod5015Model.xml
+END
+recordsModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30833/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/model/recordsModel.xml
+END
+recordsPermissionModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/29863/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/model/recordsPermissionModel.xml
+END

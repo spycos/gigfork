@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget
+END
+tasks.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/tasks.get.desc.xml
+END
+details.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7265/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/details.get.desc.xml
+END
+update.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/7663/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/update.post.js
+END
+transitiontask.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/transitiontask.get.html.ftl
+END
+update.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7663/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/update.post.desc.xml
+END
+update.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7663/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/update.get.html.ftl
+END
+upload.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/upload.post.html.ftl
+END
+editdetails.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/editdetails.get.html.ftl
+END
+taskdetails.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/7275/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/taskdetails.get.js
+END
+delete.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/delete.post.js
+END
+taskdetails.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/7275/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/taskdetails.get.desc.xml
+END
+delete.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/delete.post.desc.xml
+END
+createfolder.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/createfolder.get.html.ftl
+END
+editdetails.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/editdetails.post.html.ftl
+END
+transitiontask.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/7275/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/transitiontask.get.js
+END
+transitiontask.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/7275/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/transitiontask.get.desc.xml
+END
+delete.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/delete.get.html.ftl
+END
+search.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/search.get.html.ftl
+END
+createfolder.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/createfolder.post.html.ftl
+END
+update.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7663/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/update.get.desc.xml
+END
+folder.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/folder.get.html.ftl
+END
+upload.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/7265/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/upload.post.js
+END
+editdetails.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/editdetails.get.js
+END
+upload.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/upload.post.desc.xml
+END
+editdetails.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/editdetails.get.desc.xml
+END
+createfolder.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/createfolder.get.desc.xml
+END
+upload.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/upload.get.html.ftl
+END
+tasks.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/tasks.get.html.ftl
+END
+editdetails.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/editdetails.post.js
+END
+details.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/details.get.html.ftl
+END
+editdetails.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/editdetails.post.desc.xml
+END
+delete.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/delete.get.desc.xml
+END
+update.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7663/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/update.post.html.ftl
+END
+search.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/search.get.js
+END
+createfolder.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/createfolder.post.js
+END
+search.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/search.get.desc.xml
+END
+createfolder.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/createfolder.post.desc.xml
+END
+folder.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/7265/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/folder.get.js
+END
+folder.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/folder.get.desc.xml
+END
+taskdetails.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/taskdetails.get.html.ftl
+END
+delete.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/7302/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/delete.post.html.ftl
+END
+tasks.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/tasks.get.js
+END
+details.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/7671/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/details.get.js
+END
+upload.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/7254/alfresco/HEAD/root/modules/google-gadgets/webscripts/aggadget/upload.get.desc.xml
+END

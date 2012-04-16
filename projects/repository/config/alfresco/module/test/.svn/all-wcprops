@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/4956/alfresco/HEAD/root/projects/repository/config/alfresco/module/test
+END
+module.properties.sample
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/4956/alfresco/HEAD/root/projects/repository/config/alfresco/module/test/module.properties.sample
+END
+module-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/4956/alfresco/HEAD/root/projects/repository/config/alfresco/module/test/module-context.xml.sample
+END

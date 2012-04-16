@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.MySQLInnoDBDialect
+END
+remove-AVM-issuer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.MySQLInnoDBDialect/remove-AVM-issuer.sql
+END
+AlfrescoSchemaUpdate-3.2-ContentTables2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/alfresco-open-mirror/!svn/ver/18151/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoSchemaUpdate-3.2-ContentTables2.sql
+END
+AlfrescoSchemaUpdate-3.2-AddFKIndexes-2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoSchemaUpdate-3.2-AddFKIndexes-2.sql
+END
+child-assoc-qname-crc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.MySQLInnoDBDialect/child-assoc-qname-crc.sql
+END
+jbpm-upgrade.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.MySQLInnoDBDialect/jbpm-upgrade.sql
+END
+modify-AVM-mimetype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/14947/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.MySQLInnoDBDialect/modify-AVM-mimetype.sql
+END

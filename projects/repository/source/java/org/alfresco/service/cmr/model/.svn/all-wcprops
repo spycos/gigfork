@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/32797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/package-info.java
+END
+FileFolderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/FileFolderUtil.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/32388/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/FileInfo.java
+END
+FileNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/FileNotFoundException.java
+END
+SubFolderFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/SubFolderFilter.java
+END
+FileFolderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/FileFolderService.java
+END
+FileExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/FileExistsException.java
+END
+FileFolderServiceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/FileFolderServiceType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/model/package.html
+END

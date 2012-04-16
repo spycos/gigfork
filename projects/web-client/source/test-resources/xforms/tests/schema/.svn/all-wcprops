@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema
+END
+imported.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/imported.xsd
+END
+list-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/list-test.xsd
+END
+upload-simple-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/upload-simple-test.xsd
+END
+default-values-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/default-values-test.xsd
+END
+optional-required.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/optional-required.xsd
+END
+attributes-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/attributes-test.xsd
+END
+broken-import-negative-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/broken-import-negative-test.xsd
+END
+group-appearance-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/group-appearance-test.xsd
+END
+multi-form-schema-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/multi-form-schema-test.xsd
+END
+repeat-multi.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/repeat-multi.xsd
+END
+range-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/range-test.xsd
+END
+attribute-group-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/attribute-group-test.xsd
+END
+integer-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/integer-test.xsd
+END
+read-only-field.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/read-only-field.xsd
+END
+switch-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/switch-test.xsd
+END
+element-ref-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/element-ref-test.xsd
+END
+image.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/image.xsd
+END
+recursive-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/recursive-test.xsd
+END
+repeat-constraints.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/repeat-constraints.xsd
+END
+empty-extension-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/empty-extension-test.xsd
+END
+schema-from-forum.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/schema-from-forum.xsd
+END
+repeat-nested-simple.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/repeat-nested-simple.xsd
+END
+test-asset-pickers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/test-asset-pickers.xsd
+END
+repeat-textarea.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/repeat-textarea.xsd
+END
+repeat-submit-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/repeat-submit-test.xsd
+END
+multi-namespace-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/multi-namespace-test.xsd
+END
+no-elements-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/no-elements-test.xsd
+END
+import-example.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/import-example.xsd
+END
+hidden-field-example.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/hidden-field-example.xsd
+END
+xspattern-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/15725/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/xspattern-test.xsd
+END
+readonly-and-default-values-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18128/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/readonly-and-default-values-test.xsd
+END
+datetime-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/datetime-test.xsd
+END
+inheritence-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/inheritence-test.xsd
+END
+repeat-nested-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/repeat-nested-test.xsd
+END
+select1-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/select1-test.xsd
+END
+multilingual-press-release.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/multilingual-press-release.xsd
+END
+multi-namespace-test-other.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/schema/multi-namespace-test-other.xsd
+END

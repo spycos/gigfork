@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch
+END
+AppliedPatchDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/AppliedPatchDAO.java
+END
+AppliedPatchDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/AppliedPatchDAOTest.java
+END
+PatchDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/PatchDAO.java
+END
+AbstractAppliedPatchDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/AbstractAppliedPatchDAOImpl.java
+END
+AbstractPatchDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28282/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/AbstractPatchDAOImpl.java
+END
+AppliedPatchEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/patch/AppliedPatchEntity.java
+END

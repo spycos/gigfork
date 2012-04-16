@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan
+END
+TrashcanRecoverListedItemsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanRecoverListedItemsDialog.java
+END
+TrashcanDeleteAllItemsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanDeleteAllItemsDialog.java
+END
+TrashcanDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanDialog.java
+END
+TrashcanDeleteItemDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanDeleteItemDialog.java
+END
+TrashcanDialogProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanDialogProperty.java
+END
+TrashcanItemDetailsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanItemDetailsDialog.java
+END
+TrashcanRecoverItemDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanRecoverItemDialog.java
+END
+TrashcanDeleteListedItemsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanDeleteListedItemsDialog.java
+END
+TrashcanRecoveryReportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/trashcan/TrashcanRecoveryReportDialog.java
+END

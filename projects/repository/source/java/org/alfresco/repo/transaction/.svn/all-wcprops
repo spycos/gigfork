@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction
+END
+CheckTransactionAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/CheckTransactionAdvice.java
+END
+SingleEntryTransactionResourceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/SingleEntryTransactionResourceInterceptor.java
+END
+AlfrescoTransactionSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/31619/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/AlfrescoTransactionSupportTest.java
+END
+AlfrescoTransactionSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/AlfrescoTransactionSupport.java
+END
+TransactionalDaoInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionalDaoInterceptor.java
+END
+RetryingTransactionHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/23431/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/RetryingTransactionHelperTest.java
+END
+RetryingTransactionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30468/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/RetryingTransactionHelper.java
+END
+TransactionalResourceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/31619/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionalResourceHelper.java
+END
+DummyTransactionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/DummyTransactionService.java
+END
+TooBusyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TooBusyException.java
+END
+AlfrescoTransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/AlfrescoTransactionException.java
+END
+TransactionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionUtil.java
+END
+RetryingTransactionAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/RetryingTransactionAdvice.java
+END
+TransactionalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionalDao.java
+END
+TransactionAwareSingletonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionAwareSingletonTest.java
+END
+TransactionAwareSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionAwareSingleton.java
+END
+RetryingTransactionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/32365/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/RetryingTransactionInterceptor.java
+END
+DoNotRetryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30468/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/DoNotRetryException.java
+END
+TransactionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionServiceImpl.java
+END
+TransactionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionServiceImplTest.java
+END
+TransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31094/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionListener.java
+END
+TransactionListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transaction/TransactionListenerAdapter.java
+END

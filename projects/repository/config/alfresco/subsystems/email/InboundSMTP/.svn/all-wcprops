@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/33015/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/email/InboundSMTP
+END
+inboundSMTP-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33015/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/email/InboundSMTP/inboundSMTP-context.xml
+END
+inboundSMTP.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33015/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/email/InboundSMTP/inboundSMTP.properties
+END

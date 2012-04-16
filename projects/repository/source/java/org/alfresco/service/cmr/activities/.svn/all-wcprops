@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/28589/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/activities
+END
+ActivityPostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/activities/ActivityPostService.java
+END
+FeedControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/activities/FeedControl.java
+END
+ActivityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28589/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/activities/ActivityService.java
+END

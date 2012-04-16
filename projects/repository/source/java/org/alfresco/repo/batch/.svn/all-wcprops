@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/batch
+END
+BatchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/batch/BatchProcessor.java
+END
+BatchMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/batch/BatchMonitor.java
+END
+BatchMonitorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/batch/BatchMonitorEvent.java
+END
+BatchProcessWorkProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20752/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/batch/BatchProcessWorkProvider.java
+END

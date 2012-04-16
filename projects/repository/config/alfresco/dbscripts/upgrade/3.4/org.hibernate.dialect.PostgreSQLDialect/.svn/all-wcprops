@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.PostgreSQLDialect
+END
+AVM-index-child-entries-lower.sql
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.PostgreSQLDialect/AVM-index-child-entries-lower.sql
+END
+property-unique-ctx-value.sql
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/20842/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.PostgreSQLDialect/property-unique-ctx-value.sql
+END

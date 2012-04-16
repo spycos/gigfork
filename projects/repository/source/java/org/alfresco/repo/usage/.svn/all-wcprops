@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage
+END
+RepoUsageComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/RepoUsageComponentImpl.java
+END
+UsageQuotaProtector.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/UsageQuotaProtector.java
+END
+ContentUsageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/ContentUsageImpl.java
+END
+UserUsageCollapseJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/UserUsageCollapseJob.java
+END
+RepoUsageMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/RepoUsageMonitor.java
+END
+UserUsageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/22339/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/UserUsageTest.java
+END
+UsageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/UsageServiceImpl.java
+END
+UserUsageTrackingComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30993/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/UserUsageTrackingComponent.java
+END
+UserUsageTrackingComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/31258/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/UserUsageTrackingComponentTest.java
+END
+RepoUsageComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/RepoUsageComponent.java
+END
+RepoUsageComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/RepoUsageComponentTest.java
+END
+UsageTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/usage/UsageTestSuite.java
+END

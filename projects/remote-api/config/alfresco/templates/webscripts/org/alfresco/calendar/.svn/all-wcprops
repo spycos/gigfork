@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29247/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar
+END
+color.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/color.get.html.ftl
+END
+RetrieveEventDefaults.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/RetrieveEventDefaults.get.html.ftl
+END
+RetrieveEventDetails.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/RetrieveEventDetails.get.js
+END
+RetrieveEventDetails.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/RetrieveEventDetails.get.desc.xml
+END
+feed.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/9302/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/feed.get.js
+END
+feed.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/feed.get.desc.xml
+END
+events.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/9302/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/events.get.js
+END
+events.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/events.get.desc.xml
+END
+calendarSub.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarSub.post.html.ftl
+END
+SaveCalendarEvent.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/SaveCalendarEvent.get.html.ftl
+END
+calendarInit.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarInit.get.html.ftl
+END
+calendarEvents.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarEvents.get.html.ftl
+END
+color.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/color.get.js
+END
+calendarDelete.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarDelete.post.html.ftl
+END
+RetrieveEventDefaults.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/RetrieveEventDefaults.get.js
+END
+calendarEvents.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarEvents.get.json.ftl
+END
+color.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/color.get.desc.xml
+END
+RetrieveEventDefaults.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/RetrieveEventDefaults.get.desc.xml
+END
+calendarSub.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarSub.post.js
+END
+calendarSub.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarSub.post.desc.xml
+END
+SaveCalendarEvent.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/SaveCalendarEvent.get.js
+END
+SaveCalendarEvent.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/SaveCalendarEvent.get.desc.xml
+END
+calendarInit.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/11009/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarInit.get.js
+END
+calendarInit.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarInit.get.desc.xml
+END
+calendarEvents.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarEvents.get.js
+END
+calendarEvents.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarEvents.get.desc.xml
+END
+color.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/color.post.html.ftl
+END
+calendarDelete.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarDelete.post.js
+END
+calendarDelete.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/calendarDelete.post.desc.xml
+END
+RetrieveEventDetails.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/RetrieveEventDetails.get.html.ftl
+END
+feed.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/9302/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/feed.get.html.ftl
+END
+color.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/8956/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/color.post.js
+END
+events.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/9302/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/events.get.json.ftl
+END
+color.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/14672/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/webscripts/org/alfresco/calendar/color.post.desc.xml
+END

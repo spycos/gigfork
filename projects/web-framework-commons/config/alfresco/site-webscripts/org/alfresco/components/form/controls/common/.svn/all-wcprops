@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/common
+END
+editorparams.inc.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/common/editorparams.inc.ftl
+END
+picker.inc.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/31197/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/common/picker.inc.ftl
+END
+utils.inc.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/15274/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/common/utils.inc.ftl
+END

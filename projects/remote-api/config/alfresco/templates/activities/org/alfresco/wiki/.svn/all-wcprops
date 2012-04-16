@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/wiki
+END
+page-deleted.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/wiki/page-deleted.atomentry.ftl
+END
+page-created.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/wiki/page-created.atomentry.ftl
+END
+page-renamed.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/wiki/page-renamed.atomentry.ftl
+END
+page-edited.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/wiki/page-edited.atomentry.ftl
+END

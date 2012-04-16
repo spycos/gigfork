@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/17178/alfresco/HEAD/root/projects/deployment/config/deployment
+END
+deployment-receiver-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/14574/alfresco/HEAD/root/projects/deployment/config/deployment/deployment-receiver-context.xml
+END
+sample-target.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/17178/alfresco/HEAD/root/projects/deployment/config/deployment/sample-target.xml
+END
+extras-context-sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/14543/alfresco/HEAD/root/projects/deployment/config/deployment/extras-context-sample.xml
+END
+filesystem-target-sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/17178/alfresco/HEAD/root/projects/deployment/config/deployment/filesystem-target-sample.xml
+END
+default-target.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/17178/alfresco/HEAD/root/projects/deployment/config/deployment/default-target.xml
+END

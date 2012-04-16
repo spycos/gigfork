@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/web/jsp/dialog
+END
+about.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/web/jsp/dialog/about.jsp
+END
+container.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/source/web/jsp/dialog/container.jsp
+END
+delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/dialog/delete.jsp
+END
+plain-container.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/20796/alfresco/HEAD/root/projects/web-client/source/web/jsp/dialog/plain-container.jsp
+END

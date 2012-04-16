@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/31185/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries
+END
+GetBlogPostsCannedQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/28728/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries/GetBlogPostsCannedQueryParams.java
+END
+BlogEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29525/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries/BlogEntity.java
+END
+DraftsAndPublishedBlogPostsCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31185/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries/DraftsAndPublishedBlogPostsCannedQuery.java
+END
+GetBlogPostsCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/31185/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries/GetBlogPostsCannedQueryFactory.java
+END
+DraftsAndPublishedBlogPostsCannedQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/28816/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries/DraftsAndPublishedBlogPostsCannedQueryParams.java
+END
+AbstractBlogPostsCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31185/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries/AbstractBlogPostsCannedQueryFactory.java
+END
+DraftsAndPublishedBlogPostsCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/31185/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries/DraftsAndPublishedBlogPostsCannedQueryFactory.java
+END
+GetBlogPostsCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/31185/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/blog/cannedqueries/GetBlogPostsCannedQuery.java
+END

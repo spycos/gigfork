@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/33018/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/config
+END
+surf-interop-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/config/surf-interop-config.xml
+END
+webeditor.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/config/webeditor.properties
+END
+web-application-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/30714/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/config/web-application-config.xml
+END
+surf-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/config/surf-config.xml
+END
+wcmqs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/config/wcmqs.properties
+END
+wcmqs-webapp-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/config/wcmqs-webapp-context.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/config/log4j.xml
+END

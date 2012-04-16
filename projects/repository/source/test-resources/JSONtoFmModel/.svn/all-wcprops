@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/9095/alfresco/HEAD/root/projects/repository/source/test-resources/JSONtoFmModel
+END
+test1.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/9095/alfresco/HEAD/root/projects/repository/source/test-resources/JSONtoFmModel/test1.ftl
+END
+test2.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/9095/alfresco/HEAD/root/projects/repository/source/test-resources/JSONtoFmModel/test2.ftl
+END
+test3.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/9095/alfresco/HEAD/root/projects/repository/source/test-resources/JSONtoFmModel/test3.ftl
+END
+test4.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/9095/alfresco/HEAD/root/projects/repository/source/test-resources/JSONtoFmModel/test4.ftl
+END

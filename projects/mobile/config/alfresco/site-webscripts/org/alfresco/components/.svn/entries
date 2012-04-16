@@ -1,0 +1,70 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-02-08T11:06:09.748222Z
+33758
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+profile
+dir
+
+documents
+dir
+
+task
+dir
+
+site
+dir
+
+search
+dir
+
+tasks
+dir
+
+invitesites
+dir
+
+sites
+dir
+
+header
+dir
+
+home
+dir
+
+workflow
+dir
+
+document
+dir
+
+footer
+dir
+
+invite
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/security
+END
+AuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/32328/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/security/AuthenticationService.java
+END
+PublicServiceAccessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/security/PublicServiceAccessService.java
+END
+NoSuchPersonException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/security/NoSuchPersonException.java
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/security/PersonService.java
+END
+OwnableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/security/OwnableService.java
+END
+AuthorityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/security/AuthorityService.java
+END
+MutableAuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/security/MutableAuthenticationService.java
+END

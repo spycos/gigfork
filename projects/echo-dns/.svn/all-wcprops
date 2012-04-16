@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/echo-dns
+END
+test_echodns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/echo-dns/test_echodns.cpp
+END
+echodns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/echo-dns/echodns.cpp
+END

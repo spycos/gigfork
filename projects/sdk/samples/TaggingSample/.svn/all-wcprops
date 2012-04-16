@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/TaggingSample
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/TaggingSample/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/TaggingSample/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/5282/alfresco/HEAD/root/projects/sdk/samples/TaggingSample/build.xml
+END

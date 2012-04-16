@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party
+END
+Apache 1.1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/Apache%201.1.txt
+END
+Apache 2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/Apache%202.0.txt
+END
+Unidata Free Software.txt
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/Unidata%20Free%20Software.txt
+END
+mysql.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/mysql.txt
+END
+libiconv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/libiconv.txt
+END
+CDDL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/CDDL.txt
+END
+Sun Public License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/Sun%20Public%20License.txt
+END
+Jaxen License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/Jaxen%20License.txt
+END
+libpng.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/libpng.txt
+END
+BSD License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/BSD%20License.txt
+END
+LGPL 3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/LGPL%203.txt
+END
+ncurses.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/ncurses.txt
+END
+freetype.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/23183/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/freetype.txt
+END
+ASM License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/ASM%20License.txt
+END
+ICU License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/ICU%20License.txt
+END
+Apache 1.1 variant.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/Apache%201.1%20variant.txt
+END
+tomcat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/tomcat.txt
+END
+MIT License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/MIT%20License.txt
+END
+jpegsrc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/jpegsrc.txt
+END
+CPL 1.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/CPL%201.0.txt
+END
+The zlib libpng License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/The%20zlib%20libpng%20License.txt
+END
+zlib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/23183/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/zlib.txt
+END
+postgresql.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/postgresql.txt
+END
+jsTextReader.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/jsTextReader.txt
+END
+bouncycastle-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/bouncycastle-license.txt
+END
+openoffice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/openoffice.txt
+END
+ImageMagick-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/ImageMagick-license.txt
+END
+LGPL 2.1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/LGPL%202.1.txt
+END
+java.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/24157/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/java.txt
+END
+openssl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/openssl.txt
+END
+readline.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/readline.txt
+END
+Artistic License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/Artistic%20License.txt
+END
+Eclipse Public License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/Eclipse%20Public%20License.txt
+END
+MPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/MPL.txt
+END
+ODMG License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/ODMG%20License.txt
+END
+opensaml-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/opensaml-license.txt
+END
+lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/licenses/3rd-party/lgpl.txt
+END

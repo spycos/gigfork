@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/34296/alfresco/HEAD/root/projects/repository/config/alfresco/hazelcast
+END
+hazelcast-tcp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/34276/alfresco/HEAD/root/projects/repository/config/alfresco/hazelcast/hazelcast-tcp.xml
+END
+hazelcast-udp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/34276/alfresco/HEAD/root/projects/repository/config/alfresco/hazelcast/hazelcast-udp.xml
+END
+hazelcast-ec2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/34296/alfresco/HEAD/root/projects/repository/config/alfresco/hazelcast/hazelcast-ec2.xml
+END

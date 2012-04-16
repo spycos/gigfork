@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc
+END
+PortMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/PortMapping.java
+END
+RpcRequestQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcRequestQueue.java
+END
+RpcAuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcAuthenticationException.java
+END
+AuthType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/AuthType.java
+END
+RpcPacketPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcPacketPool.java
+END
+MultiThreadedUdpRpcDatagramHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/MultiThreadedUdpRpcDatagramHandler.java
+END
+MultiThreadedTcpRpcSessionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/MultiThreadedTcpRpcSessionHandler.java
+END
+RpcPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcPacketHandler.java
+END
+RpcPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/32891/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcPacket.java
+END
+RpcAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcAuthenticator.java
+END
+RpcRequestThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcRequestThreadPool.java
+END
+TcpRpcPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/TcpRpcPacketHandler.java
+END
+RpcClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcClient.java
+END
+DefaultRpcAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/DefaultRpcAuthenticator.java
+END
+Rpc.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/Rpc.java
+END
+RpcProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcProcessor.java
+END
+RpcNetworkServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19374/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/RpcNetworkServer.java
+END
+TcpRpcClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19374/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/TcpRpcClient.java
+END
+UdpRpcDatagramHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/UdpRpcDatagramHandler.java
+END
+MultiThreadedTcpRpcPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/MultiThreadedTcpRpcPacketHandler.java
+END
+TcpRpcSessionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/oncrpc/TcpRpcSessionHandler.java
+END

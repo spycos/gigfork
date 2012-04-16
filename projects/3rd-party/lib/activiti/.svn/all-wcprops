@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/3rd-party/lib/activiti
+END
+activiti-engine-5.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/3rd-party/lib/activiti/activiti-engine-5.7.jar
+END
+livetribe-jsr223-2.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/3rd-party/lib/activiti/livetribe-jsr223-2.0.6.jar
+END
+groovy-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/3rd-party/lib/activiti/groovy-1.7.5.jar
+END
+activiti-spring-5.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/31411/alfresco/HEAD/root/projects/3rd-party/lib/activiti/activiti-spring-5.7.jar
+END

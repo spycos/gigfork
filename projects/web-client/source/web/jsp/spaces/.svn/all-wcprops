@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces
+END
+edit-simple-workflow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/edit-simple-workflow.jsp
+END
+apply-space-template.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/apply-space-template.jsp
+END
+create-space-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/create-space-dialog.jsp
+END
+preview-space.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/preview-space.jsp
+END
+delete-space.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/delete-space.jsp
+END
+edit-space-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/edit-space-dialog.jsp
+END
+spacelink-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/spacelink-details.jsp
+END
+space-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/space-details.jsp
+END
+apply-rss-template.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/spaces/apply-rss-template.jsp
+END

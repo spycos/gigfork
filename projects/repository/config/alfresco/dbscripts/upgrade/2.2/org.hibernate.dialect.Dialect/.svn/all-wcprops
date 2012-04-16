@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.Dialect
+END
+AlfrescoSchemaUpdate-2.2-CleanNodeStatuses.sql
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/17089/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.Dialect/AlfrescoSchemaUpdate-2.2-CleanNodeStatuses.sql
+END
+AlfrescoSchemaUpdate-Person.sql
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/21369/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.Dialect/AlfrescoSchemaUpdate-Person.sql
+END
+AddFKIndexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/2.2/org.hibernate.dialect.Dialect/AddFKIndexes.sql
+END

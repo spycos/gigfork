@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/33923/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws
+END
+GetDwsMetaDataEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetDwsMetaDataEndpoint.java
+END
+AbstractListEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/AbstractListEndpoint.java
+END
+CreateFolderEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/CreateFolderEndpoint.java
+END
+VtiEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31709/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/VtiEndpoint.java
+END
+GetUserLoginFromEmailEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetUserLoginFromEmailEndpoint.java
+END
+AbstractEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/AbstractEndpoint.java
+END
+WebUrlFromPageUrlEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/WebUrlFromPageUrlEndpoint.java
+END
+CheckOutFileEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/CheckOutFileEndpoint.java
+END
+RemoveMeetingEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/RemoveMeetingEndpoint.java
+END
+GetVersionsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/31765/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetVersionsEndpoint.java
+END
+DeleteVersionEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/31765/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/DeleteVersionEndpoint.java
+END
+AbstractVersionEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/31765/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/AbstractVersionEndpoint.java
+END
+RemoveDwsUserEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/RemoveDwsUserEndpoint.java
+END
+GetListItemsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetListItemsEndpoint.java
+END
+DeleteDwsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/31753/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/DeleteDwsEndpoint.java
+END
+GetMeetingsInformationEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetMeetingsInformationEndpoint.java
+END
+CreateDwsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/31753/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/CreateDwsEndpoint.java
+END
+AddListEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/AddListEndpoint.java
+END
+DeleteAllVersionsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/31765/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/DeleteAllVersionsEndpoint.java
+END
+CanCreateDwsUrlEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/CanCreateDwsUrlEndpoint.java
+END
+GetListCollectionEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33923/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetListCollectionEndpoint.java
+END
+GetWebCollectionEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetWebCollectionEndpoint.java
+END
+GetMeetingWorkspacesEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetMeetingWorkspacesEndpoint.java
+END
+GetListTemplatesEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetListTemplatesEndpoint.java
+END
+DeleteFolderEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/DeleteFolderEndpoint.java
+END
+DeleteListEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/DeleteListEndpoint.java
+END
+VtiSoapException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/VtiSoapException.java
+END
+VtiSoapResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/VtiSoapResponse.java
+END
+CheckInFileEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/CheckInFileEndpoint.java
+END
+UpdateMeetingFromICalEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/UpdateMeetingFromICalEndpoint.java
+END
+IsClaimsModeEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/IsClaimsModeEndpoint.java
+END
+GetListEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/33923/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetListEndpoint.java
+END
+GetWebEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/31769/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetWebEndpoint.java
+END
+AddMeetingFromICalEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/32752/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/AddMeetingFromICalEndpoint.java
+END
+GetListEndpoint.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetListEndpoint.ftl
+END
+DeleteWorkspaceEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/DeleteWorkspaceEndpoint.java
+END
+CreateWorkspaceEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/CreateWorkspaceEndpoint.java
+END
+RenameDwsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/RenameDwsEndpoint.java
+END
+GetDwsDataEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/31705/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/GetDwsDataEndpoint.java
+END
+AddUserCollectionToRoleEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18965/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/AddUserCollectionToRoleEndpoint.java
+END
+RestoreVersionEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/31765/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/RestoreVersionEndpoint.java
+END
+UpdateDwsDataEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/UpdateDwsDataEndpoint.java
+END
+UndoCheckOutFileEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32122/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/UndoCheckOutFileEndpoint.java
+END
+VtiSoapRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/31586/alfresco/HEAD/root/modules/sharepoint/amp/source/java/org/alfresco/module/vti/web/ws/VtiSoapRequest.java
+END

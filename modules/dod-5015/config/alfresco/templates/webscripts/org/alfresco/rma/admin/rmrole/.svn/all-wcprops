@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/16213/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole
+END
+rmrole.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/15876/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmrole.put.desc.xml
+END
+rmrole.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/15903/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmrole.put.json.ftl
+END
+rmroles.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/15876/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmroles.post.desc.xml
+END
+rmroles.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/15903/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmroles.post.json.ftl
+END
+rmrole.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/15903/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmrole.lib.ftl
+END
+rmrole.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/15876/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmrole.get.desc.xml
+END
+rmrole.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/15903/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmrole.get.json.ftl
+END
+rmrole.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/15876/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmrole.delete.desc.xml
+END
+rmrole.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/15876/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmrole.delete.json.ftl
+END
+rmroles.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/16213/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmroles.get.desc.xml
+END
+rmroles.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/15876/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/admin/rmrole/rmroles.get.json.ftl
+END

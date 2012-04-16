@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws
+END
+DMPolicyServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMPolicyServiceTest.java
+END
+DMNavigationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMNavigationServiceTest.java
+END
+DMAclServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMAclServiceTest.java
+END
+DMRelationshipServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMRelationshipServiceTest.java
+END
+WebServiceMultipleUsersSuiteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/WebServiceMultipleUsersSuiteTest.java
+END
+DMObjectServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMObjectServiceTest.java
+END
+DMDiscoveryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMDiscoveryServiceTest.java
+END
+CmisServiceTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/CmisServiceTestHelper.java
+END
+DMRepositoryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMRepositoryServiceTest.java
+END
+AbstractServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/AbstractServiceTest.java
+END
+DMVersioningServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMVersioningServiceTest.java
+END
+DMMultiFilingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/DMMultiFilingServiceTest.java
+END
+MultiThreadsServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/MultiThreadsServiceTest.java
+END
+CMISCustomTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/CMISCustomTypeTest.java
+END
+CmisWebServiceSuiteSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/test/java/org/alfresco/repo/cmis/ws/CmisWebServiceSuiteSystemTest.java
+END

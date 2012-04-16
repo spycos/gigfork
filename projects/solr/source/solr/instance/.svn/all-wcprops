@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/solr/instance
+END
+HowToSetUpSolr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/31205/alfresco/HEAD/root/projects/solr/source/solr/instance/HowToSetUpSolr.txt
+END
+apache-solr-1.4.1.war.unpatched
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/solr/source/solr/instance/apache-solr-1.4.1.war.unpatched
+END
+apache-solr-1.4.1.war
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/31161/alfresco/HEAD/root/projects/solr/source/solr/instance/apache-solr-1.4.1.war
+END
+solr-tomcat-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/29383/alfresco/HEAD/root/projects/solr/source/solr/instance/solr-tomcat-context.xml
+END
+CreateSSLKeystores.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/30254/alfresco/HEAD/root/projects/solr/source/solr/instance/CreateSSLKeystores.txt
+END
+solr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/solr.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/sync
+END
+UserRegistrySynchronizerJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/sync/UserRegistrySynchronizerJob.java
+END
+UserRegistrySynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/sync/UserRegistrySynchronizer.java
+END
+ChainingUserRegistrySynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/sync/ChainingUserRegistrySynchronizer.java
+END
+ChainingUserRegistrySynchronizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/sync/ChainingUserRegistrySynchronizerTest.java
+END
+UserRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/20873/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/sync/UserRegistry.java
+END
+NodeDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/sync/NodeDescription.java
+END

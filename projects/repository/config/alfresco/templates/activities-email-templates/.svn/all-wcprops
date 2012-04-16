@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32795/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates
+END
+activities-email_es.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates/activities-email_es.ftl
+END
+activities-email_fr.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates/activities-email_fr.ftl
+END
+activities-email_de.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates/activities-email_de.ftl
+END
+activities-email_nl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates/activities-email_nl.ftl
+END
+activities-email_ja.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32795/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates/activities-email_ja.ftl
+END
+activities-email_it.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates/activities-email_it.ftl
+END
+activities-email.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/activities-email-templates/activities-email.ftl
+END

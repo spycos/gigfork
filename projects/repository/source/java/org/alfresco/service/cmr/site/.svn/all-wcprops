@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/site
+END
+SiteInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/28791/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/site/SiteInfo.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19064/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/site/package-info.java
+END
+SiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/site/SiteService.java
+END
+SiteVisibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/site/SiteVisibility.java
+END

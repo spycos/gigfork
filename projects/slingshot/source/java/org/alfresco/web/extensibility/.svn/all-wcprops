@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility
+END
+SlingshotSiteComponentElementEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility/SlingshotSiteComponentElementEvaluator.java
+END
+SlingshotConfigComponentElementEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility/SlingshotConfigComponentElementEvaluator.java
+END
+SlingshotPortletComponentElementEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility/SlingshotPortletComponentElementEvaluator.java
+END
+SlingshotEqualsComponentElementEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility/SlingshotEqualsComponentElementEvaluator.java
+END
+SlingshotSiteModuleEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility/SlingshotSiteModuleEvaluator.java
+END
+SlingshotEvaluatorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility/SlingshotEvaluatorUtil.java
+END
+SlingshotPortletModuleEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility/SlingshotPortletModuleEvaluator.java
+END
+SlingshotPresetComponentElementEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/extensibility/SlingshotPresetComponentElementEvaluator.java
+END

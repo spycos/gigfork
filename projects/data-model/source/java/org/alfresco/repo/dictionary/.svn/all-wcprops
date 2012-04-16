@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary
+END
+M2Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Model.java
+END
+M2ClassAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2ClassAssociation.java
+END
+M2AnonymousTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2AnonymousTypeDefinition.java
+END
+M2NamespaceDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2NamespaceDefinition.java
+END
+M2Class.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Class.java
+END
+IndexTokenisationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/IndexTokenisationMode.java
+END
+DictionaryNamespaceComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DictionaryNamespaceComponent.java
+END
+M2ModelDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2ModelDefinition.java
+END
+DictionaryDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30125/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DictionaryDAOImpl.java
+END
+DictionaryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DictionaryListener.java
+END
+M2Association.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Association.java
+END
+M2ClassDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2ClassDefinition.java
+END
+CompiledModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/CompiledModel.java
+END
+M2Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Label.java
+END
+M2ChildAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2ChildAssociation.java
+END
+M2NamedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2NamedValue.java
+END
+DelegateModelQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DelegateModelQuery.java
+END
+M2Constraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Constraint.java
+END
+M2Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Property.java
+END
+M2PropertyOverride.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28714/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2PropertyOverride.java
+END
+M2AssociationDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2AssociationDefinition.java
+END
+dictionarydaotest_model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/dictionarydaotest_model.properties
+END
+M2ModelDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2ModelDiff.java
+END
+M2ChildAssociationDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2ChildAssociationDefinition.java
+END
+DictionaryComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DictionaryComponent.java
+END
+dictionarydaotest_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/dictionarydaotest_model.xml
+END
+DictionaryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30125/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DictionaryDAO.java
+END
+DictionaryDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DictionaryDAOTest.java
+END
+DiffModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DiffModelTest.java
+END
+M2ConstraintDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28714/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2ConstraintDefinition.java
+END
+M2PropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2PropertyDefinition.java
+END
+M2XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28714/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2XML.java
+END
+NamespaceDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/NamespaceDAOImpl.java
+END
+DictionaryBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/21369/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/DictionaryBootstrap.java
+END
+M2DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2DataType.java
+END
+M2Aspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Aspect.java
+END
+M2Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Type.java
+END
+NamespaceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/NamespaceDAO.java
+END
+M2DataTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2DataTypeDefinition.java
+END
+ModelQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/ModelQuery.java
+END
+M2AspectDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2AspectDefinition.java
+END
+m2binding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/m2binding.xml
+END
+M2TypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2TypeDefinition.java
+END
+M2Namespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/M2Namespace.java
+END

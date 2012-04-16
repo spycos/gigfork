@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28524/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/subscriptions
+END
+followed.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28524/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/subscriptions/followed.atomentry.ftl
+END
+subscribed.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28524/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/subscriptions/subscribed.atomentry.ftl
+END

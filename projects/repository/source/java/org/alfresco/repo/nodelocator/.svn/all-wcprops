@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator
+END
+UserHomeNodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/UserHomeNodeLocator.java
+END
+SelfNodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/SelfNodeLocator.java
+END
+AncestorNodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/AncestorNodeLocator.java
+END
+CompanyHomeNodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/CompanyHomeNodeLocator.java
+END
+NodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/NodeLocator.java
+END
+NodeLocatorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/NodeLocatorService.java
+END
+SitesHomeNodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/SitesHomeNodeLocator.java
+END
+NodeLocatorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/NodeLocatorServiceImpl.java
+END
+NodeLocatorServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/NodeLocatorServiceImplTest.java
+END
+AbstractNodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/AbstractNodeLocator.java
+END
+XPathNodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/nodelocator/XPathNodeLocator.java
+END

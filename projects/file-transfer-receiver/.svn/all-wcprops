@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/34302/alfresco/HEAD/root/projects/file-transfer-receiver
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/34297/alfresco/HEAD/root/projects/file-transfer-receiver/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/29646/alfresco/HEAD/root/projects/file-transfer-receiver/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/34302/alfresco/HEAD/root/projects/file-transfer-receiver/build.xml
+END

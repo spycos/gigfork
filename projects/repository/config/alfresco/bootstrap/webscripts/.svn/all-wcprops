@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts
+END
+readme_fr.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/readme_fr.html
+END
+avmstores.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/6071/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/avmstores.get.html.ftl
+END
+categorysearch.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/6014/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/categorysearch.get.js
+END
+categorysearch.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/categorysearch.get.desc.xml
+END
+upload.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/6404/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/upload.post.html.ftl
+END
+categorysearch.get.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/categorysearch.get.atom.ftl
+END
+readme_de.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/readme_de.html
+END
+readme_ja.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/readme_ja.html
+END
+avmbrowse.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19257/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/avmbrowse.get.html.ftl
+END
+categorysearch.get.atom.404.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/categorysearch.get.atom.404.ftl
+END
+avmstores.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/6071/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/avmstores.get.desc.xml
+END
+blogsearch.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/blogsearch.get.html.ftl
+END
+folder.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/folder.get.html.ftl
+END
+blogsearch.get.html.400.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/blogsearch.get.html.400.ftl
+END
+upload.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/6404/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/upload.post.js
+END
+upload.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/6404/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/upload.post.desc.xml
+END
+upload.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/13565/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/upload.get.html.ftl
+END
+readmeExtension.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/5867/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/readmeExtension.html
+END
+avmbrowse.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/6071/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/avmbrowse.get.js
+END
+avmbrowse.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/6075/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/avmbrowse.get.desc.xml
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/6746/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/readme.html
+END
+blogsearch.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/blogsearch.get.js
+END
+blogsearch.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/blogsearch.get.desc.xml
+END
+folder.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/folder.get.js
+END
+folder.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/folder.get.desc.xml
+END
+categorysearch.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/categorysearch.get.html.ftl
+END
+blogsearch.get.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/blogsearch.get.atom.ftl
+END
+folder.get.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/folder.get.atom.ftl
+END
+blogsearch.get.atom.400.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/blogsearch.get.atom.400.ftl
+END
+upload.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/6404/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/upload.get.desc.xml
+END
+categorysearch.get.html.404.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/6011/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap/webscripts/categorysearch.get.html.404.ftl
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer
+END
+MultiValueSelectorRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer/MultiValueSelectorRenderer.java
+END
+MultiValueFieldRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer/MultiValueFieldRenderer.java
+END
+MultilingualTextRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer/MultilingualTextRenderer.java
+END
+NodeDescendantsLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer/NodeDescendantsLinkRenderer.java
+END
+YahooTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer/YahooTreeRenderer.java
+END
+NodePathLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/23130/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer/NodePathLinkRenderer.java
+END
+BaseMultiValueRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer/BaseMultiValueRenderer.java
+END
+MultilingualTextAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/renderer/MultilingualTextAreaRenderer.java
+END

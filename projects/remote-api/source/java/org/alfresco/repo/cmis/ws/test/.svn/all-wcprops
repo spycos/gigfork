@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/test
+END
+AspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19451/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/test/AspectTest.java
+END
+PolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19451/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/test/PolicyTest.java
+END
+BaseCMISTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/test/BaseCMISTest.java
+END
+QueryPagingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/test/QueryPagingTest.java
+END

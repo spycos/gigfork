@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/wsf-website/article
+END
+article.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/wsf-website/article/article.xsd
+END
+article-feature.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/wsf-website/article/article-feature.xsl
+END
+article-list.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/wsf-website/article/article-list.xsl
+END
+article.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/wsf-website/article/article.xsl
+END
+article-rss.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/wsf-website/article/article-rss.xsl
+END

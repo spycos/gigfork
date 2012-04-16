@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma
+END
+fileplanreport.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/16237/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/fileplanreport.lib.ftl
+END
+fileplanreport.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16237/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/fileplanreport.get.desc.xml
+END
+rmconstraints.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/16169/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmconstraints.get.json.ftl
+END
+transferreport.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/16234/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/transferreport.post.desc.xml
+END
+custompropdefinitions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/16215/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/custompropdefinitions.get.json.ftl
+END
+rmpermissions.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/16482/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmpermissions.post.json.js
+END
+applyfixmob1573.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/16468/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/applyfixmob1573.get.json.ftl
+END
+custompropdefinition.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/16181/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/custompropdefinition.put.json.ftl
+END
+customref.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/16007/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customref.post.json.ftl
+END
+rmauditlog.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/16262/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlog.put.desc.xml
+END
+import.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/16082/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/import.post.json.ftl
+END
+dispositionschedule.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionschedule.get.json.ftl
+END
+rmauditlog.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/16266/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlog.get.desc.xml
+END
+applydodcertmodelfixes.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/16544/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/applydodcertmodelfixes.get.desc.xml
+END
+customrefs.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/16274/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customrefs.get.json.ftl
+END
+rmauditlogstatus.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlogstatus.get.desc.xml
+END
+rmpermissions.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16287/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmpermissions.post.desc.xml
+END
+transferreport.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16221/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/transferreport.get.desc.xml
+END
+export.post.html.status.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16617/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/export.post.html.status.ftl
+END
+dispositionactiondefinitions.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/15459/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionactiondefinitions.post.json.ftl
+END
+dispositionactiondefinition.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/15459/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionactiondefinition.put.json.ftl
+END
+customrefdefinition.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/16465/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customrefdefinition.post.desc.xml
+END
+export.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/16617/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/export.post.desc.xml
+END
+custompropdefinition.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/15536/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/custompropdefinition.delete.json.ftl
+END
+customisable.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30165/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customisable.get.desc.xml
+END
+rmpermissions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/16287/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmpermissions.get.json.ftl
+END
+userrightsreport.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/16289/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/userrightsreport.get.desc.xml
+END
+dispositionactiondefinition.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/15176/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionactiondefinition.delete.desc.xml
+END
+recordmetadataaspects.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/28225/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/recordmetadataaspects.get.desc.xml
+END
+customrefdefinitions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/16008/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customrefdefinitions.get.desc.xml
+END
+fileplanreport.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16237/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/fileplanreport.get.json.ftl
+END
+bootstraptestdata.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/16348/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/bootstraptestdata.get.desc.xml
+END
+customrefdefinition.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/16192/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customrefdefinition.put.desc.xml
+END
+rmpermissions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/16298/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmpermissions.get.js
+END
+listofvalues.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/15260/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/listofvalues.get.desc.xml
+END
+rmauditlog.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/15817/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlog.put.json.ftl
+END
+rmaction.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/15335/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmaction.post.desc.xml
+END
+dispositionlifecycle.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/15243/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionlifecycle.get.desc.xml
+END
+fileplanreport.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/16244/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/fileplanreport.get.js
+END
+dodcustomtypes.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16280/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dodcustomtypes.get.desc.xml
+END
+rmauditlog.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/16262/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlog.delete.desc.xml
+END
+custompropdefinition.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/16179/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/custompropdefinition.post.desc.xml
+END
+applydodcertmodelfixes.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/16544/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/applydodcertmodelfixes.get.json.ftl
+END
+customref.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/17072/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customref.delete.desc.xml
+END
+import.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/16199/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/import.post.html.ftl
+END
+rmauditlogstatus.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlogstatus.get.json.ftl
+END
+rmpermissions.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16287/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmpermissions.post.json.ftl
+END
+customrefdefinition.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/16007/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customrefdefinition.post.json.ftl
+END
+rmconstraints.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/16169/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmconstraints.get.desc.xml
+END
+custompropdefinitions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/16154/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/custompropdefinitions.get.desc.xml
+END
+customisable.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30165/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customisable.get.json.ftl
+END
+applyfixmob1573.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/16468/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/applyfixmob1573.get.desc.xml
+END
+dispositionactiondefinition.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/16045/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionactiondefinition.lib.ftl
+END
+userrightsreport.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/16291/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/userrightsreport.get.json.ftl
+END
+rmauditlog.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/16416/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlog.post.desc.xml
+END
+custompropdefinition.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/16231/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/custompropdefinition.put.desc.xml
+END
+customref.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/16008/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customref.post.desc.xml
+END
+dispositionactiondefinition.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/15194/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionactiondefinition.delete.json.ftl
+END
+import.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/16262/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/import.post.desc.xml
+END
+dispositionschedule.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionschedule.get.desc.xml
+END
+recordmetadataaspects.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/28225/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/recordmetadataaspects.get.json.ftl
+END
+customrefdefinitions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/15755/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customrefdefinitions.get.json.ftl
+END
+bootstraptestdata.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/16333/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/bootstraptestdata.get.json.ftl
+END
+customrefdefinition.put.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/16192/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customrefdefinition.put.json.ftl
+END
+customrefs.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/16274/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customrefs.get.desc.xml
+END
+listofvalues.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/15260/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/listofvalues.get.json.ftl
+END
+rmaction.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/16605/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmaction.post.json.ftl
+END
+dispositionlifecycle.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/15459/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionlifecycle.get.json.ftl
+END
+dispositionactiondefinitions.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/15176/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionactiondefinitions.post.desc.xml
+END
+dispositionactiondefinition.put.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/15176/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dispositionactiondefinition.put.desc.xml
+END
+rmauditlog.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/16144/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlog.lib.ftl
+END
+dodcustomtypes.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16280/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/dodcustomtypes.get.json.ftl
+END
+custompropdefinition.delete.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/16039/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/custompropdefinition.delete.desc.xml
+END
+rmauditlog.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/15820/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmauditlog.delete.json.ftl
+END
+custompropdefinition.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/16181/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/custompropdefinition.post.json.ftl
+END
+customref.delete.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/15797/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/customref.delete.json.ftl
+END
+rmpermissions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/16287/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/rmpermissions.get.desc.xml
+END
+listofvalues.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/16421/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/listofvalues.lib.ftl
+END
+transfer.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/15703/alfresco/HEAD/root/modules/dod-5015/config/alfresco/templates/webscripts/org/alfresco/rma/transfer.get.desc.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/config/alfresco/mt
+END
+mt-base-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/config/alfresco/mt/mt-base-context.xml
+END
+st-admin-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/10781/alfresco/HEAD/root/projects/repository/config/alfresco/mt/st-admin-context.xml
+END

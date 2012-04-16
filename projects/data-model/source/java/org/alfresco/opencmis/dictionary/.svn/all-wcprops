@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary
+END
+ShadowTypeDefinitionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/ShadowTypeDefinitionWrapper.java
+END
+CMISDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/CMISDictionaryService.java
+END
+PolicyTypeDefintionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/PolicyTypeDefintionWrapper.java
+END
+CMISPropertyLuceneBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/CMISPropertyLuceneBuilder.java
+END
+PropertyLuceneBuilderMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/PropertyLuceneBuilderMapping.java
+END
+RelationshipTypeDefintionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/RelationshipTypeDefintionWrapper.java
+END
+CMISObjectVariant.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29544/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/CMISObjectVariant.java
+END
+CMISActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29544/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/CMISActionEvaluator.java
+END
+CMISNodeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29571/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/CMISNodeInfo.java
+END
+FolderTypeDefintionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/FolderTypeDefintionWrapper.java
+END
+AbstractTypeDefinitionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/AbstractTypeDefinitionWrapper.java
+END
+BasePropertyDefintionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/BasePropertyDefintionWrapper.java
+END
+CMISPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29606/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/CMISPropertyAccessor.java
+END
+PropertyAccessorMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29544/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/PropertyAccessorMapping.java
+END
+CMISAbstractDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/CMISAbstractDictionaryService.java
+END
+DocumentTypeDefinitionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/DocumentTypeDefinitionWrapper.java
+END
+CMISStrictDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/CMISStrictDictionaryService.java
+END
+TypeDefinitionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/TypeDefinitionWrapper.java
+END
+PropertyDefinitionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30050/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/opencmis/dictionary/PropertyDefinitionWrapper.java
+END

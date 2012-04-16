@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/clipboard
+END
+AVMClipboardItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/clipboard/AVMClipboardItem.java
+END
+AbstractClipboardItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/clipboard/AbstractClipboardItem.java
+END
+ClipboardStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/clipboard/ClipboardStatus.java
+END
+ClipboardBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/clipboard/ClipboardBean.java
+END
+WorkspaceClipboardItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/clipboard/WorkspaceClipboardItem.java
+END
+ClipboardItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/clipboard/ClipboardItem.java
+END

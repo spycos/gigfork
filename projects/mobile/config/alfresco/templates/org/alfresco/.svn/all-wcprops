@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/18278/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco
+END
+document.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/13936/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/document.ftl
+END
+invite.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/invite.ftl
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/13854/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/login.js
+END
+profile.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/profile.ftl
+END
+documents.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/13936/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/documents.ftl
+END
+task.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/task.ftl
+END
+site.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/13936/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/site.ftl
+END
+search.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/13996/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/search.ftl
+END
+tasks.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/tasks.ftl
+END
+invitesites.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/invitesites.ftl
+END
+sites.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/13936/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/sites.ftl
+END
+home.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/13936/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/home.ftl
+END
+login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18278/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/login.ftl
+END
+workflow.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/14046/alfresco/HEAD/root/projects/mobile/config/alfresco/templates/org/alfresco/workflow.ftl
+END

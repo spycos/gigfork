@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/28540/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/ibatis
+END
+AVMStoreDAOIbatis.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28540/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/ibatis/AVMStoreDAOIbatis.java
+END
+VersionLayeredNodeEntryDAOIbatis.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/ibatis/VersionLayeredNodeEntryDAOIbatis.java
+END
+AVMStorePropertyDAOIbatis.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/ibatis/AVMStorePropertyDAOIbatis.java
+END
+ChildEntryDAOIbatis.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19337/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/ibatis/ChildEntryDAOIbatis.java
+END
+AVMNodeDAOIbatis.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/28540/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/ibatis/AVMNodeDAOIbatis.java
+END
+VersionRootDAOIbatis.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/22877/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/ibatis/VersionRootDAOIbatis.java
+END

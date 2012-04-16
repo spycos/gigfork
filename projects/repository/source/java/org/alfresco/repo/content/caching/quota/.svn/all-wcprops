@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32633/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/quota
+END
+UsageTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/quota/UsageTracker.java
+END
+QuotaManagerStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/quota/QuotaManagerStrategy.java
+END
+StandardQuotaStrategyMockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32627/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/quota/StandardQuotaStrategyMockTest.java
+END
+UnlimitedQuotaStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/quota/UnlimitedQuotaStrategy.java
+END
+UnlimitedQuotaStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/quota/UnlimitedQuotaStrategyTest.java
+END
+StandardQuotaStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/32630/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/quota/StandardQuotaStrategy.java
+END
+StandardQuotaStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/32633/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/quota/StandardQuotaStrategyTest.java
+END

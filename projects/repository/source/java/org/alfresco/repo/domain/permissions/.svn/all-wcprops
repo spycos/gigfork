@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions
+END
+AuthorityAliasEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AuthorityAliasEntity.java
+END
+AclUpdateEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclUpdateEntity.java
+END
+Acl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/Acl.java
+END
+AclCrudDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclCrudDAO.java
+END
+AclCrudDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclCrudDAOTest.java
+END
+AuthorityAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AuthorityAlias.java
+END
+ADMAccessControlListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/ADMAccessControlListDAO.java
+END
+AclDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclDAOImpl.java
+END
+AbstractAclCrudDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AbstractAclCrudDAOImpl.java
+END
+AVMPermissionsDaoComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AVMPermissionsDaoComponentImpl.java
+END
+AclChangeSetEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclChangeSetEntity.java
+END
+AclChangeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclChangeSet.java
+END
+AccessControlListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30044/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AccessControlListDAO.java
+END
+AclDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclDAO.java
+END
+AclMemberEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclMemberEntity.java
+END
+AceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AceEntity.java
+END
+AuthorityEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AuthorityEntity.java
+END
+PermissionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/PermissionEntity.java
+END
+AVMAccessControlListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AVMAccessControlListDAO.java
+END
+ADMPermissionsDaoComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/ADMPermissionsDaoComponentImpl.java
+END
+AclMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclMember.java
+END
+Ace.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/Ace.java
+END
+AbstractPermissionsDaoComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AbstractPermissionsDaoComponentImpl.java
+END
+Authority.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/Authority.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/Permission.java
+END
+AceContextEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AceContextEntity.java
+END
+AclEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AclEntity.java
+END
+AceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/permissions/AceContext.java
+END

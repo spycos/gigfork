@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf
+END
+AVMSubmitPackageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19378/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf/AVMSubmitPackageHandler.java
+END
+AVMRemoveAllSrcWebappsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf/AVMRemoveAllSrcWebappsHandler.java
+END
+AVMSubmitTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf/AVMSubmitTransactionListener.java
+END
+AVMSubmitHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf/AVMSubmitHandler.java
+END
+AVMClearSubmittedHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf/AVMClearSubmittedHandler.java
+END
+AVMReleaseTestServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf/AVMReleaseTestServerHandler.java
+END
+AVMRemoveWFStoreHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf/AVMRemoveWFStoreHandler.java
+END
+AVMDeployHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/avm/wf/AVMDeployHandler.java
+END

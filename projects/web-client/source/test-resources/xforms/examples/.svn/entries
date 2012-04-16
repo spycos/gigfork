@@ -1,0 +1,126 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2010-09-27T12:47:35.626843Z
+22725
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+wsf-website
+dir
+
+wcm-form-samples-forms.acp
+file
+
+
+
+
+2012-04-02T09:58:13.000000Z
+b70656ba6600d9ba0936a13a64c1e7ec
+2009-03-25T21:23:56.616632Z
+13746
+gcornwell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45051
+
+product
+dir
+
+article
+dir
+
+getting-started-sample
+dir
+
+note
+dir
+
+wcm-form-samples.amp
+file
+
+
+
+
+2012-04-02T09:58:13.000000Z
+6028496a1bd1b20f1167e1194b724560
+2009-03-25T21:23:56.616632Z
+13746
+gcornwell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+245547
+
+person
+dir
+
+user-registration
+dir
+
+press-release
+dir
+
+webscript-import
+dir
+
+record
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/impl/cache
+END
+EhCacheAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/impl/cache/EhCacheAdapter.java
+END
+CacheException.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/impl/cache/CacheException.java
+END
+SimpleCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/impl/cache/SimpleCache.java
+END

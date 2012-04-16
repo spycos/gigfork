@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/23532/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/changelog
+END
+CMISChangeLogServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19379/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/changelog/CMISChangeLogServiceTest.java
+END
+CMISChangeEventImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/changelog/CMISChangeEventImpl.java
+END
+CMISChangeLogImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/changelog/CMISChangeLogImpl.java
+END
+CMISChangeLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/21892/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/changelog/CMISChangeLogServiceImpl.java
+END
+CMISChangeLogDataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/23532/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/changelog/CMISChangeLogDataExtractor.java
+END

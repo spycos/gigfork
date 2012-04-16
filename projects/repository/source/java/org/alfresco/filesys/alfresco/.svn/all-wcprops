@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco
+END
+AlfrescoTxDiskDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/AlfrescoTxDiskDriver.java
+END
+AlfrescoClientInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/AlfrescoClientInfoFactory.java
+END
+PseudoFileOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/PseudoFileOverlay.java
+END
+ShuffleCacheImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/ShuffleCacheImpl.java
+END
+AlfrescoContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31095/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/AlfrescoContext.java
+END
+IOControlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/IOControlHandler.java
+END
+DesktopAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/DesktopAction.java
+END
+IOControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/IOControl.java
+END
+AlfrescoNetworkFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/32555/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/AlfrescoNetworkFile.java
+END
+AlfrescoClientInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20011/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/AlfrescoClientInfo.java
+END
+RepositoryDiskInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32703/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/RepositoryDiskInterface.java
+END
+DesktopParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/DesktopParams.java
+END
+DesktopActionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/DesktopActionTable.java
+END
+HomeShareMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29922/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/HomeShareMapper.java
+END
+DesktopTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/DesktopTarget.java
+END
+ShuffleCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/ShuffleCache.java
+END
+PseudoFileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/PseudoFileImpl.java
+END
+PseudoFileOverlayImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/31363/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/PseudoFileOverlayImpl.java
+END
+FilesysTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/FilesysTransaction.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/package-info.java
+END
+AlfrescoDiskDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29922/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/AlfrescoDiskDriver.java
+END
+DesktopActionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/DesktopActionException.java
+END
+DesktopResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/DesktopResponse.java
+END
+ExtendedDiskInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/29922/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/ExtendedDiskInterface.java
+END
+MultiTenantShareMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29922/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/alfresco/MultiTenantShareMapper.java
+END

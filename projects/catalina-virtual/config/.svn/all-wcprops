@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/catalina-virtual/config
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/25001/alfresco/HEAD/root/projects/catalina-virtual/config/server.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/catalina-virtual/config/web.xml
+END

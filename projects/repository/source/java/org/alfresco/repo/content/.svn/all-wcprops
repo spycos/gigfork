@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content
+END
+RoutingContentStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/RoutingContentStoreTest.java
+END
+ContentMinimalContextTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentMinimalContextTestSuite.java
+END
+RoutingContentServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/RoutingContentServiceTest.java
+END
+RoutingContentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/RoutingContentService.java
+END
+ContentDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentDataTest.java
+END
+ContentWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentWorker.java
+END
+AbstractWritableContentStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractWritableContentStoreTest.java
+END
+TenantRoutingFileContentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/TenantRoutingFileContentStore.java
+END
+AbstractReadOnlyContentStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractReadOnlyContentStoreTest.java
+END
+TikaOfficeDetectParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20781/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/TikaOfficeDetectParser.java
+END
+AbstractContentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractContentStore.java
+END
+EmptyContentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/EmptyContentReader.java
+END
+ContentFullContextTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/20963/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentFullContextTestSuite.java
+END
+ContentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/34373/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentServiceImpl.java
+END
+ContentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentContext.java
+END
+AbstractContentStreamListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractContentStreamListener.java
+END
+AbstractContentReaderLimitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractContentReaderLimitTest.java
+END
+AbstractContentAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractContentAccessor.java
+END
+AbstractContentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractContentReader.java
+END
+ContentStoreCreatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentStoreCreatedEvent.java
+END
+MimetypeMapContentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32138/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/MimetypeMapContentTest.java
+END
+AbstractRoutingContentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractRoutingContentStore.java
+END
+ContentServicePolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19719/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentServicePolicies.java
+END
+UnsupportedContentUrlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/UnsupportedContentUrlException.java
+END
+NodeContentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/NodeContentContext.java
+END
+ContentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentStore.java
+END
+ContentExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/ContentExistsException.java
+END
+AbstractContentWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/31441/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/AbstractContentWriter.java
+END

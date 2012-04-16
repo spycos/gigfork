@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/data-model/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/build.xml
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/30385/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query
+END
+CannedQueryResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/CannedQueryResults.java
+END
+CannedQueryParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/CannedQueryParameters.java
+END
+AbstractCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28737/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/AbstractCannedQuery.java
+END
+EmptyPagingResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/29036/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/EmptyPagingResults.java
+END
+CannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/CannedQueryFactory.java
+END
+AbstractCachingCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28680/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/AbstractCachingCannedQueryFactory.java
+END
+PagingRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/28572/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/PagingRequest.java
+END
+CannedQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28734/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/CannedQueryTest.java
+END
+CannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/CannedQuery.java
+END
+EmptyCannedQueryResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/30035/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/EmptyCannedQueryResults.java
+END
+CannedQueryPageDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28680/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/CannedQueryPageDetails.java
+END
+PermissionedResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28566/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/PermissionedResults.java
+END
+PagingResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/PagingResults.java
+END
+AbstractCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/AbstractCannedQueryFactory.java
+END
+CannedQuerySortDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/30385/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/CannedQuerySortDetails.java
+END
+CannedQueryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/core/source/java/org/alfresco/query/CannedQueryException.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/deployment/config
+END
+deploy_start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/18145/alfresco/HEAD/root/projects/deployment/config/deploy_start.sh
+END
+application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/deployment/config/application-context.xml
+END
+deploy_stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/16965/alfresco/HEAD/root/projects/deployment/config/deploy_stop.bat
+END
+deploy_stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/18145/alfresco/HEAD/root/projects/deployment/config/deploy_stop.sh
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/14543/alfresco/HEAD/root/projects/deployment/config/log4j.properties
+END
+deployment.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/17178/alfresco/HEAD/root/projects/deployment/config/deployment.properties
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/19797/alfresco/HEAD/root/projects/deployment/config/readme.txt
+END
+shutdown-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/deployment/config/shutdown-context.xml
+END
+deploy_start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/17125/alfresco/HEAD/root/projects/deployment/config/deploy_start.bat
+END

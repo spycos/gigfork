@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.Dialect
+END
+alter-jBPM331-CLOB-columns-to-nvarchar.sql
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.Dialect/alter-jBPM331-CLOB-columns-to-nvarchar.sql
+END
+varchar-field-sizes-quadruple-increasing.sql
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.Dialect/varchar-field-sizes-quadruple-increasing.sql
+END
+AVM-rename-dupes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.Dialect/AVM-rename-dupes.sql
+END
+child-assoc-indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22137/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.Dialect/child-assoc-indexes.sql
+END
+property-unique-ctx-idx.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.Dialect/property-unique-ctx-idx.sql
+END
+link-validation-metadata-removing.sql
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.Dialect/link-validation-metadata-removing.sql
+END
+authority-unique-idx.sql
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.4/org.hibernate.dialect.Dialect/authority-unique-idx.sql
+END

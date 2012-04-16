@@ -1,0 +1,1199 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws
+END
+DocumentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/DocumentService.java
+END
+ClbDraftResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDraftResponse.java
+END
+ClbDocumentsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDocumentsResponse.java
+END
+RenameFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RenameFolder.java
+END
+GetAllViewsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetAllViewsResponse.java
+END
+LibraryService_Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/LibraryService_Service.java
+END
+GetApplicationRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetApplicationRoot.java
+END
+ClbError.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbError.java
+END
+ClbFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbFolderResponse.java
+END
+ExecuteViewResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ExecuteViewResponse.java
+END
+DeleteFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/DeleteFolderResponse.java
+END
+ClbResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbResponse.java
+END
+GetPropertySheetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetPropertySheetType.java
+END
+GetBusinessComponentsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetBusinessComponentsResponse.java
+END
+GetUsersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetUsersResponse.java
+END
+PageParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/PageParams.java
+END
+CreateDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CreateDocumentResponse.java
+END
+ClbDownloadOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDownloadOption.java
+END
+ClbDynamicLongValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDynamicLongValue.java
+END
+RemoveVersionLabelResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RemoveVersionLabelResponse.java
+END
+GetSubmittedDraftsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetSubmittedDraftsResponse.java
+END
+MoveDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/MoveDocumentResponse.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/Version.java
+END
+CopyDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CopyDocumentResponse.java
+END
+ClbDraftApprovalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDraftApprovalType.java
+END
+GetBusinessComponentsByPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetBusinessComponentsByPage.java
+END
+ClbViewResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbViewResult.java
+END
+ClbDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDataType.java
+END
+GetPrivateDraftsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetPrivateDraftsResponse.java
+END
+ServiceException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ServiceException_Exception.java
+END
+GetFolderURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetFolderURL.java
+END
+AddVersionLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/AddVersionLabel.java
+END
+GetFolders.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetFolders.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ObjectFactory.java
+END
+GetApproveDraftsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetApproveDraftsResponse.java
+END
+CreateFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CreateFolder.java
+END
+ClbDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDocument.java
+END
+RestoreVersionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RestoreVersionResponse.java
+END
+ClbViewResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbViewResponse.java
+END
+ClbErrorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbErrorType.java
+END
+ClbTreeFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbTreeFolder.java
+END
+RejectDraftResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RejectDraftResponse.java
+END
+ClbColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbColumn.java
+END
+ClbPropertySheetTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbPropertySheetTypeResponse.java
+END
+GetDocumentURLResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentURLResponse.java
+END
+DeleteDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/DeleteDocumentResponse.java
+END
+ClbStyleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbStyleType.java
+END
+GetLockedDocuments.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetLockedDocuments.java
+END
+CancelDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CancelDocument.java
+END
+ClbLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbLibrary.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/Permission.java
+END
+GetViewResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetViewResponse.java
+END
+GetDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentResponse.java
+END
+UpdateFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UpdateFolderResponse.java
+END
+GetTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetTree.java
+END
+GetDocumentTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentTypes.java
+END
+CreateDraftResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CreateDraftResponse.java
+END
+ClbLibrariesByPageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbLibrariesByPageResponse.java
+END
+PaginationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/PaginationInfo.java
+END
+GetDocumentVersions.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentVersions.java
+END
+GetPrivateViewsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetPrivateViewsResponse.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/Base.java
+END
+GetFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetFolder.java
+END
+ContentService_Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ContentService_Service.java
+END
+GetBusinessComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetBusinessComponent.java
+END
+GetUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetUser.java
+END
+ClbDocumentTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDocumentTypeResponse.java
+END
+CheckinDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CheckinDocumentResponse.java
+END
+GetServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetServerInfo.java
+END
+ClbContentURLMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbContentURLMode.java
+END
+GetViewFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetViewFormat.java
+END
+GetDocumentVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentVersion.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/package-info.java
+END
+ClbViewResultsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbViewResultsResponse.java
+END
+UserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UserResponse.java
+END
+GetDocumentTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentTypeResponse.java
+END
+GetDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDraft.java
+END
+UpdateDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UpdateDocumentResponse.java
+END
+ServerInfoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ServerInfoResponse.java
+END
+MoveFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/MoveFolder.java
+END
+GetSharedViewsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetSharedViewsResponse.java
+END
+SubmitDraftResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/SubmitDraftResponse.java
+END
+UpdateDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UpdateDraft.java
+END
+CopyFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CopyFolder.java
+END
+RenameDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RenameDocument.java
+END
+ClbPropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbPropertyType.java
+END
+UnlockDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UnlockDocumentResponse.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/Content.java
+END
+ServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ServiceException.java
+END
+GetDocumentsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentsResponse.java
+END
+ClbDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDraft.java
+END
+CheckoutDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CheckoutDocumentResponse.java
+END
+ClbCancelDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbCancelDocumentResponse.java
+END
+ClbVersionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbVersionResponse.java
+END
+LibraryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/LibraryService.java
+END
+GetAllViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetAllViews.java
+END
+CreateVersionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CreateVersionResponse.java
+END
+ClbFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbFolder.java
+END
+ExecuteView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ExecuteView.java
+END
+DeleteFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/DeleteFolder.java
+END
+ClbPropertySheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbPropertySheet.java
+END
+GetBusinessComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetBusinessComponents.java
+END
+GetUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetUsers.java
+END
+CreateDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CreateDocument.java
+END
+ClbDynamicValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDynamicValue.java
+END
+RemoveVersionLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RemoveVersionLabel.java
+END
+ClbVersioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbVersioning.java
+END
+ClbCheckinResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbCheckinResponse.java
+END
+GetSubmittedDrafts.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetSubmittedDrafts.java
+END
+LoginException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/LoginException_Exception.java
+END
+MoveDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/MoveDocument.java
+END
+LockDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/LockDocumentResponse.java
+END
+CopyDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CopyDocument.java
+END
+ApproveDraftResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ApproveDraftResponse.java
+END
+GetPrivateDrafts.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetPrivateDrafts.java
+END
+DocumentService_Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/DocumentService_Service.java
+END
+GetApproveDrafts.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetApproveDrafts.java
+END
+UsersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UsersResponse.java
+END
+ClbDocTypeOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDocTypeOption.java
+END
+RenameFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RenameFolderResponse.java
+END
+ClbViewFormatResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbViewFormatResponse.java
+END
+ClbDraftsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDraftsResponse.java
+END
+GetApplicationRootResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetApplicationRootResponse.java
+END
+RestoreVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RestoreVersion.java
+END
+ClbView.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbView.java
+END
+ClbContentURLResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbContentURLResponse.java
+END
+RejectDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RejectDraft.java
+END
+GetPropertySheetTypeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetPropertySheetTypeResponse.java
+END
+ClbTreeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbTreeItem.java
+END
+ClbCategoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbCategoryType.java
+END
+ClbPropertySheetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbPropertySheetType.java
+END
+GetDocumentURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentURL.java
+END
+DeleteDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/DeleteDocument.java
+END
+ClbLabelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbLabelType.java
+END
+GetBusinessComponentsByPageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetBusinessComponentsByPageResponse.java
+END
+ClbVersionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbVersionsResponse.java
+END
+ClbServiceOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbServiceOption.java
+END
+GetView.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetView.java
+END
+ClbLibrariesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbLibrariesResponse.java
+END
+GetFolderURLResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetFolderURLResponse.java
+END
+AddVersionLabelResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/AddVersionLabelResponse.java
+END
+GetFoldersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetFoldersResponse.java
+END
+GetDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocument.java
+END
+CreateFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CreateFolderResponse.java
+END
+ClbDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDocumentResponse.java
+END
+UpdateFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UpdateFolder.java
+END
+ClbViewFormatColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbViewFormatColumn.java
+END
+CreateDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CreateDraft.java
+END
+ClbDraftApprovalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDraftApprovalState.java
+END
+VersionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/VersionType.java
+END
+GetPrivateViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetPrivateViews.java
+END
+ContentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ContentService.java
+END
+ClbTreeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbTreeResponse.java
+END
+ClbDynamicDateValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDynamicDateValue.java
+END
+ClbDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDocumentType.java
+END
+ClbDynamicBooleanValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDynamicBooleanValue.java
+END
+GetLockedDocumentsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetLockedDocumentsResponse.java
+END
+CancelDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CancelDocumentResponse.java
+END
+CheckinDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CheckinDocument.java
+END
+ClbLibraryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbLibraryResponse.java
+END
+ClbSortOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbSortOrder.java
+END
+GetTreeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetTreeResponse.java
+END
+GetDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentType.java
+END
+UpdateDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UpdateDocument.java
+END
+GetDocumentTypesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentTypesResponse.java
+END
+ServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ServerInfo.java
+END
+GetSharedViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetSharedViews.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/Property.java
+END
+SubmitDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/SubmitDraft.java
+END
+GetDocumentVersionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentVersionsResponse.java
+END
+LoginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/LoginException.java
+END
+ClbDynamicStringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDynamicStringValue.java
+END
+GetFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetFolderResponse.java
+END
+UnlockDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UnlockDocument.java
+END
+GetBusinessComponentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetBusinessComponentResponse.java
+END
+GetUserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetUserResponse.java
+END
+GetDocuments.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocuments.java
+END
+GetServerInfoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetServerInfoResponse.java
+END
+GetViewFormatResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetViewFormatResponse.java
+END
+GetDocumentVersionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDocumentVersionResponse.java
+END
+ClbDocumentTypesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDocumentTypesResponse.java
+END
+CheckoutDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CheckoutDocument.java
+END
+ClbMoveResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbMoveResponse.java
+END
+CreateVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CreateVersion.java
+END
+ClbCopyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbCopyResponse.java
+END
+GetDraftResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/GetDraftResponse.java
+END
+MoveFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/MoveFolderResponse.java
+END
+UpdateDraftResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UpdateDraftResponse.java
+END
+CopyFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/CopyFolderResponse.java
+END
+RenameDocumentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/RenameDocumentResponse.java
+END
+LockDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/LockDocument.java
+END
+ClbData.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbData.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/UserInfo.java
+END
+ClbOptionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbOptionType.java
+END
+ClbViewsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbViewsResponse.java
+END
+ApproveDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ApproveDraft.java
+END
+ClbApproveDraftResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbApproveDraftResponse.java
+END
+ClbDynamicDoubleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbDynamicDoubleValue.java
+END
+ClbFoldersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/source/generated/org/alfresco/repo/lotus/ws/ClbFoldersResponse.java
+END

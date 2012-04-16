@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33019/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process
+END
+publish-asset.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/32605/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/publish-asset.bpmn20.xml
+END
+read-contact.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/30428/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/read-contact.bpmn20.xml
+END
+publish-section-tree.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/alfresco-open-mirror/!svn/ver/32605/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/publish-section-tree.bpmn20.xml
+END
+process-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/33011/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/process-messages_es.properties
+END
+process-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/33012/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/process-messages_fr.properties
+END
+process-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/33010/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/process-messages_de.properties
+END
+process-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/33019/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/process-messages_nl.properties
+END
+publishasset-process-definition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/alfresco-open-mirror/!svn/ver/23027/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/publishasset-process-definition.xml
+END
+process-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/33018/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/process-messages_ja.properties
+END
+readcontact-process-definition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/22316/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/readcontact-process-definition.xml
+END
+process-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/33013/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/process-messages_it.properties
+END
+process-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/30428/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/process-model.xml
+END
+publishsectiontree-process-definition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/repos/alfresco-open-mirror/!svn/ver/23027/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/publishsectiontree-process-definition.xml
+END
+process-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/32938/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/process/process-messages.properties
+END

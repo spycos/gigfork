@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/25120/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.MySQLInnoDBDialect
+END
+modify-index-permission_id.sql
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/25120/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.MySQLInnoDBDialect/modify-index-permission_id.sql
+END

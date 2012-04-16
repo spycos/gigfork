@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/tasklistener
+END
+TaskCompleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/tasklistener/TaskCompleteListener.java
+END
+TaskCreateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/29812/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/tasklistener/TaskCreateListener.java
+END
+ScriptTaskListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/tasklistener/ScriptTaskListener.java
+END

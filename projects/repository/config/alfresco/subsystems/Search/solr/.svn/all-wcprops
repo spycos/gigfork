@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/solr
+END
+cmis-api-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30345/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/solr/cmis-api-context.xml
+END
+solr-backup-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/solr/solr-backup-context.xml
+END
+solr-search-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/solr/solr-search-context.xml
+END
+common-search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29073/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/solr/common-search.properties
+END
+solr-backup.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/solr/solr-backup.properties
+END
+solr-search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30070/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/solr/solr-search.properties
+END
+opencmis-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30371/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/solr/opencmis-context.xml
+END

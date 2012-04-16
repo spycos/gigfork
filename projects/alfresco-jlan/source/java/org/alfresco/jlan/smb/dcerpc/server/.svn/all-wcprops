@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/30943/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/server
+END
+SrvsvcDCEHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30943/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/server/SrvsvcDCEHandler.java
+END
+DCEPipeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/server/DCEPipeHandler.java
+END
+DCEHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/server/DCEHandler.java
+END
+DCEPipeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/server/DCEPipeFile.java
+END
+WkssvcDCEHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/server/WkssvcDCEHandler.java
+END
+DCESrvPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/dcerpc/server/DCESrvPacket.java
+END

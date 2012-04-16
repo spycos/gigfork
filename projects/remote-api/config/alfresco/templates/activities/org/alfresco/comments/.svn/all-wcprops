@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/comments
+END
+comment-deleted.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/comments/comment-deleted.atomentry.ftl
+END
+comment-updated.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/comments/comment-updated.atomentry.ftl
+END
+comment-created.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/comments/comment-created.atomentry.ftl
+END

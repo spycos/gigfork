@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28517/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common
+END
+VersionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/VersionUtil.java
+END
+VersionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/22007/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/VersionImpl.java
+END
+VersionImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/VersionImplTest.java
+END
+VersionHistoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/VersionHistoryImpl.java
+END
+VersionHistoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/VersionHistoryImplTest.java
+END
+AbstractVersionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/28517/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/AbstractVersionServiceImpl.java
+END
+VersionLabelComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/common/VersionLabelComparator.java
+END

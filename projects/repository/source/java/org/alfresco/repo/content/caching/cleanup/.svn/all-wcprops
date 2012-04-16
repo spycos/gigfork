@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/cleanup
+END
+CachedContentCleanupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/cleanup/CachedContentCleanupJob.java
+END
+CachedContentCleanupJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/cleanup/CachedContentCleanupJobTest.java
+END
+CachedContentCleanerCreatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/cleanup/CachedContentCleanerCreatedEvent.java
+END
+CachedContentCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/32631/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/cleanup/CachedContentCleaner.java
+END

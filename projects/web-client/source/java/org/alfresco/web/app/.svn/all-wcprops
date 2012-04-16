@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app
+END
+ResourceBundleBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/ResourceBundleBootstrap.java
+END
+ContextLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/ContextLoaderListener.java
+END
+ResourceBundleWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/ResourceBundleWrapper.java
+END
+ResourceBundleWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/ResourceBundleWrapperTest.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/Application.java
+END
+AlfrescoVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/AlfrescoVariableResolver.java
+END
+ContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/ContextListener.java
+END
+AlfrescoNavigationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/AlfrescoNavigationHandler.java
+END
+DebugPhaseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/DebugPhaseListener.java
+END
+resourceBundleWrapperTest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/8323/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/app/resourceBundleWrapperTest.properties
+END

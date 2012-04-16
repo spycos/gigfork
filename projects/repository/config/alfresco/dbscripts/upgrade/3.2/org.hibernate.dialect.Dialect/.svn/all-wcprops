@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.Dialect
+END
+remove-AVM-issuer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.Dialect/remove-AVM-issuer.sql
+END
+AlfrescoSchemaUpdate-3.2-AddFKIndexes-2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.2/org.hibernate.dialect.Dialect/AlfrescoSchemaUpdate-3.2-AddFKIndexes-2.sql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.PostgreSQLDialect
+END
+AclChangeSet-Tracking.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.PostgreSQLDialect/AclChangeSet-Tracking.sql
+END
+Node-Locale.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.PostgreSQLDialect/Node-Locale.sql
+END
+NodeAssoc-Ordering.sql
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/28309/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.PostgreSQLDialect/NodeAssoc-Ordering.sql
+END
+ActivitiTaskIdIndexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.PostgreSQLDialect/ActivitiTaskIdIndexes.sql
+END

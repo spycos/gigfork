@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form
+END
+form.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get_es.properties
+END
+form.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get_fr.properties
+END
+form.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get_de.properties
+END
+form.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/34382/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get.head.ftl
+END
+form.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get_nl.properties
+END
+form.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get_ja.properties
+END
+form.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get.html.ftl
+END
+form.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get_it.properties
+END
+2-column-set.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/21501/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/2-column-set.ftl
+END
+3-column-set.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/21501/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/3-column-set.ftl
+END
+form.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get.properties
+END
+form.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.lib.ftl
+END
+form.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/12356/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/form.get.desc.xml
+END

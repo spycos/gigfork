@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests
+END
+ACLServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/ACLServiceClientTest.cs
+END
+NavigationServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/NavigationServiceClientTest.cs
+END
+PolicyServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/PolicyServiceClientTest.cs
+END
+RepositoryServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/RepositoryServiceClientTest.cs
+END
+RelationshipServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/19359/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/RelationshipServiceClientTest.cs
+END
+MultiFilingServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/MultiFilingServiceClientTest.cs
+END
+VersioningServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/19359/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/VersioningServiceClientTest.cs
+END
+ObjectServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/ObjectServiceClientTest.cs
+END
+DiscoveryServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/DiscoveryServiceClientTest.cs
+END
+BaseServiceClientTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/Tests/BaseServiceClientTest.cs
+END

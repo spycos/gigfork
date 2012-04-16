@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite
+END
+invitationlist.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get_es.properties
+END
+groupslist.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get_it.properties
+END
+invitationlist.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get.html.ftl
+END
+sent-invites.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get_es.properties
+END
+addemail.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/10015/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get.desc.xml
+END
+accept-invite.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get_fr.properties
+END
+members-bar.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get_es.properties
+END
+sent-invites.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get.html.ftl
+END
+accept-invite.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24915/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get.html.ftl
+END
+addemail.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get_fr.properties
+END
+reject-invite.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/32392/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get.js
+END
+members-bar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/14906/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get.html.ftl
+END
+addemail.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get.head.ftl
+END
+addemail.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/11024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get.properties
+END
+invitationlist.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/10015/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get.desc.xml
+END
+reject-invite.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get_nl.properties
+END
+groupslist.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get_es.properties
+END
+accept-invite.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get_de.properties
+END
+reject-invite.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get_it.properties
+END
+accept-invite.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get_ja.properties
+END
+invitationlist.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get_fr.properties
+END
+addemail.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get_de.properties
+END
+invitationlist.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get.head.ftl
+END
+sent-invites.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/10464/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get.desc.xml
+END
+addemail.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get_ja.properties
+END
+accept-invite.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/32392/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get.js
+END
+groupslist.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get.properties
+END
+accept-invite.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/10464/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get.desc.xml
+END
+members-bar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/10171/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get.desc.xml
+END
+sent-invites.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get_fr.properties
+END
+invitationlist.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get.properties
+END
+sent-invites.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get.head.ftl
+END
+members-bar.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get_fr.properties
+END
+accept-invite.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get.head.ftl
+END
+members-bar.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get.head.ftl
+END
+invitationlist.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get_de.properties
+END
+sent-invites.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get.properties
+END
+invitationlist.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get_ja.properties
+END
+members-bar.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get.properties
+END
+reject-invite.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get_es.properties
+END
+sent-invites.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get_de.properties
+END
+groupslist.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get_fr.properties
+END
+sent-invites.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get_ja.properties
+END
+reject-invite.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get.html.ftl
+END
+members-bar.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get_de.properties
+END
+members-bar.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get_ja.properties
+END
+groupslist.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get.html.ftl
+END
+addemail.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18123/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get.js
+END
+groupslist.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get_de.properties
+END
+accept-invite.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get_nl.properties
+END
+groupslist.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get_ja.properties
+END
+accept-invite.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get_it.properties
+END
+reject-invite.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/10464/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get.desc.xml
+END
+addemail.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get_nl.properties
+END
+groupslist.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get.js
+END
+addemail.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get_it.properties
+END
+groupslist.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/13830/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get.desc.xml
+END
+reject-invite.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get_fr.properties
+END
+invitationlist.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/13572/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get.js
+END
+reject-invite.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get.head.ftl
+END
+groupslist.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get.head.ftl
+END
+reject-invite.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24127/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get.properties
+END
+invitationlist.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get_nl.properties
+END
+members-bar.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get.js
+END
+invitationlist.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/invitationlist.get_it.properties
+END
+reject-invite.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get_de.properties
+END
+sent-invites.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get_nl.properties
+END
+accept-invite.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get_es.properties
+END
+reject-invite.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/reject-invite.get_ja.properties
+END
+sent-invites.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/sent-invites.get_it.properties
+END
+members-bar.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get_nl.properties
+END
+addemail.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get_es.properties
+END
+members-bar.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/members-bar.get_it.properties
+END
+accept-invite.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/22556/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/accept-invite.get.properties
+END
+addemail.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/addemail.get.html.ftl
+END
+groupslist.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/invite/groupslist.get_nl.properties
+END

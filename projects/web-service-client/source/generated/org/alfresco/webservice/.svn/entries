@@ -1,0 +1,58 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/web-service-client/source/generated/org/alfresco/webservice
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2009-01-13T16:58:50.436923Z
+12712
+rwetherall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+authentication
+dir
+
+repository
+dir
+
+authoring
+dir
+
+accesscontrol
+dir
+
+types
+dir
+
+administration
+dir
+
+dictionary
+dir
+
+content
+dir
+
+classification
+dir
+
+action
+dir
+

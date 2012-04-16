@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.PostgreSQLDialect
+END
+fix-Repo-seqs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/24354/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.PostgreSQLDialect/fix-Repo-seqs.sql
+END
+modify-index-permission_id.sql
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.PostgreSQLDialect/modify-index-permission_id.sql
+END
+fix-AVM-seqs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/23265/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.3/org.hibernate.dialect.PostgreSQLDialect/fix-AVM-seqs.sql
+END

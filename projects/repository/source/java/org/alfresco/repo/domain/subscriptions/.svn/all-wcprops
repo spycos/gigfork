@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29915/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/subscriptions
+END
+AbstractSubscriptionsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/29915/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/subscriptions/AbstractSubscriptionsDAO.java
+END
+SubscriptionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28425/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/subscriptions/SubscriptionEntity.java
+END
+SubscriptionNodeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28425/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/subscriptions/SubscriptionNodeEntity.java
+END
+SubscriptionDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/28425/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/subscriptions/SubscriptionDAOTest.java
+END
+SubscriptionsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/28425/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/subscriptions/SubscriptionsDAO.java
+END

@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/33030/alfresco/HEAD/root/projects/repository/config/alfresco/workflow
+END
+publishingWorkflowModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28846/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/publishingWorkflowModel.xml
+END
+invitation-nominated-workflow-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated-workflow-messages_de.properties
+END
+parallel-review-group.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32605/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/parallel-review-group.bpmn20.xml
+END
+invitation-nominated-workflow-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated-workflow-messages_ja.properties
+END
+parallelreview_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/22336/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/parallelreview_processdefinition.xml
+END
+adhoc_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/adhoc_processdefinition.xml
+END
+publish-web-content.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/30078/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/publish-web-content.bpmn20.xml
+END
+invitation-moderated-workflow-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated-workflow-messages_es.properties
+END
+wcm-workflow-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/wcm-workflow-messages_fr.properties
+END
+wcm-workflow-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/wcm-workflow-messages_nl.properties
+END
+wcm-workflow-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/wcm-workflow-messages_it.properties
+END
+invitation-moderated-workflow-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/30084/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated-workflow-model.xml
+END
+invitation-moderated-workflow-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30099/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated-workflow-messages.properties
+END
+invitation-nominated-workflow-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated-workflow-messages_es.properties
+END
+parallelreview_group_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/22336/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/parallelreview_group_processdefinition.xml
+END
+wcmWorkflowModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28405/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/wcmWorkflowModel.xml
+END
+workflow-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33012/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/workflow-messages_fr.properties
+END
+publish_web_content_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29632/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/publish_web_content_processdefinition.xml
+END
+workflow-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33019/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/workflow-messages_nl.properties
+END
+changerequest_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/5674/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/changerequest_processdefinition.xml
+END
+submitdirect_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/13603/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/submitdirect_processdefinition.xml
+END
+invitation-nominated-workflow-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/30024/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated-workflow-model.xml
+END
+wcm-workflow-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/wcm-workflow-messages_de.properties
+END
+workflow-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33013/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/workflow-messages_it.properties
+END
+review_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/6736/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/review_processdefinition.xml
+END
+invitation-nominated-workflow-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30099/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated-workflow-messages.properties
+END
+wcm-workflow-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/wcm-workflow-messages_ja.properties
+END
+review-pooled.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/32605/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/review-pooled.bpmn20.xml
+END
+invitation-moderated.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/30084/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated.bpmn20.xml
+END
+workflow-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33030/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/workflow-messages_de.properties
+END
+workflow-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33018/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/workflow-messages_ja.properties
+END
+invitation-moderated-workflow-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated-workflow-messages_fr.properties
+END
+wcm-workflow-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/wcm-workflow-messages_es.properties
+END
+parallel-review.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32605/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/parallel-review.bpmn20.xml
+END
+invitation-moderated-workflow-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated-workflow-messages_nl.properties
+END
+invitation-moderated-workflow-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated-workflow-messages_it.properties
+END
+workflowModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/28405/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/workflowModel.xml
+END
+invitation-nominated.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/32605/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated.bpmn20.xml
+END
+invitation-moderated_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/13862/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated_processdefinition.xml
+END
+review.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/32605/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/review.bpmn20.xml
+END
+wcm-workflow-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/wcm-workflow-messages.properties
+END
+invitation-nominated-workflow-messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated-workflow-messages_fr.properties
+END
+invitation-nominated-workflow-messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated-workflow-messages_nl.properties
+END
+workflow-messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33011/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/workflow-messages_es.properties
+END
+invitation-nominated-workflow-messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated-workflow-messages_it.properties
+END
+invitation-nominated_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18303/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-nominated_processdefinition.xml
+END
+invitation-moderated-workflow-messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated-workflow-messages_de.properties
+END
+invitation-moderated-workflow-messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/invitation-moderated-workflow-messages_ja.properties
+END
+review_pooled_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/22336/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/review_pooled_processdefinition.xml
+END
+submit_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/submit_processdefinition.xml
+END
+adhoc.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/32605/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/adhoc.bpmn20.xml
+END
+workflow-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/32943/alfresco/HEAD/root/projects/repository/config/alfresco/workflow/workflow-messages.properties
+END

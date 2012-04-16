@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer
+END
+BaseRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer/BaseRenderer.java
+END
+ActionLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer/ActionLinkRenderer.java
+END
+DatePickerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19219/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer/DatePickerRenderer.java
+END
+ErrorsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32887/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer/ErrorsRenderer.java
+END
+ImagePickerRadioPanelRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer/ImagePickerRadioPanelRenderer.java
+END
+ImagePickerRadioRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer/ImagePickerRadioRenderer.java
+END
+ModeListRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer/ModeListRenderer.java
+END
+BreadcrumbRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/common/renderer/BreadcrumbRenderer.java
+END

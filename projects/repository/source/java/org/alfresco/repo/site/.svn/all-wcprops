@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site
+END
+SiteInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32242/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteInfoImpl.java
+END
+SiteServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteServiceException.java
+END
+SiteAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteAspect.java
+END
+SiteAVMBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteAVMBootstrap.java
+END
+SiteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteServiceImplTest.java
+END
+SiteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteServiceImpl.java
+END
+RoleComparatorImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/RoleComparatorImplTest.java
+END
+RoleComparatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/RoleComparatorImpl.java
+END
+SiteServiceInternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28282/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteServiceInternal.java
+END
+SiteServiceBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteServiceBootstrap.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19225/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/package-info.java
+END
+SiteModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteModel.java
+END
+DocLibNodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/DocLibNodeLocator.java
+END
+SitesPermissionCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SitesPermissionCleaner.java
+END
+SiteDoesNotExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29030/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteDoesNotExistException.java
+END
+SiteServiceTestHuge.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/site/SiteServiceTestHuge.java
+END

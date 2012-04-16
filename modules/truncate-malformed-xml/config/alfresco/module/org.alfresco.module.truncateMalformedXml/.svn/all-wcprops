@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/8464/alfresco/HEAD/root/modules/truncate-malformed-xml/config/alfresco/module/org.alfresco.module.truncateMalformedXml
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/8464/alfresco/HEAD/root/modules/truncate-malformed-xml/config/alfresco/module/org.alfresco.module.truncateMalformedXml/module.properties
+END
+module-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/8464/alfresco/HEAD/root/modules/truncate-malformed-xml/config/alfresco/module/org.alfresco.module.truncateMalformedXml/module-context.xml
+END

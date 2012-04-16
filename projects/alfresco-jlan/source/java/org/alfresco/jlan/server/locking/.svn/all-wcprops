@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking
+END
+OpLockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/OpLockManager.java
+END
+LockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/LockManager.java
+END
+FileLockingInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/FileLockingInterface.java
+END
+LocalOpLockDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/LocalOpLockDetails.java
+END
+OpLockInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/OpLockInterface.java
+END
+DeferredRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/DeferredRequest.java
+END
+OpLockDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/OpLockDetails.java
+END
+FileLockListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/FileLockListener.java
+END
+OpLockDetailsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/locking/OpLockDetailsAdapter.java
+END

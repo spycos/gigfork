@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template
+END
+CropContentMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/CropContentMethod.java
+END
+test_template1.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/test_template1.ftl
+END
+BaseTemplateProcessorExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/BaseTemplateProcessorExtension.java
+END
+BaseTemplateMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/BaseTemplateMap.java
+END
+XPathResultsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/XPathResultsMap.java
+END
+TemplateContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplateContent.java
+END
+TemplatePermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplatePermissions.java
+END
+TemplateAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplateAssociation.java
+END
+SavedSearchResultsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/SavedSearchResultsMap.java
+END
+QNameAwareObjectWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/QNameAwareObjectWrapper.java
+END
+Workflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/Workflow.java
+END
+BaseContentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/BaseContentNode.java
+END
+BasePermissionsNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/BasePermissionsNode.java
+END
+TemplateProcessorMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplateProcessorMethod.java
+END
+TemplateNodeRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplateNodeRef.java
+END
+TemplateServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19103/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplateServiceImplTest.java
+END
+ISO8601DateFormatMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/ISO8601DateFormatMethod.java
+END
+ShortQNameMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/ShortQNameMethod.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/Session.java
+END
+XSLTemplateModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/XSLTemplateModel.java
+END
+AVMTemplateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/AVMTemplateNode.java
+END
+AVMTemplateNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/AVMTemplateNodeTest.java
+END
+DateCompareMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/DateCompareMethod.java
+END
+TemplateProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplateProperties.java
+END
+XSLTProcessorMethodInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/XSLTProcessorMethodInvoker.java
+END
+Classification.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/Classification.java
+END
+TemplateSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/19153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplateSource.java
+END
+Site.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/Site.java
+END
+ClassPathTemplateLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/ClassPathTemplateLoader.java
+END
+BasePathResultsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/BasePathResultsMap.java
+END
+PropertyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/PropertyConverter.java
+END
+HasAspectMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/HasAspectMethod.java
+END
+NamePathResultsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/NamePathResultsMap.java
+END
+VersionHistoryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/VersionHistoryNode.java
+END
+BaseSearchResultsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/BaseSearchResultsMap.java
+END
+test_template1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/test_template1.xsl
+END
+LuceneSearchResultsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/LuceneSearchResultsMap.java
+END
+TemplateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/TemplateNode.java
+END
+FreeMarkerProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28208/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/FreeMarkerProcessor.java
+END
+AVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/AVM.java
+END
+DateIncrementMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/DateIncrementMethod.java
+END
+People.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/People.java
+END
+I18NMessageMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/I18NMessageMethod.java
+END
+HasPermissionMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/HasPermissionMethod.java
+END
+XSLTProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/XSLTProcessor.java
+END
+XSLTProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/XSLTProcessorTest.java
+END
+NodeSearchResultsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29628/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/NodeSearchResultsMap.java
+END
+ClassPathRepoTemplateLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/ClassPathRepoTemplateLoader.java
+END
+AVMTemplateStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/template/AVMTemplateStore.java
+END

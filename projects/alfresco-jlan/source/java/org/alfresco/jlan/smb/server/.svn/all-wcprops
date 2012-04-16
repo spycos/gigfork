@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server
+END
+ProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/ProtocolHandler.java
+END
+AdminSharedDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/AdminSharedDevice.java
+END
+SMBSrvPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/32892/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBSrvPacket.java
+END
+SrvTransactBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SrvTransactBuffer.java
+END
+VirtualCircuitList.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/VirtualCircuitList.java
+END
+CIFSPacketPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/CIFSPacketPool.java
+END
+QueryInfoPacker.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/30942/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/QueryInfoPacker.java
+END
+NamedPipeTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/NamedPipeTransaction.java
+END
+NTParameterPacker.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/NTParameterPacker.java
+END
+SMBSrvPacketQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBSrvPacketQueue.java
+END
+VirtualCircuit.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/VirtualCircuit.java
+END
+OpenAndX.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/OpenAndX.java
+END
+PipeDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/PipeDevice.java
+END
+SMBSrvSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBSrvSession.java
+END
+NTTransPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/NTTransPacket.java
+END
+SMBSrvSessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBSrvSessionState.java
+END
+CoreResumeKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/CoreResumeKey.java
+END
+PipeLanmanHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/PipeLanmanHandler.java
+END
+LanManProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/LanManProtocolHandler.java
+END
+SMBSrvException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBSrvException.java
+END
+TcpipSMBSessionSocketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/TcpipSMBSessionSocketHandler.java
+END
+DiskInfoPacker.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/DiskInfoPacker.java
+END
+DCERPCHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30704/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/DCERPCHandler.java
+END
+CIFSConfigSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/CIFSConfigSection.java
+END
+NTProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/NTProtocolHandler.java
+END
+PacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32048/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/PacketHandler.java
+END
+SrvSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SrvSessionFactory.java
+END
+TcpipSMBPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/TcpipSMBPacketHandler.java
+END
+SMBServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBServer.java
+END
+CoreProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/CoreProtocolHandler.java
+END
+IPCHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32048/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/IPCHandler.java
+END
+SMBPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBPacket.java
+END
+DefaultSrvSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/DefaultSrvSessionFactory.java
+END
+SMBSrvTransPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBSrvTransPacket.java
+END
+SecurityMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SecurityMode.java
+END
+NetBIOSSessionSocketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/NetBIOSSessionSocketHandler.java
+END
+SocketPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SocketPacketHandler.java
+END
+Find.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/Find.java
+END
+SMBTransPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/SMBTransPacket.java
+END
+FindInfoPacker.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/FindInfoPacker.java
+END
+CIFSThreadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/CIFSThreadRequest.java
+END
+CifsConnectionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/CifsConnectionsHandler.java
+END
+ThreadedCifsConnectionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/ThreadedCifsConnectionsHandler.java
+END
+ProtocolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/ProtocolFactory.java
+END
+NetBIOSPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/server/NetBIOSPacketHandler.java
+END

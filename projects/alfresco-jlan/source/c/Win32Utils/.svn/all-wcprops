@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32Utils
+END
+org_alfresco_jlan_util_win32_Win32Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/9552/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32Utils/org_alfresco_jlan_util_win32_Win32Utils.h
+END
+Win32Utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32Utils/Win32Utils.c
+END
+Win32Utils.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32Utils/Win32Utils.vcproj
+END
+Win32Utils.sln
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32Utils/Win32Utils.sln
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples
+END
+my_docs_inline.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/my_docs_inline.ftl
+END
+records_report.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/records_report.ftl
+END
+translatable.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/translatable.ftl
+END
+my_docs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/my_docs.ftl
+END
+doc_info.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/doc_info.ftl
+END
+localizable.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/localizable.ftl
+END
+my_summary.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/my_summary.ftl
+END
+my_spaces.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/13570/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/my_spaces.ftl
+END
+show_audit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/show_audit.ftl
+END
+general_example.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/general_example.ftl
+END
+recent_docs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/15793/alfresco/HEAD/root/projects/repository/config/alfresco/templates/content/examples/recent_docs.ftl
+END

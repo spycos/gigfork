@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/tracker
+END
+CoreTrackerJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29904/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/tracker/CoreTrackerJob.java
+END
+MultiThreadedCoreTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/tracker/MultiThreadedCoreTracker.java
+END
+CoreWatcherJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/tracker/CoreWatcherJob.java
+END
+CoreTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/tracker/CoreTracker.java
+END
+IndexHealthReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/tracker/IndexHealthReport.java
+END
+TrackerStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/java/org/alfresco/solr/tracker/TrackerStats.java
+END

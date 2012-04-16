@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jscript
+END
+JscriptWorkflowNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jscript/JscriptWorkflowNode.java
+END
+JscriptWorkflowDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jscript/JscriptWorkflowDefinition.java
+END
+JscriptWorkflowTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jscript/JscriptWorkflowTransition.java
+END
+WorkflowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jscript/WorkflowManager.java
+END
+JscriptWorkflowPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jscript/JscriptWorkflowPath.java
+END
+JscriptWorkflowTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30288/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jscript/JscriptWorkflowTask.java
+END
+JscriptWorkflowInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/jscript/JscriptWorkflowInstance.java
+END

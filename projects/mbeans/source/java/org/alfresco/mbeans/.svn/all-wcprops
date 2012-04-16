@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/mbeans/source/java/org/alfresco/mbeans
+END
+VirtServerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/mbeans/source/java/org/alfresco/mbeans/VirtServerRegistry.java
+END
+VirtServerRegistryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/mbeans/source/java/org/alfresco/mbeans/VirtServerRegistryMBean.java
+END
+ConnectorServerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/mbeans/source/java/org/alfresco/mbeans/ConnectorServerFactory.java
+END

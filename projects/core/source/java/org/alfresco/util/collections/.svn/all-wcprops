@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/collections
+END
+EntryTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/collections/EntryTransformer.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/28552/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/collections/Filter.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28458/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/collections/Function.java
+END
+JsonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28846/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/collections/JsonUtils.java
+END
+CollectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/core/source/java/org/alfresco/util/collections/CollectionUtils.java
+END

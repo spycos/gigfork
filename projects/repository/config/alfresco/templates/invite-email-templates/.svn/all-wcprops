@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/32782/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates
+END
+invite-email.html_es.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates/invite-email.html_es.ftl
+END
+invite-email.html_fr.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates/invite-email.html_fr.ftl
+END
+invite-email.html_de.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates/invite-email.html_de.ftl
+END
+invite-email.html_nl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates/invite-email.html_nl.ftl
+END
+invite-email.html_ja.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32782/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates/invite-email.html_ja.ftl
+END
+invite-email.html_it.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32715/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates/invite-email.html_it.ftl
+END
+invite-email.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32696/alfresco/HEAD/root/projects/repository/config/alfresco/templates/invite-email-templates/invite-email.html.ftl
+END

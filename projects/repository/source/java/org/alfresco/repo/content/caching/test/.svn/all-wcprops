@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/32627/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/test
+END
+ConcurrentCachingStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/32627/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/test/ConcurrentCachingStoreTest.java
+END
+SlowContentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30956/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/test/SlowContentStore.java
+END
+SlowContentStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30171/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/caching/test/SlowContentStoreTest.java
+END

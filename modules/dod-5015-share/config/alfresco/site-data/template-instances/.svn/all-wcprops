@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances
+END
+rmreferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/rmreferences.xml
+END
+new-rmreference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/new-rmreference.xml
+END
+rmsearch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/rmsearch.xml
+END
+rmaudit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/rmaudit.xml
+END
+fileplanreport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/fileplanreport.xml
+END
+disposition-edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/disposition-edit.xml
+END
+record-series-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/record-series-details.xml
+END
+record-folder-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/record-folder-details.xml
+END
+rmpermissions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/rmpermissions.xml
+END
+record-category-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/template-instances/record-category-details.xml
+END

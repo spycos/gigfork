@@ -1,0 +1,132 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/web-client/source/web
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-13T14:21:53.975980Z
+35229
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+swf
+dir
+
+META-INF
+dir
+
+index.jsp
+file
+
+
+
+
+2012-04-02T09:58:29.000000Z
+3b738dc159a8f22a41efdf903f57548c
+2010-07-11T14:22:26.597441Z
+21065
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5977
+
+services
+dir
+
+cmisfs
+dir
+
+images
+dir
+
+yui
+dir
+
+WEB-INF
+dir
+
+scripts
+dir
+
+css
+dir
+
+css-boilerplate
+dir
+
+cmis-browser-app
+dir
+
+jsp
+dir
+
+favicon.ico
+file
+
+
+
+
+2012-04-02T09:58:29.000000Z
+d80e364c0d3138c7ecd75bf9896f2cad
+2008-12-17T11:06:12.552792Z
+12435
+kroast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1406
+

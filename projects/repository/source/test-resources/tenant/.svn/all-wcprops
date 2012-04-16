@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/test-resources/tenant
+END
+mt-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/test-resources/tenant/mt-context.xml
+END
+web-client-config-custom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/test-resources/tenant/web-client-config-custom.xml
+END
+mt-contentstore-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/test-resources/tenant/mt-contentstore-context.xml
+END
+mt-admin-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/19271/alfresco/HEAD/root/projects/repository/source/test-resources/tenant/mt-admin-context.xml
+END
+webclient.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/test-resources/tenant/webclient.properties
+END
+exampleModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/13980/alfresco/HEAD/root/projects/repository/source/test-resources/tenant/exampleModel.xml
+END

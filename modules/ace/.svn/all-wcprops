@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/alfresco-open-mirror/!svn/ver/29382/alfresco/HEAD/root/modules/ace
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/alfresco-open-mirror/!svn/ver/7201/alfresco/HEAD/root/modules/ace/.project
+END
+.flexProperties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/alfresco-open-mirror/!svn/ver/7306/alfresco/HEAD/root/modules/ace/.flexProperties
+END
+.actionScriptProperties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/7306/alfresco/HEAD/root/modules/ace/.actionScriptProperties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/alfresco-open-mirror/!svn/ver/29382/alfresco/HEAD/root/modules/ace/build.xml
+END

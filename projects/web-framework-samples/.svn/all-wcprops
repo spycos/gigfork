@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-framework-samples
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/18107/alfresco/HEAD/root/projects/web-framework-samples/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/12642/alfresco/HEAD/root/projects/web-framework-samples/.project
+END
+project-override.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/12642/alfresco/HEAD/root/projects/web-framework-samples/project-override.properties
+END

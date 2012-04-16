@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/30819/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/flickr/springsocial/api
+END
+UserOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30819/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/flickr/springsocial/api/UserOperations.java
+END
+MediaOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/30819/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/flickr/springsocial/api/MediaOperations.java
+END
+PhotoInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30819/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/flickr/springsocial/api/PhotoInfo.java
+END
+FlickrException.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/30819/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/flickr/springsocial/api/FlickrException.java
+END
+Flickr.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30819/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/flickr/springsocial/api/Flickr.java
+END
+FlickrHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30819/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/publishing/flickr/springsocial/api/FlickrHelper.java
+END

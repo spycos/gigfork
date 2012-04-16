@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avm/deploy
+END
+DeploymentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avm/deploy/DeploymentService.java
+END
+DeploymentEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avm/deploy/DeploymentEvent.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19064/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avm/deploy/package-info.java
+END
+DeploymentReportCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avm/deploy/DeploymentReportCallback.java
+END
+DeploymentReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avm/deploy/DeploymentReport.java
+END
+DeploymentCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/avm/deploy/DeploymentCallback.java
+END

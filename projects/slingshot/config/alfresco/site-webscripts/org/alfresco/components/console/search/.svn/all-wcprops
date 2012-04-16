@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search
+END
+lucene.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/lucene.get.html.ftl
+END
+solr.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/solr.get.config.xml
+END
+searchmanager.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/searchmanager.get.config.xml
+END
+solr.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/solr.get.head.ftl
+END
+searchmanager.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/searchmanager.get.head.ftl
+END
+solr.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/solr.get.html.ftl
+END
+lucene.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/lucene.get.desc.xml
+END
+searchmanager.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/searchmanager.get.html.ftl
+END
+solr.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/solr.get.desc.xml
+END
+searchmanager.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/searchmanager.get.desc.xml
+END
+lucene.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/lucene.get.config.xml
+END
+lucene.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/29559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/search/lucene.get.head.ftl
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/29279/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test
+END
+AspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19437/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/AspectTest.java
+END
+BaseCMISTest.createObject.atomentry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19437/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/BaseCMISTest.createObject.atomentry.xml
+END
+BulkCreateAndQuerySystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19579/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/BulkCreateAndQuerySystemTest.java
+END
+PolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19437/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/PolicyTest.java
+END
+CmisRelationshipSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29279/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/CmisRelationshipSystemTest.java
+END
+PolicyTest.applyPolicy.atomentry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/19437/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/PolicyTest.applyPolicy.atomentry.xml
+END
+AspectTest.addAspects.cmisatomentry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19433/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/AspectTest.addAspects.cmisatomentry.xml
+END
+AspectTest.removeAndAddAspects.cmisatomentry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/19433/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/AspectTest.removeAndAddAspects.cmisatomentry.xml
+END
+BaseCMISTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/BaseCMISTest.java
+END
+BulkCreateSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/BulkCreateSystemTest.java
+END
+CMISTestRunnerWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18978/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/rest/test/CMISTestRunnerWebScript.java
+END

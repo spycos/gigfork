@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32067/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/lucene/fts
+END
+FullTextSearchIndexerBootstrapBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29096/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/lucene/fts/FullTextSearchIndexerBootstrapBean.java
+END
+FTSIndexerJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/lucene/fts/FTSIndexerJob.java
+END
+FTSIndexerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/lucene/fts/FTSIndexerException.java
+END
+FTSIndexerAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30917/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/lucene/fts/FTSIndexerAware.java
+END
+FullTextSearchIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30917/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/lucene/fts/FullTextSearchIndexer.java
+END
+FullTextSearchIndexerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/32067/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/lucene/fts/FullTextSearchIndexerImpl.java
+END

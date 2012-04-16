@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/9879/alfresco/HEAD/root/modules/knowledge-base/source/web/jsp/dashboards/dashlets/knowledge-base
+END
+article-summary-report.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/6432/alfresco/HEAD/root/modules/knowledge-base/source/web/jsp/dashboards/dashlets/knowledge-base/article-summary-report.jsp
+END
+knowledge-base-dashlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/6200/alfresco/HEAD/root/modules/knowledge-base/source/web/jsp/dashboards/dashlets/knowledge-base/knowledge-base-dashlet.jsp
+END
+search-knowledge-base-dashlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/9879/alfresco/HEAD/root/modules/knowledge-base/source/web/jsp/dashboards/dashlets/knowledge-base/search-knowledge-base-dashlet.jsp
+END
+article-usage-report.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/6432/alfresco/HEAD/root/modules/knowledge-base/source/web/jsp/dashboards/dashlets/knowledge-base/article-usage-report.jsp
+END
+knowledge-base-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/6432/alfresco/HEAD/root/modules/knowledge-base/source/web/jsp/dashboards/dashlets/knowledge-base/knowledge-base-manager.jsp
+END
+knowledge-base-report-dashlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/6432/alfresco/HEAD/root/modules/knowledge-base/source/web/jsp/dashboards/dashlets/knowledge-base/knowledge-base-report-dashlet.jsp
+END

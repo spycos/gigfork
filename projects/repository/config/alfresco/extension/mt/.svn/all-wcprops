@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/config/alfresco/extension/mt
+END
+mt-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/config/alfresco/extension/mt/mt-context.xml.sample
+END
+mt-contentstore-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/config/alfresco/extension/mt/mt-contentstore-context.xml.sample
+END
+mt-admin-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/19271/alfresco/HEAD/root/projects/repository/config/alfresco/extension/mt/mt-admin-context.xml.sample
+END

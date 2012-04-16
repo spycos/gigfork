@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/32547/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar
+END
+CalendarEntriesListGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/32515/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/CalendarEntriesListGet.java
+END
+AbstractCalendarWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/32547/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/AbstractCalendarWebScript.java
+END
+CalendarEntryPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/CalendarEntryPost.java
+END
+CalendarRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32515/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/CalendarRestApiTest.java
+END
+UserCalendarEntriesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/32515/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/UserCalendarEntriesGet.java
+END
+CalendarEntryPut.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/CalendarEntryPut.java
+END
+AllCalendarTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/29235/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/AllCalendarTests.java
+END
+AbstractCalendarListingWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/32515/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/AbstractCalendarListingWebScript.java
+END
+CalendarEntryGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/32418/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/CalendarEntryGet.java
+END
+CalendarEntryDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/calendar/CalendarEntryDelete.java
+END

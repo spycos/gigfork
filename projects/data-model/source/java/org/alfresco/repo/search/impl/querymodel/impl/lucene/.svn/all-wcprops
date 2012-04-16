@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene
+END
+LuceneQueryBuilderContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneQueryBuilderContextImpl.java
+END
+LuceneQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneQuery.java
+END
+LuceneFunctionalConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneFunctionalConstraint.java
+END
+LuceneOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneOrdering.java
+END
+LuceneQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneQueryBuilder.java
+END
+LuceneListArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneListArgument.java
+END
+LuceneQueryModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneQueryModelFactory.java
+END
+LuceneSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneSelector.java
+END
+LuceneQueryBuilderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneQueryBuilderContext.java
+END
+LuceneParameterArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneParameterArgument.java
+END
+LuceneSelectorArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneSelectorArgument.java
+END
+LucenePropertyArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LucenePropertyArgument.java
+END
+LuceneFunctionArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneFunctionArgument.java
+END
+LuceneDisjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/31191/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneDisjunction.java
+END
+LuceneConjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/31191/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneConjunction.java
+END
+LuceneColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneColumn.java
+END
+LuceneQueryBuilderComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneQueryBuilderComponent.java
+END
+LuceneLiteralArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneLiteralArgument.java
+END
+LuceneJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20986/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/search/impl/querymodel/impl/lucene/LuceneJoin.java
+END

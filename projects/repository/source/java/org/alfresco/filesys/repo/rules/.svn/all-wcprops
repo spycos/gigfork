@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules
+END
+Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/Operation.java
+END
+Scenario.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/Scenario.java
+END
+ScenarioDoubleRenameShuffle.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29687/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioDoubleRenameShuffle.java
+END
+ScenarioCreateShuffle.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioCreateShuffle.java
+END
+ScenarioCreateDeleteRenameShuffleInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioCreateDeleteRenameShuffleInstance.java
+END
+EvaluatorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/EvaluatorContext.java
+END
+ScenarioRenameShuffle.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29687/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioRenameShuffle.java
+END
+ScenarioLockedDeleteShuffleInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioLockedDeleteShuffleInstance.java
+END
+ScenarioOpenFileInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32097/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioOpenFileInstance.java
+END
+RuleEvaluatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/RuleEvaluatorImpl.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/Command.java
+END
+OperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/OperationExecutor.java
+END
+ScenarioCreateDeleteRenameShuffle.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioCreateDeleteRenameShuffle.java
+END
+ScenarioSimpleNonBufferedInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioSimpleNonBufferedInstance.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/package-info.java
+END
+ScenarioOpenFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioOpenFile.java
+END
+ScenarioLockedDeleteShuffle.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioLockedDeleteShuffle.java
+END
+ScenarioInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioInstance.java
+END
+ScenarioDoubleRenameShuffleInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioDoubleRenameShuffleInstance.java
+END
+ScenarioCreateShuffleInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioCreateShuffleInstance.java
+END
+RuleEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/RuleEvaluator.java
+END
+ScenarioSimpleNonBuffered.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioSimpleNonBuffered.java
+END
+VirtualFilesystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/VirtualFilesystem.java
+END
+ShuffleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29468/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ShuffleTest.java
+END
+ScenarioRenameShuffleInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29451/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/filesys/repo/rules/ScenarioRenameShuffleInstance.java
+END

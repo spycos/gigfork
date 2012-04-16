@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages
+END
+rmreferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/15288/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/rmreferences.xml
+END
+new-rmreference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/15879/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/new-rmreference.xml
+END
+rmsearch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/14249/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/rmsearch.xml
+END
+rmaudit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/15705/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/rmaudit.xml
+END
+fileplanreport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/16237/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/fileplanreport.xml
+END
+disposition-edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/15330/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/disposition-edit.xml
+END
+record-series-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/15215/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/record-series-details.xml
+END
+record-folder-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/15215/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/record-folder-details.xml
+END
+rmpermissions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/16177/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/rmpermissions.xml
+END
+record-category-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/15215/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/record-category-details.xml
+END
+rm-console.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/modules/dod-5015-share/config/alfresco/site-data/pages/rm-console.xml
+END

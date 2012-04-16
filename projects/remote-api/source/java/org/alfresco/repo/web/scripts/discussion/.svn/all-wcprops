@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/32146/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion
+END
+ForumPostDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumPostDelete.java
+END
+ForumPostRepliesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumPostRepliesGet.java
+END
+ForumTopicsMineGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumTopicsMineGet.java
+END
+ForumTopicsHotGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumTopicsHotGet.java
+END
+ForumPostPut.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumPostPut.java
+END
+ForumPostRepliesPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumPostRepliesPost.java
+END
+AbstractDiscussionWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/31294/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/AbstractDiscussionWebScript.java
+END
+ForumTopicsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/32146/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumTopicsGet.java
+END
+DiscussionRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/31295/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/DiscussionRestApiTest.java
+END
+ForumTopicsRecentGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumTopicsRecentGet.java
+END
+ForumTopicPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumTopicPost.java
+END
+ForumPostGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/discussion/ForumPostGet.java
+END

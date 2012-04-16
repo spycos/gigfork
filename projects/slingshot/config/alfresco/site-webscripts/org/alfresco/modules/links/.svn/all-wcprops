@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links
+END
+delete-link.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get_nl.properties
+END
+delete-link.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get_ja.properties
+END
+delete-link.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get.html.ftl
+END
+delete-link.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get_it.properties
+END
+delete-link.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get.properties
+END
+delete-link.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get.desc.xml
+END
+delete-link.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get_es.properties
+END
+delete-link.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get_fr.properties
+END
+delete-link.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/links/delete-link.get_de.properties
+END

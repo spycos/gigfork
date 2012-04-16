@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/templates/org/alfresco/global
+END
+slingshot-login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/templates/org/alfresco/global/slingshot-login.ftl
+END
+slingshot-logout.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/13116/alfresco/HEAD/root/projects/slingshot/config/alfresco/templates/org/alfresco/global/slingshot-logout.ftl
+END
+slingshot-login.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/slingshot/config/alfresco/templates/org/alfresco/global/slingshot-login.js
+END

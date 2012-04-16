@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/test-resources/jbpm-test
+END
+test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/test-resources/jbpm-test/test-context.xml
+END
+test-database-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/15859/alfresco/HEAD/root/projects/repository/source/test-resources/jbpm-test/test-database-context.xml
+END
+jbpm.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/15859/alfresco/HEAD/root/projects/repository/source/test-resources/jbpm-test/jbpm.cfg.xml
+END
+test-hibernate-cfg.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/repository/source/test-resources/jbpm-test/test-hibernate-cfg.properties
+END
+test-workflow-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18169/alfresco/HEAD/root/projects/repository/source/test-resources/jbpm-test/test-workflow-context.xml
+END

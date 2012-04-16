@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/noindex
+END
+NoIndexIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/noindex/NoIndexIndexer.java
+END
+NoIndexCategoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/noindex/NoIndexCategoryServiceImpl.java
+END
+NoIndexCMISQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/noindex/NoIndexCMISQueryServiceImpl.java
+END
+NoIndexIndexRecovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/noindex/NoIndexIndexRecovery.java
+END
+NoIndexIndexerAndSearcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/noindex/NoIndexIndexerAndSearcherFactory.java
+END
+NoIndexOpenCMISQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/noindex/NoIndexOpenCMISQueryServiceImpl.java
+END
+NoIndexSearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/search/impl/noindex/NoIndexSearchService.java
+END

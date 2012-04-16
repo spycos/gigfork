@@ -1,0 +1,77 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-13T14:21:53.975980Z
+35229
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+authentication
+dir
+
+SecurityTestSuite.java
+file
+
+
+
+
+2012-04-02T09:56:42.000000Z
+90ade1e08e638234ce872df0c7f1b0db
+2012-02-08T11:06:09.748222Z
+33758
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4011
+
+person
+dir
+
+authority
+dir
+
+permissions
+dir
+
+sync
+dir
+

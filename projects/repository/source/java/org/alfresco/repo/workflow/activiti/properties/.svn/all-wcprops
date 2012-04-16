@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/35257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/properties
+END
+ActivitiPriorityPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/properties/ActivitiPriorityPropertyHandler.java
+END
+ActivitiDescriptionPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/properties/ActivitiDescriptionPropertyHandler.java
+END
+ActivitiPropertyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/35257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/properties/ActivitiPropertyConverter.java
+END
+ActivitiOwnerPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/properties/ActivitiOwnerPropertyHandler.java
+END
+ActivitiDueDatePropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/properties/ActivitiDueDatePropertyHandler.java
+END
+ActivitiPackagePropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/properties/ActivitiPackagePropertyHandler.java
+END
+ActivitiPooledActorsPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/activiti/properties/ActivitiPooledActorsPropertyHandler.java
+END

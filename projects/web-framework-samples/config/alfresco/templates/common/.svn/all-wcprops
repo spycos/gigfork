@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/templates/common
+END
+dynamic.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/templates/common/dynamic.js
+END
+dynamic-tables.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/12260/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/templates/common/dynamic-tables.ftl
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/templates/common/login.js
+END
+dynamic-absolute.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/templates/common/dynamic-absolute.ftl
+END
+dynamic.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/templates/common/dynamic.ftl
+END
+login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/templates/common/login.ftl
+END
+logout.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/templates/common/logout.ftl
+END

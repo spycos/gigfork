@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/31330/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/asset
+END
+AssetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/asset/AssetService.java
+END
+AssetServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31330/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/asset/AssetServiceImpl.java
+END
+AssetServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/asset/AssetServiceImplTest.java
+END
+AssetInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/asset/AssetInfo.java
+END
+AssetInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/asset/AssetInfoImpl.java
+END

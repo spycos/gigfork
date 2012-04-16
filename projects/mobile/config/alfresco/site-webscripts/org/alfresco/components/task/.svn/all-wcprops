@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/14792/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/task
+END
+task.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/14792/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/task/task.get.html.ftl
+END
+task.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/task/task.get.js
+END
+task.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/task/task.get.properties
+END
+task.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/14367/alfresco/HEAD/root/projects/mobile/config/alfresco/site-webscripts/org/alfresco/components/task/task.get.desc.xml
+END

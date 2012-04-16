@@ -1,0 +1,136 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-16T10:06:16.840378Z
+35257
+fheremans
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+repository
+dir
+
+alfresco-jlan
+dir
+
+deployment
+dir
+
+sdk
+dir
+
+web-framework-commons
+dir
+
+devenv
+dir
+
+web-service-client
+dir
+
+core
+dir
+
+web-client
+dir
+
+extension-sample
+dir
+
+system-build-test
+dir
+
+extensions
+dir
+
+tomcat-virtserver
+dir
+
+echo-dns
+dir
+
+mobile
+dir
+
+wdr-deployment
+dir
+
+slingshot
+dir
+
+imaging
+dir
+
+solr
+dir
+
+3rd-party
+dir
+
+cmis-dotnet-tck-ws
+dir
+
+web-editor-plugin
+dir
+
+installer
+dir
+
+jndi-client
+dir
+
+catalina-virtual
+dir
+
+web-editor
+dir
+
+cmis-tck-ws
+dir
+
+remote-api
+dir
+
+website
+dir
+
+web-editor-samples
+dir
+
+file-transfer-receiver
+dir
+
+fdk
+dir
+
+mbeans
+dir
+
+data-model
+dir
+
+web-framework-samples
+dir
+
+repository-bm
+dir
+

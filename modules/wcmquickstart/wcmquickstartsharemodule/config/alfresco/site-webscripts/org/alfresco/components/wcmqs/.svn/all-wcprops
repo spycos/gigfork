@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs
+END
+wcmqs-document-translations.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/alfresco-open-mirror/!svn/ver/30388/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get.desc.xml
+END
+wcmqs-document-translations.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get_es.properties
+END
+wcmqs-document-translations.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get_fr.properties
+END
+wcmqs-document-translations.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/alfresco-open-mirror/!svn/ver/31338/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get_de.properties
+END
+wcmqs-document-translations.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/alfresco-open-mirror/!svn/ver/30398/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get.head.ftl
+END
+wcmqs-document-translations.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get_nl.properties
+END
+wcmqs-document-translations.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get_ja.properties
+END
+wcmqs-document-translations.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/alfresco-open-mirror/!svn/ver/30398/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get.html.ftl
+END
+wcmqs-document-translations.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/alfresco-open-mirror/!svn/ver/31379/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get_it.properties
+END
+wcmqs-document-translations.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/30388/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get.js
+END
+wcmqs-document-translations.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/alfresco-open-mirror/!svn/ver/30398/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/wcmqs/wcmqs-document-translations.get.properties
+END

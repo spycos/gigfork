@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/32674/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/contentdata
+END
+ContentDataEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/contentdata/ContentDataEntity.java
+END
+ContentDataDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/32673/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/contentdata/ContentDataDAO.java
+END
+ContentDataDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/contentdata/ContentDataDAOTest.java
+END
+ContentUrlEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/19312/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/contentdata/ContentUrlEntity.java
+END
+ContentUrlOrphanQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/contentdata/ContentUrlOrphanQuery.java
+END
+ContentUrlUpdateEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/contentdata/ContentUrlUpdateEntity.java
+END
+AbstractContentDataDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/32673/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/contentdata/AbstractContentDataDAOImpl.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/15989/alfresco/HEAD/root/modules/dod-5015/test-resources
+END
+testCaveatConfig1.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/15989/alfresco/HEAD/root/modules/dod-5015/test-resources/testCaveatConfig1.json
+END
+testCaveatConfig2.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/15989/alfresco/HEAD/root/modules/dod-5015/test-resources/testCaveatConfig2.json
+END

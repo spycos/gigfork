@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice
+END
+GetStores.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice/GetStores.java
+END
+SamplesBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice/SamplesBase.java
+END
+CMLUpdates.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice/CMLUpdates.java
+END
+ContentReadAndWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice/ContentReadAndWrite.java
+END
+Categories.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice/Categories.java
+END
+Query1.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice/Query1.java
+END
+Query2.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice/Query2.java
+END
+CheckOutCheckIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/sdk/samples/WebServiceSamples/source/org/alfresco/sample/webservice/CheckOutCheckIn.java
+END

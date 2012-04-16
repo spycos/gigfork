@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/32958/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item
+END
+PropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18949/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/PropertyImpl.java
+END
+NodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/NodeImpl.java
+END
+JCRTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/JCRTypeConverter.java
+END
+LockImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/LockImpl.java
+END
+ChildAssocNodeIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/ChildAssocNodeIteratorImpl.java
+END
+ItemResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/ItemResolver.java
+END
+ItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/ItemImpl.java
+END
+NodeRefNodeIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/NodeRefNodeIteratorImpl.java
+END
+Alf1791Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/20885/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/Alf1791Test.java
+END
+ValueFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/ValueFactoryImpl.java
+END
+JCRPatternMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/JCRPatternMatch.java
+END
+PropertyListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/PropertyListIterator.java
+END
+JCRPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/32958/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/JCRPath.java
+END
+ValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/ValueImpl.java
+END
+ItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/jcr/item/ItemTest.java
+END

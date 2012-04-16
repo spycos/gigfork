@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/28208/alfresco/HEAD/root/projects/web-client/config/alfresco/extension
+END
+web-studio-preview-context.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/12220/alfresco/HEAD/root/projects/web-client/config/alfresco/extension/web-studio-preview-context.xml.sample
+END
+web-client-config-custom.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28208/alfresco/HEAD/root/projects/web-client/config/alfresco/extension/web-client-config-custom.xml.sample
+END
+web-client-config-custom.xml.unicode.sample
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/16911/alfresco/HEAD/root/projects/web-client/config/alfresco/extension/web-client-config-custom.xml.unicode.sample
+END
+web-scripts-config-custom.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19908/alfresco/HEAD/root/projects/web-client/config/alfresco/extension/web-scripts-config-custom.xml.sample
+END

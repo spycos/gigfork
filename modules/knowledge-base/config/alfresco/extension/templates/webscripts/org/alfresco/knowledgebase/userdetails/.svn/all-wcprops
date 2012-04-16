@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/7095/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/userdetails
+END
+userdetails.get.xml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/7095/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/userdetails/userdetails.get.xml.ftl
+END
+userdetails.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/7095/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/userdetails/userdetails.get.js
+END
+userdetails.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/7090/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/userdetails/userdetails.get.desc.xml
+END

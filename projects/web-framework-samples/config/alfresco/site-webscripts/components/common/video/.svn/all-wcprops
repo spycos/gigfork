@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/13416/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video
+END
+edit.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/edit.get.desc.xml
+END
+view.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/view.get.html.ftl
+END
+edit.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/edit.post.html.ftl
+END
+view.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/13416/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/view.get.js
+END
+edit.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/edit.post.js
+END
+view.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/view.get.desc.xml
+END
+edit.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/edit.post.desc.xml
+END
+edit.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/edit.get.html.ftl
+END
+view.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/view.get.head.ftl
+END
+edit.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/video/edit.get.js
+END

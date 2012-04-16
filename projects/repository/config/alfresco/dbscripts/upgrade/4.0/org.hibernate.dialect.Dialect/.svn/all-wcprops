@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.Dialect
+END
+ActivitiTaskIdIndexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.Dialect/ActivitiTaskIdIndexes.sql
+END
+Solr-Tracking.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/32635/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/4.0/org.hibernate.dialect.Dialect/Solr-Tracking.sql
+END

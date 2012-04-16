@@ -1,0 +1,86 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/wsf-website
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2010-03-03T10:32:39.498056Z
+18974
+pholmeshiggin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+navigation
+dir
+
+profile
+dir
+
+article
+dir
+
+motd
+dir
+
+alfresco-wsf-website.war
+file
+
+
+
+
+2012-04-02T09:58:13.000000Z
+32bac027cf1da03f3aa8ee72c6e8c9af
+2009-03-25T21:23:56.616632Z
+13746
+gcornwell
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5373546
+
+potd
+dir
+
+multi-media
+dir
+
+news-flash
+dir
+
+site-configuration
+dir
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr
+END
+DMDeployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/DMDeployment.java
+END
+StoreNameMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/StoreNameMapper.java
+END
+StoreNameMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/StoreNameMapperImpl.java
+END
+StoreNameMapperImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/StoreNameMapperImplTest.java
+END
+DMDeployedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22234/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/DMDeployedFile.java
+END
+RootLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/RootLocator.java
+END
+DMDeploymentTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/DMDeploymentTarget.java
+END
+DMDeploymentTargetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/DMDeploymentTargetTest.java
+END
+RootLocatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/RootLocatorImpl.java
+END
+RootLocatorImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/wdr-deployment/source/java/org/alfresco/deployment/impl/dmr/RootLocatorImplTest.java
+END

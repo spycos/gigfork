@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/activities/ibatis
+END
+ActivityFeedDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/activities/ibatis/ActivityFeedDAOImpl.java
+END
+ActivityPostDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/28005/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/activities/ibatis/ActivityPostDAOImpl.java
+END
+ActivitiesDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/activities/ibatis/ActivitiesDAOImpl.java
+END
+FeedControlDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/domain/activities/ibatis/FeedControlDAOImpl.java
+END

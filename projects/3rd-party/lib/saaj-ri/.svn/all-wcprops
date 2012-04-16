@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/saaj-ri
+END
+jaxp-ri-1.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/3rd-party/lib/saaj-ri/jaxp-ri-1.4.3.jar
+END
+saaj-impl-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/3rd-party/lib/saaj-ri/saaj-impl-1.3.2.jar
+END
+saaj-impl-1.3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/28000/alfresco/HEAD/root/projects/3rd-party/lib/saaj-ri/saaj-impl-1.3.3.jar
+END

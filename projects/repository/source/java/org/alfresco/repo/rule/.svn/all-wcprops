@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule
+END
+BaseRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/BaseRuleTest.java
+END
+RuleServiceCoverageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleServiceCoverageTest.java
+END
+ruleModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18870/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/ruleModel.xml
+END
+LinkRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/19563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/LinkRules.java
+END
+RuleServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleServiceImplTest.java
+END
+RuleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32040/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleServiceImpl.java
+END
+UnlinkRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18934/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/UnlinkRules.java
+END
+ReorderRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18934/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/ReorderRules.java
+END
+RuleTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleTestSuite.java
+END
+RuleTransactionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleTransactionListener.java
+END
+RuleLinkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleLinkTest.java
+END
+RuleModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleModel.java
+END
+RulesAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/20796/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RulesAspect.java
+END
+RuleTypeImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleTypeImplTest.java
+END
+RuleTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31255/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuleTypeImpl.java
+END
+RuntimeRuleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/rule/RuntimeRuleService.java
+END

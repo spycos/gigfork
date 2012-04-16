@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary
+END
+ClassAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/ClassAttributeDefinition.java
+END
+ConstraintException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/ConstraintException.java
+END
+NamespaceDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/NamespaceDefinition.java
+END
+InvalidAspectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/InvalidAspectException.java
+END
+InvalidTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/InvalidTypeException.java
+END
+ModelDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/ModelDefinition.java
+END
+ClassDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/ClassDefinition.java
+END
+DictionaryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/DictionaryException.java
+END
+DataTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/DataTypeDefinition.java
+END
+Constraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/Constraint.java
+END
+AssociationDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/AssociationDefinition.java
+END
+DictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/DictionaryService.java
+END
+AspectDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/AspectDefinition.java
+END
+ChildAssociationDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/ChildAssociationDefinition.java
+END
+TypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/TypeDefinition.java
+END
+InvalidClassException.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/InvalidClassException.java
+END
+ConstraintDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/ConstraintDefinition.java
+END
+PropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/dictionary/PropertyDefinition.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary
+END
+file-added.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/file-added.atomentry.ftl
+END
+files-added.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/files-added.atomentry.ftl
+END
+folder-liked.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/folder-liked.atomentry.ftl
+END
+inline-edit.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/inline-edit.atomentry.ftl
+END
+file-deleted.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/file-deleted.atomentry.ftl
+END
+file-updated.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/file-updated.atomentry.ftl
+END
+file-created.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/file-created.atomentry.ftl
+END
+google-docs-checkin.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/google-docs-checkin.atomentry.ftl
+END
+file-liked.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/file-liked.atomentry.ftl
+END
+google-docs-checkout.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/google-docs-checkout.atomentry.ftl
+END
+files-deleted.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/files-deleted.atomentry.ftl
+END
+files-updated.atomentry.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/remote-api/config/alfresco/templates/activities/org/alfresco/documentlibrary/files-updated.atomentry.ftl
+END

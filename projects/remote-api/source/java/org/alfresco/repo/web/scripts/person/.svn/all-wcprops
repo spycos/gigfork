@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/30528/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/person
+END
+UserCSVUploadGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/27992/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/person/UserCSVUploadGet.java
+END
+UserCSVUploadPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/person/UserCSVUploadPost.java
+END
+PersonServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30528/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/person/PersonServiceTest.java
+END
+ChangePasswordPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/person/ChangePasswordPost.java
+END

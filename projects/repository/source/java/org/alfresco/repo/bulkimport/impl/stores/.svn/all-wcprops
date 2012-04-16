@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/impl/stores
+END
+AbstractContentStoreMapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/impl/stores/AbstractContentStoreMapProvider.java
+END
+DefaultContentStoreMapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/bulkimport/impl/stores/DefaultContentStoreMapProvider.java
+END

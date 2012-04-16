@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28115/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/xml
+END
+XmlMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/xml/XmlMetadataExtracter.java
+END
+XmlMetadataExtracterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/28115/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/xml/XmlMetadataExtracterTest.java
+END
+XPathMetadataExtracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28115/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/content/metadata/xml/XPathMetadataExtracter.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/webscript-import/webscripts
+END
+webscriptxformimport.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/webscript-import/webscripts/webscriptxformimport.get.js
+END
+webscriptxformimport.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/webscript-import/webscripts/webscriptxformimport.get.desc.xml
+END
+webscriptxformimport.get.xsd.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/19134/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/webscript-import/webscripts/webscriptxformimport.get.xsd.ftl
+END

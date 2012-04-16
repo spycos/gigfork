@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/mbeans
+END
+VirtWebappRegistryMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/mbeans/VirtWebappRegistryMBean.java
+END
+VirtServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/mbeans/VirtServerInfo.java
+END
+VirtServerInfoMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/mbeans/VirtServerInfoMBean.java
+END
+VirtWebappRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/mbeans/VirtWebappRegistry.java
+END
+VirtServerRegistrationThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/mbeans/VirtServerRegistrationThread.java
+END

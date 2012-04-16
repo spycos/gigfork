@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/core/source/test-resources/ibatis/hierarchy-test
+END
+hierarchy-test-SqlMapConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28005/alfresco/HEAD/root/projects/core/source/test-resources/ibatis/hierarchy-test/hierarchy-test-SqlMapConfig.xml
+END
+hierarchy-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/core/source/test-resources/ibatis/hierarchy-test/hierarchy-test-context.xml
+END

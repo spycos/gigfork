@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap
+END
+AlfrescoImapUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AlfrescoImapUserManager.java
+END
+ContentModelMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32771/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/ContentModelMessage.java
+END
+ImapContentPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31296/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/ImapContentPolicy.java
+END
+AlfrescoImapFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/32743/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AlfrescoImapFolder.java
+END
+AlfrescoImapFolderAccessInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AlfrescoImapFolderAccessInterceptor.java
+END
+AlfrescoImapUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AlfrescoImapUser.java
+END
+AbstractImapFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/32743/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AbstractImapFolder.java
+END
+LoadTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/31677/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/LoadTester.java
+END
+ImapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/ImapService.java
+END
+ImapModelMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/ImapModelMessage.java
+END
+AlfrescoImapConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28214/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AlfrescoImapConst.java
+END
+ImapServiceImplCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/31677/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/ImapServiceImplCacheTest.java
+END
+IncomingImapMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/IncomingImapMessage.java
+END
+AbstractMimeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AbstractMimeMessage.java
+END
+RemoteLoadTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/RemoteLoadTester.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28224/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/package-info.java
+END
+ImapServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/ImapServiceImpl.java
+END
+ImapServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31677/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/ImapServiceImplTest.java
+END
+ImapMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32833/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/ImapMessageTest.java
+END
+AlfrescoImapServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/33329/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AlfrescoImapServer.java
+END
+AlfrescoImapHostManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/31079/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/imap/AlfrescoImapHostManager.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/webproject/script
+END
+test_WebProjectService.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/12076/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/webproject/script/test_WebProjectService.js
+END
+WebProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/webproject/script/WebProject.java
+END
+WebProjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/webproject/script/WebProjects.java
+END
+ScriptWebProjectsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/wcm/webproject/script/ScriptWebProjectsTest.java
+END

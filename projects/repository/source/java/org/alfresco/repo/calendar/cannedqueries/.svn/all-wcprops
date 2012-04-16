@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/calendar/cannedqueries
+END
+GetCalendarEntriesCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/calendar/cannedqueries/GetCalendarEntriesCannedQuery.java
+END
+GetCalendarEntriesCannedQueryTestHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/29231/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/calendar/cannedqueries/GetCalendarEntriesCannedQueryTestHook.java
+END
+CalendarEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/29527/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/calendar/cannedqueries/CalendarEntity.java
+END
+GetCalendarEntriesCannedQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/29231/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/calendar/cannedqueries/GetCalendarEntriesCannedQueryParams.java
+END
+GetCalendarEntriesCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/30181/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/calendar/cannedqueries/GetCalendarEntriesCannedQueryFactory.java
+END

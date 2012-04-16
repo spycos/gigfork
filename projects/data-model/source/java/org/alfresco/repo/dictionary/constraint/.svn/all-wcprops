@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint
+END
+RegexConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint/RegexConstraint.java
+END
+RegisteredConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/32932/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint/RegisteredConstraint.java
+END
+NumericRangeConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint/NumericRangeConstraint.java
+END
+ListOfValuesConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint/ListOfValuesConstraint.java
+END
+ConstraintsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint/ConstraintsTest.java
+END
+AbstractConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint/AbstractConstraint.java
+END
+ConstraintRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint/ConstraintRegistry.java
+END
+StringLengthConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/repo/dictionary/constraint/StringLengthConstraint.java
+END

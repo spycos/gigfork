@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client
+END
+CMISServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28089/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISServer.java
+END
+CMISLocalConnectionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISLocalConnectionManagerImpl.java
+END
+CMISRemoteConnectionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISRemoteConnectionManagerImpl.java
+END
+CMISServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISServerImpl.java
+END
+CMISContentStreamWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISContentStreamWebScript.java
+END
+CMISServersConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISServersConfigElement.java
+END
+CMISConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISConnectionManager.java
+END
+CMISServersConfigElementReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISServersConfigElementReader.java
+END
+CMISConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISConnection.java
+END
+CMISHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISHelper.java
+END
+AbstractCMISConnectionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/AbstractCMISConnectionManagerImpl.java
+END
+CMISConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28219/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/client/CMISConnectionImpl.java
+END

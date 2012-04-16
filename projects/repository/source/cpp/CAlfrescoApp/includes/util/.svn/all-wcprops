@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util
+END
+Integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/Integer.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/Exception.h
+END
+DataPacker.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/DataPacker.h
+END
+Long.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/Long.h
+END
+FileName.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/FileName.h
+END
+ByteArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/ByteArray.h
+END
+DataBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/DataBuffer.h
+END
+System.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/System.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/Types.h
+END
+Debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/Debug.h
+END
+JavaTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/JavaTypes.h
+END
+String.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/cpp/CAlfrescoApp/includes/util/String.h
+END

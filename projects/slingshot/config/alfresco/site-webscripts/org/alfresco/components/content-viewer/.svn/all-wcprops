@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer
+END
+content-viewer.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/12492/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/content-viewer.get.js
+END
+content-viewer.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/9167/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/content-viewer.get.desc.xml
+END
+content-viewer.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/9251/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/content-viewer.get.config.xml
+END
+content-viewer.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/13116/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/content-viewer.get.head.ftl
+END
+content-viewer.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/9629/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/content-viewer.get.html.ftl
+END

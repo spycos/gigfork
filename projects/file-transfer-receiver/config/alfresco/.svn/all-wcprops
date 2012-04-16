@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/config/alfresco
+END
+web-scripts-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29647/alfresco/HEAD/root/projects/file-transfer-receiver/config/alfresco/web-scripts-application-context.xml
+END
+fsr-bootstrap-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/config/alfresco/fsr-bootstrap-context.xml
+END
+ftr-action-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/29647/alfresco/HEAD/root/projects/file-transfer-receiver/config/alfresco/ftr-action-context.xml
+END

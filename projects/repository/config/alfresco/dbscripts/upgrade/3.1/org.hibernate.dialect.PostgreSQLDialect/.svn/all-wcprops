@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/19112/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.1/org.hibernate.dialect.PostgreSQLDialect
+END
+IPv6-patch.sql
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/19112/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/upgrade/3.1/org.hibernate.dialect.PostgreSQLDialect/IPv6-patch.sql
+END

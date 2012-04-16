@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30230/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/test/java/org/alfresco/wcm/client
+END
+UgcServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22936/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/test/java/org/alfresco/wcm/client/UgcServiceTest.java
+END
+CollectionFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/22936/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/test/java/org/alfresco/wcm/client/CollectionFactoryTest.java
+END
+WebSiteServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22936/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/test/java/org/alfresco/wcm/client/WebSiteServiceTest.java
+END
+DictionaryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/test/java/org/alfresco/wcm/client/DictionaryServiceTest.java
+END
+AssetFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22936/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/test/java/org/alfresco/wcm/client/AssetFactoryTest.java
+END
+BaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30230/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/test/java/org/alfresco/wcm/client/BaseTest.java
+END
+SectionFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/30230/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/test/java/org/alfresco/wcm/client/SectionFactoryTest.java
+END

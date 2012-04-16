@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/29218/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/helper
+END
+DocumentStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/helper/DocumentStatus.java
+END
+AlfrescoQuickrPermissionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/helper/AlfrescoQuickrPermissionHelper.java
+END
+AlfrescoQuickrWorkflowHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/helper/AlfrescoQuickrWorkflowHelper.java
+END
+AlfrescoQuickrDataTypeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/helper/AlfrescoQuickrDataTypeHelper.java
+END
+AlfrescoQuickrPathHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/29218/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/helper/AlfrescoQuickrPathHelper.java
+END
+AlfrescoQuickrDocumentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/quickr/source/java/org/alfresco/repo/lotus/ws/impl/helper/AlfrescoQuickrDocumentHelper.java
+END

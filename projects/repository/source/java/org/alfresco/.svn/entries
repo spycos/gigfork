@@ -1,0 +1,135 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/source/java/org/alfresco
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-16T10:06:16.840378Z
+35257
+fheremans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+RepositoryStartupTest.java
+file
+
+
+
+
+2012-04-02T09:56:53.000000Z
+3a52b59fbcee999a443c1a319ae4edd3
+2010-03-01T22:48:39.633532Z
+18931
+pholmeshiggin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3267
+
+RepositoryStartStopTest.java
+file
+
+
+
+
+2012-04-02T09:56:53.000000Z
+57938207d4c5921ad23aad4b5c793695
+2010-07-07T10:19:55.398358Z
+20970
+ahind
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10440
+
+wcm
+dir
+
+email
+dir
+
+encryption
+dir
+
+cmis
+dir
+
+sandbox
+dir
+
+tools
+dir
+
+service
+dir
+
+model
+dir
+
+repo
+dir
+
+util
+dir
+
+opencmis
+dir
+
+jcr
+dir
+
+filesys
+dir
+

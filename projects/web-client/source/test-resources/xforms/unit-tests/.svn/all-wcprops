@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests
+END
+one-string-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/one-string-test.xsd
+END
+repeat-constraints-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/repeat-constraints-test.xsd
+END
+recursive-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/recursive-test.xsd
+END
+number-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/number-test.xsd
+END
+annotation-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/annotation-test.xsd
+END
+all-widgets_xform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/all-widgets_xform.xml
+END
+root-element-with-extension-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/root-element-with-extension-test.xsd
+END
+all-widgets.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/all-widgets.xsd
+END
+derived-type-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/derived-type-test.xsd
+END
+switch-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/switch-test.xsd
+END
+constraint-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/unit-tests/constraint-test.xsd
+END

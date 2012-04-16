@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/6719/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/bootstrap
+END
+rm_categories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/5563/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/bootstrap/rm_categories.xml
+END
+rm_file_plan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/6719/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/bootstrap/rm_file_plan.xml
+END
+rm_javascripts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/5563/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/bootstrap/rm_javascripts.xml
+END
+records_space.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/6719/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/bootstrap/records_space.xml
+END
+rm_templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/5563/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/bootstrap/rm_templates.xml
+END
+rm_groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/5563/alfresco/HEAD/root/modules/records-mgmt/config/alfresco/module/org.alfresco.module.RecordsManagement/bootstrap/rm_groups.xml
+END

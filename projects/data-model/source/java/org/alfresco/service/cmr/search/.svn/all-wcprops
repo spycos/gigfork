@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/32479/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search
+END
+QueryParameterDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/QueryParameterDefinition.java
+END
+ResultSetRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/ResultSetRow.java
+END
+NamedQueryParameterDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/NamedQueryParameterDefinition.java
+END
+PermissionEvaluationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/PermissionEvaluationMode.java
+END
+QueryParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/QueryParameter.java
+END
+ResultSetSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/ResultSetSPI.java
+END
+SearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31907/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/SearchService.java
+END
+ResultSetColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/ResultSetColumn.java
+END
+LimitBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/LimitBy.java
+END
+SearchParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32479/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/SearchParameters.java
+END
+ResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29585/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/ResultSet.java
+END
+ResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/ResultSetMetaData.java
+END
+ResultSetSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/ResultSetSelector.java
+END
+ResultSetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/20877/alfresco/HEAD/root/projects/data-model/source/java/org/alfresco/service/cmr/search/ResultSetType.java
+END

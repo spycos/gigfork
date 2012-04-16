@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr/module.properties
+END
+file-mapping.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19325/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr/file-mapping.properties
+END
+module-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/quickr/config/alfresco/module/org.alfresco.module.quickr/module-context.xml
+END

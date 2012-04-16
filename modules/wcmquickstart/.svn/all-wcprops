@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/alfresco-open-mirror/!svn/ver/34373/alfresco/HEAD/root/modules/wcmquickstart
+END
+utils.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/utils.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/build.xml
+END

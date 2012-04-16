@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary
+END
+AssociationsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/AssociationsGet.java
+END
+DictionaryWebServiceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/28160/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/DictionaryWebServiceBase.java
+END
+DictionaryComparators.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/19564/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/DictionaryComparators.java
+END
+PropertyGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/PropertyGet.java
+END
+ClassGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/ClassGet.java
+END
+DictionaryGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28160/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/DictionaryGet.java
+END
+SubClassesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19564/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/SubClassesGet.java
+END
+AssociationGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/AssociationGet.java
+END
+PropertiesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19564/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/PropertiesGet.java
+END
+ClassesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19564/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/ClassesGet.java
+END
+DictionaryRestApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/dictionary/DictionaryRestApiTest.java
+END

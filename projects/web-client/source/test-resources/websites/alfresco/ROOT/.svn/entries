@@ -1,0 +1,175 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/web-client/source/test-resources/websites/alfresco/ROOT
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2010-03-29T13:25:28.229495Z
+19638
+gcornwell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+media
+dir
+
+document.gif
+file
+
+
+
+
+2012-04-02T09:58:07.000000Z
+b8a877de43a67ee38b471069d3a213fe
+2006-11-30T15:41:53.011808Z
+4476
+dhulley
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2262
+
+services
+dir
+
+legal
+dir
+
+customers
+dir
+
+robots.txt
+file
+
+
+
+
+2012-04-02T09:58:07.000000Z
+b577847e2a27d21deaf6376fbe4585f8
+2006-11-30T15:41:53.011808Z
+4476
+dhulley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+150
+
+accessibility
+dir
+
+WEB-INF
+dir
+
+store
+dir
+
+partners
+dir
+
+assets
+dir
+
+sitemap
+dir
+
+index.jsp
+file
+
+
+
+
+2012-04-02T09:58:07.000000Z
+af39d47b643b24867f639bab2a6f7938
+2010-03-29T13:25:28.229495Z
+19638
+gcornwell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13020
+
+products
+dir
+
+login
+dir
+
+about
+dir
+
+resources
+dir
+
+privacy
+dir
+

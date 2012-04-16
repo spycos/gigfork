@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr
+END
+filetransfer-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/29813/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/filetransfer-insert-SqlMap.xml
+END
+filetransferinfo-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/filetransferinfo-common-SqlMap.xml
+END
+Create-Fsr-Tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/Create-Fsr-Tables.sql
+END
+qname-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29648/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/qname-common-SqlMap.xml
+END
+locks-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29648/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/locks-insert-SqlMap.xml
+END
+transferstatus-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30596/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/transferstatus-common-SqlMap.xml
+END
+FTR-SqlMapConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30596/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/FTR-SqlMapConfig.xml
+END
+locks-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29648/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/locks-common-SqlMap.xml
+END
+qname-insert-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29648/alfresco/HEAD/root/projects/file-transfer-receiver/config/org/alfresco/repo/transfer/fsr/qname-insert-SqlMap.xml
+END

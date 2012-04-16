@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28355/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util
+END
+CmisSessionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/CmisSessionHelper.java
+END
+SqlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/SqlUtils.java
+END
+UrlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/22438/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/UrlUtils.java
+END
+CmisIdEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/CmisIdEncoder.java
+END
+CmisSessionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/CmisSessionPool.java
+END
+QuerySanitizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/QuerySanitizer.java
+END
+QuerySanitizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/util/QuerySanitizerTest.java
+END

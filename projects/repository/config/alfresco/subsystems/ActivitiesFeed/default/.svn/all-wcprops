@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/ActivitiesFeed/default
+END
+activities-jobs-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/ActivitiesFeed/default/activities-jobs-context.xml
+END
+activities-feed-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/ActivitiesFeed/default/activities-feed-context.xml
+END
+activities-jobs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/ActivitiesFeed/default/activities-jobs.properties
+END

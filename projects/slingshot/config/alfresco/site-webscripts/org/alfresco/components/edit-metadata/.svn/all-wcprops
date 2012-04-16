@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata
+END
+edit-metadata-mgr.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get.js
+END
+edit-metadata-mgr.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get.properties
+END
+edit-metadata-mgr.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get.desc.xml
+END
+edit-metadata-mgr.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get_es.properties
+END
+edit-metadata-mgr.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get_fr.properties
+END
+edit-metadata-mgr.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get_de.properties
+END
+edit-metadata-mgr.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get_nl.properties
+END
+edit-metadata-mgr.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get_ja.properties
+END
+edit-metadata-mgr.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get.html.ftl
+END
+edit-metadata-mgr.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/edit-metadata/edit-metadata-mgr.get_it.properties
+END

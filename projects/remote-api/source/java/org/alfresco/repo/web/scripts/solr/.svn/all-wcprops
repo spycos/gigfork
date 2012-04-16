@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr
+END
+SOLRWebScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/32824/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/SOLRWebScriptTest.java
+END
+AclChangeSetsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/AclChangeSetsGet.java
+END
+NodesGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32657/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/NodesGet.java
+END
+TransactionsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/TransactionsGet.java
+END
+NodesMetaDataGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/31975/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/NodesMetaDataGet.java
+END
+SOLRSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31335/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/SOLRSerializer.java
+END
+AlfrescoModelGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28714/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/AlfrescoModelGet.java
+END
+NodeContentGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/NodeContentGet.java
+END
+PropertyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/PropertyValue.java
+END
+AclsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/AclsGet.java
+END
+SOLRAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/SOLRAuthenticationFilter.java
+END
+NodeMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/NodeMetaData.java
+END
+AclsReadersGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/AclsReadersGet.java
+END
+AlfrescoModelsDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28472/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/AlfrescoModelsDiff.java
+END
+GetNodesParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28292/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/solr/GetNodesParameters.java
+END

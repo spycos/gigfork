@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/17860/alfresco/HEAD/root/projects/alfresco-jlan/service
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/service/license.txt
+END
+jlansrv.conf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/17860/alfresco/HEAD/root/projects/alfresco-jlan/service/jlansrv.conf
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/service/readme.txt
+END
+wrapper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/service/wrapper.jar
+END

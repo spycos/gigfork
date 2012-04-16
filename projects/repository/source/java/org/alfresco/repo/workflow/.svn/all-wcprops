@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/35257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow
+END
+WorkflowNotificationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/31300/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowNotificationUtils.java
+END
+WorkflowPropertyHandlerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowPropertyHandlerRegistry.java
+END
+WorkflowPropertyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowPropertyConverter.java
+END
+WorkflowPackageComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowPackageComponent.java
+END
+WorkflowTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowTestHelper.java
+END
+WorkflowPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowPropertyHandler.java
+END
+NodeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/NodeConverter.java
+END
+WorkflowServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowServiceImpl.java
+END
+WorkflowDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30270/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowDeployer.java
+END
+WorkflowBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowBuilder.java
+END
+DefaultWorkflowPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/DefaultWorkflowPropertyHandler.java
+END
+CancelWorkflowActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/CancelWorkflowActionExecuter.java
+END
+WorkflowTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowTestSuite.java
+END
+WorkflowSuiteContextShutdownTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowSuiteContextShutdownTest.java
+END
+PackageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/PackageManager.java
+END
+StartWorkflowActionExecuterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/StartWorkflowActionExecuterTest.java
+END
+StartWorkflowActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/StartWorkflowActionExecuter.java
+END
+BPMEngineRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/BPMEngineRegistry.java
+END
+WorkflowComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowComponent.java
+END
+WorkflowInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowInterpreter.java
+END
+WorkflowEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowEngine.java
+END
+AbstractWorkflowPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/AbstractWorkflowPropertyHandler.java
+END
+BPMEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/BPMEngine.java
+END
+WorkflowConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/26218/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowConstants.java
+END
+WorkflowNodeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowNodeConverter.java
+END
+WorkflowPackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowPackageImpl.java
+END
+WorkflowAuthorityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowAuthorityManager.java
+END
+AlfrescoBpmEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30750/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/AlfrescoBpmEngine.java
+END
+AbstractWorkflowServiceIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30699/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/AbstractWorkflowServiceIntegrationTest.java
+END
+AbstractMultitenantWorkflowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/AbstractMultitenantWorkflowTest.java
+END
+WorkflowQNameConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/32197/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowQNameConverter.java
+END
+WorkflowDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowDefinitionType.java
+END
+TaskComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/TaskComponent.java
+END
+WorkflowAdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowAdminServiceImpl.java
+END
+TaskUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/TaskUpdater.java
+END
+WorkflowObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/35257/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowObjectFactory.java
+END
+WorkflowModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/30750/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/WorkflowModel.java
+END
+AbstractWorkflowNodeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/workflow/AbstractWorkflowNodeConverter.java
+END

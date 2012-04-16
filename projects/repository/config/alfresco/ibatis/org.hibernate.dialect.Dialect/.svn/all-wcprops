@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect
+END
+locale-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/locale-common-SqlMap.xml
+END
+patch-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/patch-common-SqlMap.xml
+END
+qname-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/qname-common-SqlMap.xml
+END
+node-select-children-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/31382/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/node-select-children-SqlMap.xml
+END
+query-authorities-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28738/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/query-authorities-common-SqlMap.xml
+END
+usage-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/usage-common-SqlMap.xml
+END
+activities-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/activities-common-SqlMap.xml
+END
+audit-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30258/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/audit-common-SqlMap.xml
+END
+subscriptions-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/28425/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/subscriptions-common-SqlMap.xml
+END
+query-blogs-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/28738/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/query-blogs-common-SqlMap.xml
+END
+content-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/content-common-SqlMap.xml
+END
+locks-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/locks-common-SqlMap.xml
+END
+permissions-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/permissions-common-SqlMap.xml
+END
+query-calendar-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29231/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/query-calendar-common-SqlMap.xml
+END
+query-copy-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/query-copy-common-SqlMap.xml
+END
+node-update-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/31108/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/node-update-SqlMap.xml
+END
+solr-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/32935/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/solr-common-SqlMap.xml
+END
+query-test-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/query-test-common-SqlMap.xml
+END
+propval-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/propval-common-SqlMap.xml
+END
+avm-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/avm-common-SqlMap.xml
+END
+alfresco-util-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/alfresco-util-SqlMap.xml
+END
+node-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/node-common-SqlMap.xml
+END
+query-discussion-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30027/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/query-discussion-common-SqlMap.xml
+END
+query-usages-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/28004/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/query-usages-common-SqlMap.xml
+END
+query-auditable-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29843/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/query-auditable-common-SqlMap.xml
+END
+appliedpatch-common-SqlMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/28282/alfresco/HEAD/root/projects/repository/config/alfresco/ibatis/org.hibernate.dialect.Dialect/appliedpatch-common-SqlMap.xml
+END

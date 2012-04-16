@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/32791/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy
+END
+AbstractCopyBehaviourCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/AbstractCopyBehaviourCallback.java
+END
+CopyDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/CopyDetails.java
+END
+CompoundCopyBehaviourCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/CompoundCopyBehaviourCallback.java
+END
+DefaultCopyBehaviourCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/DefaultCopyBehaviourCallback.java
+END
+CopyServicePolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/CopyServicePolicies.java
+END
+DoNothingCopyBehaviourCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32791/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/DoNothingCopyBehaviourCallback.java
+END
+CrossRepositoryCopyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/CrossRepositoryCopyServiceImpl.java
+END
+CopyBehaviourCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/CopyBehaviourCallback.java
+END
+CopyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/29292/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/CopyServiceImpl.java
+END
+CopyServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32791/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/copy/CopyServiceImplTest.java
+END

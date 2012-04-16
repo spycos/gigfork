@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/34126/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp
+END
+DefaultComparisonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DefaultComparisonUtils.java
+END
+DefaultComparisonUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DefaultComparisonUtilsTest.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/XML.java
+END
+Results.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/Results.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/Result.java
+END
+SchemaReferenceFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/33967/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/SchemaReferenceFileTest.java
+END
+DbObjectXMLTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DbObjectXMLTransformer.java
+END
+DbObjectXMLTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DbObjectXMLTransformerTest.java
+END
+SchemaToXMLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/SchemaToXMLTest.java
+END
+SchemaToXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32183/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/SchemaToXML.java
+END
+XMLToSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/XMLToSchema.java
+END
+XMLToSchemaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/XMLToSchemaTest.java
+END
+ExportDb.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/34126/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/ExportDb.java
+END
+ExportDbTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/32711/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/ExportDbTest.java
+END
+ValidationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/ValidationResult.java
+END
+ValidationResultTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/32420/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/ValidationResultTest.java
+END
+SchemaCompTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/SchemaCompTestSuite.java
+END
+DbObjectVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/31527/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DbObjectVisitor.java
+END
+SchemaCompTestingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/32296/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/SchemaCompTestingUtils.java
+END
+ValidatingVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32110/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/ValidatingVisitorTest.java
+END
+ValidatingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/32110/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/ValidatingVisitor.java
+END
+SchemaCompPackageTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/32296/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/SchemaCompPackageTestSuite.java
+END
+MultiFileDumperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/MultiFileDumperTest.java
+END
+MultiFileDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/MultiFileDumper.java
+END
+DbToXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DbToXML.java
+END
+DbToXMLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31650/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DbToXMLTest.java
+END
+DiffContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/32110/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DiffContext.java
+END
+RedundantDbObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/32420/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/RedundantDbObjectTest.java
+END
+RedundantDbObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/RedundantDbObject.java
+END
+SchemaComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/SchemaComparator.java
+END
+SchemaComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/SchemaComparatorTest.java
+END
+DbProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31527/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DbProperty.java
+END
+DbPropertyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31527/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DbPropertyTest.java
+END
+Difference.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/Difference.java
+END
+DifferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32420/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/DifferenceTest.java
+END
+ComparisonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/util/schemacomp/ComparisonUtils.java
+END

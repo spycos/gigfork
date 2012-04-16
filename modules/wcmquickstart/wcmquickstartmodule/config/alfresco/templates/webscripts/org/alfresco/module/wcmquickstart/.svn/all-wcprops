@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30398/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart
+END
+asset.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/24908/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/asset.post.desc.xml
+END
+webassetpreviewer.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/webassetpreviewer.get.json.ftl
+END
+fixwebassets1.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/fixwebassets1.get.desc.xml
+END
+fixwebassets2.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/fixwebassets2.get.desc.xml
+END
+assetcollection.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/assetcollection.get.desc.xml
+END
+loadwebsitedata.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/23056/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/loadwebsitedata.get.desc.xml
+END
+translation.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/translation.get.desc.xml
+END
+websiteinfo.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/websiteinfo.get.json.ftl
+END
+updatewebsiterenditions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/updatewebsiterenditions.get.desc.xml
+END
+section.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/29416/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/section.get.desc.xml
+END
+assetsearch.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/23088/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/assetsearch.get.desc.xml
+END
+webassetpreviewer.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/webassetpreviewer.get.desc.xml
+END
+fixwebassets1.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/fixwebassets1.get.json.ftl
+END
+fixwebassets2.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/fixwebassets2.get.json.ftl
+END
+section.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/29416/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/section.post.desc.xml
+END
+assetcollection.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/assetcollection.get.json.ftl
+END
+loadwebsitedata.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/alfresco-open-mirror/!svn/ver/23056/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/loadwebsitedata.get.json.ftl
+END
+translation.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/30398/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/translation.get.json.ftl
+END
+websiteinfo.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/websiteinfo.get.desc.xml
+END
+asset.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/23088/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/asset.get.desc.xml
+END
+updatewebsiterenditions.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/repos/alfresco-open-mirror/!svn/ver/22068/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/templates/webscripts/org/alfresco/module/wcmquickstart/updatewebsiterenditions.get.json.ftl
+END

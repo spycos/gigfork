@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/alfrescoNtlm
+END
+ntlm-filter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/alfrescoNtlm/ntlm-filter.properties
+END
+ntlm-filter-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/21170/alfresco/HEAD/root/projects/web-client/config/alfresco/subsystems/Authentication/alfrescoNtlm/ntlm-filter-context.xml
+END

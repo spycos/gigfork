@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/32301/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/workflow
+END
+email-notification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/29769/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/workflow/email-notification.ftl
+END
+packageitems.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/31690/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/workflow/packageitems.ftl
+END
+taskowner.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/workflow/taskowner.ftl
+END
+transitions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/22442/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/workflow/transitions.ftl
+END
+priority.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/22148/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/workflow/priority.ftl
+END
+activiti-transitions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/alfresco-open-mirror/!svn/ver/32301/alfresco/HEAD/root/projects/web-framework-commons/config/alfresco/site-webscripts/org/alfresco/components/form/controls/workflow/activiti-transitions.ftl
+END

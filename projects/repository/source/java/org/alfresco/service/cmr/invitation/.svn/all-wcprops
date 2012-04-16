@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/32893/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation
+END
+InvitationExceptionForbidden.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/InvitationExceptionForbidden.java
+END
+InvitationExceptionNotFound.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/29833/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/InvitationExceptionNotFound.java
+END
+InvitationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/InvitationException.java
+END
+NominatedInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20040/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/NominatedInvitation.java
+END
+Invitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20040/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/Invitation.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19064/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/package-info.java
+END
+InvitationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32893/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/InvitationService.java
+END
+ModeratedInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/20040/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/ModeratedInvitation.java
+END
+InvitationExceptionUserError.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/InvitationExceptionUserError.java
+END
+InvitationSearchCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/invitation/InvitationSearchCriteria.java
+END

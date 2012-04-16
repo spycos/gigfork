@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/32932/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node
+END
+DefaultFieldBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/DefaultFieldBuilder.java
+END
+ContentModelField.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/ContentModelField.java
+END
+PeriodDataTypeParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/PeriodDataTypeParameters.java
+END
+FormFieldConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/FormFieldConstants.java
+END
+FieldUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/FieldUtils.java
+END
+ContentModelItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/ContentModelItemData.java
+END
+QNameFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/QNameFieldProcessor.java
+END
+TypeFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/TypeFormProcessor.java
+END
+NodeFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/NodeFormProcessor.java
+END
+TransientFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/TransientFieldProcessor.java
+END
+MockClassAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/31096/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/MockClassAttributeDefinition.java
+END
+SizeFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/SizeFieldProcessor.java
+END
+ContentModelFormProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/ContentModelFormProcessor.java
+END
+TransientValueGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/TransientValueGetter.java
+END
+AssociationFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/AssociationFieldProcessor.java
+END
+FieldProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/21751/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/FieldProcessorTest.java
+END
+MockFieldProcessorRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/24153/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/MockFieldProcessorRegistry.java
+END
+DefaultFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/DefaultFieldProcessor.java
+END
+ContentModelFieldProcessorRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/ContentModelFieldProcessorRegistry.java
+END
+PropertyFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/32932/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/PropertyFieldProcessor.java
+END
+EncodingFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/22734/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/EncodingFieldProcessor.java
+END
+MimetypeFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/forms/processor/node/MimetypeFieldProcessor.java
+END

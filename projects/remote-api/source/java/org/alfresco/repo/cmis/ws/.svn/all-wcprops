@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws
+END
+FileTypeIconRetrieverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/FileTypeIconRetrieverImpl.java
+END
+AuthenticationClearInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/AuthenticationClearInterceptor.java
+END
+DMPolicyServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19357/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMPolicyServicePort.java
+END
+DMNavigationServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/32155/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMNavigationServicePort.java
+END
+DMAclServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMAclServicePort.java
+END
+DMRelationshipServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMRelationshipServicePort.java
+END
+ContentReaderDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/ContentReaderDataSource.java
+END
+DMServicePortThrowsAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/19196/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMServicePortThrowsAdvice.java
+END
+DMAbstractServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMAbstractServicePort.java
+END
+DMObjectServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMObjectServicePort.java
+END
+DMDiscoveryServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMDiscoveryServicePort.java
+END
+FileTypeIconRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/FileTypeIconRetriever.java
+END
+DMRepositoryServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/23532/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMRepositoryServicePort.java
+END
+DMMultiFilingServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19359/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMMultiFilingServicePort.java
+END
+DMVersioningServicePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19239/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/DMVersioningServicePort.java
+END
+AuthenticationTokenCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/AuthenticationTokenCallbackHandler.java
+END
+AuthenticationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28089/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/cmis/ws/AuthenticationInterceptor.java
+END

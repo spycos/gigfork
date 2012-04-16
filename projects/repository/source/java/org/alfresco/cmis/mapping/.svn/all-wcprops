@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping
+END
+VersionSeriesCheckedOutByProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/VersionSeriesCheckedOutByProperty.java
+END
+IsVersionSeriesCheckedOutProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/IsVersionSeriesCheckedOutProperty.java
+END
+PathProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/PathProperty.java
+END
+IsLatestVersionProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20345/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/IsLatestVersionProperty.java
+END
+RootActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/RootActionEvaluator.java
+END
+CanCheckOutActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20497/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/CanCheckOutActionEvaluator.java
+END
+ContentStreamIdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/ContentStreamIdProperty.java
+END
+PermissionActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/PermissionActionEvaluator.java
+END
+CMISPropertyServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/CMISPropertyServiceTest.java
+END
+CMISServicesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/CMISServicesImpl.java
+END
+VersionSeriesCheckedOutIdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/VersionSeriesCheckedOutIdProperty.java
+END
+AbstractSimpleProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/AbstractSimpleProperty.java
+END
+VersionSeriesIdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/VersionSeriesIdProperty.java
+END
+AbstractActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/AbstractActionEvaluator.java
+END
+ObjectTypeIdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/ObjectTypeIdProperty.java
+END
+IsLatestMajorVersionProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/20345/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/IsLatestMajorVersionProperty.java
+END
+BaseTypeIdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/BaseTypeIdProperty.java
+END
+FixedValueProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/FixedValueProperty.java
+END
+ContentStreamMimetypeProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/ContentStreamMimetypeProperty.java
+END
+CMISMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/28480/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/CMISMapping.java
+END
+TargetIdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/TargetIdProperty.java
+END
+AbstractProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29544/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/AbstractProperty.java
+END
+ParentActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/ParentActionEvaluator.java
+END
+AbstractVersioningProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/AbstractVersioningProperty.java
+END
+FixedValueActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/FixedValueActionEvaluator.java
+END
+IsMajorVersionProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/IsMajorVersionProperty.java
+END
+DirectProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28826/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/DirectProperty.java
+END
+IsImmutableProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/IsImmutableProperty.java
+END
+SourceIdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/SourceIdProperty.java
+END
+BaseCMISTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/30007/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/BaseCMISTest.java
+END
+ObjectIdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30007/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/ObjectIdProperty.java
+END
+VersionLabelProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/20345/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/VersionLabelProperty.java
+END
+CheckinCommentProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20345/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/CheckinCommentProperty.java
+END
+ContentStreamLengthProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/ContentStreamLengthProperty.java
+END
+ParentProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/mapping/ParentProperty.java
+END

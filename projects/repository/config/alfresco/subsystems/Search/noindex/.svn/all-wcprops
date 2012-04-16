@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/noindex
+END
+noindex-search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/noindex/noindex-search.properties
+END
+cmis-api-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/noindex/cmis-api-context.xml
+END
+common-search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/noindex/common-search.properties
+END
+noindex-search-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/noindex/noindex-search-context.xml
+END
+opencmis-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30403/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/Search/noindex/opencmis-context.xml
+END

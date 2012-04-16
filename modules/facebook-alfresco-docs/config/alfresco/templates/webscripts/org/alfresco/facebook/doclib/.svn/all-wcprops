@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/7659/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib
+END
+createlib.post.fbml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/createlib.post.fbml.ftl
+END
+adddocdialog.post.fbml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/adddocdialog.post.fbml.ftl
+END
+createlib.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/7455/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/createlib.post.js
+END
+createlib.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/createlib.post.desc.xml
+END
+library.post.fbml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/library.post.fbml.ftl
+END
+adddocdialog.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/adddocdialog.post.js
+END
+adddocdialog.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/adddocdialog.post.desc.xml
+END
+createlibdialog.post.fbml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/createlibdialog.post.fbml.ftl
+END
+canvas.post.fbml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/canvas.post.fbml.ftl
+END
+libraries.post.fbml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/libraries.post.fbml.ftl
+END
+library.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/library.post.js
+END
+library.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/library.post.desc.xml
+END
+adddoc.post.fbml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/adddoc.post.fbml.ftl
+END
+createlibdialog.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/createlibdialog.post.desc.xml
+END
+canvas.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/7293/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/canvas.post.js
+END
+canvas.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/canvas.post.desc.xml
+END
+libraries.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/7659/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/libraries.post.js
+END
+libraries.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/libraries.post.desc.xml
+END
+adddoc.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/adddoc.post.js
+END
+adddoc.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/7259/alfresco/HEAD/root/modules/facebook-alfresco-docs/config/alfresco/templates/webscripts/org/alfresco/facebook/doclib/adddoc.post.desc.xml
+END

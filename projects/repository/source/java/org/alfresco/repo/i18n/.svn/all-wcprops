@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/i18n
+END
+testMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/6476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/i18n/testMessages_fr_FR.properties
+END
+testMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/6476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/i18n/testMessages.properties
+END
+MessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/i18n/MessageService.java
+END
+MessageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/i18n/MessageServiceImpl.java
+END
+MessageServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/i18n/MessageServiceImplTest.java
+END
+MessageDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/i18n/MessageDeployer.java
+END

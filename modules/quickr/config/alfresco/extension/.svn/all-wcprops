@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/quickr/config/alfresco/extension
+END
+serial-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/modules/quickr/config/alfresco/extension/serial-messages.properties
+END
+serialreview_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/config/alfresco/extension/serialreview_processdefinition.xml
+END
+serialWorkflowModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/config/alfresco/extension/serialWorkflowModel.xml
+END
+workflow-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/config/alfresco/extension/workflow-context.xml
+END
+quickr-model-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/modules/quickr/config/alfresco/extension/quickr-model-context.xml
+END
+quickrModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/modules/quickr/config/alfresco/extension/quickrModel.xml
+END

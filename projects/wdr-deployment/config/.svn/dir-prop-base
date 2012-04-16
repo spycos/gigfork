@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 44
+classes
+dist
+assemble
+test-results
+docs
+org
+
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/30903/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/site
+END
+AllSiteTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/28791/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/site/AllSiteTests.java
+END
+SiteMembershipsGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30903/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/site/SiteMembershipsGet.java
+END
+SiteServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30903/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/site/SiteServiceTest.java
+END
+SiteExportGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30903/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/site/SiteExportGet.java
+END
+AbstractSiteWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30903/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/site/AbstractSiteWebScript.java
+END

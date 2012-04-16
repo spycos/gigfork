@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/17935/alfresco/HEAD/root/projects/sdk/samples/TaggingSample/source/alfresco/extension
+END
+tagging-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/17935/alfresco/HEAD/root/projects/sdk/samples/TaggingSample/source/alfresco/extension/tagging-context.xml
+END
+web-client-config-custom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/TaggingSample/source/alfresco/extension/web-client-config-custom.xml
+END
+webclient.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/TaggingSample/source/alfresco/extension/webclient.properties
+END
+tagsModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/sdk/samples/TaggingSample/source/alfresco/extension/tagsModel.xml
+END

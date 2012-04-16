@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/32914/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr
+END
+FileTransferMainEmbedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferMainEmbedded.java
+END
+FileTransferManifestProcessorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferManifestProcessorFactory.java
+END
+FileTransferInfoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferInfoDAOImpl.java
+END
+FileTransferReceiverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30973/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferReceiverTest.java
+END
+FileTransferReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferReceiver.java
+END
+DeleteFileTransferActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/DeleteFileTransferActionExecuter.java
+END
+TransferStatusDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/30596/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/TransferStatusDAO.java
+END
+FileTransferNodeRenameEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/29813/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferNodeRenameEntity.java
+END
+FileTransferProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30596/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferProgressMonitor.java
+END
+HookableTransferMonitorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/HookableTransferMonitorImpl.java
+END
+FileTransferInfoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferInfoDAO.java
+END
+SyncRandomFileTransferActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/SyncRandomFileTransferActionExecuter.java
+END
+FileTransferHookInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29938/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferHookInterface.java
+END
+FileTransferActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferActionExecuter.java
+END
+ManifestProcessorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/32914/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/ManifestProcessorImpl.java
+END
+SchemaBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30596/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/SchemaBootstrap.java
+END
+WebscriptAuthenticatorFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/30981/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/WebscriptAuthenticatorFactoryImpl.java
+END
+DbHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/DbHelperImpl.java
+END
+FileTransferReceiverUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/30973/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferReceiverUnitTest.java
+END
+FileTransferReceiverMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/29649/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferReceiverMain.java
+END
+FileTransferHookDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/29938/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferHookDummy.java
+END
+FileTransferReceiverTransactionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/29649/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferReceiverTransactionServiceImpl.java
+END
+testdb.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29649/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/testdb.java
+END
+TransferStatusEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/30596/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/TransferStatusEntity.java
+END
+DbHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/DbHelper.java
+END
+ftr-action-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29649/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/ftr-action-messages.properties
+END
+RandomFileTransferActionExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/RandomFileTransferActionExecuter.java
+END
+TransferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/TransferListener.java
+END
+FileTransferReceiverRequisiteManifestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferReceiverRequisiteManifestProcessor.java
+END
+FileTransferInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/32441/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/FileTransferInfoEntity.java
+END
+TransferStatusDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30596/alfresco/HEAD/root/projects/file-transfer-receiver/source/java/org/alfresco/repo/transfer/fsr/TransferStatusDAOImpl.java
+END

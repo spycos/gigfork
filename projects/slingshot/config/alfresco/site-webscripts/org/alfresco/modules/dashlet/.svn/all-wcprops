@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/dashlet
+END
+config-dashlet.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/dashlet/config-dashlet.post.desc.xml
+END
+config-dashlet.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/dashlet/config-dashlet.post.json.ftl
+END
+config-dashlet.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/dashlet/config-dashlet.post.json.js
+END

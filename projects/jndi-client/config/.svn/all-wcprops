@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/jndi-client/config
+END
+alfresco-virtserver.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/12417/alfresco/HEAD/root/projects/jndi-client/config/alfresco-virtserver.properties
+END
+alfresco-virtserver-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/jndi-client/config/alfresco-virtserver-context.xml
+END

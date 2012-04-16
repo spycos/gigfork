@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/28473/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets
+END
+renditions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28473/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets/renditions.xsl
+END
+acl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/19010/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets/acl.xsl
+END
+actions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/19010/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets/actions.xsl
+END
+service.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/19010/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets/service.xsl
+END
+entry.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/28473/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets/entry.xsl
+END
+feed.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/28473/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets/feed.xsl
+END
+relationships.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/28473/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets/relationships.xsl
+END
+thumbnails.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28473/alfresco/HEAD/root/projects/web-client/source/web/cmisfs/stylesheets/thumbnails.xsl
+END

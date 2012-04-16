@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav
+END
+PropPatchMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/34483/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/PropPatchMethod.java
+END
+HeadMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/HeadMethod.java
+END
+WebDAVLockService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/WebDAVLockService.java
+END
+DeleteMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/34866/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/DeleteMethod.java
+END
+MkcolMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/MkcolMethod.java
+END
+ActivityPostProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/34748/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/ActivityPostProducer.java
+END
+MoveMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/MoveMethod.java
+END
+WebDAV.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/WebDAV.java
+END
+WebDAVHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/WebDAVHelper.java
+END
+PutMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35118/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/PutMethod.java
+END
+WebDAVMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/WebDAVMethod.java
+END
+CopyMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/CopyMethod.java
+END
+ActivityPosterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/34748/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/ActivityPosterImpl.java
+END
+WebDAVProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/WebDAVProperty.java
+END
+WebDAVServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34748/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/WebDAVServlet.java
+END
+WebDAVServerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/WebDAVServerException.java
+END
+HierarchicalMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/34925/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/HierarchicalMethod.java
+END
+GetMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/GetMethod.java
+END
+PropFindMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/34212/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/PropFindMethod.java
+END
+WebDAVSessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/WebDAVSessionListener.java
+END
+PostMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18956/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/PostMethod.java
+END
+LockInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/34213/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/LockInfoImpl.java
+END
+AbstractMoveOrCopyMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/AbstractMoveOrCopyMethod.java
+END
+LockMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/LockMethod.java
+END
+ActivityPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/34748/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/ActivityPoster.java
+END
+OptionsMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/OptionsMethod.java
+END
+UnlockMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/34212/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/UnlockMethod.java
+END
+MTNodesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/webdav/MTNodesCache.java
+END

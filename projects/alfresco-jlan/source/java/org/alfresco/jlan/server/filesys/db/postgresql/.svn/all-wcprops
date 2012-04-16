@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/32645/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/filesys/db/postgresql
+END
+PostgreSQLDBInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/32645/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/filesys/db/postgresql/PostgreSQLDBInterface.java
+END
+PostgreSQLSearchContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32645/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/server/filesys/db/postgresql/PostgreSQLSearchContext.java
+END

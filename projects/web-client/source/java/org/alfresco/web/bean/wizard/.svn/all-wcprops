@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wizard
+END
+IWizardBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wizard/IWizardBean.java
+END
+BaseWizardBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wizard/BaseWizardBean.java
+END
+WizardState.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wizard/WizardState.java
+END
+NewUserWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wizard/NewUserWizard.java
+END
+AbstractWizardBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wizard/AbstractWizardBean.java
+END
+WizardManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wizard/WizardManager.java
+END
+BaseInviteUsersWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29628/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/wizard/BaseInviteUsersWizard.java
+END

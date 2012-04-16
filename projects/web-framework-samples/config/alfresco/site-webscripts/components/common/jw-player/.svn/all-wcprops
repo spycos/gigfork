@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/13416/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player
+END
+edit.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/edit.get.desc.xml
+END
+view.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/12239/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/view.get.html.ftl
+END
+edit.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/edit.post.html.ftl
+END
+view.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/13416/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/view.get.js
+END
+edit.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/edit.post.js
+END
+view.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/view.get.desc.xml
+END
+edit.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/edit.post.desc.xml
+END
+edit.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/12239/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/edit.get.html.ftl
+END
+view.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/view.get.head.ftl
+END
+edit.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-webscripts/components/common/jw-player/edit.get.js
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users
+END
+RemoveInvitedUserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/RemoveInvitedUserDialog.java
+END
+SpaceUsersBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/SpaceUsersBean.java
+END
+EditContentUserRolesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/EditContentUserRolesDialog.java
+END
+UsersBeanProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/UsersBeanProperties.java
+END
+EmailSpaceUsersDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/20571/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/EmailSpaceUsersDialog.java
+END
+EditUserWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/EditUserWizard.java
+END
+EditFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/EditFileDialog.java
+END
+RemoveContentUserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/RemoveContentUserDialog.java
+END
+EditUserRolesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/EditUserRolesDialog.java
+END
+EditUserDetailsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/EditUserDetailsDialog.java
+END
+UserMembersBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/UserMembersBean.java
+END
+UserProfileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/UserProfileDialog.java
+END
+MailInviteSpaceUsersWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/29628/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/MailInviteSpaceUsersWizard.java
+END
+UserConsoleDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/UserConsoleDialog.java
+END
+DeleteUserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28627/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/DeleteUserDialog.java
+END
+UsersDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/UsersDialog.java
+END
+ContentUsersBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/ContentUsersBean.java
+END
+CreateUserWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/CreateUserWizard.java
+END
+UserShortcutsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/UserShortcutsBean.java
+END
+UserPreferencesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/UserPreferencesBean.java
+END
+ChangePasswordDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/ChangePasswordDialog.java
+END
+ChangeMyPasswordDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/users/ChangeMyPasswordDialog.java
+END

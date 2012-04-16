@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/13912/alfresco/HEAD/root/projects/repository/source/test-resources/version-history
+END
+VersionHistoryImplTest-testSerialize-V3.1.0-dev.bin
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/13912/alfresco/HEAD/root/projects/repository/source/test-resources/version-history/VersionHistoryImplTest-testSerialize-V3.1.0-dev.bin
+END
+VersionHistoryImplTest-testSerialize-V3.1.0.bin
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/13912/alfresco/HEAD/root/projects/repository/source/test-resources/version-history/VersionHistoryImplTest-testSerialize-V3.1.0.bin
+END
+VersionHistoryImplTest-testSerialize-V2.2.4.bin
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/13912/alfresco/HEAD/root/projects/repository/source/test-resources/version-history/VersionHistoryImplTest-testSerialize-V2.2.4.bin
+END

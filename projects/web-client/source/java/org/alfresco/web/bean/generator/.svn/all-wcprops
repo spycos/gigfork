@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/31976/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator
+END
+TextFieldGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28405/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/TextFieldGenerator.java
+END
+DateTimePickerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/DateTimePickerGenerator.java
+END
+CharsetSelectorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/CharsetSelectorGenerator.java
+END
+MimeTypeSelectorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/MimeTypeSelectorGenerator.java
+END
+LinkGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/31976/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/LinkGenerator.java
+END
+BaseComponentGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/BaseComponentGenerator.java
+END
+StoreSelectorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/28208/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/StoreSelectorGenerator.java
+END
+LabelSeparatorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/LabelSeparatorGenerator.java
+END
+SeparatorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/SeparatorGenerator.java
+END
+SpaceIconPickerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/SpaceIconPickerGenerator.java
+END
+MultilingualTextAreaGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/MultilingualTextAreaGenerator.java
+END
+HeaderSeparatorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/HeaderSeparatorGenerator.java
+END
+IComponentGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/IComponentGenerator.java
+END
+DatePickerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/DatePickerGenerator.java
+END
+AssociationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/AssociationGenerator.java
+END
+AjaxTagPickerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/AjaxTagPickerGenerator.java
+END
+TextAreaGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/TextAreaGenerator.java
+END
+CategorySelectorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/CategorySelectorGenerator.java
+END
+LabelGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/LabelGenerator.java
+END
+MultilingualTextFieldGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/MultilingualTextFieldGenerator.java
+END
+ChildAssociationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/ChildAssociationGenerator.java
+END
+MlContainerLanguageSelectorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/MlContainerLanguageSelectorGenerator.java
+END
+LanguageSelectorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/LanguageSelectorGenerator.java
+END
+HtmlSeparatorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/HtmlSeparatorGenerator.java
+END
+CheckboxGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/generator/CheckboxGenerator.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/31311/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled
+END
+ScheduledPersistedActionServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/31311/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/ScheduledPersistedActionServiceTest.java
+END
+ScheduledPersistedActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/22136/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/ScheduledPersistedActionImpl.java
+END
+FreeMarkerWithLuceneExtensionsModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/FreeMarkerWithLuceneExtensionsModelFactory.java
+END
+CompensatingActionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/CompensatingActionException.java
+END
+CompositeTemplateActionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/CompositeTemplateActionDefinition.java
+END
+FreeMarkerModelLuceneFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/30512/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/FreeMarkerModelLuceneFunctionTest.java
+END
+AbstractTemplateActionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/AbstractTemplateActionDefinition.java
+END
+ScheduledActionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/ScheduledActionDefinition.java
+END
+CronScheduledQueryBasedTemplateActionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/CronScheduledQueryBasedTemplateActionDefinition.java
+END
+ScheduledActionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/ScheduledActionException.java
+END
+TemplateActionModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/TemplateActionModelFactory.java
+END
+TemplateActionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/TemplateActionDefinition.java
+END
+AbstractScheduledAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30553/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/AbstractScheduledAction.java
+END
+ScheduledPersistedActionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/31311/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/ScheduledPersistedActionServiceImpl.java
+END
+InvalidCronExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/InvalidCronExpression.java
+END
+SimpleTemplateActionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30551/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/action/scheduled/SimpleTemplateActionDefinition.java
+END

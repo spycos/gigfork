@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems
+END
+LegacyConfigPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/31012/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/LegacyConfigPostProcessor.java
+END
+ApplicationContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/ApplicationContextFactory.java
+END
+DefaultPropertyBackedBeanRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/DefaultPropertyBackedBeanRegistry.java
+END
+PropertyBackedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/PropertyBackedBean.java
+END
+ChildApplicationContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/ChildApplicationContextFactory.java
+END
+PropertyBackedBeanState.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/PropertyBackedBeanState.java
+END
+PropertyBackedBeanStoppedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/PropertyBackedBeanStoppedEvent.java
+END
+PropertyBackedBeanEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/PropertyBackedBeanEvent.java
+END
+SwitchableApplicationContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32062/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/SwitchableApplicationContextFactory.java
+END
+ChildApplicationContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/ChildApplicationContextManager.java
+END
+ActivateableBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/ActivateableBean.java
+END
+DefaultChildApplicationContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/DefaultChildApplicationContextManager.java
+END
+CompositeDataBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/CompositeDataBean.java
+END
+PropertyBackedBeanRegisteredEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/PropertyBackedBeanRegisteredEvent.java
+END
+PropertyBackedBeanUnregisteredEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/PropertyBackedBeanUnregisteredEvent.java
+END
+AbstractPropertyBackedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/31732/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/AbstractPropertyBackedBean.java
+END
+SubsystemProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/SubsystemProxyFactory.java
+END
+ChainingSubsystemProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/ChainingSubsystemProxyFactory.java
+END
+PropertyBackedBeanStartedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/PropertyBackedBeanStartedEvent.java
+END
+PropertyBackedBeanRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/PropertyBackedBeanRegistry.java
+END
+AbstractChainedSubsystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/management/subsystems/AbstractChainedSubsystemTest.java
+END

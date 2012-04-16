@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/23027/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/lib
+END
+rome-1.0RC2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/lib/rome-1.0RC2.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/23027/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/lib/jdom.jar
+END
+urlrewrite-3.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/lib/urlrewrite-3.2.0.jar
+END

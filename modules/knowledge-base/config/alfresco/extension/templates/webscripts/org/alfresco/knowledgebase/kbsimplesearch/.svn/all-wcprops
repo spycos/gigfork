@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/10074/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/kbsimplesearch
+END
+kbsearch.get.atom.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/9877/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/kbsimplesearch/kbsearch.get.atom.ftl
+END
+kbsearch.get.atom.400.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/9877/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/kbsimplesearch/kbsearch.get.atom.400.ftl
+END
+kbsearch.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/9877/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/kbsimplesearch/kbsearch.get.html.ftl
+END
+kbsearch.get.html.400.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/alfresco-open-mirror/!svn/ver/9877/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/kbsimplesearch/kbsearch.get.html.400.ftl
+END
+kbsearch.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/9877/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/kbsimplesearch/kbsearch.get.js
+END
+kbsearch.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/9877/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/kbsimplesearch/kbsearch.get.desc.xml
+END
+kbsearch.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/alfresco-open-mirror/!svn/ver/10074/alfresco/HEAD/root/modules/knowledge-base/config/alfresco/extension/templates/webscripts/org/alfresco/knowledgebase/kbsimplesearch/kbsearch.get.json.ftl
+END

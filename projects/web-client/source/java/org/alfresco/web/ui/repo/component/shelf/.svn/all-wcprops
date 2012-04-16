@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/31352/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/shelf
+END
+UIShelf.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/shelf/UIShelf.java
+END
+UIShelfGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/shelf/UIShelfGroup.java
+END
+UIShortcutsShelfItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/shelf/UIShortcutsShelfItem.java
+END
+UIClipboardShelfItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/31352/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/shelf/UIClipboardShelfItem.java
+END
+UIRecentSpacesShelfItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/shelf/UIRecentSpacesShelfItem.java
+END
+UIShelfItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/ui/repo/component/shelf/UIShelfItem.java
+END

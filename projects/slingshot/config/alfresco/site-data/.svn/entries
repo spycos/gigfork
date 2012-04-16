@@ -1,0 +1,64 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-03-01T11:41:07.388532Z
+34305
+dward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+extensions
+dir
+
+pages
+dir
+
+template-instances
+dir
+
+components
+dir
+
+presets
+dir
+
+themes
+dir
+
+content-associations
+dir
+
+page-associations
+dir
+
+configurations
+dir
+
+chrome
+dir
+
+template-types
+dir
+
+page-types
+dir
+

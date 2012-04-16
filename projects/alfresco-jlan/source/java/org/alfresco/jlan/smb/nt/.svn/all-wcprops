@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/30365/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt
+END
+ACL.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/30365/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/ACL.java
+END
+SID.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/30365/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/SID.java
+END
+WellKnownRID.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29295/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/WellKnownRID.java
+END
+WellKnownSID.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29295/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/WellKnownSID.java
+END
+SecurityDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/30365/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/SecurityDescriptor.java
+END
+SymLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/SymLink.java
+END
+ACE.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/30365/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/ACE.java
+END
+RIDList.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/RIDList.java
+END
+ReparsePoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/ReparsePoint.java
+END
+SIDList.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/SIDList.java
+END
+NTIOCtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/NTIOCtl.java
+END
+SaveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/SaveException.java
+END
+LoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/LoadException.java
+END
+RID.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/30365/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/smb/nt/RID.java
+END

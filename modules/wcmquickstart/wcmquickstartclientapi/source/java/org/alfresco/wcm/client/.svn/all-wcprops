@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32084/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client
+END
+UgcService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/UgcService.java
+END
+VisitorFeedbackPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/VisitorFeedbackPage.java
+END
+WebSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29416/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/WebSite.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/29416/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/Section.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/SearchResult.java
+END
+VisitorFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/VisitorFeedback.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/Query.java
+END
+AssetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/AssetFactory.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/Tag.java
+END
+Asset.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/24335/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/Asset.java
+END
+ResourceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/ResourceNotFoundException.java
+END
+CollectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/CollectionFactory.java
+END
+AssetCollectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/AssetCollectionFactory.java
+END
+WebSiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/24335/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/WebSiteService.java
+END
+DictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/DictionaryService.java
+END
+PathResolutionDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/29416/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/PathResolutionDetails.java
+END
+ContentStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/ContentStream.java
+END
+SearchResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/SearchResults.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/Resource.java
+END
+Rendition.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/Rendition.java
+END
+AssetCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/AssetCollection.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/Path.java
+END
+SectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartclientapi/source/java/org/alfresco/wcm/client/SectionFactory.java
+END

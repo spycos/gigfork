@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco
+END
+public-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/32821/alfresco/HEAD/root/projects/repository/config/alfresco/public-services-context.xml
+END
+policy-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/repository/config/alfresco/policy-context.xml
+END
+deprecated-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/13907/alfresco/HEAD/root/projects/repository/config/alfresco/deprecated-context.xml
+END
+tagging-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/config/alfresco/tagging-services-context.xml
+END
+hibernate-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/hibernate-context.xml
+END
+cmis-api-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/32797/alfresco/HEAD/root/projects/repository/config/alfresco/cmis-api-context.xml
+END
+twitter-publishing-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/31169/alfresco/HEAD/root/projects/repository/config/alfresco/twitter-publishing-context.xml
+END
+avm-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/config/alfresco/avm-services-context.xml
+END
+wcm-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32351/alfresco/HEAD/root/projects/repository/config/alfresco/wcm-services-context.xml
+END
+webdav-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/34748/alfresco/HEAD/root/projects/repository/config/alfresco/webdav-context.xml
+END
+application-context-highlevel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/31100/alfresco/HEAD/root/projects/repository/config/alfresco/application-context-highlevel.xml
+END
+workflow-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/workflow-context.xml
+END
+facebook-publishing-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/31169/alfresco/HEAD/root/projects/repository/config/alfresco/facebook-publishing-context.xml
+END
+content-publishing-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/32050/alfresco/HEAD/root/projects/repository/config/alfresco/content-publishing-context.xml
+END
+rendition-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/config/alfresco/rendition-services-context.xml
+END
+alfresco-shared.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/config/alfresco/alfresco-shared.properties
+END
+deployment-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/config/alfresco/deployment-service-context.xml
+END
+alfresco-jmxrmi.access
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/alfresco-jmxrmi.access
+END
+invitation-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/invitation-service-context.xml
+END
+avm-console-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/config/alfresco/avm-console-context.xml
+END
+blog-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/31173/alfresco/HEAD/root/projects/repository/config/alfresco/blog-context.xml
+END
+comment-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28717/alfresco/HEAD/root/projects/repository/config/alfresco/comment-services-context.xml
+END
+attributes-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/config/alfresco/attributes-service-context.xml
+END
+node-locator-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/28301/alfresco/HEAD/root/projects/repository/config/alfresco/node-locator-context.xml
+END
+st-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/st-context.xml
+END
+discussions-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/30902/alfresco/HEAD/root/projects/repository/config/alfresco/discussions-services-context.xml
+END
+application-context-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/31577/alfresco/HEAD/root/projects/repository/config/alfresco/application-context-core.xml
+END
+encryption-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/30405/alfresco/HEAD/root/projects/repository/config/alfresco/encryption-context.xml
+END
+avm-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/config/alfresco/avm-test-context.xml
+END
+authentication-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/repository/config/alfresco/authentication-services-context.xml
+END
+scheduler-core-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/config/alfresco/scheduler-core-context.xml
+END
+rating-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/rating-services-context.xml
+END
+node-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/node-services-context.xml
+END
+network-authentication-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18788/alfresco/HEAD/root/projects/repository/config/alfresco/network-authentication-context.xml
+END
+notification-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/29705/alfresco/HEAD/root/projects/repository/config/alfresco/notification-services-context.xml
+END
+ownable-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/projects/repository/config/alfresco/ownable-services-context.xml
+END
+core-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/config/alfresco/core-services-context.xml
+END
+authority-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/repository/config/alfresco/authority-services-context.xml
+END
+slingshot-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/slingshot-context.xml
+END
+remote-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/30122/alfresco/HEAD/root/projects/repository/config/alfresco/remote-services-context.xml
+END
+flickr-publishing-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/31169/alfresco/HEAD/root/projects/repository/config/alfresco/flickr-publishing-context.xml
+END
+bootstrap-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/bootstrap-context.xml
+END
+ehcache-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/ehcache-default.xml
+END
+alfresco-jmxrmi.password
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/alfresco-jmxrmi.password
+END
+wiki-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/29796/alfresco/HEAD/root/projects/repository/config/alfresco/wiki-services-context.xml
+END
+form-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/28321/alfresco/HEAD/root/projects/repository/config/alfresco/form-services-context.xml
+END
+usage-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/usage-services-context.xml
+END
+module-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/18782/alfresco/HEAD/root/projects/repository/config/alfresco/module-context.xml
+END
+logging-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/config/alfresco/logging-context.xml
+END
+audit-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/config/alfresco/audit-services-context.xml
+END
+jbpm-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/config/alfresco/jbpm-context.xml
+END
+remote-avm-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/9544/alfresco/HEAD/root/projects/repository/config/alfresco/remote-avm-test-context.xml
+END
+content-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/content-services-context.xml
+END
+copy-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/config/alfresco/copy-services-context.xml
+END
+repo-admin-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/repo-admin-context.xml
+END
+template-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/config/alfresco/template-services-context.xml
+END
+action-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/config/alfresco/action-services-context.xml
+END
+version.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/version.properties
+END
+links-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/30521/alfresco/HEAD/root/projects/repository/config/alfresco/links-services-context.xml
+END
+period-type-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/15177/alfresco/HEAD/root/projects/repository/config/alfresco/period-type-context.xml
+END
+publishing-context-highlevel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/31808/alfresco/HEAD/root/projects/repository/config/alfresco/publishing-context-highlevel.xml
+END
+activiti-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/30563/alfresco/HEAD/root/projects/repository/config/alfresco/activiti-context.xml
+END
+social-publishing-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/28686/alfresco/HEAD/root/projects/repository/config/alfresco/social-publishing-context.xml
+END
+thumbnail-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/config/alfresco/thumbnail-service-context.xml
+END
+clt-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/5872/alfresco/HEAD/root/projects/repository/config/alfresco/clt-context.xml
+END
+transfer-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/29675/alfresco/HEAD/root/projects/repository/config/alfresco/transfer-service-context.xml
+END
+script-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/33857/alfresco/HEAD/root/projects/repository/config/alfresco/script-services-context.xml
+END
+slideshare-publishing-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/31169/alfresco/HEAD/root/projects/repository/config/alfresco/slideshare-publishing-context.xml
+END
+minimal-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/29155/alfresco/HEAD/root/projects/repository/config/alfresco/minimal-context.xml
+END
+import-export-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/32797/alfresco/HEAD/root/projects/repository/config/alfresco/import-export-context.xml
+END
+repository.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/repository.properties
+END
+avm-console.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/avm-console.properties
+END
+youtube-publishing-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/31169/alfresco/HEAD/root/projects/repository/config/alfresco/youtube-publishing-context.xml
+END
+linkedin-publishing-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/31169/alfresco/HEAD/root/projects/repository/config/alfresco/linkedin-publishing-context.xml
+END
+application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/28575/alfresco/HEAD/root/projects/repository/config/alfresco/application-context.xml
+END
+cache-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/cache-context.xml
+END
+model-specific-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/33096/alfresco/HEAD/root/projects/repository/config/alfresco/model-specific-services-context.xml
+END
+public-services-security-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/public-services-security-context.xml
+END
+bulk-import-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/31243/alfresco/HEAD/root/projects/repository/config/alfresco/bulk-import-context.xml
+END
+swf-transform-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/33223/alfresco/HEAD/root/projects/repository/config/alfresco/swf-transform-context.xml
+END
+preference-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18782/alfresco/HEAD/root/projects/repository/config/alfresco/preference-service-context.xml
+END
+opencmis-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/32595/alfresco/HEAD/root/projects/repository/config/alfresco/opencmis-context.xml
+END
+jcr-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/jcr-context.xml
+END
+jcr-api-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/config/alfresco/jcr-api-context.xml
+END
+site-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/repository/config/alfresco/site-services-context.xml
+END
+rule-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/config/alfresco/rule-services-context.xml
+END
+calendar-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/31035/alfresco/HEAD/root/projects/repository/config/alfresco/calendar-services-context.xml
+END
+replication-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/32459/alfresco/HEAD/root/projects/repository/config/alfresco/replication-services-context.xml
+END
+remote-email-service-test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/config/alfresco/remote-email-service-test-context.xml
+END
+scheduled-jobs-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/scheduled-jobs-context.xml
+END

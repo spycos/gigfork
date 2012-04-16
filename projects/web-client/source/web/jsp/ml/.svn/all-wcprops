@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/web-client/source/web/jsp/ml
+END
+edit-ml-container-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/ml/edit-ml-container-dialog.jsp
+END
+ml-container-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/ml/ml-container-details.jsp
+END
+add-translation-without-content.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/web-client/source/web/jsp/ml/add-translation-without-content.jsp
+END
+make-multilingual-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/ml/make-multilingual-dialog.jsp
+END
+add-translation-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/web-client/source/web/jsp/ml/add-translation-dialog.jsp
+END

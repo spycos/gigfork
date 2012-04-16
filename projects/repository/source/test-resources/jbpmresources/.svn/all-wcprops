@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/32196/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources
+END
+test-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test-messages.properties
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/ehcache.xml
+END
+async_adhoc_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/async_adhoc_processdefinition.xml
+END
+test_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_processdefinition.xml
+END
+test_pooledtasks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_pooledtasks.xml
+END
+test_simpleTimer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/32196/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_simpleTimer.xml
+END
+testWorkflowModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/testWorkflowModel.xml
+END
+test_decision.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_decision.xml
+END
+test_exception.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/13548/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_exception.xml
+END
+test_scriptimport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/6199/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_scriptimport.xml
+END
+test_timerException.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32063/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_timerException.xml
+END
+test_simple_processdefinition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_simple_processdefinition.xml
+END
+test_processevents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_processevents.xml
+END
+test_timers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/13564/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_timers.xml
+END
+test_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5876/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_script.xml
+END
+test_taskVarScriptAssign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_taskVarScriptAssign.xml
+END
+test_taskassign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_taskassign.xml
+END
+test_xor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_xor.xml
+END
+test_customevent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/5754/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_customevent.xml
+END
+test_groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/5578/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_groups.xml
+END
+test_timer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/25984/alfresco/HEAD/root/projects/repository/source/test-resources/jbpmresources/test_timer.xml
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007
+END
+Ribbon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/Ribbon.cs
+END
+AlfrescoWord2007.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/AlfrescoWord2007.csproj.user
+END
+ServerDetails.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/ServerDetails.cs
+END
+Util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/Util.cs
+END
+AlfrescoPane.resx
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/AlfrescoPane.resx
+END
+Interfaces.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/Interfaces.cs
+END
+Login.resx
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/Login.resx
+END
+CIFSHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/CIFSHelper.cs
+END
+app.ico
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/app.ico
+END
+AlfrescoWord2007.pfx
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/AlfrescoWord2007.pfx
+END
+AlfrescoWord2007.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/AlfrescoWord2007.csproj
+END
+AlfrescoPane.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/AlfrescoPane.Designer.cs
+END
+ThisAddIn.Designer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/ThisAddIn.Designer.xml
+END
+AlfrescoPane.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/AlfrescoPane.cs
+END
+Alfresco.ico
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/Alfresco.ico
+END
+Ribbon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/Ribbon.xml
+END
+ThisAddIn.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/ThisAddIn.Designer.cs
+END
+Login.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/Login.designer.cs
+END
+ThisAddIn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/ThisAddIn.cs
+END
+Login.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/Login.cs
+END
+WebDAVHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/6724/alfresco/HEAD/root/projects/extensions/AlfrescoOffice2007/AlfrescoWord2007/WebDAVHelper.cs
+END

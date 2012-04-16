@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/34689/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/ml/tools
+END
+MultilingualContentServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/34689/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/ml/tools/MultilingualContentServiceImplTest.java
+END
+ContentFilterLanguagesMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/ml/tools/ContentFilterLanguagesMapTest.java
+END
+MultilingualDocumentAspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/ml/tools/MultilingualDocumentAspectTest.java
+END
+AbstractMultilingualTestCases.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/ml/tools/AbstractMultilingualTestCases.java
+END
+EmptyTranslationAspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/ml/tools/EmptyTranslationAspectTest.java
+END
+MLContainerTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/ml/tools/MLContainerTypeTest.java
+END
+EditionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/ml/tools/EditionServiceImplTest.java
+END

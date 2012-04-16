@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/TestRunner
+END
+CmisLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/TestRunner/CmisLogger.cs
+END
+Assert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/TestRunner/Assert.cs
+END
+CmisClientFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/TestRunner/CmisClientFactory.cs
+END
+CmisWsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/TestRunner/CmisWsTest.cs
+END
+TestRunner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-dotnet-tck-ws/Source/TestRunner/TestRunner.cs
+END

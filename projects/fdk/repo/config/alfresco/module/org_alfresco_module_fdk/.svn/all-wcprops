@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/28576/alfresco/HEAD/root/projects/fdk/repo/config/alfresco/module/org_alfresco_module_fdk
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19700/alfresco/HEAD/root/projects/fdk/repo/config/alfresco/module/org_alfresco_module_fdk/module.properties
+END
+fdk-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28576/alfresco/HEAD/root/projects/fdk/repo/config/alfresco/module/org_alfresco_module_fdk/fdk-model.xml
+END
+fdk-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19781/alfresco/HEAD/root/projects/fdk/repo/config/alfresco/module/org_alfresco_module_fdk/fdk-context.xml
+END
+module-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19700/alfresco/HEAD/root/projects/fdk/repo/config/alfresco/module/org_alfresco_module_fdk/module-context.xml
+END
+fdk-model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28319/alfresco/HEAD/root/projects/fdk/repo/config/alfresco/module/org_alfresco_module_fdk/fdk-model.properties
+END

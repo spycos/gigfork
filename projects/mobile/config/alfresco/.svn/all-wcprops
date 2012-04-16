@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/mobile/config/alfresco
+END
+mobile-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/19307/alfresco/HEAD/root/projects/mobile/config/alfresco/mobile-application-context.xml
+END
+web-framework-config-application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/19307/alfresco/HEAD/root/projects/mobile/config/alfresco/web-framework-config-application.xml
+END

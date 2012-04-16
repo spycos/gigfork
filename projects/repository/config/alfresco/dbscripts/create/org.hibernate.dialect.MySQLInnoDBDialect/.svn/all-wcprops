@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect
+END
+AlfrescoCreate-AuditTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-AuditTables.sql
+END
+Schema-Reference-ACT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/Schema-Reference-ACT.xml
+END
+AlfrescoCreate-LockTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/23228/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-LockTables.sql
+END
+Schema-Reference-JBPM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/Schema-Reference-JBPM.xml
+END
+AlfrescoCreate-ContentTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-ContentTables.sql
+END
+AlfrescoCreate-ActivityTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/20846/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-ActivityTables.sql
+END
+AlfrescoPostCreate-JBPM-FK-indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoPostCreate-JBPM-FK-indexes.sql
+END
+AlfrescoCreate-PropertyValueTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/20827/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-PropertyValueTables.sql
+END
+Schema-Reference-ALF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/Schema-Reference-ALF.xml
+END
+AlfrescoCreate-AvmTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-AvmTables.sql
+END
+Schema-Reference-AVM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/Schema-Reference-AVM.xml
+END
+AlfrescoCreate-SubscriptionTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/alfresco-open-mirror/!svn/ver/29968/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-SubscriptionTables.sql
+END
+AlfrescoCreate-UsageTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/21979/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-UsageTables.sql
+END
+AlfrescoCreate-RepoTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32635/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/create/org.hibernate.dialect.MySQLInnoDBDialect/AlfrescoCreate-RepoTables.sql
+END

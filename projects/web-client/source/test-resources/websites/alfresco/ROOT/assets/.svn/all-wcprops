@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/4856/alfresco/HEAD/root/projects/web-client/source/test-resources/websites/alfresco/ROOT/assets
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/test-resources/websites/alfresco/ROOT/assets/footer.html
+END
+include_main_navigation.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/4856/alfresco/HEAD/root/projects/web-client/source/test-resources/websites/alfresco/ROOT/assets/include_main_navigation.html
+END
+include_in_head.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/web-client/source/test-resources/websites/alfresco/ROOT/assets/include_in_head.html
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/30973/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer
+END
+TransferEventError.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/22390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventError.java
+END
+TransferCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/19000/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferCallback.java
+END
+TransferException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferException.java
+END
+TransferReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30973/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferReceiver.java
+END
+TransferProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30503/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferProgress.java
+END
+TransferFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/22390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferFailureException.java
+END
+NodeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/NodeFinder.java
+END
+TransferEventSendingSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/19701/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventSendingSnapshot.java
+END
+TransferEventCancelled.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/22390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventCancelled.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/package-info.java
+END
+TransferService2.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferService2.java
+END
+NodeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/19213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/NodeFilter.java
+END
+TransferEventBegin.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventBegin.java
+END
+TransferServicePolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/22427/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferServicePolicies.java
+END
+NodeCrawlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/20796/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/NodeCrawlerFactory.java
+END
+TransferDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferDefinition.java
+END
+TransferService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28481/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferService.java
+END
+NodeCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/NodeCrawler.java
+END
+RangedTransferEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/RangedTransferEvent.java
+END
+TransferEventSentContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventSentContent.java
+END
+TransferEndEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/22390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEndEvent.java
+END
+TransferEventEndState.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventEndState.java
+END
+TransferEventSuccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/22390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventSuccess.java
+END
+TransferEventReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/22390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventReport.java
+END
+TransferEventCommittingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventCommittingStatus.java
+END
+TransferEventEnterState.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventEnterState.java
+END
+TransferEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEvent.java
+END
+TransferEventSendingContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferEventSendingContent.java
+END
+TransferVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29643/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferVersion.java
+END
+TransferTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19631/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferTarget.java
+END
+TransferCancelledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/21387/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/transfer/TransferCancelledException.java
+END

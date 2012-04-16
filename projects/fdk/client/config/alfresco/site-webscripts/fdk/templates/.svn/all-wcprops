@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/23480/alfresco/HEAD/root/projects/fdk/client/config/alfresco/site-webscripts/fdk/templates
+END
+custom-set-exif.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/22287/alfresco/HEAD/root/projects/fdk/client/config/alfresco/site-webscripts/fdk/templates/custom-set-exif.ftl
+END
+2-column-edit-form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22373/alfresco/HEAD/root/projects/fdk/client/config/alfresco/site-webscripts/fdk/templates/2-column-edit-form.ftl
+END
+3-column-edit-form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/23480/alfresco/HEAD/root/projects/fdk/client/config/alfresco/site-webscripts/fdk/templates/3-column-edit-form.ftl
+END
+custom-set-dublincore.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/19781/alfresco/HEAD/root/projects/fdk/client/config/alfresco/site-webscripts/fdk/templates/custom-set-dublincore.ftl
+END
+debug-form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/22701/alfresco/HEAD/root/projects/fdk/client/config/alfresco/site-webscripts/fdk/templates/debug-form.ftl
+END
+debug-utils.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/22701/alfresco/HEAD/root/projects/fdk/client/config/alfresco/site-webscripts/fdk/templates/debug-utils.lib.ftl
+END
+tab-edit-form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/19781/alfresco/HEAD/root/projects/fdk/client/config/alfresco/site-webscripts/fdk/templates/tab-edit-form.ftl
+END

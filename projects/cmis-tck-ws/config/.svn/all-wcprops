@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/cmis-tck-ws/config
+END
+cmis.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/19516/alfresco/HEAD/root/projects/cmis-tck-ws/config/cmis.properties
+END
+cmis-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/cmis-tck-ws/config/cmis-context.xml
+END

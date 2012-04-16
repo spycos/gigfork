@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/28214/alfresco/HEAD/root/projects/repository/config/alfresco/templates/imap
+END
+email_actions_space.acp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/templates/imap/email_actions_space.acp
+END
+command_processor_scripts.acp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/templates/imap/command_processor_scripts.acp
+END
+imap_config_space.acp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/templates/imap/imap_config_space.acp
+END
+share_messages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/28214/alfresco/HEAD/root/projects/repository/config/alfresco/templates/imap/share_messages.xml
+END
+template_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/repository/config/alfresco/templates/imap/template_test.html
+END

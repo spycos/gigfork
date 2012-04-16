@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/invite
+END
+InviteServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/invite/InviteServiceTest.java
+END
+Invites.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/invite/Invites.java
+END
+InviteByTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/invite/InviteByTicket.java
+END
+InviteResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30216/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/invite/InviteResponse.java
+END
+Invite.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/32893/alfresco/HEAD/root/projects/remote-api/source/java/org/alfresco/repo/web/scripts/invite/Invite.java
+END

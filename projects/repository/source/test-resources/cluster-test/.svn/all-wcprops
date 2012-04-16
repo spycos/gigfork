@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/test-resources/cluster-test
+END
+hazelcast-messenger-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33894/alfresco/HEAD/root/projects/repository/source/test-resources/cluster-test/hazelcast-messenger-test.xml
+END
+jgroups-messenger-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33846/alfresco/HEAD/root/projects/repository/source/test-resources/cluster-test/jgroups-messenger-test.xml
+END
+placeholder-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34266/alfresco/HEAD/root/projects/repository/source/test-resources/cluster-test/placeholder-test.xml
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18984/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine
+END
+include-test-webapp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-test-webapp.xsl
+END
+include-webscript-test.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16904/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-webscript-test.ftl
+END
+default-values.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/default-values.xsl
+END
+html-block-with-attributes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/html-block-with-attributes.xsd
+END
+textarea-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/textarea-test.xsd
+END
+xml-namespaces-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/xml-namespaces-test.xsd
+END
+simple-test.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/simple-test.ftl
+END
+form-data-functions-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/form-data-functions-test.xsd
+END
+include-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/16904/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-test.xsd
+END
+textarea-test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/textarea-test.xsl
+END
+xml-namespaces-test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/xml-namespaces-test.xsl
+END
+repeat-components.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/repeat-components.xsd
+END
+include-test-webapp.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-test-webapp.ftl
+END
+form-data-functions-test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/form-data-functions-test.xsl
+END
+include-test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-test.xsl
+END
+repeat-components.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/repeat-components.xsl
+END
+include-test-data-dictionary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-test-data-dictionary.xsl
+END
+article.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/article.xsd
+END
+repeat-simple-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/repeat-simple-test.xsd
+END
+form-data-functions-test.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/form-data-functions-test.ftl
+END
+strings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/strings.properties
+END
+include-test.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-test.ftl
+END
+html-block.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18984/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/html-block.xslt
+END
+repeat-simple-test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/repeat-simple-test.xsl
+END
+html-block.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/html-block.xsd
+END
+include-test-data-dictionary.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-test-data-dictionary.ftl
+END
+components-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/components-test.xsd
+END
+simple-test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/simple-test.xsd
+END
+include-webscript-test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/16904/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/include-webscript-test.xsl
+END
+components-test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/components-test.xsl
+END
+simple-test.fo
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/simple-test.fo
+END
+strings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/strings_fr.properties
+END
+simple-test.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/simple-test.xsl
+END
+article.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18984/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/article.xslt
+END
+default-values.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/tests/rendering-engine/default-values.xsd
+END

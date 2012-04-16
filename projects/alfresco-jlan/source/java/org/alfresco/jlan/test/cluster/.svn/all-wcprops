@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster
+END
+CreateFolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/CreateFolderTest.java
+END
+SharingModeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/SharingModeTest.java
+END
+FolderSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30296/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/FolderSearchTest.java
+END
+OpenFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/OpenFileTest.java
+END
+DeleteFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/DeleteFileTest.java
+END
+RenameFolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/RenameFolderTest.java
+END
+CreateFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/CreateFileTest.java
+END
+NTCreateFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29906/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/NTCreateFileTest.java
+END
+TestServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/TestServer.java
+END
+ConcurrentCreateFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/ConcurrentCreateFileTest.java
+END
+OplockBreakLevelIITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/OplockBreakLevelIITest.java
+END
+TestConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/TestConfiguration.java
+END
+RenameFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/RenameFileTest.java
+END
+PerfFolderTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/30374/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/PerfFolderTreeTest.java
+END
+TestResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/TestResult.java
+END
+BooleanTestResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/BooleanTestResult.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/30296/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/Test.java
+END
+OpenFileShareReadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30032/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/OpenFileShareReadTest.java
+END
+ClusterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30032/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/ClusterTest.java
+END
+PerfFilesPerFolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30374/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/PerfFilesPerFolderTest.java
+END
+OplockGrantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/OplockGrantTest.java
+END
+OplockLeakTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/OplockLeakTest.java
+END
+WriteSequentialTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/WriteSequentialTest.java
+END
+ByteRangeLockingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/29906/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/ByteRangeLockingTest.java
+END
+PerfDataTransferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/30374/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/PerfDataTransferTest.java
+END
+WriteRandomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/WriteRandomTest.java
+END
+OplockBreakTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/OplockBreakTest.java
+END
+AttributesOnlyOplockGrantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/AttributesOnlyOplockGrantTest.java
+END
+ExceptionTestResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/ExceptionTestResult.java
+END
+DeleteFolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28773/alfresco/HEAD/root/projects/alfresco-jlan/source/java/org/alfresco/jlan/test/cluster/DeleteFolderTest.java
+END

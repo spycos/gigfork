@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/34167/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version
+END
+VersionTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionTestSuite.java
+END
+VersionBaseModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionBaseModel.java
+END
+VersionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionModel.java
+END
+version2_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/version2_model.xml
+END
+VersionableAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionableAspect.java
+END
+Version2ServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/Version2ServiceImpl.java
+END
+Node2ServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/Node2ServiceImpl.java
+END
+ContentServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/33898/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/ContentServiceImplTest.java
+END
+version_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/10574/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/version_model.xml
+END
+VersionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34167/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionServiceImplTest.java
+END
+VersionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/28540/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionServiceImpl.java
+END
+Version2Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/Version2Model.java
+END
+NodeServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32677/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/NodeServiceImplTest.java
+END
+NodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/NodeServiceImpl.java
+END
+VersionMigrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionMigrator.java
+END
+VersionMigratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionMigratorTest.java
+END
+MigrationCleanupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/MigrationCleanupJob.java
+END
+VersionStoreBaseTest_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/6746/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionStoreBaseTest_model.xml
+END
+VersionServiceVersionLabelRegistrationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionServiceVersionLabelRegistrationBean.java
+END
+BaseVersionStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/21488/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/BaseVersionStoreTest.java
+END
+VersionServicePolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/version/VersionServicePolicies.java
+END

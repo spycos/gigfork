@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/installer/bitrock
+END
+tomcat-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/tomcat-properties.xml
+END
+alfresco-update-backup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/29383/alfresco/HEAD/root/installer/bitrock/alfresco-update-backup.xml
+END
+openssl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/openssl.xml
+END
+alfresco-wcmqs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/29383/alfresco/HEAD/root/installer/bitrock/alfresco-wcmqs.xml
+END
+alfrescodm-3.3g.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfrescodm-3.3g.xml
+END
+alfresco-readme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/30043/alfresco/HEAD/root/installer/bitrock/alfresco-readme.xml
+END
+alfresco-quickr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/23740/alfresco/HEAD/root/installer/bitrock/alfresco-quickr.xml
+END
+base-write-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/28527/alfresco/HEAD/root/installer/bitrock/base-write-properties.xml
+END
+serviceinstall.bat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/28137/alfresco/HEAD/root/installer/bitrock/serviceinstall.bat
+END
+mysql-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/24157/alfresco/HEAD/root/installer/bitrock/mysql-service.xml
+END
+base-parameter-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/installer/bitrock/base-parameter-dir.xml
+END
+base-readme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/26818/alfresco/HEAD/root/installer/bitrock/base-readme.xml
+END
+alfresco-mysql-question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/installer/bitrock/alfresco-mysql-question.xml
+END
+ctlscript.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/ctlscript.xml
+END
+openoffice-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/openoffice-properties.xml
+END
+alfresco-postgres-question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfresco-postgres-question.xml
+END
+alfresco-sharepoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/23740/alfresco/HEAD/root/installer/bitrock/alfresco-sharepoint.xml
+END
+network-protocol-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/network-protocol-context.xml
+END
+swftools-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/swftools-properties.xml
+END
+custom-services-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/custom-services-context.xml
+END
+README_dod5015.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/README_dod5015.txt
+END
+alfresco-license.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/30442/alfresco/HEAD/root/installer/bitrock/alfresco-license.xml
+END
+alfresco-get-installdir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/29191/alfresco/HEAD/root/installer/bitrock/alfresco-get-installdir.xml
+END
+alfresco-customstack-standalone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/31429/alfresco/HEAD/root/installer/bitrock/alfresco-customstack-standalone.xml
+END
+base-parameter-admindb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/base-parameter-admindb.xml
+END
+alfresco-customstack-build-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/installer/bitrock/alfresco-customstack-build-settings.xml
+END
+tomcat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/tomcat.xml
+END
+alfresco-osx-building-on-windows-patch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/30918/alfresco/HEAD/root/installer/bitrock/alfresco-osx-building-on-windows-patch.xml
+END
+tomcat-manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/tomcat-manager.xml
+END
+postgres-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/postgres-properties.xml
+END
+alfresco-build-settings-3.3g.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/31429/alfresco/HEAD/root/installer/bitrock/alfresco-build-settings-3.3g.xml
+END
+tomcat-java.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/tomcat-java.xml
+END
+postgres.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/34059/alfresco/HEAD/root/installer/bitrock/postgres.xml
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/alfresco-open-mirror/!svn/ver/22056/alfresco/HEAD/root/installer/bitrock/changelog.txt
+END
+alfresco-records-management.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/23216/alfresco/HEAD/root/installer/bitrock/alfresco-records-management.xml
+END
+postgres-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/postgres-functions.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/alfresco-open-mirror/!svn/ver/28885/alfresco/HEAD/root/installer/bitrock/README.txt
+END
+alfresco-bitnami-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/31429/alfresco/HEAD/root/installer/bitrock/alfresco-bitnami-settings.xml
+END
+alfresco-module-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/31429/alfresco/HEAD/root/installer/bitrock/alfresco-module-settings.xml
+END
+alfresco-apply-amps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/24157/alfresco/HEAD/root/installer/bitrock/alfresco-apply-amps.xml
+END
+alfrescodm-share.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfrescodm-share.xml
+END
+alfresco-module.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/31429/alfresco/HEAD/root/installer/bitrock/alfresco-module.xml
+END
+java.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/alfresco-open-mirror/!svn/ver/24157/alfresco/HEAD/root/installer/bitrock/java.xml
+END
+alfresco-componentselection-java.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfresco-componentselection-java.xml
+END
+alfresco-standalone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/31429/alfresco/HEAD/root/installer/bitrock/alfresco-standalone.xml
+END
+alfresco-mysql-db-creation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfresco-mysql-db-creation.xml
+END
+base-java-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/base-java-settings.xml
+END
+alfresco-customstack-shortcuts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/31429/alfresco/HEAD/root/installer/bitrock/alfresco-customstack-shortcuts.xml
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/alfresco-open-mirror/!svn/ver/30043/alfresco/HEAD/root/installer/bitrock/common.xml
+END
+alfresco-build-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/31429/alfresco/HEAD/root/installer/bitrock/alfresco-build-settings.xml
+END
+README_quickr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/README_quickr.txt
+END
+alfresco-customstack-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/29029/alfresco/HEAD/root/installer/bitrock/alfresco-customstack-settings.xml
+END
+servicerun.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/28137/alfresco/HEAD/root/installer/bitrock/servicerun.bat
+END
+alfresco.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/installer/bitrock/alfresco.xml
+END
+project-patch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/installer/bitrock/project-patch.xml
+END
+alfresco-studio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfresco-studio.xml
+END
+alfresco-linux-x64-building-on-windows-patch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/installer/bitrock/alfresco-linux-x64-building-on-windows-patch.xml
+END
+alfresco-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/installer/bitrock/alfresco-functions.xml
+END
+mysql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/alfresco-open-mirror/!svn/ver/26159/alfresco/HEAD/root/installer/bitrock/mysql.xml
+END
+alfrescowcm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/installer/bitrock/alfrescowcm.xml
+END
+manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/alfresco-open-mirror/!svn/ver/31394/alfresco/HEAD/root/installer/bitrock/manager.xml
+END
+java-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/java-properties.xml
+END
+alfrescodm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/installer/bitrock/alfrescodm.xml
+END
+swftools.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/installer/bitrock/swftools.xml
+END
+alfrescodm-database.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/25565/alfresco/HEAD/root/installer/bitrock/alfrescodm-database.xml
+END
+alfrescodm-postgres-database.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfrescodm-postgres-database.xml
+END
+alfresco-linux-building-on-windows-patch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/29700/alfresco/HEAD/root/installer/bitrock/alfresco-linux-building-on-windows-patch.xml
+END
+tomcat-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/28137/alfresco/HEAD/root/installer/bitrock/tomcat-service.xml
+END
+alfresco-standalone-html.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfresco-standalone-html.xml
+END
+imagemagick-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/imagemagick-properties.xml
+END
+base-unix-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/29029/alfresco/HEAD/root/installer/bitrock/base-unix-service.xml
+END
+base-tomcat-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/base-tomcat-settings.xml
+END
+tomcat-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/tomcat-functions.xml
+END
+imagemagick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/alfresco-open-mirror/!svn/ver/23740/alfresco/HEAD/root/installer/bitrock/imagemagick.xml
+END
+alfresco-customstack-postgres-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/installer/bitrock/alfresco-customstack-postgres-settings.xml
+END
+alfresco-share.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/alfresco-share.xml
+END
+mysql-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/mysql-properties.xml
+END
+postgres_initdb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/26121/alfresco/HEAD/root/installer/bitrock/postgres_initdb.xml
+END
+postgres-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/30780/alfresco/HEAD/root/installer/bitrock/postgres-service.xml
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/installer/bitrock/project.xml
+END
+alfresco.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/alfresco-open-mirror/!svn/ver/32952/alfresco/HEAD/root/installer/bitrock/alfresco.sh
+END
+alfresco-solr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/31219/alfresco/HEAD/root/installer/bitrock/alfresco-solr.xml
+END
+base-licenses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/alfresco-open-mirror/!svn/ver/19989/alfresco/HEAD/root/installer/bitrock/base-licenses.xml
+END
+openoffice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/alfresco-open-mirror/!svn/ver/32952/alfresco/HEAD/root/installer/bitrock/openoffice.xml
+END

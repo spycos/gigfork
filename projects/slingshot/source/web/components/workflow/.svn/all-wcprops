@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow
+END
+start-workflow.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/start-workflow.js
+END
+workflow-details-actions.css
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/22582/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-details-actions.css
+END
+workflow-actions.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/22278/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-actions.js
+END
+workflow-form.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/32277/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-form.js
+END
+task-details-header.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/23041/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-details-header.js
+END
+task-edit-header.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-edit-header.js
+END
+task-list-toolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/22559/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-list-toolbar.js
+END
+task-list.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/32733/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-list.js
+END
+start-workflow.css
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/22481/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/start-workflow.css
+END
+workflow-list.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-list.js
+END
+workflow-list-toolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/22559/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-list-toolbar.js
+END
+task-details-actions.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/23041/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-details-actions.js
+END
+workflow-details-header.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/22568/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-details-header.js
+END
+task-list-toolbar.css
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/22559/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-list-toolbar.css
+END
+task-list.css
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/22582/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-list.css
+END
+task-edit-header.css
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/21715/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-edit-header.css
+END
+task-details-header.css
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/22460/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/task-details-header.css
+END
+workflow-form.css
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/28605/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-form.css
+END
+workflow-details-actions.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/22578/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-details-actions.js
+END
+workflow-details-header.css
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/22460/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-details-header.css
+END
+workflow-list-toolbar.css
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/21965/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-list-toolbar.css
+END
+workflow-list.css
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/22582/alfresco/HEAD/root/projects/slingshot/source/web/components/workflow/workflow-list.css
+END

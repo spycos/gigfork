@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/activiti
+END
+SendNominatedInviteDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/activiti/SendNominatedInviteDelegate.java
+END
+AbstractInvitationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/activiti/AbstractInvitationDelegate.java
+END
+RejectNominatedInviteDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/activiti/RejectNominatedInviteDelegate.java
+END
+AcceptNominatedInviteDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/activiti/AcceptNominatedInviteDelegate.java
+END
+ApproveModeratedInviteDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/activiti/ApproveModeratedInviteDelegate.java
+END
+RejectModeratedInviteDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/activiti/RejectModeratedInviteDelegate.java
+END
+CancelNominatedInviteDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30211/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/invitation/activiti/CancelNominatedInviteDelegate.java
+END

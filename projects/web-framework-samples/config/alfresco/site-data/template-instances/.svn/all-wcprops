@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-data/template-instances
+END
+basic-home-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-data/template-instances/basic-home-template.xml
+END
+basic-content-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/12260/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-data/template-instances/basic-content-template.xml
+END
+basic-landing-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/12238/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-data/template-instances/basic-landing-template.xml
+END
+home.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-data/template-instances/home.xml.sample
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-data/template-instances/login.xml
+END
+logout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/13136/alfresco/HEAD/root/projects/web-framework-samples/config/alfresco/site-data/template-instances/logout.xml
+END

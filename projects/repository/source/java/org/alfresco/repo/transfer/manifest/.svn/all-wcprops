@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/30525/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest
+END
+TransferManifestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/19213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestWriter.java
+END
+TransferManifestDeletedNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestDeletedNode.java
+END
+TransferManifestNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestNodeFactory.java
+END
+ManifestIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29924/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/ManifestIntegrationTest.java
+END
+TransferManifestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/23662/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestTest.java
+END
+TransferManifestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestProcessor.java
+END
+TestTransferManifestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19213/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TestTransferManifestProcessor.java
+END
+XMLTransferManifestReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29837/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/XMLTransferManifestReader.java
+END
+ManifestPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/21217/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/ManifestPermission.java
+END
+TransferManifestNodeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestNodeHelper.java
+END
+TransferManifestNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestNode.java
+END
+TransferManifestHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestHeader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/package-info.java
+END
+ManifestModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/ManifestModel.java
+END
+ManifestAccessControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/21217/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/ManifestAccessControl.java
+END
+XMLTransferManifestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/XMLTransferManifestWriter.java
+END
+TransferManifestNormalNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/30525/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestNormalNode.java
+END
+TransferManifestNodeFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/30491/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/transfer/manifest/TransferManifestNodeFactoryImpl.java
+END

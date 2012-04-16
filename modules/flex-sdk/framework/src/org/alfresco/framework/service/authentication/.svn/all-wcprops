@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/18989/alfresco/HEAD/root/modules/flex-sdk/framework/src/org/alfresco/framework/service/authentication
+END
+InvalidCredentialsError.as
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/18989/alfresco/HEAD/root/modules/flex-sdk/framework/src/org/alfresco/framework/service/authentication/InvalidCredentialsError.as
+END
+AuthenticationService.as
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18989/alfresco/HEAD/root/modules/flex-sdk/framework/src/org/alfresco/framework/service/authentication/AuthenticationService.as
+END
+LoginCompleteEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/18989/alfresco/HEAD/root/modules/flex-sdk/framework/src/org/alfresco/framework/service/authentication/LoginCompleteEvent.as
+END
+LogoutCompleteEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18989/alfresco/HEAD/root/modules/flex-sdk/framework/src/org/alfresco/framework/service/authentication/LogoutCompleteEvent.as
+END
+AuthenticationError.as
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18989/alfresco/HEAD/root/modules/flex-sdk/framework/src/org/alfresco/framework/service/authentication/AuthenticationError.as
+END

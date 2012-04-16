@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow
+END
+manage-workitem-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/manage-workitem-dialog.jsp
+END
+manage-task-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/manage-task-dialog.jsp
+END
+reassign-workitem-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/reassign-workitem-dialog.jsp
+END
+reassign-task-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/reassign-task-dialog.jsp
+END
+cancel-workflow-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/cancel-workflow-dialog.jsp
+END
+pooled-tasks-todo-dashlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/6307/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/pooled-tasks-todo-dashlet.jsp
+END
+tasks-todo-dashlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/6307/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/tasks-todo-dashlet.jsp
+END
+tasks-active-dashlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/6307/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/tasks-active-dashlet.jsp
+END
+tasks-completed-dashlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/6307/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/tasks-completed-dashlet.jsp
+END
+view-completed-task-dialog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/web/jsp/workflow/view-completed-task-dialog.jsp
+END

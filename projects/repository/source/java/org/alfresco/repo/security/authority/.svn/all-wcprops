@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority
+END
+GetAuthoritiesCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/28738/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/GetAuthoritiesCannedQuery.java
+END
+AuthorityInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/28577/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/AuthorityInfoEntity.java
+END
+DuplicateAuthorityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/DuplicateAuthorityTest.java
+END
+GetAuthoritiesCannedQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/28577/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/GetAuthoritiesCannedQueryParams.java
+END
+AuthorityInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28577/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/AuthorityInfo.java
+END
+AuthorityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/AuthorityException.java
+END
+GetAuthoritiesCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/31390/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/GetAuthoritiesCannedQueryFactory.java
+END
+UnknownAuthorityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/UnknownAuthorityException.java
+END
+AuthorityServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/28737/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/AuthorityServiceTest.java
+END
+ExtendedPermissionServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/ExtendedPermissionServiceTest.java
+END
+AuthorityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/31751/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/AuthorityServiceImpl.java
+END
+AuthorityDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30935/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/AuthorityDAO.java
+END
+AuthorityDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/32477/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authority/AuthorityDAOImpl.java
+END

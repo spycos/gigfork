@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication
+END
+AuthenticationComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/26792/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationComponent.java
+END
+AuthenticationDisallowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationDisallowedException.java
+END
+BasicPasswordGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/28438/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/BasicPasswordGenerator.java
+END
+MutableAuthenticationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/28528/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/MutableAuthenticationDao.java
+END
+AuthenticationBootstrapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationBootstrapTest.java
+END
+AuthenticationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/28528/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationTest.java
+END
+TenantAwareUserNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19322/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/TenantAwareUserNameGenerator.java
+END
+ChainingAuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ChainingAuthenticationServiceImpl.java
+END
+AbstractAuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/32820/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AbstractAuthenticationService.java
+END
+ChainingAuthenticationComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ChainingAuthenticationComponentImpl.java
+END
+AbstractAuthenticationComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AbstractAuthenticationComponent.java
+END
+AuthenticationMaxUsersException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationMaxUsersException.java
+END
+UserNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/UserNameGenerator.java
+END
+TicketCleanupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/TicketCleanupJob.java
+END
+RandomUserNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/RandomUserNameGenerator.java
+END
+MD4PasswordEncoderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/MD4PasswordEncoderImpl.java
+END
+AuthorizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthorizationTest.java
+END
+Authorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/Authorization.java
+END
+ChainingAuthenticationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32820/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/ChainingAuthenticationServiceTest.java
+END
+RepositoryAuthenticationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28528/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/RepositoryAuthenticationDao.java
+END
+SimpleAcceptOrRejectAllAuthenticationComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/SimpleAcceptOrRejectAllAuthenticationComponentImpl.java
+END
+AuthenticationContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationContextImpl.java
+END
+MD4PasswordEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/MD4PasswordEncoder.java
+END
+PasswordGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/PasswordGenerator.java
+END
+userModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18433/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/userModel.xml
+END
+NTLMMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/NTLMMode.java
+END
+TestAuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/21065/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/TestAuthenticationServiceImpl.java
+END
+AuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/32820/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationServiceImpl.java
+END
+DefaultMutableAuthenticationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/28528/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/DefaultMutableAuthenticationDao.java
+END
+AuthenticationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/20693/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationContext.java
+END
+AuthenticationComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29088/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticationComponentImpl.java
+END
+AuthenticatedAuthenticationPassthroughProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AuthenticatedAuthenticationPassthroughProvider.java
+END
+AbstractChainingAuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/32820/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AbstractChainingAuthenticationService.java
+END
+NameBasedUserNameGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/32392/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/NameBasedUserNameGeneratorTest.java
+END
+NameBasedUserNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/32392/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/NameBasedUserNameGenerator.java
+END
+AbstractChainingAuthenticationComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/AbstractChainingAuthenticationComponent.java
+END
+MutableAuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/security/authentication/MutableAuthenticationServiceImpl.java
+END

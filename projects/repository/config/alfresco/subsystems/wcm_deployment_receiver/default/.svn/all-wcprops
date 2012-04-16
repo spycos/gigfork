@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/20796/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/wcm_deployment_receiver/default
+END
+deployment-receiver-context.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/14610/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/wcm_deployment_receiver/default/deployment-receiver-context.properties
+END
+deployment-receiver-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/20796/alfresco/HEAD/root/projects/repository/config/alfresco/subsystems/wcm_deployment_receiver/default/deployment-receiver-context.xml
+END

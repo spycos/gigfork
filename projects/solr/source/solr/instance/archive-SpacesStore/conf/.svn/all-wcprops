@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf
+END
+ssl.repo.client.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/ssl.repo.client.truststore
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/protwords.txt
+END
+ssl-keystore-passwords.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/ssl-keystore-passwords.properties
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/stopwords.txt
+END
+solrcore.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/solrcore.properties
+END
+elevate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/elevate.xml
+END
+ssl.repo.client.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/ssl.repo.client.keystore
+END
+mapping-ISOLatin1Accent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/mapping-ISOLatin1Accent.txt
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/30268/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/schema.xml
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/solrconfig.xml
+END
+scripts.conf
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/scripts.conf
+END
+ssl-truststore-passwords.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/30005/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/ssl-truststore-passwords.properties
+END
+admin-extra.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/admin-extra.html
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/synonyms.txt
+END
+spellings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/28320/alfresco/HEAD/root/projects/solr/source/solr/instance/archive-SpacesStore/conf/spellings.txt
+END

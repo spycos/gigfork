@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets
+END
+wcmqs.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/23056/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get.html.ftl
+END
+wcmqs.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/31847/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get_it.properties
+END
+wcmqs.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/alfresco-open-mirror/!svn/ver/23056/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get.js
+END
+wcmqs.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/alfresco-open-mirror/!svn/ver/23056/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get.properties
+END
+wcmqs.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/23178/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get.desc.xml
+END
+wcmqs.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/31467/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get_es.properties
+END
+wcmqs.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/31533/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get_fr.properties
+END
+wcmqs.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/31574/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get_de.properties
+END
+wcmqs.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get.head.ftl
+END
+wcmqs.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get_nl.properties
+END
+wcmqs.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wcmqs.get_ja.properties
+END

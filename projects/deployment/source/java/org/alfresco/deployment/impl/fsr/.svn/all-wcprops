@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/30935/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr
+END
+CommitThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/CommitThread.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/19824/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/package-info.java
+END
+FSRunnableTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/FSRunnableTester.java
+END
+ValidateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/ValidateCommand.java
+END
+FileSystemReceiverHousekeeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/FileSystemReceiverHousekeeper.java
+END
+FileSystemReceiverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/FileSystemReceiverService.java
+END
+FileSystemDeploymentTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/30935/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/FileSystemDeploymentTarget.java
+END
+FileSystemDeploymentTargetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/FileSystemDeploymentTargetTest.java
+END
+FileSystemReceiverServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/19298/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/fsr/FileSystemReceiverServiceImpl.java
+END

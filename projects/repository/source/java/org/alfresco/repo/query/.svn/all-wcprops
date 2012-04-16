@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/29843/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/query
+END
+NodeWithTargetsEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29843/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/query/NodeWithTargetsEntity.java
+END
+AbstractQNameAwareCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/29831/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/query/AbstractQNameAwareCannedQueryFactory.java
+END
+NodeBackedEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29524/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/query/NodeBackedEntity.java
+END

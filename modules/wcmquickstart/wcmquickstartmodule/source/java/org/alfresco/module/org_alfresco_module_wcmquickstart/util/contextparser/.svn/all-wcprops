@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/28355/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/contextparser
+END
+WebsiteOwnerContextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/contextparser/WebsiteOwnerContextParser.java
+END
+ContextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/contextparser/ContextParser.java
+END
+ContextParserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/contextparser/ContextParserService.java
+END
+SectionIdContextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/contextparser/SectionIdContextParser.java
+END
+SectionPathContextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/contextparser/SectionPathContextParser.java
+END
+SiteIdContextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/alfresco-open-mirror/!svn/ver/22952/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/contextparser/SiteIdContextParser.java
+END
+PdfRenditionPathContextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/repos/alfresco-open-mirror/!svn/ver/28355/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartmodule/source/java/org/alfresco/module/org_alfresco_module_wcmquickstart/util/contextparser/PdfRenditionPathContextParser.java
+END

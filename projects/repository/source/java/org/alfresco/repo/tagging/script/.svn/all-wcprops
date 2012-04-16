@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/29327/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/script
+END
+TagScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/script/TagScope.java
+END
+ScriptTaggingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/29327/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/script/ScriptTaggingService.java
+END
+test_taggingService.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/10288/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/tagging/script/test_taggingService.js
+END

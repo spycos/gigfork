@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/alfresco-open-mirror/!svn/ver/30506/alfresco/HEAD/root/projects/imaging/kofax
+END
+ReleaseConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/ReleaseConstants.cs
+END
+KofaxAlfresco.sln
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/KofaxAlfresco.sln
+END
+KfxReleaseScript.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/KfxReleaseScript.cs
+END
+ComboItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/ComboItem.cs
+END
+frmTreeViewBrowse.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmTreeViewBrowse.Designer.cs
+END
+Log.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/Log.cs
+END
+frmTreeViewBrowse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmTreeViewBrowse.cs
+END
+frmAlfrescoSetUp.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmAlfrescoSetUp.Designer.cs
+END
+Resource1.resx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/Resource1.resx
+END
+frmAlfrescoSetUp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmAlfrescoSetUp.cs
+END
+KofaxAlfresco.suo
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/KofaxAlfresco.suo
+END
+KofaxAlfrescoRelease_v1.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/KofaxAlfrescoRelease_v1.csproj
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/AssemblyInfo.cs
+END
+frmConnecting.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmConnecting.Designer.cs
+END
+frmConnecting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmConnecting.cs
+END
+frmTreeViewBrowse.resx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmTreeViewBrowse.resx
+END
+ReleaseLink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/ReleaseLink.cs
+END
+KfxReleaseSetupScript.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/KfxReleaseSetupScript.cs
+END
+frmAlfrescoSetUp.resx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmAlfrescoSetUp.resx
+END
+ReleaseUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/ReleaseUtils.cs
+END
+KofaxAlfrescoRelease_v1.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/KofaxAlfrescoRelease_v1.csproj.user
+END
+Resource1.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/Resource1.Designer.cs
+END
+frmConnecting.resx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/alfresco-open-mirror/!svn/ver/4476/alfresco/HEAD/root/projects/imaging/kofax/frmConnecting.resx
+END

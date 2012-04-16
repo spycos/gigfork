@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/19268/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader
+END
+LoaderServerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderServerProxy.java
+END
+LoaderDeleteThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderDeleteThread.java
+END
+LoaderUpdateThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderUpdateThread.java
+END
+AbstractLoaderThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/19268/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/AbstractLoaderThread.java
+END
+LoaderUploadThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderUploadThread.java
+END
+loader-ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/6855/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/loader-ehcache.xml
+END
+LoaderClientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderClientException.java
+END
+LoaderTotalsThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderTotalsThread.java
+END
+LoaderListFoldersThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderListFoldersThread.java
+END
+LoaderSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderSession.java
+END
+LoaderCOCIThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/LoaderCOCIThread.java
+END
+FileFolderRemoteLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/model/filefolder/loader/FileFolderRemoteLoader.java
+END

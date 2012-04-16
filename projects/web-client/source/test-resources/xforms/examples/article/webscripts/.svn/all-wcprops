@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/article/webscripts
+END
+ContentList.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/article/webscripts/ContentList.get.js
+END
+ContentList.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/article/webscripts/ContentList.get.desc.xml
+END
+ContentList.get.xml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/article/webscripts/ContentList.get.xml.ftl
+END
+CategorySelection.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/article/webscripts/CategorySelection.get.html.ftl
+END
+ContentList.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/article/webscripts/ContentList.get.html.ftl
+END
+CategorySelection.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/article/webscripts/CategorySelection.get.js
+END
+CategorySelection.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/13746/alfresco/HEAD/root/projects/web-client/source/test-resources/xforms/examples/article/webscripts/CategorySelection.get.desc.xml
+END

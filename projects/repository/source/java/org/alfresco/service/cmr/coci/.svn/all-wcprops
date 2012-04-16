@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/coci
+END
+CheckOutCheckInServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19650/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/coci/CheckOutCheckInServiceException.java
+END
+CheckOutCheckInService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/service/cmr/coci/CheckOutCheckInService.java
+END

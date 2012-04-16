@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/32562/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/groups
+END
+DeleteGroupDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18963/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/groups/DeleteGroupDialog.java
+END
+GroupsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/32562/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/groups/GroupsDialog.java
+END
+CreateGroupDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/groups/CreateGroupDialog.java
+END
+AddUsersDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/web-client/source/java/org/alfresco/web/bean/groups/AddUsersDialog.java
+END

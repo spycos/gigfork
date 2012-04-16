@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/19993/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/site-webscripts/org/alfresco/modules/login
+END
+login.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/19084/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/site-webscripts/org/alfresco/modules/login/login.get.js
+END
+login.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/19993/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/site-webscripts/org/alfresco/modules/login/login.get.properties
+END
+login.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19186/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/site-webscripts/org/alfresco/modules/login/login.get.desc.xml
+END
+login.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19106/alfresco/HEAD/root/projects/web-editor-plugin/config/alfresco/site-webscripts/org/alfresco/modules/login/login.get.html.ftl
+END

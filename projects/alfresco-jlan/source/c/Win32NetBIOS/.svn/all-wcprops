@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32NetBIOS
+END
+Win32NetBIOS.sln
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/7468/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32NetBIOS/Win32NetBIOS.sln
+END
+Win32NetBIOS.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/alfresco-open-mirror/!svn/ver/18966/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32NetBIOS/Win32NetBIOS.c
+END
+Win32NetBIOS.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/11086/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32NetBIOS/Win32NetBIOS.vcproj
+END
+org_alfresco_jlan_netbios_win32_Win32NetBIOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/11086/alfresco/HEAD/root/projects/alfresco-jlan/source/c/Win32NetBIOS/org_alfresco_jlan_netbios_win32_Win32NetBIOS.h
+END

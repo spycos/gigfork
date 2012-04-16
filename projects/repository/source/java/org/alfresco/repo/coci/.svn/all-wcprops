@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/31759/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/coci
+END
+CheckOutCheckInServicePolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/20018/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/coci/CheckOutCheckInServicePolicies.java
+END
+WorkingCopyAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29159/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/coci/WorkingCopyAspect.java
+END
+CheckOutCheckInServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/coci/CheckOutCheckInServiceImpl.java
+END
+CheckOutCheckInServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/31759/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/coci/CheckOutCheckInServiceImplTest.java
+END
+CheckedOutAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31422/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/coci/CheckedOutAspect.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/32883/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator
+END
+NullValueComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/NullValueComparator.java
+END
+ValueEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/ValueEvaluator.java
+END
+MetadataValueEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/MetadataValueEvaluator.java
+END
+IsBrowserEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/IsBrowserEvaluator.java
+END
+Evaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/Evaluator.java
+END
+ContainerTypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/ContainerTypeEvaluator.java
+END
+Comparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/Comparator.java
+END
+IsMimetypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/IsMimetypeEvaluator.java
+END
+StringEqualsComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/StringEqualsComparator.java
+END
+NodeTypeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/30388/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/NodeTypeEvaluator.java
+END
+SitePresetEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/SitePresetEvaluator.java
+END
+IsPortletModeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30105/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/IsPortletModeEvaluator.java
+END
+PropertyNotNullEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/PropertyNotNullEvaluator.java
+END
+ChainedMatchAllEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/31741/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/ChainedMatchAllEvaluator.java
+END
+SiteBasedEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/SiteBasedEvaluator.java
+END
+ChainedMatchOneEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/31741/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/ChainedMatchOneEvaluator.java
+END
+BaseEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/32883/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/BaseEvaluator.java
+END
+HasAspectEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/HasAspectEvaluator.java
+END
+AlwaysFalseEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29845/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/AlwaysFalseEvaluator.java
+END

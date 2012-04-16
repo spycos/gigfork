@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29419/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/common
+END
+page.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/29419/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/common/page.ftl
+END
+head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/29419/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/common/head.ftl
+END
+title.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/common/title.ftl
+END
+init.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22507/alfresco/HEAD/root/modules/wcmquickstart/wcmquickstartwebsite/source/web/WEB-INF/webscripts/common/init.ftl
+END

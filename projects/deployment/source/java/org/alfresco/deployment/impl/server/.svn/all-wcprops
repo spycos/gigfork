@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/30935/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server
+END
+ReaderManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/ReaderManagement.java
+END
+DeploymentReceiverAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentReceiverAuthenticator.java
+END
+DirectoryMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DirectoryMetaData.java
+END
+DeployedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/22234/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeployedFile.java
+END
+DeploymentCommandQueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentCommandQueueImpl.java
+END
+DeploymentTargetRegistrationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/19317/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentTargetRegistrationBean.java
+END
+DeploymentReceiverAuthenticatorSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentReceiverAuthenticatorSimple.java
+END
+DeploymentReceiverEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentReceiverEngineImpl.java
+END
+Housekeeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/Housekeeper.java
+END
+DeploymentTargetRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentTargetRegistry.java
+END
+Deployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/Deployment.java
+END
+DeploymentState.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentState.java
+END
+NonblockingReaderManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/NonblockingReaderManagement.java
+END
+TerminatorCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/TerminatorCommand.java
+END
+DeploymentCommandQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentCommandQueue.java
+END
+DeploymentCommandQueueHousekeeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentCommandQueueHousekeeper.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30935/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/Target.java
+END
+TargetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/TargetTest.java
+END
+DeploymentTimeoutHousekeeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentTimeoutHousekeeper.java
+END
+ReaderManagementPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/ReaderManagementPool.java
+END
+ReaderManagementSimpleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/ReaderManagementSimpleImpl.java
+END
+DeploymentTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/deployment/source/java/org/alfresco/deployment/impl/server/DeploymentTracker.java
+END

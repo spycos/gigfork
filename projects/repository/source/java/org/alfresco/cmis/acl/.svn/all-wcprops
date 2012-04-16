@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl
+END
+CMISAccessControlServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISAccessControlServiceTest.java
+END
+CMISPermissionDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISPermissionDefinitionImpl.java
+END
+CMISAccessControlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISAccessControlServiceImpl.java
+END
+CMISAllowedActionKeyTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/28286/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISAllowedActionKeyTypeEnum.java
+END
+CMISAccessControlEntryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/20051/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISAccessControlEntryImpl.java
+END
+CMISPermissionMappingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISPermissionMappingImpl.java
+END
+CMISPermissionMappingKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISPermissionMappingKey.java
+END
+CMISAccessControlEntriesGroupedByPrincipalIdImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISAccessControlEntriesGroupedByPrincipalIdImpl.java
+END
+CMISAccessControlReportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/19057/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/cmis/acl/CMISAccessControlReportImpl.java
+END

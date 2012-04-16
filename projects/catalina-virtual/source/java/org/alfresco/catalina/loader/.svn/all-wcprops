@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/catalina/loader
+END
+AVMWebappClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/18974/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/catalina/loader/AVMWebappClassLoader.java
+END
+AVMWebappLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/22725/alfresco/HEAD/root/projects/catalina-virtual/source/java/org/alfresco/catalina/loader/AVMWebappLoader.java
+END

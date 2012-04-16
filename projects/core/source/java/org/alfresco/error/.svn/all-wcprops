@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/error
+END
+AlfrescoRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/error/AlfrescoRuntimeException.java
+END
+AlfrescoRuntimeExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/error/AlfrescoRuntimeExceptionTest.java
+END
+ExceptionStackUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/error/ExceptionStackUtil.java
+END
+StackTraceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/alfresco-open-mirror/!svn/ver/18953/alfresco/HEAD/root/projects/core/source/java/org/alfresco/error/StackTraceUtil.java
+END

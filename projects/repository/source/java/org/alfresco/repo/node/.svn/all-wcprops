@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node
+END
+ConcurrentNodeServiceSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/ConcurrentNodeServiceSearchTest.java
+END
+BaseNodeServiceTest_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/31912/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/BaseNodeServiceTest_model.xml
+END
+BaseNodeServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/BaseNodeServiceTest.java
+END
+GetNodesWithAspectCannedQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/34476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/GetNodesWithAspectCannedQuery.java
+END
+NodeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/alfresco-open-mirror/!svn/ver/29564/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/NodeUtils.java
+END
+NodeServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34364/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/NodeServiceTest.java
+END
+GetNodesWithAspectCannedQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/34476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/GetNodesWithAspectCannedQueryParams.java
+END
+NodeRefPropertyMethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/NodeRefPropertyMethodInterceptor.java
+END
+NodeRefPropertyMethodInterceptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/NodeRefPropertyMethodInterceptorTest.java
+END
+ConcurrentNodeServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/32657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/ConcurrentNodeServiceTest.java
+END
+MetadataEncryptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30405/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/MetadataEncryptorTests.java
+END
+AbstractNodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/AbstractNodeServiceImpl.java
+END
+NodeAuditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/22203/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/NodeAuditor.java
+END
+NodeRefTestModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/6740/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/NodeRefTestModel.xml
+END
+ReferenceableAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/ReferenceableAspect.java
+END
+TemporaryAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/TemporaryAspect.java
+END
+UndeletableAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/UndeletableAspect.java
+END
+PerformanceNodeServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/PerformanceNodeServiceTest.java
+END
+FullNodeServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/FullNodeServiceTest.java
+END
+FFCLoadsOfFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/FFCLoadsOfFiles.java
+END
+NodeBulkLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/32657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/NodeBulkLoader.java
+END
+GetNodesWithAspectCannedQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/34476/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/GetNodesWithAspectCannedQueryFactory.java
+END
+encrypted_prop_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/30405/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/encrypted_prop_model.xml
+END
+MLPropertyInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/31657/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/MLPropertyInterceptor.java
+END
+StoreArchiveMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18931/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/StoreArchiveMap.java
+END
+NodeServicePolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/repository/source/java/org/alfresco/repo/node/NodeServicePolicies.java
+END

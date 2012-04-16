@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/30332/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/module.properties
+END
+rm-capabilities-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/16057/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-capabilities-context.xml
+END
+alfresco-global.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/30332/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/alfresco-global.properties
+END
+rm-id-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/28225/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-id-context.xml
+END
+rm-patch-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30332/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-patch-context.xml
+END
+rm-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/30560/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-service-context.xml
+END
+rm-model-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-model-context.xml
+END
+rm-webscript-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/30165/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-webscript-context.xml
+END
+rm-public-services-security-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-public-services-security-context.xml
+END
+dod5015-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/30450/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/dod5015-context.xml
+END
+module-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30663/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/module-context.xml
+END
+rm-actions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/16111/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-actions.properties
+END
+rm-job-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/30332/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-job-context.xml
+END
+rm-action-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/28225/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-action-context.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/22789/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/log4j.properties
+END
+rm-events.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/16651/alfresco/HEAD/root/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015/rm-events.properties
+END
