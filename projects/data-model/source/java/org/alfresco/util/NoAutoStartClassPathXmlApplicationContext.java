@@ -61,13 +61,12 @@ public class NoAutoStartClassPathXmlApplicationContext extends
    }
 
    protected static class NoAutoStartBeanDefinitionDocumentReader extends DefaultBeanDefinitionDocumentReader {
-      @Override
-      protected BeanDefinitionParserDelegate createHelper(
-            XmlReaderContext readerContext, Element root) {
-         BeanDefinitionParserDelegate delegate = new NoAutoStartBeanDefinitionParserDelegate(readerContext);
-         delegate.initDefaults(root);
-         return delegate;
-      }
+      //@Override
+      protected BeanDefinitionParserDelegate createHelper(XmlReaderContext readerContext, Element root) {
+    		BeanDefinitionParserDelegate delegate = new NoAutoStartBeanDefinitionParserDelegate(readerContext);
+    		delegate.initDefaults(root);
+    		return delegate;
+    	}
    }
    
    protected static class NoAutoStartBeanDefinitionParserDelegate extends BeanDefinitionParserDelegate {

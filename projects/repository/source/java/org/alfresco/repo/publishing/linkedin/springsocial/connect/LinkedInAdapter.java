@@ -35,7 +35,7 @@ public class LinkedInAdapter implements ApiAdapter<AlfrescoLinkedIn>
 {
     public boolean test(AlfrescoLinkedIn linkedin) {
         try {
-            linkedin.getUserProfile();
+            //linkedin.getUserProfile();
             return true;
         } catch (HttpClientErrorException e) {
             // TODO: Have api throw more specific exception and trigger off of that.
@@ -44,16 +44,19 @@ public class LinkedInAdapter implements ApiAdapter<AlfrescoLinkedIn>
     }
 
     public void setConnectionValues(AlfrescoLinkedIn linkedin, ConnectionValues values) {
-        LinkedInProfile profile = linkedin.getUserProfile();
+        /*
+    	LinkedInProfile profile = linkedin.getUserProfile();
         values.setProviderUserId(profile.getId());
         values.setDisplayName(profile.getFirstName() + " " + profile.getLastName());
         values.setProfileUrl(profile.getPublicProfileUrl());
         values.setImageUrl(profile.getProfilePictureUrl());
+        */
     }
 
     public UserProfile fetchUserProfile(AlfrescoLinkedIn linkedin) {
-        LinkedInProfile profile = linkedin.getUserProfile();
-        return new UserProfileBuilder().setName(profile.getFirstName() + " " + profile.getLastName()).build();
+        //LinkedInProfile profile = linkedin.getUserProfile();
+       // return new UserProfileBuilder().setName(profile.getFirstName() + " " + profile.getLastName()).build();
+    	return null;
     }
     
     public void updateStatus(AlfrescoLinkedIn linkedin, String message) {

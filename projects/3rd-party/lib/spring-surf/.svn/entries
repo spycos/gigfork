@@ -26,14 +26,14 @@ ddraper
 
 7033f55c-6c29-4ad8-afba-765cb616e738
 
-spring-webeditor-client-jsp-1.0.0.jar
+spring-cmis-framework-1.0.0.jar
 file
 
 
 
 
 2012-04-02T10:02:28.000000Z
-7b74c0a93f4302282b1e179e7af45a8d
+d66742cac561976eebd6f630b1c0cd7b
 2012-03-02T18:23:39.627241Z
 34382
 ddraper
@@ -58,48 +58,14 @@ has-props
 
 
 
-10332
-
-spring-webscripts-api-1.0.0.jar
-file
-
-
-
-
-2012-04-02T10:02:28.000000Z
-da6f0418ec79358e704492bec8789f3c
-2012-03-02T18:23:39.627241Z
-34382
-ddraper
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-71246
+20349
 
 spring-surf-1.0.0.jar
 file
 
 
 
-
+delete
 2012-04-16T14:27:28.000000Z
 72b8cf33a4b476a00c2245fcdf44be4b
 2012-04-13T14:49:17.827547Z
@@ -127,6 +93,108 @@ has-props
 
 
 668143
+
+spring-surf-api-1.0.0.jar
+file
+
+
+
+delete
+2012-04-02T10:02:28.000000Z
+ceeb5e48d0b92b1acca4daff9dfb0264
+2012-03-02T18:23:39.627241Z
+34382
+ddraper
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37689
+
+spring-surf-core-1.0.0.jar
+file
+
+
+
+delete
+2012-04-16T14:27:28.000000Z
+684ce09fab292d25099cb28f85124cc0
+2012-04-13T14:49:17.827547Z
+35232
+ddraper
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33882
+
+spring-surf-core-configservice-1.0.0.jar
+file
+
+
+
+delete
+2012-04-02T10:02:28.000000Z
+7f2656576784ec4b135b9739023949e9
+2012-03-02T18:23:39.627241Z
+34382
+ddraper
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43977
 
 spring-webeditor-1.0.0.jar
 file
@@ -162,16 +230,16 @@ has-props
 
 76477
 
-spring-surf-core-1.0.0.jar
+spring-webeditor-client-jsp-1.0.0.jar
 file
 
 
 
 
-2012-04-16T14:27:28.000000Z
-684ce09fab292d25099cb28f85124cc0
-2012-04-13T14:49:17.827547Z
-35232
+2012-04-02T10:02:28.000000Z
+7b74c0a93f4302282b1e179e7af45a8d
+2012-03-02T18:23:39.627241Z
+34382
 ddraper
 has-props
 
@@ -194,14 +262,14 @@ has-props
 
 
 
-33882
+10332
 
 spring-webscripts-1.0.0-tests.jar
 file
 
 
 
-
+delete
 2012-04-02T10:02:28.000000Z
 107a1772cfdd5670328d7f25a162c429
 2012-03-02T18:23:39.627241Z
@@ -235,7 +303,7 @@ file
 
 
 
-
+delete
 2012-04-02T14:21:12.000000Z
 771ad53b1bf948fb5a80eb5e0b9be278
 2012-04-02T10:07:33.325860Z
@@ -264,14 +332,14 @@ has-props
 
 485604
 
-spring-cmis-framework-1.0.0.jar
+spring-webscripts-api-1.0.0.jar
 file
 
 
 
-
+delete
 2012-04-02T10:02:28.000000Z
-d66742cac561976eebd6f630b1c0cd7b
+da6f0418ec79358e704492bec8789f3c
 2012-03-02T18:23:39.627241Z
 34382
 ddraper
@@ -296,73 +364,5 @@ has-props
 
 
 
-20349
-
-spring-surf-api-1.0.0.jar
-file
-
-
-
-
-2012-04-02T10:02:28.000000Z
-ceeb5e48d0b92b1acca4daff9dfb0264
-2012-03-02T18:23:39.627241Z
-34382
-ddraper
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-37689
-
-spring-surf-core-configservice-1.0.0.jar
-file
-
-
-
-
-2012-04-02T10:02:28.000000Z
-7f2656576784ec4b135b9739023949e9
-2012-03-02T18:23:39.627241Z
-34382
-ddraper
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-43977
+71246
 

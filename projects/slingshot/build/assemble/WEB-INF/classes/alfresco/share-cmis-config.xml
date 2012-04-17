@@ -23,7 +23,7 @@
             <parameter key="name" value="default"/>
             <parameter key="description" value="Local Alfresco Server"/>            
             <parameter key="org.apache.chemistry.opencmis.binding.spi.type" value="atompub"/>
-            <parameter key="org.apache.chemistry.opencmis.binding.atompub.url" value="http://localhost:8080/alfresco/cmisatom"/>
+            <parameter key="org.apache.chemistry.opencmis.binding.atompub.url" value="http://127.0.0.1:9080/alfresco/cmisatom"/>
             <parameter key="org.apache.chemistry.opencmis.binding.compression" value="true"/>
          </server>
     </cmis-servers>
