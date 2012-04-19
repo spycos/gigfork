@@ -265,6 +265,5 @@
 	<classpathentry kind="lib" path="lib/spring-surf/spring-webeditor-1.1.0-SNAPSHOT-sources.jar"/>
 	<classpathentry kind="lib" path="lib/spring-surf/spring-webeditor-application-1.1.0-SNAPSHOT-classes.jar"/>
 	<classpathentry kind="lib" path="lib/spring-surf/spring-webscripts-api-1.1.0-SNAPSHOT-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-surf/spring-surf-1.1.0-SNAPSHOT-sources.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>

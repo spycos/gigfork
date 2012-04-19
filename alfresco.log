@@ -1,0 +1,1185 @@
+10:45:18,977 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'sysAdmin' subsystem, ID: [sysAdmin, default]
+10:45:19,066 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'sysAdmin' subsystem, ID: [sysAdmin, default] complete
+10:45:28,606 WARN  [org.alfresco.util.AbstractTriggerBean] Job ehCacheTracerJob is not active/enabled
+10:45:32,572 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor Repository Template Processor for extension ftl
+10:45:32,577 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor Repository Script Processor for extension js
+10:45:39,359 INFO  [org.alfresco.repo.domain.schema.SchemaBootstrap] Schema managed by database dialect org.hibernate.dialect.MySQLInnoDBDialect.
+10:45:40,430 INFO  [org.alfresco.repo.domain.schema.SchemaBootstrap] No changes were made to the schema.
+10:45:41,467 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'Search' subsystem, ID: [Search, managed, lucene]
+10:45:41,830 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'Search' subsystem, ID: [Search, managed, lucene] complete
+10:45:42,279 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'thirdparty' subsystem, ID: [thirdparty, default]
+10:45:43,265 ERROR [org.alfresco.repo.content.transform.magick.AbstractImageMagickContentTransformerWorker] ImageMagickContentTransformerWorker not available: 03190000 Failed to perform ImageMagick transformation: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/ImageMagick-binary/bin/convert, /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_source_4070613221048574035.gif[0], /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_target_4324782707278268847.png]
+   succeeded:  true
+   exit code:  133
+   out:        
+   err:        dyld: Library not loaded: /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/libclparser.dylib
+  Referenced from: /Users/hflambo/local/ImageMagick-binary/bin/convert
+  Reason: image not found
+
+10:45:43,301 ERROR [org.alfresco.repo.content.transform.RuntimeExecutableContentTransformerWorker] Failed to start a runtime executable content transformer: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/swftools-binary/bin/pdf2swf, -V]
+   succeeded:  false
+   exit code:  1
+   out:        
+   err:        Cannot run program "/Users/hflambo/local/swftools-binary/bin/pdf2swf": error=2, No such file or directory
+10:45:43,302 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'thirdparty' subsystem, ID: [thirdparty, default] complete
+10:45:43,303 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'OOoDirect' subsystem, ID: [OOoDirect, default]
+10:45:43,638 ERROR [org.alfresco.util.exec.RuntimeExecBootstrapBean] Bootstrap command failed: 
+Execution result: 
+   os:         Mac OS X
+   command:    [soffice, -accept=socket,host=127.0.0.1,port=8100;urp;StarOffice.ServiceManager, -env:UserInstallation=file:///Users/hflambo/local/alfresco/alf_data/oouser, -nologo, -headless, -nofirststartwizard, -nocrashrep, -norestore]
+   succeeded:  false
+   exit code:  2
+   out:        
+   err:        Cannot run program "soffice": error=2, No such file or directory
+10:45:43,706 WARN  [org.alfresco.util.OpenOfficeConnectionTester] An initial OpenOffice connection could not be established.
+10:45:43,719 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'OOoDirect' subsystem, ID: [OOoDirect, default] complete
+10:45:44,810 INFO  [org.alfresco.repo.admin.ConfigurationChecker] The Alfresco root data directory ('dir.root') is: /Users/hflambo/local/alfresco/alf_data
+10:45:44,870 INFO  [org.alfresco.repo.admin.patch.PatchExecuter] Checking for patches to apply ...
+10:45:46,724 INFO  [org.alfresco.repo.admin.patch.PatchExecuter] No patches were required.
+10:45:46,732 INFO  [org.alfresco.repo.module.ModuleServiceImpl] Found 0 module(s).
+10:45:46,775 WARN  [org.alfresco.repo.module.ModuleServiceImpl] A previously-installed module 'OptarosStatus' (version 0.2) is not present in your distribution.
+10:45:46,787 WARN  [org.alfresco.repo.module.ModuleServiceImpl] A previously-installed module 'org_alfresco_module_wcmquickstart' (version 1.0) is not present in your distribution.
+10:45:46,789 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'fileServers' subsystem, ID: [fileServers, default]
+10:45:47,300 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1]
+10:45:47,464 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1] complete
+10:45:47,486 WARN  [org.alfresco.fileserver] CIFS, Unable to get local domain/workgroup name, using default of WORKGROUP. This may be due to firewall settings or incorrect <broadcast> setting)
+10:45:47,519 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'fileServers' subsystem, ID: [fileServers, default] complete
+10:45:47,519 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'imap' subsystem, ID: [imap, default]
+10:45:47,519 ERROR [org.alfresco.fileserver] [FTP] FTP Socket error : java.net.BindException: Permission denied
+10:45:47,530 ERROR [org.alfresco.fileserver] [SMB] Server error : org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+10:45:47,533 ERROR [org.alfresco.fileserver] Error from JLAN
+org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+	at org.alfresco.jlan.smb.server.nio.NIOCifsConnectionsHandler.initializeHandler(NIOCifsConnectionsHandler.java:259)
+	at org.alfresco.jlan.smb.server.SMBServer.run(SMBServer.java:479)
+	at java.lang.Thread.run(Thread.java:680)
+10:45:47,533 ERROR [org.alfresco.fileserver] Error from JLAN
+java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at java.net.ServerSocket.<init>(ServerSocket.java:150)
+	at org.alfresco.jlan.ftp.FTPServer.run(FTPServer.java:554)
+	at java.lang.Thread.run(Thread.java:680)
+10:45:49,768 INFO  [org.alfresco.repo.imap.AlfrescoImapServer] IMAP service started on host:port localhost:143
+10:45:49,769 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'imap' subsystem, ID: [imap, default] complete
+10:45:49,769 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'email' subsystem, ID: [email, outbound]
+10:45:49,821 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'email' subsystem, ID: [email, outbound] complete
+10:45:49,821 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'email' subsystem, ID: [email, inbound]
+10:45:49,893 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'email' subsystem, ID: [email, inbound] complete
+10:45:49,893 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'googledocs' subsystem, ID: [googledocs, default]
+10:45:49,991 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'googledocs' subsystem, ID: [googledocs, default] complete
+10:45:49,991 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'Subscriptions' subsystem, ID: [Subscriptions, default]
+10:45:50,008 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'Subscriptions' subsystem, ID: [Subscriptions, default] complete
+10:45:50,033 INFO  [org.alfresco.repo.usage.UserUsageTrackingComponent] Disabled - clear non-missing user usages ...
+10:45:50,044 INFO  [org.alfresco.repo.usage.UserUsageTrackingComponent] Found 0 users to clear
+10:45:50,044 INFO  [org.alfresco.repo.usage.UserUsageTrackingComponent] ... cleared non-missing usages for 0 users
+10:45:50,044 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'Synchronization' subsystem, ID: [Synchronization, default]
+10:45:50,108 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'Synchronization' subsystem, ID: [Synchronization, default] complete
+10:45:50,158 INFO  [org.alfresco.service.descriptor.DescriptorService] Alfresco JVM - v1.6.0_31-b04-415-11M3635; maximum heap size 682.688MB
+10:45:50,162 INFO  [org.alfresco.service.descriptor.DescriptorService] Alfresco started (Community). Current version: 4.1.1 (@build-number@) schema 6,004. Originally installed version: 4.1.1 (@build-number@) schema 6,003.
+10:45:50,163 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default]
+10:45:50,257 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default] complete
+10:45:50,257 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Starting 'Replication' subsystem, ID: [Replication, default]
+10:45:50,278 INFO  [org.alfresco.repo.management.subsystems.ChildApplicationContextFactory] Startup of 'Replication' subsystem, ID: [Replication, default] complete
+10:45:51,519 ERROR [org.alfresco.repo.action.executer.MailActionExecuter] Failed to send email to hflambo@gmail.com
+org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+; message exception details (1) are:
+Failed message 1:
+com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:1388)
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:959)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:583)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:416)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+10:45:51,524 WARN  [org.alfresco.repo.activities.feed.FeedNotifier] FeedNotifier: Failed to process entry "Person admin".
+org.alfresco.error.AlfrescoRuntimeException: 03190001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+10:45:51,559 ERROR [org.alfresco.repo.activities.feed.FeedNotifier] FeedNotifier: 1 error(s) detected. Last error from entry "Person admin"
+org.alfresco.error.AlfrescoRuntimeException: 03190001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+10:45:59,458 WARN  [org.springframework.extensions.webscripts.DeclarativeRegistry] Unable to register script classpath:webscripts/org/springframework/extensions/cmis/content.get.desc.xml due to error: 03190000 Web Script document org/springframework/extensions/cmis/content.get.desc.xml is attempting to define the url '/cmis/content:GET' already defined by org/alfresco/cmis/client/content.get.desc.xml
+10:45:59,459 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 464 Web Scripts (+1 failed), 735 URLs
+10:45:59,459 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 2 Package Description Documents (+0 failed) 
+10:45:59,459 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 1 Schema Description Documents (+0 failed) 
+10:45:59,462 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] Initialised Repository Web Script Container (in 7137.7397ms)
+10:45:59,471 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+10:45:59,473 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+10:46:38,261 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+10:46:38,383 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+10:46:38,384 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+10:46:38,392 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+10:46:42,379 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 313 Web Scripts (+0 failed), 324 URLs
+10:46:42,379 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 8 Package Description Documents (+0 failed) 
+10:46:42,379 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 0 Schema Description Documents (+0 failed) 
+10:46:42,642 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] Initialised Spring Surf Container Web Script Container (in 4238.8867ms)
+10:46:42,649 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+10:46:42,653 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+10:46:59,268 WARN  [org.alfresco.web.bean.LoginBean] Security violation. Unable to redirect to external location: 
+10:47:07,054 INFO  [org.alfresco.web.site.EditionInterceptor] Unable to retrieve License information from Alfresco: 404
+10:51:53,680 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+10:51:53,815 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+10:51:53,816 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+10:51:53,822 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+10:51:57,005 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 313 Web Scripts (+0 failed), 324 URLs
+10:51:57,005 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 8 Package Description Documents (+0 failed) 
+10:51:57,006 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] Registered 0 Schema Description Documents (+0 failed) 
+10:51:57,307 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] Initialised Spring Surf Container Web Script Container (in 3465.962ms)
+10:51:57,315 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] Registered template processor freemarker for extension ftl
+10:51:57,319 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] Registered script processor javascript for extension js
+10:52:49,462 INFO  [org.alfresco.web.site.EditionInterceptor] Successfully retrieved license information from Alfresco.
+10:52:49,532 WARN  [org.springframework.extensions.surf.RequestContextUtil] Unable to locate theme model object with ID: redTheme
+10:52:51,619 ERROR [org.springframework.extensions.surf.ModuleDeploymentService] Could not save module deployment for: "Alfresco Portlet Extension"
+10:52:51,863 ERROR [freemarker.runtime] Template processing error: "Expression (page.url.args.theme!theme) is undefined on line 9, column 18 in org/alfresco/include/alfresco-template.ftl."
+
+Expression (page.url.args.theme!theme) is undefined on line 9, column 18 in org/alfresco/include/alfresco-template.ftl.
+The problematic instruction:
+----------
+==> assignment: theme=(page.url.args.theme!theme)?html [on line 9, column 1 in org/alfresco/include/alfresco-template.ftl]
+ in include "../include/alfresco-template.ftl" [on line 1, column 1 in org/alfresco/global/slingshot-login.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression (page.url.args.theme!theme) is undefined on line 9, column 18 in org/alfresco/include/alfresco-template.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.include(Environment.java:1508)
+	at freemarker.core.Include.accept(Include.java:169)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	at org.springframework.extensions.webscripts.WebTemplateProcessor.executeBody(WebTemplateProcessor.java:438)
+	at org.springframework.extensions.surf.render.AbstractProcessor.execute(AbstractProcessor.java:57)
+	at org.springframework.extensions.surf.render.RenderService.processTemplate(RenderService.java:721)
+	at org.springframework.extensions.surf.render.bean.TemplateInstanceRenderer.calculateComponentDependencies(TemplateInstanceRenderer.java:61)
+	at org.springframework.extensions.surf.render.bean.TemplateInstanceRenderer.body(TemplateInstanceRenderer.java:118)
+	at org.springframework.extensions.surf.render.AbstractRenderer.render(AbstractRenderer.java:77)
+	at org.springframework.extensions.surf.render.bean.PageRenderer.body(PageRenderer.java:85)
+	at org.springframework.extensions.surf.render.AbstractRenderer.render(AbstractRenderer.java:77)
+	at org.springframework.extensions.surf.render.RenderService.renderPage(RenderService.java:762)
+	at org.springframework.extensions.surf.mvc.PageView.dispatchPage(PageView.java:419)
+	at org.springframework.extensions.surf.mvc.PageView.renderView(PageView.java:258)
+	at org.springframework.extensions.surf.mvc.AbstractWebFrameworkView.renderMergedOutputModel(AbstractWebFrameworkView.java:316)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+10:52:51,879 ERROR [org.springframework.extensions.surf.render.RenderService] Unable to process template: slingshot-login
+10:52:51,879 ERROR [org.springframework.extensions.surf.render.RenderService] An exception occurred while rendering: slingshot-login
+org.springframework.extensions.surf.exception.RendererExecutionException: WebTemplateProcessor failed to process template uri: org/alfresco/global/slingshot-login
+	at org.springframework.extensions.webscripts.WebTemplateProcessor.executeBody(WebTemplateProcessor.java:467)
+	at org.springframework.extensions.surf.render.AbstractProcessor.execute(AbstractProcessor.java:57)
+	at org.springframework.extensions.surf.render.RenderService.processTemplate(RenderService.java:721)
+	at org.springframework.extensions.surf.render.bean.TemplateInstanceRenderer.calculateComponentDependencies(TemplateInstanceRenderer.java:61)
+	at org.springframework.extensions.surf.render.bean.TemplateInstanceRenderer.body(TemplateInstanceRenderer.java:118)
+	at org.springframework.extensions.surf.render.AbstractRenderer.render(AbstractRenderer.java:77)
+	at org.springframework.extensions.surf.render.bean.PageRenderer.body(PageRenderer.java:85)
+	at org.springframework.extensions.surf.render.AbstractRenderer.render(AbstractRenderer.java:77)
+	at org.springframework.extensions.surf.render.RenderService.renderPage(RenderService.java:762)
+	at org.springframework.extensions.surf.mvc.PageView.dispatchPage(PageView.java:419)
+	at org.springframework.extensions.surf.mvc.PageView.renderView(PageView.java:258)
+	at org.springframework.extensions.surf.mvc.AbstractWebFrameworkView.renderMergedOutputModel(AbstractWebFrameworkView.java:316)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.extensions.webscripts.WebScriptException: 03190000 Failed to process template org/alfresco/global/slingshot-login.ftl
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:175)
+	at org.springframework.extensions.webscripts.WebTemplateProcessor.executeBody(WebTemplateProcessor.java:438)
+	... 37 more
+Caused by: freemarker.core.InvalidReferenceException: Expression (page.url.args.theme!theme) is undefined on line 9, column 18 in org/alfresco/include/alfresco-template.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.include(Environment.java:1508)
+	at freemarker.core.Include.accept(Include.java:169)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	... 38 more
+10:54:19,812 ERROR [freemarker.runtime] Template processing error: "Expression args.htmlid is undefined on line 7, column 16 in org/alfresco/components/console/generic-form-tool.lib.ftl."
+
+Expression args.htmlid is undefined on line 7, column 16 in org/alfresco/components/console/generic-form-tool.lib.ftl.
+The problematic instruction:
+----------
+==> assignment: el=args.htmlid?html [on line 7, column 4 in org/alfresco/components/console/generic-form-tool.lib.ftl]
+ in user-directive gft.renderPanel [on line 2, column 1 in org/alfresco/components/console/transformations/ooojodconverter.get.html.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 7, column 16 in org/alfresco/components/console/generic-form-tool.lib.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Macro$Context.runMacro(Macro.java:172)
+	at freemarker.core.Environment.visit(Environment.java:614)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:106)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+10:54:19,815 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] Exception from executeScript - redirecting to status template error: 03190001 Failed to process template org/alfresco/components/console/transformations/ooojodconverter.get.html.ftl
+org.springframework.extensions.webscripts.WebScriptException: 03190001 Failed to process template org/alfresco/components/console/transformations/ooojodconverter.get.html.ftl
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:175)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 7, column 16 in org/alfresco/components/console/generic-form-tool.lib.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Macro$Context.runMacro(Macro.java:172)
+	at freemarker.core.Environment.visit(Environment.java:614)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:106)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	... 34 more
+10:54:37,605 ERROR [freemarker.runtime] Template processing error: "Expression args.htmlid is undefined on line 6, column 13 in org/alfresco/components/console/application.get.html.ftl."
+
+Expression args.htmlid is undefined on line 6, column 13 in org/alfresco/components/console/application.get.html.ftl.
+The problematic instruction:
+----------
+==> assignment: el=args.htmlid?html [on line 6, column 1 in org/alfresco/components/console/application.get.html.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 6, column 13 in org/alfresco/components/console/application.get.html.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+10:54:37,606 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] Exception from executeScript - redirecting to status template error: 03190002 Failed to process template org/alfresco/components/console/application.get.html.ftl
+org.springframework.extensions.webscripts.WebScriptException: 03190002 Failed to process template org/alfresco/components/console/application.get.html.ftl
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:175)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 6, column 13 in org/alfresco/components/console/application.get.html.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	... 34 more
+10:54:43,913 ERROR [freemarker.runtime] Template processing error: "Expression args.htmlid is undefined on line 1, column 13 in org/alfresco/components/console/category-manager.get.html.ftl."
+
+Expression args.htmlid is undefined on line 1, column 13 in org/alfresco/components/console/category-manager.get.html.ftl.
+The problematic instruction:
+----------
+==> assignment: el=args.htmlid?html [on line 1, column 1 in org/alfresco/components/console/category-manager.get.html.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 1, column 13 in org/alfresco/components/console/category-manager.get.html.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+10:54:43,914 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] Exception from executeScript - redirecting to status template error: 03190003 Failed to process template org/alfresco/components/console/category-manager.get.html.ftl
+org.springframework.extensions.webscripts.WebScriptException: 03190003 Failed to process template org/alfresco/components/console/category-manager.get.html.ftl
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:175)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 1, column 13 in org/alfresco/components/console/category-manager.get.html.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	... 34 more
+10:55:52,339 ERROR [freemarker.runtime] Template processing error: "Expression args.htmlid is undefined on line 7, column 16 in org/alfresco/components/console/generic-form-tool.lib.ftl."
+
+Expression args.htmlid is undefined on line 7, column 16 in org/alfresco/components/console/generic-form-tool.lib.ftl.
+The problematic instruction:
+----------
+==> assignment: el=args.htmlid?html [on line 7, column 4 in org/alfresco/components/console/generic-form-tool.lib.ftl]
+ in user-directive gft.renderPanel [on line 2, column 1 in org/alfresco/components/console/repository/fileservers.get.html.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 7, column 16 in org/alfresco/components/console/generic-form-tool.lib.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Macro$Context.runMacro(Macro.java:172)
+	at freemarker.core.Environment.visit(Environment.java:614)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:106)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+10:55:52,341 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] Exception from executeScript - redirecting to status template error: 03190004 Failed to process template org/alfresco/components/console/repository/fileservers.get.html.ftl
+org.springframework.extensions.webscripts.WebScriptException: 03190004 Failed to process template org/alfresco/components/console/repository/fileservers.get.html.ftl
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:175)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 7, column 16 in org/alfresco/components/console/generic-form-tool.lib.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.StringBuiltins$StringBuiltIn._getAsTemplateModel(StringBuiltins.java:71)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Assignment.accept(Assignment.java:90)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Macro$Context.runMacro(Macro.java:172)
+	at freemarker.core.Environment.visit(Environment.java:614)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:106)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	... 34 more
+10:56:05,425 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] Exception from executeScript - redirecting to status template error: 03190006 Failed to execute script 'classpath*:alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js': 03190005 ReferenceError: "page" is not defined. (file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js#276)
+org.springframework.extensions.webscripts.WebScriptException: 03190006 Failed to execute script 'classpath*:alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js': 03190005 ReferenceError: "page" is not defined. (file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js#276)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScript(JSScriptProcessor.java:200)
+	at org.springframework.extensions.webscripts.AbstractWebScript.executeScript(AbstractWebScript.java:1285)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:86)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.extensions.webscripts.WebScriptException: 03190005 ReferenceError: "page" is not defined. (file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js#276)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScriptImpl(JSScriptProcessor.java:328)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScript(JSScriptProcessor.java:192)
+	... 33 more
+Caused by: org.mozilla.javascript.EcmaError: ReferenceError: "page" is not defined. (file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js#276)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3350)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3340)
+	at org.mozilla.javascript.ScriptRuntime.notFoundError(ScriptRuntime.java:3413)
+	at org.mozilla.javascript.ScriptRuntime.nameOrFunction(ScriptRuntime.java:1678)
+	at org.mozilla.javascript.ScriptRuntime.name(ScriptRuntime.java:1617)
+	at org.mozilla.javascript.gen.c5._c6(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js:276)
+	at org.mozilla.javascript.gen.c5.call(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:108)
+	at org.mozilla.javascript.gen.c5._c0(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js:294)
+	at org.mozilla.javascript.gen.c5.call(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:2834)
+	at org.mozilla.javascript.gen.c5.call(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js)
+	at org.mozilla.javascript.gen.c5.exec(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScriptImpl(JSScriptProcessor.java:318)
+	... 34 more
+10:56:08,413 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] Exception from executeScript - redirecting to status template error: 03190008 Failed to execute script 'classpath*:alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js': 03190007 ReferenceError: "page" is not defined. (file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js#276)
+org.springframework.extensions.webscripts.WebScriptException: 03190008 Failed to execute script 'classpath*:alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js': 03190007 ReferenceError: "page" is not defined. (file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js#276)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScript(JSScriptProcessor.java:200)
+	at org.springframework.extensions.webscripts.AbstractWebScript.executeScript(AbstractWebScript.java:1285)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:86)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.extensions.webscripts.WebScriptException: 03190007 ReferenceError: "page" is not defined. (file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js#276)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScriptImpl(JSScriptProcessor.java:328)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScript(JSScriptProcessor.java:192)
+	... 33 more
+Caused by: org.mozilla.javascript.EcmaError: ReferenceError: "page" is not defined. (file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js#276)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3350)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3340)
+	at org.mozilla.javascript.ScriptRuntime.notFoundError(ScriptRuntime.java:3413)
+	at org.mozilla.javascript.ScriptRuntime.nameOrFunction(ScriptRuntime.java:1678)
+	at org.mozilla.javascript.ScriptRuntime.name(ScriptRuntime.java:1617)
+	at org.mozilla.javascript.gen.c6._c6(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js:276)
+	at org.mozilla.javascript.gen.c6.call(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName0(OptRuntime.java:108)
+	at org.mozilla.javascript.gen.c6._c0(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js:294)
+	at org.mozilla.javascript.gen.c6.call(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:2834)
+	at org.mozilla.javascript.gen.c6.call(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js)
+	at org.mozilla.javascript.gen.c6.exec(file:/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35-app/webapps/share/WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js)
+	at org.springframework.extensions.webscripts.processor.JSScriptProcessor.executeScriptImpl(JSScriptProcessor.java:318)
+	... 34 more
+10:56:41,898 ERROR [freemarker.runtime] Template processing error: "Error on line 1, column 1 in org/alfresco/components/dashlets/my-activities.get.html.ftl\nargs.htmlid is undefined.\nIt cannot be assigned to id"
+
+Error on line 1, column 1 in org/alfresco/components/dashlets/my-activities.get.html.ftl
+args.htmlid is undefined.
+It cannot be assigned to id
+The problematic instruction:
+----------
+==> assignment: id=args.htmlid [on line 1, column 1 in org/alfresco/components/dashlets/my-activities.get.html.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Error on line 1, column 1 in org/alfresco/components/dashlets/my-activities.get.html.ftl
+args.htmlid is undefined.
+It cannot be assigned to id
+	at freemarker.core.Assignment.accept(Assignment.java:111)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+10:56:41,899 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] Exception from executeScript - redirecting to status template error: 03190009 Failed to process template org/alfresco/components/dashlets/my-activities.get.html.ftl
+org.springframework.extensions.webscripts.WebScriptException: 03190009 Failed to process template org/alfresco/components/dashlets/my-activities.get.html.ftl
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:175)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: freemarker.core.InvalidReferenceException: Error on line 1, column 1 in org/alfresco/components/dashlets/my-activities.get.html.ftl
+args.htmlid is undefined.
+It cannot be assigned to id
+	at freemarker.core.Assignment.accept(Assignment.java:111)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	... 34 more
+10:56:53,944 ERROR [freemarker.runtime] Template processing error: "Expression args.htmlid is undefined on line 4, column 41 in org/alfresco/components/dashlets/calendar.get.html.ftl."
+
+Expression args.htmlid is undefined on line 4, column 41 in org/alfresco/components/dashlets/calendar.get.html.ftl.
+The problematic instruction:
+----------
+==> ${args.htmlid} [on line 4, column 39 in org/alfresco/components/dashlets/calendar.get.html.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 4, column 41 in org/alfresco/components/dashlets/calendar.get.html.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+10:56:53,945 ERROR [org.springframework.extensions.webscripts.AbstractRuntime] Exception from executeScript - redirecting to status template error: 03190010 Failed to process template org/alfresco/components/dashlets/calendar.get.html.ftl
+org.springframework.extensions.webscripts.WebScriptException: 03190010 Failed to process template org/alfresco/components/dashlets/calendar.get.html.ftl
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:175)
+	at org.springframework.extensions.webscripts.AbstractWebScript.renderTemplate(AbstractWebScript.java:855)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.renderFormatTemplate(DeclarativeWebScript.java:267)
+	at org.springframework.extensions.webscripts.DeclarativeWebScript.execute(DeclarativeWebScript.java:147)
+	at org.springframework.extensions.webscripts.PresentationContainer.executeScript(PresentationContainer.java:70)
+	at org.springframework.extensions.webscripts.LocalWebScriptRuntimeContainer.executeScript(LocalWebScriptRuntimeContainer.java:240)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:372)
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:209)
+	at org.springframework.extensions.webscripts.servlet.mvc.WebScriptView.renderMergedOutputModel(WebScriptView.java:104)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:355)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: freemarker.core.InvalidReferenceException: Expression args.htmlid is undefined on line 4, column 41 in org/alfresco/components/dashlets/calendar.get.html.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:125)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:221)
+	at freemarker.core.Environment.process(Environment.java:199)
+	at org.springframework.extensions.webscripts.processor.FTLTemplateProcessor.process(FTLTemplateProcessor.java:171)
+	... 34 more

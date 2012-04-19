@@ -1,0 +1,1340 @@
+Apr 18, 2012 8:53:52 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 8:53:52 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-9080
+Apr 18, 2012 8:53:52 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 710 ms
+Apr 18, 2012 8:53:52 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 8:53:52 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 8:53:52 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor alfresco.xml
+Apr 18, 2012 8:54:10 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "org.apache.myfaces.webapp.StartupServletContextListener" is already configured for this context. The duplicate definition has been ignored.
+2012-04-18 20:54:32,879  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'sysAdmin' subsystem, ID: [sysAdmin, default]
+ 2012-04-18 20:54:33,011  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'sysAdmin' subsystem, ID: [sysAdmin, default] complete
+ 2012-04-18 20:54:43,772  WARN  [alfresco.util.AbstractTriggerBean] [main] Job ehCacheTracerJob is not active/enabled
+ 2012-04-18 20:54:47,546  INFO  [extensions.webscripts.TemplateProcessorRegistry] [main] Registered template processor Repository Template Processor for extension ftl
+ 2012-04-18 20:54:47,550  INFO  [extensions.webscripts.ScriptProcessorRegistry] [main] Registered script processor Repository Script Processor for extension js
+ 2012-04-18 20:54:54,283  INFO  [domain.schema.SchemaBootstrap] [main] Schema managed by database dialect org.hibernate.dialect.MySQLInnoDBDialect.
+ 2012-04-18 20:54:55,168  INFO  [domain.schema.SchemaBootstrap] [main] No changes were made to the schema.
+ 2012-04-18 20:54:56,702  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Search' subsystem, ID: [Search, managed, lucene]
+ 2012-04-18 20:54:57,128  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Search' subsystem, ID: [Search, managed, lucene] complete
+ 2012-04-18 20:54:57,596  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'thirdparty' subsystem, ID: [thirdparty, default]
+ 2012-04-18 20:54:58,702  ERROR [transform.magick.AbstractImageMagickContentTransformerWorker] [main] ImageMagickContentTransformerWorker not available: 03180000 Failed to perform ImageMagick transformation: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/ImageMagick-binary/bin/convert, /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_source_4651159502151233939.gif[0], /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_target_4071585255079799720.png]
+   succeeded:  true
+   exit code:  133
+   out:        
+   err:        dyld: Library not loaded: /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/libclparser.dylib
+  Referenced from: /Users/hflambo/local/ImageMagick-binary/bin/convert
+  Reason: image not found
+
+ 2012-04-18 20:54:58,789  ERROR [content.transform.RuntimeExecutableContentTransformerWorker] [main] Failed to start a runtime executable content transformer: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/swftools-binary/bin/pdf2swf, -V]
+   succeeded:  false
+   exit code:  1
+   out:        
+   err:        Cannot run program "/Users/hflambo/local/swftools-binary/bin/pdf2swf": error=2, No such file or directory
+ 2012-04-18 20:54:58,790  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'thirdparty' subsystem, ID: [thirdparty, default] complete
+ 2012-04-18 20:54:58,791  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'OOoDirect' subsystem, ID: [OOoDirect, default]
+ 2012-04-18 20:54:59,101  ERROR [util.exec.RuntimeExecBootstrapBean] [main] Bootstrap command failed: 
+Execution result: 
+   os:         Mac OS X
+   command:    [soffice, -accept=socket,host=127.0.0.1,port=8100;urp;StarOffice.ServiceManager, -env:UserInstallation=file:///Users/hflambo/local/alfresco/alf_data/oouser, -nologo, -headless, -nofirststartwizard, -nocrashrep, -norestore]
+   succeeded:  false
+   exit code:  2
+   out:        
+   err:        Cannot run program "soffice": error=2, No such file or directory
+ 2012-04-18 20:54:59,603  WARN  [alfresco.util.OpenOfficeConnectionTester] [main] An initial OpenOffice connection could not be established.
+ 2012-04-18 20:54:59,614  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'OOoDirect' subsystem, ID: [OOoDirect, default] complete
+ 2012-04-18 20:55:00,691  INFO  [repo.admin.ConfigurationChecker] [main] The Alfresco root data directory ('dir.root') is: /Users/hflambo/local/alfresco/alf_data
+ 2012-04-18 20:55:00,764  INFO  [admin.patch.PatchExecuter] [main] Checking for patches to apply ...
+ 2012-04-18 20:55:02,438  INFO  [admin.patch.PatchExecuter] [main] No patches were required.
+ 2012-04-18 20:55:02,445  INFO  [repo.module.ModuleServiceImpl] [main] Found 0 module(s).
+ 2012-04-18 20:55:02,490  WARN  [repo.module.ModuleServiceImpl] [main] A previously-installed module 'OptarosStatus' (version 0.2) is not present in your distribution.
+ 2012-04-18 20:55:02,503  WARN  [repo.module.ModuleServiceImpl] [main] A previously-installed module 'org_alfresco_module_wcmquickstart' (version 1.0) is not present in your distribution.
+ 2012-04-18 20:55:02,506  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'fileServers' subsystem, ID: [fileServers, default]
+ 2012-04-18 20:55:03,001  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1]
+ 2012-04-18 20:55:03,150  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1] complete
+ 2012-04-18 20:55:08,169  WARN  [org.alfresco.fileserver] [main] CIFS, Unable to get local domain/workgroup name, using default of WORKGROUP. This may be due to firewall settings or incorrect <broadcast> setting)
+ 2012-04-18 20:55:08,201  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'fileServers' subsystem, ID: [fileServers, default] complete
+ 2012-04-18 20:55:08,202  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'imap' subsystem, ID: [imap, default]
+ 2012-04-18 20:55:08,202  ERROR [org.alfresco.fileserver] [FTP Server] [FTP] FTP Socket error : java.net.BindException: Permission denied
+ 2012-04-18 20:55:08,205  ERROR [org.alfresco.fileserver] [CIFS Server] [SMB] Server error : org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+ 2012-04-18 20:55:08,211  ERROR [org.alfresco.fileserver] [FTP Server] Error from JLAN
+ java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at java.net.ServerSocket.<init>(ServerSocket.java:150)
+	at org.alfresco.jlan.ftp.FTPServer.run(FTPServer.java:554)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 20:55:08,214  ERROR [org.alfresco.fileserver] [CIFS Server] Error from JLAN
+ org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+	at org.alfresco.jlan.smb.server.nio.NIOCifsConnectionsHandler.initializeHandler(NIOCifsConnectionsHandler.java:259)
+	at org.alfresco.jlan.smb.server.SMBServer.run(SMBServer.java:479)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 20:55:10,407  INFO  [repo.imap.AlfrescoImapServer] [main] IMAP service started on host:port localhost:143
+ 2012-04-18 20:55:10,407  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'imap' subsystem, ID: [imap, default] complete
+ 2012-04-18 20:55:10,408  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'email' subsystem, ID: [email, outbound]
+ Exception in thread "Thread-51" java.lang.RuntimeException: java.net.BindException: Permission denied
+	at com.icegreen.greenmail.imap.ImapServer.run(ImapServer.java:67)
+Caused by: java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at com.icegreen.greenmail.imap.ImapServer.openServerSocket(ImapServer.java:35)
+	at com.icegreen.greenmail.imap.ImapServer.run(ImapServer.java:65)
+2012-04-18 20:55:10,458  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'email' subsystem, ID: [email, outbound] complete
+ 2012-04-18 20:55:10,458  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'email' subsystem, ID: [email, inbound]
+ 2012-04-18 20:55:10,525  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'email' subsystem, ID: [email, inbound] complete
+ 2012-04-18 20:55:10,525  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'googledocs' subsystem, ID: [googledocs, default]
+ 2012-04-18 20:55:10,608  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'googledocs' subsystem, ID: [googledocs, default] complete
+ 2012-04-18 20:55:10,608  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Subscriptions' subsystem, ID: [Subscriptions, default]
+ 2012-04-18 20:55:10,657  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Subscriptions' subsystem, ID: [Subscriptions, default] complete
+ 2012-04-18 20:55:10,658  INFO  [repo.usage.UserUsageTrackingComponent] [main] Disabled - clear non-missing user usages ...
+ 2012-04-18 20:55:10,667  INFO  [repo.usage.UserUsageTrackingComponent] [main] Found 0 users to clear
+ 2012-04-18 20:55:10,667  INFO  [repo.usage.UserUsageTrackingComponent] [main] ... cleared non-missing usages for 0 users
+ 2012-04-18 20:55:10,667  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Synchronization' subsystem, ID: [Synchronization, default]
+ 2012-04-18 20:55:10,724  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Synchronization' subsystem, ID: [Synchronization, default] complete
+ 2012-04-18 20:55:10,755  INFO  [service.descriptor.DescriptorService] [main] Alfresco JVM - v1.6.0_31-b04-415-11M3635; maximum heap size 682.688MB
+ 2012-04-18 20:55:10,760  INFO  [service.descriptor.DescriptorService] [main] Alfresco started (Community). Current version: 4.1.1 (@build-number@) schema 6,004. Originally installed version: 4.1.1 (@build-number@) schema 6,003.
+ 2012-04-18 20:55:10,762  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default]
+ 2012-04-18 20:55:10,845  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default] complete
+ 2012-04-18 20:55:10,845  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Replication' subsystem, ID: [Replication, default]
+ 2012-04-18 20:55:10,863  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Replication' subsystem, ID: [Replication, default] complete
+ 2012-04-18 20:55:14,170  ERROR [action.executer.MailActionExecuter] [FeedNotifier1] Failed to send email to hflambo@gmail.com
+ org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. fn2sm58205039wib.0
+; message exception details (1) are:
+Failed message 1:
+com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. fn2sm58205039wib.0
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:1388)
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:959)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:583)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:416)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 20:55:14,176  WARN  [activities.feed.FeedNotifier] [FeedNotifier1] FeedNotifier: Failed to process entry "Person admin".
+ org.alfresco.error.AlfrescoRuntimeException: 03180001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. fn2sm58205039wib.0
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. fn2sm58205039wib.0
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+2012-04-18 20:55:14,198  ERROR [activities.feed.FeedNotifier] [DefaultScheduler_Worker-5] FeedNotifier: 1 error(s) detected. Last error from entry "Person admin"
+ org.alfresco.error.AlfrescoRuntimeException: 03180001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. fn2sm58205039wib.0
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. fn2sm58205039wib.0
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+2012-04-18 20:55:19,480  WARN  [extensions.webscripts.DeclarativeRegistry] [main] Unable to register script classpath:webscripts/org/springframework/extensions/cmis/content.get.desc.xml due to error: 03180000 Web Script document org/springframework/extensions/cmis/content.get.desc.xml is attempting to define the url '/cmis/content:GET' already defined by org/alfresco/cmis/client/content.get.desc.xml
+ 2012-04-18 20:55:19,481  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 464 Web Scripts (+1 failed), 735 URLs
+ 2012-04-18 20:55:19,481  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 2 Package Description Documents (+0 failed) 
+ 2012-04-18 20:55:19,481  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 1 Schema Description Documents (+0 failed) 
+ 2012-04-18 20:55:19,483  INFO  [extensions.webscripts.AbstractRuntimeContainer] [main] Initialised Repository Web Script Container (in 6842.418ms)
+ 2012-04-18 20:55:19,492  INFO  [extensions.webscripts.TemplateProcessorRegistry] [main] Registered template processor freemarker for extension ftl
+ 2012-04-18 20:55:19,493  INFO  [extensions.webscripts.ScriptProcessorRegistry] [main] Registered script processor javascript for extension js
+ Apr 18, 2012 8:55:23 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-9080
+Apr 18, 2012 8:55:23 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:9009
+Apr 18, 2012 8:55:23 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/32  config=null
+Apr 18, 2012 8:55:23 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 90428 ms
+2012-04-18 21:00:02,847  ERROR [node.db.DeletedNodeCleanupWorker] [DefaultScheduler_Worker-4] Failed to purge txns.  Set log level to WARN for this class to get exception log: 
+   From commit time:      1331060679683
+   To commit time (ms):   1331067879683
+   Error:       
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'txn
+        where not exists
+        (
+            select 1
+            from
+   ' at line 2
+### The error may involve alfresco.node.delete_Txns_Unused-Inline
+### The error occurred while setting parameters
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'txn
+        where not exists
+        (
+            select 1
+            from
+   ' at line 2
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'txn
+        where not exists
+        (
+            select 1
+            from
+   ' at line 2
+ Apr 18, 2012 9:19:26 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 9:19:26 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-9080
+Apr 18, 2012 9:19:26 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 664 ms
+Apr 18, 2012 9:19:26 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 9:19:26 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 9:19:26 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor alfresco.xml
+Apr 18, 2012 9:19:28 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "org.apache.myfaces.webapp.StartupServletContextListener" is already configured for this context. The duplicate definition has been ignored.
+2012-04-18 21:19:44,609  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'sysAdmin' subsystem, ID: [sysAdmin, default]
+ 2012-04-18 21:19:44,676  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'sysAdmin' subsystem, ID: [sysAdmin, default] complete
+ 2012-04-18 21:19:54,872  WARN  [alfresco.util.AbstractTriggerBean] [main] Job ehCacheTracerJob is not active/enabled
+ 2012-04-18 21:19:59,144  INFO  [extensions.webscripts.TemplateProcessorRegistry] [main] Registered template processor Repository Template Processor for extension ftl
+ 2012-04-18 21:19:59,149  INFO  [extensions.webscripts.ScriptProcessorRegistry] [main] Registered script processor Repository Script Processor for extension js
+ 2012-04-18 21:20:06,538  INFO  [domain.schema.SchemaBootstrap] [main] Schema managed by database dialect org.hibernate.dialect.MySQLInnoDBDialect.
+ 2012-04-18 21:20:07,444  INFO  [domain.schema.SchemaBootstrap] [main] No changes were made to the schema.
+ 2012-04-18 21:20:08,594  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Search' subsystem, ID: [Search, managed, lucene]
+ 2012-04-18 21:20:09,052  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Search' subsystem, ID: [Search, managed, lucene] complete
+ 2012-04-18 21:20:09,552  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'thirdparty' subsystem, ID: [thirdparty, default]
+ 2012-04-18 21:20:10,504  ERROR [transform.magick.AbstractImageMagickContentTransformerWorker] [main] ImageMagickContentTransformerWorker not available: 03180000 Failed to perform ImageMagick transformation: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/ImageMagick-binary/bin/convert, /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_source_4547906495886005576.gif[0], /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_target_418826182231353730.png]
+   succeeded:  true
+   exit code:  133
+   out:        
+   err:        dyld: Library not loaded: /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/libclparser.dylib
+  Referenced from: /Users/hflambo/local/ImageMagick-binary/bin/convert
+  Reason: image not found
+
+ 2012-04-18 21:20:10,532  ERROR [content.transform.RuntimeExecutableContentTransformerWorker] [main] Failed to start a runtime executable content transformer: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/swftools-binary/bin/pdf2swf, -V]
+   succeeded:  false
+   exit code:  1
+   out:        
+   err:        Cannot run program "/Users/hflambo/local/swftools-binary/bin/pdf2swf": error=2, No such file or directory
+ 2012-04-18 21:20:10,533  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'thirdparty' subsystem, ID: [thirdparty, default] complete
+ 2012-04-18 21:20:10,533  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'OOoDirect' subsystem, ID: [OOoDirect, default]
+ 2012-04-18 21:20:10,826  ERROR [util.exec.RuntimeExecBootstrapBean] [main] Bootstrap command failed: 
+Execution result: 
+   os:         Mac OS X
+   command:    [soffice, -accept=socket,host=127.0.0.1,port=8100;urp;StarOffice.ServiceManager, -env:UserInstallation=file:///Users/hflambo/local/alfresco/alf_data/oouser, -nologo, -headless, -nofirststartwizard, -nocrashrep, -norestore]
+   succeeded:  false
+   exit code:  2
+   out:        
+   err:        Cannot run program "soffice": error=2, No such file or directory
+ 2012-04-18 21:20:11,378  WARN  [alfresco.util.OpenOfficeConnectionTester] [main] An initial OpenOffice connection could not be established.
+ 2012-04-18 21:20:11,390  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'OOoDirect' subsystem, ID: [OOoDirect, default] complete
+ 2012-04-18 21:20:12,241  INFO  [repo.admin.ConfigurationChecker] [main] The Alfresco root data directory ('dir.root') is: /Users/hflambo/local/alfresco/alf_data
+ 2012-04-18 21:20:12,300  INFO  [admin.patch.PatchExecuter] [main] Checking for patches to apply ...
+ 2012-04-18 21:20:13,685  INFO  [admin.patch.PatchExecuter] [main] No patches were required.
+ 2012-04-18 21:20:13,693  INFO  [repo.module.ModuleServiceImpl] [main] Found 0 module(s).
+ 2012-04-18 21:20:13,738  WARN  [repo.module.ModuleServiceImpl] [main] A previously-installed module 'OptarosStatus' (version 0.2) is not present in your distribution.
+ 2012-04-18 21:20:13,750  WARN  [repo.module.ModuleServiceImpl] [main] A previously-installed module 'org_alfresco_module_wcmquickstart' (version 1.0) is not present in your distribution.
+ 2012-04-18 21:20:13,751  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'fileServers' subsystem, ID: [fileServers, default]
+ 2012-04-18 21:20:14,392  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1]
+ 2012-04-18 21:20:14,575  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1] complete
+ 2012-04-18 21:20:19,600  WARN  [org.alfresco.fileserver] [main] CIFS, Unable to get local domain/workgroup name, using default of WORKGROUP. This may be due to firewall settings or incorrect <broadcast> setting)
+ 2012-04-18 21:20:19,638  ERROR [org.alfresco.fileserver] [CIFS Server] [SMB] Server error : org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+ 2012-04-18 21:20:19,641  ERROR [org.alfresco.fileserver] [CIFS Server] Error from JLAN
+ org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+	at org.alfresco.jlan.smb.server.nio.NIOCifsConnectionsHandler.initializeHandler(NIOCifsConnectionsHandler.java:259)
+	at org.alfresco.jlan.smb.server.SMBServer.run(SMBServer.java:479)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 21:20:19,641  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'fileServers' subsystem, ID: [fileServers, default] complete
+ 2012-04-18 21:20:19,641  ERROR [org.alfresco.fileserver] [FTP Server] [FTP] FTP Socket error : java.net.BindException: Permission denied
+ 2012-04-18 21:20:19,642  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'imap' subsystem, ID: [imap, default]
+ 2012-04-18 21:20:19,643  ERROR [org.alfresco.fileserver] [FTP Server] Error from JLAN
+ java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at java.net.ServerSocket.<init>(ServerSocket.java:150)
+	at org.alfresco.jlan.ftp.FTPServer.run(FTPServer.java:554)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 21:20:22,010  INFO  [repo.imap.AlfrescoImapServer] [main] IMAP service started on host:port localhost:143
+ 2012-04-18 21:20:22,010  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'imap' subsystem, ID: [imap, default] complete
+ 2012-04-18 21:20:22,010  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'email' subsystem, ID: [email, outbound]
+ Exception in thread "Thread-51" java.lang.RuntimeException: java.net.BindException: Permission denied
+	at com.icegreen.greenmail.imap.ImapServer.run(ImapServer.java:67)
+Caused by: java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at com.icegreen.greenmail.imap.ImapServer.openServerSocket(ImapServer.java:35)
+	at com.icegreen.greenmail.imap.ImapServer.run(ImapServer.java:65)
+2012-04-18 21:20:22,074  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'email' subsystem, ID: [email, outbound] complete
+ 2012-04-18 21:20:22,074  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'email' subsystem, ID: [email, inbound]
+ 2012-04-18 21:20:22,154  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'email' subsystem, ID: [email, inbound] complete
+ 2012-04-18 21:20:22,154  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'googledocs' subsystem, ID: [googledocs, default]
+ 2012-04-18 21:20:22,229  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'googledocs' subsystem, ID: [googledocs, default] complete
+ 2012-04-18 21:20:22,230  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Subscriptions' subsystem, ID: [Subscriptions, default]
+ 2012-04-18 21:20:22,249  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Subscriptions' subsystem, ID: [Subscriptions, default] complete
+ 2012-04-18 21:20:22,250  INFO  [repo.usage.UserUsageTrackingComponent] [main] Disabled - clear non-missing user usages ...
+ 2012-04-18 21:20:22,259  INFO  [repo.usage.UserUsageTrackingComponent] [main] Found 0 users to clear
+ 2012-04-18 21:20:22,259  INFO  [repo.usage.UserUsageTrackingComponent] [main] ... cleared non-missing usages for 0 users
+ 2012-04-18 21:20:22,260  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Synchronization' subsystem, ID: [Synchronization, default]
+ 2012-04-18 21:20:22,321  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Synchronization' subsystem, ID: [Synchronization, default] complete
+ 2012-04-18 21:20:22,357  INFO  [service.descriptor.DescriptorService] [main] Alfresco JVM - v1.6.0_31-b04-415-11M3635; maximum heap size 682.688MB
+ 2012-04-18 21:20:22,363  INFO  [service.descriptor.DescriptorService] [main] Alfresco started (Community). Current version: 4.1.1 (@build-number@) schema 6,004. Originally installed version: 4.1.1 (@build-number@) schema 6,003.
+ 2012-04-18 21:20:22,365  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default]
+ 2012-04-18 21:20:22,473  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default] complete
+ 2012-04-18 21:20:22,473  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Replication' subsystem, ID: [Replication, default]
+ 2012-04-18 21:20:22,493  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Replication' subsystem, ID: [Replication, default] complete
+ 2012-04-18 21:20:28,585  ERROR [action.executer.MailActionExecuter] [FeedNotifier1] Failed to send email to hflambo@gmail.com
+ org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. k6sm36575460wiy.7
+; message exception details (1) are:
+Failed message 1:
+com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. k6sm36575460wiy.7
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:1388)
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:959)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:583)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:416)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 21:20:28,589  WARN  [activities.feed.FeedNotifier] [FeedNotifier1] FeedNotifier: Failed to process entry "Person admin".
+ org.alfresco.error.AlfrescoRuntimeException: 03180001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. k6sm36575460wiy.7
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. k6sm36575460wiy.7
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+2012-04-18 21:20:28,609  ERROR [activities.feed.FeedNotifier] [DefaultScheduler_Worker-4] FeedNotifier: 1 error(s) detected. Last error from entry "Person admin"
+ org.alfresco.error.AlfrescoRuntimeException: 03180001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. k6sm36575460wiy.7
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. k6sm36575460wiy.7
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+2012-04-18 21:20:31,629  WARN  [extensions.webscripts.DeclarativeRegistry] [main] Unable to register script classpath:webscripts/org/springframework/extensions/cmis/content.get.desc.xml due to error: 03180000 Web Script document org/springframework/extensions/cmis/content.get.desc.xml is attempting to define the url '/cmis/content:GET' already defined by org/alfresco/cmis/client/content.get.desc.xml
+ 2012-04-18 21:20:31,629  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 464 Web Scripts (+1 failed), 735 URLs
+ 2012-04-18 21:20:31,629  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 2 Package Description Documents (+0 failed) 
+ 2012-04-18 21:20:31,629  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 1 Schema Description Documents (+0 failed) 
+ 2012-04-18 21:20:31,632  INFO  [extensions.webscripts.AbstractRuntimeContainer] [main] Initialised Repository Web Script Container (in 7221.722ms)
+ 2012-04-18 21:20:31,641  INFO  [extensions.webscripts.TemplateProcessorRegistry] [main] Registered template processor freemarker for extension ftl
+ 2012-04-18 21:20:31,642  INFO  [extensions.webscripts.ScriptProcessorRegistry] [main] Registered script processor javascript for extension js
+ Apr 18, 2012 9:20:35 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-9080
+Apr 18, 2012 9:20:35 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:9009
+Apr 18, 2012 9:20:35 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/175  config=null
+Apr 18, 2012 9:20:35 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 69071 ms
+Apr 18, 2012 9:36:32 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-9080
+Apr 18, 2012 9:36:33 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+2012-04-18 21:36:34,369  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'Replication' subsystem, ID: [Replication, default]
+ 2012-04-18 21:36:34,369  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'Replication' subsystem, ID: [Replication, default]
+ 2012-04-18 21:36:34,411  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'Subscriptions' subsystem, ID: [Subscriptions, default]
+ 2012-04-18 21:36:34,411  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'Subscriptions' subsystem, ID: [Subscriptions, default]
+ 2012-04-18 21:36:34,411  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'googledocs' subsystem, ID: [googledocs, default]
+ 2012-04-18 21:36:34,412  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'googledocs' subsystem, ID: [googledocs, default]
+ 2012-04-18 21:36:34,412  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'email' subsystem, ID: [email, inbound]
+ 2012-04-18 21:36:34,413  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'email' subsystem, ID: [email, inbound]
+ 2012-04-18 21:36:34,434  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'fileServers' subsystem, ID: [fileServers, default]
+ 2012-04-18 21:36:34,436  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'fileServers' subsystem, ID: [fileServers, default]
+ 2012-04-18 21:36:34,441  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default]
+ 2012-04-18 21:36:34,441  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default]
+ 2012-04-18 21:36:34,449  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'OOoDirect' subsystem, ID: [OOoDirect, default]
+ 2012-04-18 21:36:34,449  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'OOoDirect' subsystem, ID: [OOoDirect, default]
+ 2012-04-18 21:36:34,451  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'Synchronization' subsystem, ID: [Synchronization, default]
+ 2012-04-18 21:36:34,451  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'Synchronization' subsystem, ID: [Synchronization, default]
+ 2012-04-18 21:36:34,453  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'email' subsystem, ID: [email, outbound]
+ 2012-04-18 21:36:34,453  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'email' subsystem, ID: [email, outbound]
+ 2012-04-18 21:36:34,456  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'imap' subsystem, ID: [imap, default]
+ 2012-04-18 21:36:34,457  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'imap' subsystem, ID: [imap, default]
+ 2012-04-18 21:36:34,545  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'Search' subsystem, ID: [Search, managed, lucene]
+ 2012-04-18 21:36:34,551  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'Search' subsystem, ID: [Search, managed, lucene]
+ 2012-04-18 21:36:34,563  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'thirdparty' subsystem, ID: [thirdparty, default]
+ 2012-04-18 21:36:34,563  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'thirdparty' subsystem, ID: [thirdparty, default]
+ 2012-04-18 21:36:34,567  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1]
+ 2012-04-18 21:36:34,567  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1]
+ 2012-04-18 21:36:34,573  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopping 'sysAdmin' subsystem, ID: [sysAdmin, default]
+ 2012-04-18 21:36:34,573  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Stopped 'sysAdmin' subsystem, ID: [sysAdmin, default]
+ Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [SolrWatcherScheduler_Worker-1] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [SolrWatcherScheduler_Worker-2] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [SolrWatcherScheduler_Worker-3] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [MultiThreadedHttpConnectionManager cleanup] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [Timer-2] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [Timer-3] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [Timer-4] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [Timer-5] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [Timer-6] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [Timer-7] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [Timer-10] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/alfresco] appears to have started a thread named [JobLockService1] but has failed to stop it. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@79e94926]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@42c19c51]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@34fdac14]) and a value of type [org.alfresco.util.CachingDateFormat] (value [yyyy-MM-dd]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.security.authentication.AuthenticationUtil.ThreadLocalStack] (value [org.alfresco.repo.security.authentication.AuthenticationUtil$ThreadLocalStack@7a2c7039]) and a value of type [java.util.Stack] (value [[]]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [com.sun.xml.bind.v2.runtime.Coordinator$1] (value [com.sun.xml.bind.v2.runtime.Coordinator$1@7b7becd8]) and a value of type [java.lang.Object[]] (value [[Ljava.lang.Object;@4fa983e]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@602110ff]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@1ae306a7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.security.authentication.AuthenticationUtil.ThreadLocalStack] (value [org.alfresco.repo.security.authentication.AuthenticationUtil$ThreadLocalStack@2ec9cbbb]) and a value of type [java.util.Stack] (value [[]]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [com.sun.xml.bind.v2.ClassFactory$1] (value [com.sun.xml.bind.v2.ClassFactory$1@489ab16e]) and a value of type [java.util.WeakHashMap] (value [{class org.alfresco.repo.audit.model._3.DataExtractors=java.lang.ref.WeakReference@29c50e17, class org.alfresco.repo.audit.model._3.Audit=java.lang.ref.WeakReference@48201d6d, class org.alfresco.repo.audit.model._3.PathMap=java.lang.ref.WeakReference@346c0419, class java.util.ArrayList=java.lang.ref.WeakReference@1f812032, class org.alfresco.repo.audit.model._3.DataExtractor=java.lang.ref.WeakReference@5668c2c6, class javax.xml.bind.annotation.W3CDomHandler=java.lang.ref.WeakReference@77cb817b, class org.alfresco.repo.audit.model._3.Application=java.lang.ref.WeakReference@51a1efae, class org.alfresco.repo.audit.model._3.PathMappings=java.lang.ref.WeakReference@5e7eb260, class org.alfresco.repo.audit.model._3.AuditPath=java.lang.ref.WeakReference@4ff0ed17, class org.alfresco.repo.audit.model._3.GenerateValue=java.lang.ref.WeakReference@525daa01, class org.alfresco.repo.audit.model._3.DataGenerator=java.lang.ref.WeakReference@34451e6, class org.alfresco.repo.audit.model._3.DataGenerators=java.lang.ref.WeakReference@7a5cd4b6, class org.alfresco.repo.audit.model._3.RecordValue=java.lang.ref.WeakReference@6491377c}]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.tagging.TagScopePropertyMethodInterceptor$1] (value [org.alfresco.repo.tagging.TagScopePropertyMethodInterceptor$1@79d1e178]) and a value of type [java.lang.Boolean] (value [true]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.template.QNameAwareObjectWrapper$1] (value [org.alfresco.repo.template.QNameAwareObjectWrapper$1@4229cbc3]) and a value of type [org.alfresco.repo.template.QNameAwareObjectWrapper$1$1] (value [org.alfresco.repo.template.QNameAwareObjectWrapper$1$1@46009124]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.policy.BaseBehaviour.StackThreadLocal] (value [org.alfresco.repo.policy.BaseBehaviour$StackThreadLocal@4f38f663]) and a value of type [java.util.Stack] (value [[]]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@24b80637]) and a value of type [org.alfresco.repo.security.authentication.AlfrescoSecureContextImpl] (value [Real authenticaion = net.sf.acegisecurity.providers.UsernamePasswordAuthenticationToken@2da017b6: Username: net.sf.acegisecurity.providers.dao.User@6974c520: Username: guest; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: ; Password: [PROTECTED]; Authenticated: true; Details: net.sf.acegisecurity.providers.dao.User@6974c520: Username: guest; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: ; Granted Authorities: , Effective authenticaion = net.sf.acegisecurity.providers.UsernamePasswordAuthenticationToken@2da017b6: Username: net.sf.acegisecurity.providers.dao.User@6974c520: Username: guest; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: ; Password: [PROTECTED]; Authenticated: true; Details: net.sf.acegisecurity.providers.dao.User@6974c520: Username: guest; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: ; Granted Authorities: , ]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.tagging.TagScopePropertyMethodInterceptor$1] (value [org.alfresco.repo.tagging.TagScopePropertyMethodInterceptor$1@79d1e178]) and a value of type [java.lang.Boolean] (value [true]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.template.QNameAwareObjectWrapper$1] (value [org.alfresco.repo.template.QNameAwareObjectWrapper$1@4229cbc3]) and a value of type [org.alfresco.repo.template.QNameAwareObjectWrapper$1$1] (value [org.alfresco.repo.template.QNameAwareObjectWrapper$1$1@1235eb8d]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@11fb7f52]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7984f8dc]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@8ee71d8]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@5e74207c]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.security.authentication.AuthenticationUtil.ThreadLocalStack] (value [org.alfresco.repo.security.authentication.AuthenticationUtil$ThreadLocalStack@7a2c7039]) and a value of type [java.util.Stack] (value [[]]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ec34670]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@16457b0c]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2b915c40]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@543f8418]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.policy.BaseBehaviour.StackThreadLocal] (value [org.alfresco.repo.policy.BaseBehaviour$StackThreadLocal@4f38f663]) and a value of type [java.util.Stack] (value [[]]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.tagging.TagScopePropertyMethodInterceptor$1] (value [org.alfresco.repo.tagging.TagScopePropertyMethodInterceptor$1@79d1e178]) and a value of type [java.lang.Boolean] (value [true]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2addbc17]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@43679ffd]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [org.alfresco.repo.security.authentication.AuthenticationUtil.ThreadLocalStack] (value [org.alfresco.repo.security.authentication.AuthenticationUtil$ThreadLocalStack@2ec9cbbb]) and a value of type [java.util.Stack] (value [[]]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@528b376]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:34 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/alfresco] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@331e0a9f]) and a value of type [org.alfresco.repo.web.scripts.RepositoryImageResolver$1] (value [org.alfresco.repo.web.scripts.RepositoryImageResolver$1@1663e9b7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+log4j:ERROR LogMananger.repositorySelector was null likely due to error in class reloading, using NOPLoggerRepository.
+Apr 18, 2012 9:36:37 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-9080
+Apr 18, 2012 9:44:14 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 9:44:14 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-9080
+Apr 18, 2012 9:44:14 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 617 ms
+Apr 18, 2012 9:44:14 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 9:44:14 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 9:44:14 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor alfresco.xml
+Apr 18, 2012 9:44:44 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "org.apache.myfaces.webapp.StartupServletContextListener" is already configured for this context. The duplicate definition has been ignored.
+2012-04-18 21:45:09,804  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'sysAdmin' subsystem, ID: [sysAdmin, default]
+ 2012-04-18 21:45:10,001  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'sysAdmin' subsystem, ID: [sysAdmin, default] complete
+ 2012-04-18 21:45:24,462  WARN  [alfresco.util.AbstractTriggerBean] [main] Job ehCacheTracerJob is not active/enabled
+ 2012-04-18 21:45:30,886  INFO  [extensions.webscripts.TemplateProcessorRegistry] [main] Registered template processor Repository Template Processor for extension ftl
+ 2012-04-18 21:45:30,891  INFO  [extensions.webscripts.ScriptProcessorRegistry] [main] Registered script processor Repository Script Processor for extension js
+ 2012-04-18 21:45:44,008  INFO  [domain.schema.SchemaBootstrap] [main] Schema managed by database dialect org.hibernate.dialect.MySQLInnoDBDialect.
+ 2012-04-18 21:45:45,978  INFO  [domain.schema.SchemaBootstrap] [main] No changes were made to the schema.
+ 2012-04-18 21:45:47,729  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Search' subsystem, ID: [Search, managed, lucene]
+ 2012-04-18 21:45:48,626  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Search' subsystem, ID: [Search, managed, lucene] complete
+ 2012-04-18 21:45:49,640  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'thirdparty' subsystem, ID: [thirdparty, default]
+ 2012-04-18 21:45:51,884  ERROR [transform.magick.AbstractImageMagickContentTransformerWorker] [main] ImageMagickContentTransformerWorker not available: 03180000 Failed to perform ImageMagick transformation: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/ImageMagick-binary/bin/convert, /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_source_5712086962804880140.gif[0], /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_target_8813988612910946358.png]
+   succeeded:  true
+   exit code:  133
+   out:        
+   err:        dyld: Library not loaded: /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/libclparser.dylib
+  Referenced from: /Users/hflambo/local/ImageMagick-binary/bin/convert
+  Reason: image not found
+
+ 2012-04-18 21:45:51,913  ERROR [content.transform.RuntimeExecutableContentTransformerWorker] [main] Failed to start a runtime executable content transformer: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/swftools-binary/bin/pdf2swf, -V]
+   succeeded:  false
+   exit code:  1
+   out:        
+   err:        Cannot run program "/Users/hflambo/local/swftools-binary/bin/pdf2swf": error=2, No such file or directory
+ 2012-04-18 21:45:51,914  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'thirdparty' subsystem, ID: [thirdparty, default] complete
+ 2012-04-18 21:45:51,914  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'OOoDirect' subsystem, ID: [OOoDirect, default]
+ 2012-04-18 21:45:52,528  ERROR [util.exec.RuntimeExecBootstrapBean] [main] Bootstrap command failed: 
+Execution result: 
+   os:         Mac OS X
+   command:    [soffice, -accept=socket,host=127.0.0.1,port=8100;urp;StarOffice.ServiceManager, -env:UserInstallation=file:///Users/hflambo/local/alfresco/alf_data/oouser, -nologo, -headless, -nofirststartwizard, -nocrashrep, -norestore]
+   succeeded:  false
+   exit code:  2
+   out:        
+   err:        Cannot run program "soffice": error=2, No such file or directory
+ 2012-04-18 21:45:54,118  WARN  [alfresco.util.OpenOfficeConnectionTester] [main] An initial OpenOffice connection could not be established.
+ 2012-04-18 21:45:54,136  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'OOoDirect' subsystem, ID: [OOoDirect, default] complete
+ 2012-04-18 21:45:55,965  INFO  [repo.admin.ConfigurationChecker] [main] The Alfresco root data directory ('dir.root') is: /Users/hflambo/local/alfresco/alf_data
+ 2012-04-18 21:45:56,081  INFO  [admin.patch.PatchExecuter] [main] Checking for patches to apply ...
+ 2012-04-18 21:45:59,543  INFO  [admin.patch.PatchExecuter] [main] No patches were required.
+ 2012-04-18 21:45:59,553  INFO  [repo.module.ModuleServiceImpl] [main] Found 0 module(s).
+ 2012-04-18 21:45:59,616  WARN  [repo.module.ModuleServiceImpl] [main] A previously-installed module 'OptarosStatus' (version 0.2) is not present in your distribution.
+ 2012-04-18 21:45:59,632  WARN  [repo.module.ModuleServiceImpl] [main] A previously-installed module 'org_alfresco_module_wcmquickstart' (version 1.0) is not present in your distribution.
+ 2012-04-18 21:45:59,635  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'fileServers' subsystem, ID: [fileServers, default]
+ 2012-04-18 21:46:00,440  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1]
+ 2012-04-18 21:46:00,659  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1] complete
+ 2012-04-18 21:46:05,684  WARN  [org.alfresco.fileserver] [main] CIFS, Unable to get local domain/workgroup name, using default of WORKGROUP. This may be due to firewall settings or incorrect <broadcast> setting)
+ 2012-04-18 21:46:05,721  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'fileServers' subsystem, ID: [fileServers, default] complete
+ 2012-04-18 21:46:05,722  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'imap' subsystem, ID: [imap, default]
+ 2012-04-18 21:46:05,722  ERROR [org.alfresco.fileserver] [FTP Server] [FTP] FTP Socket error : java.net.BindException: Permission denied
+ 2012-04-18 21:46:05,728  ERROR [org.alfresco.fileserver] [FTP Server] Error from JLAN
+ java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at java.net.ServerSocket.<init>(ServerSocket.java:150)
+	at org.alfresco.jlan.ftp.FTPServer.run(FTPServer.java:554)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 21:46:05,726  ERROR [org.alfresco.fileserver] [CIFS Server] [SMB] Server error : org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+ 2012-04-18 21:46:05,734  ERROR [org.alfresco.fileserver] [CIFS Server] Error from JLAN
+ org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+	at org.alfresco.jlan.smb.server.nio.NIOCifsConnectionsHandler.initializeHandler(NIOCifsConnectionsHandler.java:259)
+	at org.alfresco.jlan.smb.server.SMBServer.run(SMBServer.java:479)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 21:46:08,069  INFO  [repo.imap.AlfrescoImapServer] [main] IMAP service started on host:port localhost:143
+ 2012-04-18 21:46:08,070  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'imap' subsystem, ID: [imap, default] complete
+ 2012-04-18 21:46:08,070  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'email' subsystem, ID: [email, outbound]
+ Exception in thread "Thread-50" java.lang.RuntimeException: java.net.BindException: Permission denied
+	at com.icegreen.greenmail.imap.ImapServer.run(ImapServer.java:67)
+Caused by: java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at com.icegreen.greenmail.imap.ImapServer.openServerSocket(ImapServer.java:35)
+	at com.icegreen.greenmail.imap.ImapServer.run(ImapServer.java:65)
+2012-04-18 21:46:08,134  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'email' subsystem, ID: [email, outbound] complete
+ 2012-04-18 21:46:08,135  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'email' subsystem, ID: [email, inbound]
+ 2012-04-18 21:46:08,240  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'email' subsystem, ID: [email, inbound] complete
+ 2012-04-18 21:46:08,240  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'googledocs' subsystem, ID: [googledocs, default]
+ 2012-04-18 21:46:08,331  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'googledocs' subsystem, ID: [googledocs, default] complete
+ 2012-04-18 21:46:08,331  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Subscriptions' subsystem, ID: [Subscriptions, default]
+ 2012-04-18 21:46:08,350  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Subscriptions' subsystem, ID: [Subscriptions, default] complete
+ 2012-04-18 21:46:08,376  INFO  [repo.usage.UserUsageTrackingComponent] [main] Disabled - clear non-missing user usages ...
+ 2012-04-18 21:46:08,391  INFO  [repo.usage.UserUsageTrackingComponent] [main] Found 0 users to clear
+ 2012-04-18 21:46:08,391  INFO  [repo.usage.UserUsageTrackingComponent] [main] ... cleared non-missing usages for 0 users
+ 2012-04-18 21:46:08,391  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Synchronization' subsystem, ID: [Synchronization, default]
+ 2012-04-18 21:46:08,454  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Synchronization' subsystem, ID: [Synchronization, default] complete
+ 2012-04-18 21:46:08,494  INFO  [service.descriptor.DescriptorService] [main] Alfresco JVM - v1.6.0_31-b04-415-11M3635; maximum heap size 682.688MB
+ 2012-04-18 21:46:08,499  INFO  [service.descriptor.DescriptorService] [main] Alfresco started (Community). Current version: 4.1.1 (@build-number@) schema 6,004. Originally installed version: 4.1.1 (@build-number@) schema 6,003.
+ 2012-04-18 21:46:08,501  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default]
+ 2012-04-18 21:46:08,585  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default] complete
+ 2012-04-18 21:46:08,585  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Replication' subsystem, ID: [Replication, default]
+ 2012-04-18 21:46:08,603  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Replication' subsystem, ID: [Replication, default] complete
+ 2012-04-18 21:46:12,511  ERROR [action.executer.MailActionExecuter] [FeedNotifier1] Failed to send email to hflambo@gmail.com
+ org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. ex2sm7665820wib.8
+; message exception details (1) are:
+Failed message 1:
+com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. ex2sm7665820wib.8
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:1388)
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:959)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:583)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:416)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-18 21:46:12,517  WARN  [activities.feed.FeedNotifier] [FeedNotifier1] FeedNotifier: Failed to process entry "Person admin".
+ org.alfresco.error.AlfrescoRuntimeException: 03180001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. ex2sm7665820wib.8
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. ex2sm7665820wib.8
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+2012-04-18 21:46:12,539  ERROR [activities.feed.FeedNotifier] [DefaultScheduler_Worker-5] FeedNotifier: 1 error(s) detected. Last error from entry "Person admin"
+ org.alfresco.error.AlfrescoRuntimeException: 03180001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. ex2sm7665820wib.8
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. ex2sm7665820wib.8
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+2012-04-18 21:46:17,846  WARN  [extensions.webscripts.DeclarativeRegistry] [main] Unable to register script classpath:webscripts/org/springframework/extensions/cmis/content.get.desc.xml due to error: 03180000 Web Script document org/springframework/extensions/cmis/content.get.desc.xml is attempting to define the url '/cmis/content:GET' already defined by org/alfresco/cmis/client/content.get.desc.xml
+ 2012-04-18 21:46:17,847  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 464 Web Scripts (+1 failed), 735 URLs
+ 2012-04-18 21:46:17,847  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 2 Package Description Documents (+0 failed) 
+ 2012-04-18 21:46:17,847  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 1 Schema Description Documents (+0 failed) 
+ 2012-04-18 21:46:17,850  INFO  [extensions.webscripts.AbstractRuntimeContainer] [main] Initialised Repository Web Script Container (in 7120.8438ms)
+ 2012-04-18 21:46:17,860  INFO  [extensions.webscripts.TemplateProcessorRegistry] [main] Registered template processor freemarker for extension ftl
+ 2012-04-18 21:46:17,861  INFO  [extensions.webscripts.ScriptProcessorRegistry] [main] Registered script processor javascript for extension js
+ Apr 18, 2012 9:46:22 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-9080
+Apr 18, 2012 9:46:22 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:9009
+Apr 18, 2012 9:46:22 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/27  config=null
+Apr 18, 2012 9:46:22 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 127652 ms
+2012-04-18 22:06:14,528  ERROR [extensions.webscripts.AbstractRuntime] [http-9080-1] Exception from executeScript - redirecting to status template error: 03180002 Script URL not specified
+ org.springframework.extensions.webscripts.WebScriptException: 03180002 Script URL not specified
+	at org.springframework.extensions.webscripts.AbstractRuntime.executeScript(AbstractRuntime.java:122)
+	at org.springframework.extensions.webscripts.servlet.WebScriptServlet.service(WebScriptServlet.java:118)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.alfresco.web.app.servlet.GlobalLocalizationFilter.doFilter(GlobalLocalizationFilter.java:58)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:680)
+Apr 19, 2012 10:44:30 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 19, 2012 10:44:30 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-9080
+Apr 19, 2012 10:44:30 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 685 ms
+Apr 19, 2012 10:44:30 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 19, 2012 10:44:30 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 19, 2012 10:44:30 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor alfresco.xml
+Apr 19, 2012 10:44:56 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "org.apache.myfaces.webapp.StartupServletContextListener" is already configured for this context. The duplicate definition has been ignored.
+2012-04-19 10:45:18,977  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'sysAdmin' subsystem, ID: [sysAdmin, default]
+ 2012-04-19 10:45:19,066  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'sysAdmin' subsystem, ID: [sysAdmin, default] complete
+ 2012-04-19 10:45:28,606  WARN  [alfresco.util.AbstractTriggerBean] [main] Job ehCacheTracerJob is not active/enabled
+ 2012-04-19 10:45:32,572  INFO  [extensions.webscripts.TemplateProcessorRegistry] [main] Registered template processor Repository Template Processor for extension ftl
+ 2012-04-19 10:45:32,577  INFO  [extensions.webscripts.ScriptProcessorRegistry] [main] Registered script processor Repository Script Processor for extension js
+ 2012-04-19 10:45:39,359  INFO  [domain.schema.SchemaBootstrap] [main] Schema managed by database dialect org.hibernate.dialect.MySQLInnoDBDialect.
+ 2012-04-19 10:45:40,430  INFO  [domain.schema.SchemaBootstrap] [main] No changes were made to the schema.
+ 2012-04-19 10:45:41,467  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Search' subsystem, ID: [Search, managed, lucene]
+ 2012-04-19 10:45:41,830  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Search' subsystem, ID: [Search, managed, lucene] complete
+ 2012-04-19 10:45:42,279  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'thirdparty' subsystem, ID: [thirdparty, default]
+ 2012-04-19 10:45:43,265  ERROR [transform.magick.AbstractImageMagickContentTransformerWorker] [main] ImageMagickContentTransformerWorker not available: 03190000 Failed to perform ImageMagick transformation: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/ImageMagick-binary/bin/convert, /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_source_4070613221048574035.gif[0], /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/apache-tomcat-6.0.35/temp/Alfresco/ImageMagickContentTransformerWorker_init_target_4324782707278268847.png]
+   succeeded:  true
+   exit code:  133
+   out:        
+   err:        dyld: Library not loaded: /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/libclparser.dylib
+  Referenced from: /Users/hflambo/local/ImageMagick-binary/bin/convert
+  Reason: image not found
+
+ 2012-04-19 10:45:43,301  ERROR [content.transform.RuntimeExecutableContentTransformerWorker] [main] Failed to start a runtime executable content transformer: 
+Execution result: 
+   os:         Mac OS X
+   command:    [/Users/hflambo/local/swftools-binary/bin/pdf2swf, -V]
+   succeeded:  false
+   exit code:  1
+   out:        
+   err:        Cannot run program "/Users/hflambo/local/swftools-binary/bin/pdf2swf": error=2, No such file or directory
+ 2012-04-19 10:45:43,302  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'thirdparty' subsystem, ID: [thirdparty, default] complete
+ 2012-04-19 10:45:43,303  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'OOoDirect' subsystem, ID: [OOoDirect, default]
+ 2012-04-19 10:45:43,638  ERROR [util.exec.RuntimeExecBootstrapBean] [main] Bootstrap command failed: 
+Execution result: 
+   os:         Mac OS X
+   command:    [soffice, -accept=socket,host=127.0.0.1,port=8100;urp;StarOffice.ServiceManager, -env:UserInstallation=file:///Users/hflambo/local/alfresco/alf_data/oouser, -nologo, -headless, -nofirststartwizard, -nocrashrep, -norestore]
+   succeeded:  false
+   exit code:  2
+   out:        
+   err:        Cannot run program "soffice": error=2, No such file or directory
+ 2012-04-19 10:45:43,706  WARN  [alfresco.util.OpenOfficeConnectionTester] [main] An initial OpenOffice connection could not be established.
+ 2012-04-19 10:45:43,719  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'OOoDirect' subsystem, ID: [OOoDirect, default] complete
+ 2012-04-19 10:45:44,810  INFO  [repo.admin.ConfigurationChecker] [main] The Alfresco root data directory ('dir.root') is: /Users/hflambo/local/alfresco/alf_data
+ 2012-04-19 10:45:44,870  INFO  [admin.patch.PatchExecuter] [main] Checking for patches to apply ...
+ 2012-04-19 10:45:46,724  INFO  [admin.patch.PatchExecuter] [main] No patches were required.
+ 2012-04-19 10:45:46,732  INFO  [repo.module.ModuleServiceImpl] [main] Found 0 module(s).
+ 2012-04-19 10:45:46,775  WARN  [repo.module.ModuleServiceImpl] [main] A previously-installed module 'OptarosStatus' (version 0.2) is not present in your distribution.
+ 2012-04-19 10:45:46,787  WARN  [repo.module.ModuleServiceImpl] [main] A previously-installed module 'org_alfresco_module_wcmquickstart' (version 1.0) is not present in your distribution.
+ 2012-04-19 10:45:46,789  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'fileServers' subsystem, ID: [fileServers, default]
+ 2012-04-19 10:45:47,300  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1]
+ 2012-04-19 10:45:47,464  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Authentication' subsystem, ID: [Authentication, managed, alfrescoNtlm1] complete
+ 2012-04-19 10:45:47,486  WARN  [org.alfresco.fileserver] [main] CIFS, Unable to get local domain/workgroup name, using default of WORKGROUP. This may be due to firewall settings or incorrect <broadcast> setting)
+ 2012-04-19 10:45:47,519  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'fileServers' subsystem, ID: [fileServers, default] complete
+ 2012-04-19 10:45:47,519  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'imap' subsystem, ID: [imap, default]
+ 2012-04-19 10:45:47,519  ERROR [org.alfresco.fileserver] [FTP Server] [FTP] FTP Socket error : java.net.BindException: Permission denied
+ 2012-04-19 10:45:47,530  ERROR [org.alfresco.fileserver] [CIFS Server] [SMB] Server error : org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+ 2012-04-19 10:45:47,533  ERROR [org.alfresco.fileserver] [CIFS Server] Error from JLAN
+ org.alfresco.jlan.server.config.InvalidConfigurationException: Error initializing TCP-IP SMB session handler, Permission denied
+	at org.alfresco.jlan.smb.server.nio.NIOCifsConnectionsHandler.initializeHandler(NIOCifsConnectionsHandler.java:259)
+	at org.alfresco.jlan.smb.server.SMBServer.run(SMBServer.java:479)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-19 10:45:47,533  ERROR [org.alfresco.fileserver] [FTP Server] Error from JLAN
+ java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at java.net.ServerSocket.<init>(ServerSocket.java:150)
+	at org.alfresco.jlan.ftp.FTPServer.run(FTPServer.java:554)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-19 10:45:49,768  INFO  [repo.imap.AlfrescoImapServer] [main] IMAP service started on host:port localhost:143
+ 2012-04-19 10:45:49,769  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'imap' subsystem, ID: [imap, default] complete
+ Exception in thread "Thread-50" 2012-04-19 10:45:49,769  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'email' subsystem, ID: [email, outbound]
+ java.lang.RuntimeException: java.net.BindException: Permission denied
+	at com.icegreen.greenmail.imap.ImapServer.run(ImapServer.java:67)
+Caused by: java.net.BindException: Permission denied
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:383)
+	at java.net.ServerSocket.bind(ServerSocket.java:328)
+	at java.net.ServerSocket.<init>(ServerSocket.java:194)
+	at com.icegreen.greenmail.imap.ImapServer.openServerSocket(ImapServer.java:35)
+	at com.icegreen.greenmail.imap.ImapServer.run(ImapServer.java:65)
+2012-04-19 10:45:49,821  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'email' subsystem, ID: [email, outbound] complete
+ 2012-04-19 10:45:49,821  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'email' subsystem, ID: [email, inbound]
+ 2012-04-19 10:45:49,893  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'email' subsystem, ID: [email, inbound] complete
+ 2012-04-19 10:45:49,893  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'googledocs' subsystem, ID: [googledocs, default]
+ 2012-04-19 10:45:49,991  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'googledocs' subsystem, ID: [googledocs, default] complete
+ 2012-04-19 10:45:49,991  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Subscriptions' subsystem, ID: [Subscriptions, default]
+ 2012-04-19 10:45:50,008  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Subscriptions' subsystem, ID: [Subscriptions, default] complete
+ 2012-04-19 10:45:50,033  INFO  [repo.usage.UserUsageTrackingComponent] [main] Disabled - clear non-missing user usages ...
+ 2012-04-19 10:45:50,044  INFO  [repo.usage.UserUsageTrackingComponent] [main] Found 0 users to clear
+ 2012-04-19 10:45:50,044  INFO  [repo.usage.UserUsageTrackingComponent] [main] ... cleared non-missing usages for 0 users
+ 2012-04-19 10:45:50,044  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Synchronization' subsystem, ID: [Synchronization, default]
+ 2012-04-19 10:45:50,108  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Synchronization' subsystem, ID: [Synchronization, default] complete
+ 2012-04-19 10:45:50,158  INFO  [service.descriptor.DescriptorService] [main] Alfresco JVM - v1.6.0_31-b04-415-11M3635; maximum heap size 682.688MB
+ 2012-04-19 10:45:50,162  INFO  [service.descriptor.DescriptorService] [main] Alfresco started (Community). Current version: 4.1.1 (@build-number@) schema 6,004. Originally installed version: 4.1.1 (@build-number@) schema 6,003.
+ 2012-04-19 10:45:50,163  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default]
+ 2012-04-19 10:45:50,257  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'ActivitiesFeed' subsystem, ID: [ActivitiesFeed, default] complete
+ 2012-04-19 10:45:50,257  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Starting 'Replication' subsystem, ID: [Replication, default]
+ 2012-04-19 10:45:50,278  INFO  [management.subsystems.ChildApplicationContextFactory] [main] Startup of 'Replication' subsystem, ID: [Replication, default] complete
+ 2012-04-19 10:45:51,519  ERROR [action.executer.MailActionExecuter] [FeedNotifier1] Failed to send email to hflambo@gmail.com
+ org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+; message exception details (1) are:
+Failed message 1:
+com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:1388)
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:959)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:583)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:416)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+2012-04-19 10:45:51,524  WARN  [activities.feed.FeedNotifier] [FeedNotifier1] FeedNotifier: Failed to process entry "Person admin".
+ org.alfresco.error.AlfrescoRuntimeException: 03190001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+2012-04-19 10:45:51,559  ERROR [activities.feed.FeedNotifier] [DefaultScheduler_Worker-4] FeedNotifier: 1 error(s) detected. Last error from entry "Person admin"
+ org.alfresco.error.AlfrescoRuntimeException: 03190001 Failed to send email to:hflambo@gmail.com
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:633)
+	at org.alfresco.repo.action.executer.MailActionExecuter.executeImpl(MailActionExecuter.java:331)
+	at org.alfresco.repo.action.executer.ActionExecuterAbstractBase.execute(ActionExecuterAbstractBase.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.alfresco.repo.management.subsystems.SubsystemProxyFactory$1.invoke(SubsystemProxyFactory.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy232.execute(Unknown Source)
+	at org.alfresco.repo.action.ActionServiceImpl.directActionExecution(ActionServiceImpl.java:790)
+	at org.alfresco.repo.action.ActionServiceImpl.executeActionImpl(ActionServiceImpl.java:701)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:539)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:525)
+	at org.alfresco.repo.action.ActionServiceImpl.executeAction(ActionServiceImpl.java:799)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:318)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.alfresco.repo.security.permissions.impl.AlwaysProceedMethodInterceptor.invoke(AlwaysProceedMethodInterceptor.java:34)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.security.permissions.impl.ExceptionTranslatorMethodInterceptor.invoke(ExceptionTranslatorMethodInterceptor.java:46)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.alfresco.repo.audit.AuditMethodInterceptor.invoke(AuditMethodInterceptor.java:152)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:110)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at $Proxy37.executeAction(Unknown Source)
+	at org.alfresco.repo.activities.feed.EmailUserNotifier.notifyUser(EmailUserNotifier.java:161)
+	at org.alfresco.repo.activities.feed.AbstractUserNotifier.notifyUser(AbstractUserNotifier.java:193)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:288)
+	at org.alfresco.repo.activities.feed.FeedNotifierImpl$1.process(FeedNotifierImpl.java:263)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.execute(BatchProcessor.java:712)
+	at org.alfresco.repo.transaction.RetryingTransactionHelper.doInTransaction(RetryingTransactionHelper.java:388)
+	at org.alfresco.repo.batch.BatchProcessor$TxnCallback.run(BatchProcessor.java:756)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Caused by: org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+; message exceptions (1) are:
+Failed message 1: com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. 6sm40773351wiz.1
+
+	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:440)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:340)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:355)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:344)
+	at org.alfresco.repo.action.executer.MailActionExecuter.prepareAndSendEmail(MailActionExecuter.java:601)
+	... 42 more
+2012-04-19 10:45:59,458  WARN  [extensions.webscripts.DeclarativeRegistry] [main] Unable to register script classpath:webscripts/org/springframework/extensions/cmis/content.get.desc.xml due to error: 03190000 Web Script document org/springframework/extensions/cmis/content.get.desc.xml is attempting to define the url '/cmis/content:GET' already defined by org/alfresco/cmis/client/content.get.desc.xml
+ 2012-04-19 10:45:59,459  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 464 Web Scripts (+1 failed), 735 URLs
+ 2012-04-19 10:45:59,459  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 2 Package Description Documents (+0 failed) 
+ 2012-04-19 10:45:59,459  INFO  [extensions.webscripts.DeclarativeRegistry] [main] Registered 1 Schema Description Documents (+0 failed) 
+ 2012-04-19 10:45:59,462  INFO  [extensions.webscripts.AbstractRuntimeContainer] [main] Initialised Repository Web Script Container (in 7137.7397ms)
+ 2012-04-19 10:45:59,471  INFO  [extensions.webscripts.TemplateProcessorRegistry] [main] Registered template processor freemarker for extension ftl
+ 2012-04-19 10:45:59,473  INFO  [extensions.webscripts.ScriptProcessorRegistry] [main] Registered script processor javascript for extension js
+ Apr 19, 2012 10:46:03 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-9080
+Apr 19, 2012 10:46:03 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:9009
+Apr 19, 2012 10:46:03 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/29  config=null
+Apr 19, 2012 10:46:03 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 93210 ms
+2012-04-19 10:46:59,268  WARN  [web.bean.LoginBean] [http-9080-3] Security violation. Unable to redirect to external location: 
+ 

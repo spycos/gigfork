@@ -1,0 +1,492 @@
+Apr 18, 2012 8:56:46 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 8:56:46 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 8:56:46 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 693 ms
+Apr 18, 2012 8:56:46 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 8:56:46 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 8:56:46 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive share.war
+Apr 18, 2012 8:57:17 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 8:57:17 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 18, 2012 8:57:17 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/75  config=null
+Apr 18, 2012 8:57:17 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 31100 ms
+Apr 18, 2012 9:02:22 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:05:19 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 9:05:20 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:05:20 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 646 ms
+Apr 18, 2012 9:05:20 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 9:05:20 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 9:05:20 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive share.war
+Apr 18, 2012 9:05:32 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:05:32 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 18, 2012 9:05:32 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/21  config=null
+Apr 18, 2012 9:05:32 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 12739 ms
+Apr 18, 2012 9:11:38 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:11:39 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 18, 2012 9:11:39 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@3cf27cdc]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@53e36ec6]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:11:39 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@787db430]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@4c0f91d]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:11:39 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@1922e15b]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@40f92a41]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:11:39 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@264532ba]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@90564f7]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:11:39 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:13:05 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 9:13:05 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:13:05 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 596 ms
+Apr 18, 2012 9:13:05 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 9:13:05 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 9:13:05 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive share.war
+Apr 18, 2012 9:13:23 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:13:23 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 18, 2012 9:13:23 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/29  config=null
+Apr 18, 2012 9:13:23 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 17687 ms
+Apr 18, 2012 9:22:21 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:22:22 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@6adc91e2]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@36edc33d]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@33acf5f7]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@204845a2]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [null] (value [null]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@68d39f3c]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@1d7b51e8]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@b3e6577]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@33acf5f7]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@2d776d65]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7baf1934]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@249fe45c]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@7d4966cc]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@5dfc1b56]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@5ec80825]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1e8ee5c0]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.head-resources, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@378dafec]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.head-resources, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@3718cb72]) and a value of type [byte[]] (value [[B@3cd4c5a0]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@34faaa93]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.head-resources, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@34d4b411]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.head-resources, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@1d7b51e8]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@7879e32f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a326074]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@715a64e6]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6596722d]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@3718cb72]) and a value of type [byte[]] (value [[B@78221c75]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@5dfc1b56]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@7c2aa00c]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@249fe45c]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@5271b383]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@3718cb72]) and a value of type [byte[]] (value [[B@26c087be]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@5dfc1b56]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@77edc290]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@249fe45c]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@1a80b973]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@790f3a9c]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@56d115db]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@3718cb72]) and a value of type [byte[]] (value [[B@38f20964]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@5dfc1b56]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@13110f31]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@249fe45c]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@44fc63be]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@3718cb72]) and a value of type [byte[]] (value [[B@15f87254]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@34faaa93]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.head-resources, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1e8ee5c0]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.head-resources, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@34d4b411]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.head-resources, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@378dafec]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.head-resources, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@249fe45c]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@6a19f410]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@33acf5f7]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@4de67cdb]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@5dfc1b56]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@279658fe]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6596722d]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-2]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a326074]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-2]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7baf1934]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-2]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@715a64e6]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-2]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@1d7b51e8]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@7fac9fff]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@3718cb72]) and a value of type [byte[]] (value [[B@1e3c5fd5]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@249fe45c]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@db7a875]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@33acf5f7]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@1494a05c]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@5dfc1b56]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@5bdcd49d]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6596722d]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-10]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a326074]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-10]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7baf1934]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-10]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@715a64e6]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-10]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@1d7b51e8]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@7f0abe88]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@790f3a9c]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@1a6313e1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:22:22 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:22:26 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 9:22:26 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:22:26 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 633 ms
+Apr 18, 2012 9:22:26 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 9:22:26 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 9:22:26 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive share.war
+Apr 18, 2012 9:22:37 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:22:38 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 18, 2012 9:22:38 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/33  config=null
+Apr 18, 2012 9:22:38 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 11737 ms
+Apr 18, 2012 9:36:42 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:36:43 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@7994d431]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@19f71b53]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@2e22f376]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@789ddfa3]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [null] (value [null]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@44c58432]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@36a11e4]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@28bc917c]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@73f378c8]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@36a11e4]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@757ecdf0]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@580283d3]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@d1cbec9]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@5a3184d8]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6908af2a]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@39242445]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@246fee3a]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@30813486]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:36:43 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:44:32 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 9:44:33 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:44:33 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 828 ms
+Apr 18, 2012 9:44:33 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 9:44:33 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 9:44:33 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive share.war
+Apr 18, 2012 9:45:56 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:45:56 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 18, 2012 9:45:56 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/49  config=null
+Apr 18, 2012 9:45:56 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 83783 ms
+Apr 18, 2012 9:49:43 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:49:44 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@1afcfd10]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@574a3347]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@486ca716]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@554dba7f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [null] (value [null]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@620f1399]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@4bcfd41a]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@396e1dd8]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c696d5c]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7d8aea9e]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@2b316b76]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@39862621]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@3146a9a]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@4bcfd41a]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@3162a60a]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4382f3da]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4a578fd6]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@3aa450bb]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 9:49:44 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:49:49 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 9:49:49 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:49:49 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 611 ms
+Apr 18, 2012 9:49:49 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 9:49:49 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 9:49:49 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive share.war
+Apr 18, 2012 9:50:00 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 9:50:00 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 18, 2012 9:50:00 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/33  config=null
+Apr 18, 2012 9:50:00 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 10981 ms
+Apr 18, 2012 10:07:10 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 10:07:11 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@1a543937]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@f785762]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@25b0eadd]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@20b6680]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [null] (value [null]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@3a765e8c]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@31395750]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@2b935e6f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@25b0eadd]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@581cdfc2]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4fa666bf]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@35a3ae73]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@d121b88]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1fcd846c]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@6db0dec3]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@4b6995a2]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@dee55c]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@29a3fb76]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@4cd21555]) and a value of type [byte[]] (value [[B@7476a6d9]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@19c42c4b]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1e37fd24]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@31395750]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@6dcc55fb]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2210a0e]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@471b1e39]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@455d54a7]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7260c384]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ec449c6]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58c77e26]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@4cd21555]) and a value of type [byte[]] (value [[B@112b1e53]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@4cd21555]) and a value of type [byte[]] (value [[B@25d3e3f3]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:07:11 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 10:23:39 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 10:23:39 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 10:23:39 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 697 ms
+Apr 18, 2012 10:23:39 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 10:23:39 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 10:23:39 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive share.war
+Apr 18, 2012 10:23:52 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 10:23:52 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 18, 2012 10:23:52 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/28  config=null
+Apr 18, 2012 10:23:52 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 12434 ms
+Apr 18, 2012 10:42:06 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 10:42:07 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@2b3b7c28]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@4e543c44]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@7c40bc88]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@7e19c472]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [null] (value [null]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@4db0590b]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@74a60905]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@409a6317]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@7c40bc88]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@57df9c23]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1983eae7]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@23b2f0c7]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@38ddab20]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@610ddf0a]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@55ae3b4d]) and a value of type [byte[]] (value [[B@21b7682d]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@101873a6]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@35509f8b]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@74a60905]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@401a7a05]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a40ff24]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@312e99be]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6a6fa22b]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@46ffeba4]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4bc78066]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@16becf68]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@88cbc51]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4f9f6e39]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-1]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@55ae3b4d]) and a value of type [byte[]] (value [[B@6bfd8905]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@16becf68]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@31b8e71]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a40ff24]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@6249e4f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a40ff24]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@4e1557af]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@55ae3b4d]) and a value of type [byte[]] (value [[B@5b2fca35]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@16becf68]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@1019f50f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@55ae3b4d]) and a value of type [byte[]] (value [[B@1827b40b]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6a6fa22b]) and a value of type [org.springframework.extensions.surf.types.SubComponent] (value [Component: global.footer, Sub-Component: default]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@7c40bc88]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@569d4a90]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@46ffeba4]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-3]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1983eae7]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-3]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4bc78066]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-3]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@16becf68]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@cbc71bd]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4f9f6e39]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-3]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@74a60905]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@27cf35d3]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@23b2f0c7]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-2]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a40ff24]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@14d6c410]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@55ae3b4d]) and a value of type [byte[]] (value [[B@1fe20120]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@16becf68]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@2cf5ebcc]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@46ffeba4]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4f9f6e39]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1983eae7]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4bc78066]) and a value of type [org.springframework.extensions.surf.support.ServletRequestContext] (value [RequestContext-4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1] (value [org.springframework.extensions.webscripts.processor.FTLTemplateProcessor$NonBlockingObjectWrapper$1@7c40bc88]) and a value of type [freemarker.template.DefaultObjectWrapper] (value [freemarker.template.DefaultObjectWrapper@454bb523]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a40ff24]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@6d61305f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1] (value [org.springframework.extensions.webscripts.servlet.mvc.ResourceController$1@55ae3b4d]) and a value of type [byte[]] (value [[B@7aee513]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@16becf68]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@a70ad76]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a40ff24]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@6b8c2354]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [org.springframework.extensions.webscripts.connector.RemoteClient$1] (value [org.springframework.extensions.webscripts.connector.RemoteClient$1@16becf68]) and a value of type [org.apache.commons.httpclient.HttpClient] (value [org.apache.commons.httpclient.HttpClient@554bce4f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+SEVERE: The web application [/share] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@a40ff24]) and a value of type [org.alfresco.web.scripts.SlingshotRemoteClient] (value [org.alfresco.web.scripts.SlingshotRemoteClient@63d5d048]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+Apr 18, 2012 10:42:07 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 10:42:12 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 18, 2012 10:42:12 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 10:42:12 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 629 ms
+Apr 18, 2012 10:42:12 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 18, 2012 10:42:12 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 18, 2012 10:42:12 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive share.war
+Apr 18, 2012 10:42:24 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 18, 2012 10:42:24 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 18, 2012 10:42:24 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/22  config=null
+Apr 18, 2012 10:42:24 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 11692 ms
