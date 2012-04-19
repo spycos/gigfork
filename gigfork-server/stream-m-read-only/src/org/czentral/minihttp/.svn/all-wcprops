@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/src/org/czentral/minihttp
+END
+HTTPRequestLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14/trunk/src/org/czentral/minihttp/HTTPRequestLoader.java
+END
+MultimapBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/trunk/src/org/czentral/minihttp/MultimapBuilder.java
+END
+PrependedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/src/org/czentral/minihttp/PrependedInputStream.java
+END
+GeneralHTTPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/src/org/czentral/minihttp/GeneralHTTPRequest.java
+END
+HTTPResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/trunk/src/org/czentral/minihttp/HTTPResource.java
+END
+HTTPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/trunk/src/org/czentral/minihttp/HTTPRequest.java
+END
+HTTPZipResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/trunk/src/org/czentral/minihttp/HTTPZipResource.java
+END
+MiniHTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/src/org/czentral/minihttp/MiniHTTP.java
+END
+ChunkedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/src/org/czentral/minihttp/ChunkedInputStream.java
+END
+HTTPResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/src/org/czentral/minihttp/HTTPResponse.java
+END
+HTTPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/trunk/src/org/czentral/minihttp/HTTPException.java
+END

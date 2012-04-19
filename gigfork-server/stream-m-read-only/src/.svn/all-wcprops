@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/20/trunk/src
+END
+MovieFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/MovieFragment.java
+END
+EventAnalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1/trunk/src/EventAnalizer.java
+END
+ServerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1/trunk/src/ServerEvent.java
+END
+StreamInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/src/StreamInput.java
+END
+StreamInputState.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/trunk/src/StreamInputState.java
+END
+ServerStatusEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1/trunk/src/ServerStatusEvent.java
+END
+StreamingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/StreamingServer.java
+END
+ControlledStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/ControlledStream.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1/trunk/src/Log.java
+END
+TransferEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1/trunk/src/TransferEvent.java
+END
+HeaderDetectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/src/HeaderDetectionState.java
+END
+EBMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1/trunk/src/EBMLElement.java
+END
+StreamClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1/trunk/src/StreamClient.java
+END
+StreamingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/20/trunk/src/StreamingState.java
+END
+Stream.java
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1/trunk/src/Stream.java
+END
