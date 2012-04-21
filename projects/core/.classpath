@@ -12,21 +12,10 @@
 	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/hibernate-3.2.6-patched.jar" sourcepath="/3rd Party/src/hibernate-3.2.6-patched-src.zip"/>
 	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/jaxb-xjc-2.1.7.jar"/>
 	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/optional/log4j-1.2.15.jar"/>
-	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/spring-surf/spring-surf-core-1.0.0.jar" sourcepath="/3rd Party/src/spring-surf-core-1.0.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/spring-surf/spring-surf-core-configservice-1.0.0.jar" sourcepath="/3rd Party/src/spring-surf-core-configservice-1.0.0-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/jaxb-impl-2.1.11.jar"/>
 	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/commons/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/json.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/mybatis-spring-1.0.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/org.springframework.beans-3.0.5.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/org.springframework.context-3.0.5.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/org.springframework.context.support-3.0.5.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/org.springframework.core-3.0.5.RELEASE.jar" sourcepath="/3rd Party/src/org.springframework.core-sources-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.jdbc-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.orm-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.transaction-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.web-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.web.servlet-3.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/commons/commons-httpclient-3.1.jar" sourcepath="/3rd Party/src/commons-httpclient-3.1-src.zip">
 		<attributes>
 			<attribute name="javadoc_location" value="jar:platform:/resource/3rd Party/src/commons-httpclient-3.1-src.zip!/commons-httpclient-3.1/docs/apidocs"/>
@@ -36,8 +25,20 @@
 	<classpathentry kind="lib" path="/3rd Party/lib/stax-api-1.0.1.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/commons/commons-codec-1.4.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/mybatis-3.0.4-patched.jar"/>
-	<classpathentry exported="true" kind="lib" path="/3rd Party/lib/org.springframework.aop-3.0.5.RELEASE.jar" sourcepath="/3rd Party/src/org.springframework.aop-sources-3.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/quartz-1.8.3-patched.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/junit-dep-4.10.jar" sourcepath="/3rd Party/src/junit-4.10-src.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-beans-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-beans/3.1.1.RELEASE/spring-beans-3.1.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-core-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-core/3.1.1.RELEASE/spring-core-3.1.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-orm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-tx-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-surf-core-1.1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-surf-core-configservice-1.1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-jdbc-3.1.1.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

@@ -107,6 +107,17 @@ public class SlingshotPageView extends PageView
             // examine current page directly for custom properties with a theme override
             // this allows a different theme per page
             themeId = rc.getPage().getProperty("theme");
+            
+           
+            
+        }
+        
+        
+        
+        if(null == rc.getThemeId()) {
+	        Theme theme = getObjectService().getTheme("default");
+	        rc.setTheme(theme);
+	        System.out.println("Initialized default theme: HF hack : " + theme.getId());
         }
         
         // if themeId different to current theme then look it up

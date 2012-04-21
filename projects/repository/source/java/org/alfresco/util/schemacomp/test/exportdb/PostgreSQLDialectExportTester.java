@@ -34,7 +34,7 @@ import org.alfresco.util.schemacomp.model.PrimaryKey;
 import org.alfresco.util.schemacomp.model.Schema;
 import org.alfresco.util.schemacomp.model.Sequence;
 import org.alfresco.util.schemacomp.model.Table;
-import org.springframework.jdbc.core.simple.SimpleJdbcTemplate;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.TransactionCallbackWithoutResult;
@@ -55,7 +55,7 @@ public class PostgreSQLDialectExportTester extends AbstractExportTester
      * @param jdbcTemplate 
      * @param tx 
      */
-    public PostgreSQLDialectExportTester(ExportDb exporter, PlatformTransactionManager tx, SimpleJdbcTemplate jdbcTemplate)
+    public PostgreSQLDialectExportTester(ExportDb exporter, PlatformTransactionManager tx, JdbcTemplate jdbcTemplate)
     {
         super(exporter, tx, jdbcTemplate);
     }

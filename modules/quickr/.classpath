@@ -15,5 +15,7 @@
 	<classpathentry kind="lib" path="lib/velocity-dep-1.4.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/abdera/axiom-api-1.2.5.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/abdera/axiom-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-surf-core-1.1.0-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

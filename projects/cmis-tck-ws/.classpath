@@ -14,7 +14,6 @@
 	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
 	<classpathentry kind="lib" path="lib/opensaml-1.0.1.jar"/>
 	<classpathentry kind="lib" path="lib/saaj.jar"/>
-	<classpathentry kind="lib" path="lib/spring-2.0.6.jar"/>
 	<classpathentry kind="lib" path="lib/spring-mock.jar"/>
 	<classpathentry kind="lib" path="lib/uddi4j.jar"/>
 	<classpathentry kind="lib" path="lib/wsdl4j.jar"/>
@@ -22,5 +21,12 @@
 	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
 	<classpathentry kind="lib" path="lib/xmlParserAPIs.jar"/>
 	<classpathentry kind="lib" path="lib/xmlsec-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-beans-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-beans/3.1.1.RELEASE/spring-beans-3.1.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-core-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-core/3.1.1.RELEASE/spring-core-3.1.1.RELEASE-sources.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

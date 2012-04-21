@@ -1,0 +1,11 @@
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: GModule
+Description: Dynamic module loader for GLib
+Requires: glib
+Version: 1.2.10
+Libs: -L${libdir}  -lgmodule 
+Cflags:

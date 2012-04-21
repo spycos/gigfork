@@ -1,0 +1,114 @@
+time.lo time.o:  \
+ /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/time.c \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/libgomp.h \
+  config.h gstdint.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  /usr/include/stdint.h /usr/include/pthread.h /usr/include/_types.h \
+  /usr/include/pthread_impl.h /usr/include/sched.h /usr/include/time.h \
+  /usr/include/_structs.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/obj-i686-x86_64/./gcc/include/stdbool.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/sem.h \
+  /usr/include/semaphore.h /usr/include/sys/fcntl.h \
+  /usr/include/sys/semaphore.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/mutex.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/bar.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/libgomp_g.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/omp-lock.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/omp.h.in \
+  /usr/include/unistd.h /usr/include/sys/unistd.h \
+  /usr/include/sys/select.h /usr/include/sys/_select.h \
+  /usr/include/sys/time.h
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/libgomp.h:
+
+config.h:
+
+gstdint.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/sys/_structs.h:
+
+/usr/include/stdint.h:
+
+/usr/include/pthread.h:
+
+/usr/include/_types.h:
+
+/usr/include/pthread_impl.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/_structs.h:
+
+/usr/include/Availability.h:
+
+/usr/include/AvailabilityInternal.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/obj-i686-x86_64/./gcc/include/stdbool.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/sem.h:
+
+/usr/include/semaphore.h:
+
+/usr/include/sys/fcntl.h:
+
+/usr/include/sys/semaphore.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/mutex.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/bar.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/libgomp_g.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/config/posix/omp-lock.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libgomp/omp.h.in:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_select.h:
+
+/usr/include/sys/time.h:

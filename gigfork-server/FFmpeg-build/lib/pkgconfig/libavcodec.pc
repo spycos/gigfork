@@ -1,0 +1,14 @@
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 54.14.101
+Requires: libavutil = 51.46.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir} -lavcodec -lxvidcore -lx264 -lvpx -lvpx -lvorbisenc -lvorbis -logg -ltheoraenc -ltheoradec -logg -L/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build/lib -lrtmp -lz -lssl -lcrypto -lmp3lame -lm -framework CoreFoundation -framework VideoDecodeAcceleration -framework QuartzCore -lbz2 -lz
+Libs.private: 
+Cflags: -I${includedir}

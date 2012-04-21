@@ -1,0 +1,101 @@
+# This file is a shell script that caches the results of configure
+# tests run on this system so they can be shared between configure
+# scripts and configure runs, see configure's option --config-cache.
+# It is not useful on other systems.  If it contains results you don't
+# want to keep, you may remove or edit it.
+#
+# config.status only pays attention to the cache file if you give it
+# the --recheck option to rerun configure.
+#
+# `ac_cv_env_foo' variables (set or unset) will be overridden when
+# loading this file, other *unset* `ac_cv_foo' will be assigned the
+# following values.
+
+ac_cv_archive_cmds_needs_lc=${ac_cv_archive_cmds_needs_lc=yes}
+ac_cv_build=${ac_cv_build=i686-apple-darwin11}
+ac_cv_build_alias=${ac_cv_build_alias=i686-apple-darwin11}
+ac_cv_c_compiler_gnu=${ac_cv_c_compiler_gnu=yes}
+ac_cv_env_CPPFLAGS_set=set
+ac_cv_env_CPPFLAGS_value=
+ac_cv_env_CPP_set=
+ac_cv_env_CPP_value=
+ac_cv_env_FCFLAGS_set=
+ac_cv_env_FCFLAGS_value=
+ac_cv_env_FC_set=
+ac_cv_env_FC_value=
+ac_cv_env_LDFLAGS_set=set
+ac_cv_env_LDFLAGS_value=
+ac_cv_env_build_alias_set=set
+ac_cv_env_build_alias_value=i686-apple-darwin11
+ac_cv_env_host_alias_set=set
+ac_cv_env_host_alias_value=i686-apple-darwin11
+ac_cv_env_target_alias_set=set
+ac_cv_env_target_alias_value=i686-apple-darwin11
+ac_cv_exeext=${ac_cv_exeext=}
+ac_cv_fc_compiler_gnu=${ac_cv_fc_compiler_gnu=no}
+ac_cv_func_clock_gettime=${ac_cv_func_clock_gettime=no}
+ac_cv_func_getloadavg=${ac_cv_func_getloadavg=yes}
+ac_cv_header_inttypes_h=${ac_cv_header_inttypes_h=yes}
+ac_cv_header_memory_h=${ac_cv_header_memory_h=yes}
+ac_cv_header_semaphore_h=${ac_cv_header_semaphore_h=yes}
+ac_cv_header_stdc=${ac_cv_header_stdc=yes}
+ac_cv_header_stdint_h=${ac_cv_header_stdint_h=yes}
+ac_cv_header_stdlib_h=${ac_cv_header_stdlib_h=yes}
+ac_cv_header_string_h=${ac_cv_header_string_h=yes}
+ac_cv_header_strings_h=${ac_cv_header_strings_h=yes}
+ac_cv_header_sys_loadavg_h=${ac_cv_header_sys_loadavg_h=no}
+ac_cv_header_sys_stat_h=${ac_cv_header_sys_stat_h=yes}
+ac_cv_header_sys_time_h=${ac_cv_header_sys_time_h=yes}
+ac_cv_header_sys_types_h=${ac_cv_header_sys_types_h=yes}
+ac_cv_header_time=${ac_cv_header_time=yes}
+ac_cv_header_unistd_h=${ac_cv_header_unistd_h=yes}
+ac_cv_host=${ac_cv_host=i686-apple-darwin11}
+ac_cv_host_alias=${ac_cv_host_alias=i686-apple-darwin11}
+ac_cv_lib_rt_clock_gettime=${ac_cv_lib_rt_clock_gettime=no}
+ac_cv_objext=${ac_cv_objext=o}
+ac_cv_path_PERL=${ac_cv_path_PERL=/usr/bin/perl}
+ac_cv_prog_AR=${ac_cv_prog_AR=ar}
+ac_cv_prog_AWK=${ac_cv_prog_AWK=awk}
+ac_cv_prog_CC=${ac_cv_prog_CC='/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/obj-i686-i686/./gcc/xgcc -B/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/obj-i686-i686/./gcc/ -B/usr/i686-apple-darwin11/bin/ -B/usr/i686-apple-darwin11/lib/ -isystem /usr/i686-apple-darwin11/include -isystem /usr/i686-apple-darwin11/sys-include  -m64'}
+ac_cv_prog_CPP=${ac_cv_prog_CPP='/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/obj-i686-i686/./gcc/xgcc -B/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/obj-i686-i686/./gcc/ -B/usr/i686-apple-darwin11/bin/ -B/usr/i686-apple-darwin11/lib/ -isystem /usr/i686-apple-darwin11/include -isystem /usr/i686-apple-darwin11/sys-include  -m64 -E'}
+ac_cv_prog_FC=${ac_cv_prog_FC='-B/usr/i686-apple-darwin11/bin/ -B/usr/i686-apple-darwin11/lib/ -isystem /usr/i686-apple-darwin11/include -isystem /usr/i686-apple-darwin11/sys-include  -m64'}
+ac_cv_prog_MAKEINFO=${ac_cv_prog_MAKEINFO='makeinfo --split-size=5000000'}
+ac_cv_prog_RANLIB=${ac_cv_prog_RANLIB='ranlib -c'}
+ac_cv_prog_STRIP=${ac_cv_prog_STRIP=strip}
+ac_cv_prog_cc_can_build_shared=${ac_cv_prog_cc_can_build_shared=yes}
+ac_cv_prog_cc_g=${ac_cv_prog_cc_g=yes}
+ac_cv_prog_cc_no_builtin=${ac_cv_prog_cc_no_builtin=}
+ac_cv_prog_cc_pic=${ac_cv_prog_cc_pic=' -fno-common -DPIC'}
+ac_cv_prog_cc_pic_works=${ac_cv_prog_cc_pic_works=yes}
+ac_cv_prog_cc_shlib=${ac_cv_prog_cc_shlib=}
+ac_cv_prog_cc_static=${ac_cv_prog_cc_static=}
+ac_cv_prog_cc_static_works=${ac_cv_prog_cc_static_works=no}
+ac_cv_prog_cc_stdc=${ac_cv_prog_cc_stdc=}
+ac_cv_prog_cc_wl=${ac_cv_prog_cc_wl=-Wl,}
+ac_cv_prog_egrep=${ac_cv_prog_egrep='grep -E'}
+ac_cv_prog_fc_g=${ac_cv_prog_fc_g=no}
+ac_cv_prog_make_make_set=${ac_cv_prog_make_make_set=yes}
+ac_cv_target=${ac_cv_target=i686-apple-darwin11}
+ac_cv_target_alias=${ac_cv_target_alias=i686-apple-darwin11}
+ac_cv_type_int_fast32_t=${ac_cv_type_int_fast32_t=yes}
+ac_cv_type_int_least32_t=${ac_cv_type_int_least32_t=yes}
+ac_cv_type_u_int64_t=${ac_cv_type_u_int64_t=no}
+ac_cv_type_uint64_t=${ac_cv_type_uint64_t=yes}
+ac_cv_type_uintmax_t=${ac_cv_type_uintmax_t=yes}
+ac_cv_type_uintptr_t=${ac_cv_type_uintptr_t=yes}
+acx_cv_header_stdint=${acx_cv_header_stdint=stdint.h}
+acx_cv_header_stdint_kind=${acx_cv_header_stdint_kind='(already complete)'}
+am_cv_CC_dependencies_compiler_type=${am_cv_CC_dependencies_compiler_type=gcc3}
+gcc_cv_prog_makeinfo_modern=${gcc_cv_prog_makeinfo_modern=yes}
+lt_cv_compiler_c_o=${lt_cv_compiler_c_o=yes}
+lt_cv_deplibs_check_method=${lt_cv_deplibs_check_method=pass_all}
+lt_cv_dlopen=${lt_cv_dlopen=dyld}
+lt_cv_dlopen_libs=${lt_cv_dlopen_libs=}
+lt_cv_dlopen_self=${lt_cv_dlopen_self=yes}
+lt_cv_file_magic_cmd=${lt_cv_file_magic_cmd='/usr/bin/file -L'}
+lt_cv_file_magic_test_file=${lt_cv_file_magic_test_file=/usr/lib/libSystem.dylib}
+lt_cv_ld_reload_flag=${lt_cv_ld_reload_flag=-r}
+lt_cv_path_LD=${lt_cv_path_LD=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/obj-i686-i686/./gcc/collect-ld}
+lt_cv_path_NM=${lt_cv_path_NM=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/obj-i686-i686/./gcc/nm}
+lt_cv_prog_gnu_ld=${lt_cv_prog_gnu_ld=no}
+lt_cv_sys_max_cmd_len=${lt_cv_sys_max_cmd_len=196608}

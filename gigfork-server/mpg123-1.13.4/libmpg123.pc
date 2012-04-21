@@ -1,0 +1,11 @@
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libmpg123
+Description: An optimised MPEG Audio decoder
+Requires: 
+Version: 1.13.4
+Libs: -L${libdir} -lmpg123 
+Cflags: -I${includedir} 

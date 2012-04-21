@@ -33,7 +33,7 @@ import org.alfresco.util.schemacomp.model.Index;
 import org.alfresco.util.schemacomp.model.PrimaryKey;
 import org.alfresco.util.schemacomp.model.Schema;
 import org.alfresco.util.schemacomp.model.Table;
-import org.springframework.jdbc.core.simple.SimpleJdbcTemplate;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.TransactionCallbackWithoutResult;
@@ -55,7 +55,7 @@ public class MySQLDialectExportTester extends AbstractExportTester
      * @param jdbcTemplate
      */
     public MySQLDialectExportTester(ExportDb exporter, PlatformTransactionManager tx,
-                SimpleJdbcTemplate jdbcTemplate)
+    		JdbcTemplate jdbcTemplate)
     {
         super(exporter, tx, jdbcTemplate);
     }

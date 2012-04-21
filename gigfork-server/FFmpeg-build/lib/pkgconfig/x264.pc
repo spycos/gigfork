@@ -1,0 +1,10 @@
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: x264
+Description: H.264 (MPEG4 AVC) encoder library
+Version: 0.120.2164 da19765
+Libs: -L${exec_prefix}/lib -lx264 -lpthread
+Cflags: -I${prefix}/include

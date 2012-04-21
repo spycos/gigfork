@@ -1,0 +1,7 @@
+mimetypes.o mimetypes.o: mimetypes.c \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  mimetypes.h
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h:
+
+mimetypes.h:

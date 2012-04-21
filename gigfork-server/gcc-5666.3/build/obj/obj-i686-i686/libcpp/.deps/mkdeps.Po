@@ -1,0 +1,26 @@
+mkdeps.o mkdeps.o:  \
+ /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/mkdeps.c \
+  config.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/system.h \
+  ../intl/libintl.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/../include/filenames.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/../include/libiberty.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/../include/ansidecl.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/../include/safe-ctype.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/include/mkdeps.h
+
+config.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/system.h:
+
+../intl/libintl.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/../include/filenames.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/../include/libiberty.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/../include/ansidecl.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/../include/safe-ctype.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/obj/src/libcpp/include/mkdeps.h:

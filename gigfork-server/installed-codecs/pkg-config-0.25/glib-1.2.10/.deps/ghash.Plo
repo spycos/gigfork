@@ -1,0 +1,38 @@
+ghash.lo ghash.o: ghash.c glib.h glibconfig.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h \
+  /usr/include/limits.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/limits.h \
+  /usr/include/i386/limits.h /usr/include/i386/_limits.h \
+  /usr/include/sys/syslimits.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/float.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+
+glib.h:
+
+glibconfig.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/machine/limits.h:
+
+/usr/include/i386/limits.h:
+
+/usr/include/i386/_limits.h:
+
+/usr/include/sys/syslimits.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/float.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h:

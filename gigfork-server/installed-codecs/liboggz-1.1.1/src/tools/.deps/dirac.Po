@@ -1,0 +1,38 @@
+dirac.o dirac.o: ../liboggz/dirac.c ../../config.h /usr/include/stdint.h \
+  ../liboggz/dirac.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build/include/ogg/ogg.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  /Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build/include/ogg/os_types.h \
+  /usr/include/inttypes.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h
+
+../../config.h:
+
+/usr/include/stdint.h:
+
+../liboggz/dirac.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build/include/ogg/ogg.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/gcc-5666.3/build/dst/usr/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h:
+
+/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build/include/ogg/os_types.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:

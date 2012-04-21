@@ -257,10 +257,9 @@
       </hidden-tasks>
    </config>
    
-   <!-- Remote section - use Surf RequestCachingConnector to improve remoting performance -->
-      
+      <!-- Remote section - use Surf RequestCachingConnector to improve remoting performance -->
    <config evaluator="string-compare" condition="Remote">
-	   <remote>
+      <remote>
          <connector>
             <id>alfresco</id>
             <name>Alfresco Connector</name>
@@ -295,9 +294,7 @@
             <identity>user</identity>
          </endpoint>
       </remote>
-	
    </config>
-	
 
 
 </alfresco-config>

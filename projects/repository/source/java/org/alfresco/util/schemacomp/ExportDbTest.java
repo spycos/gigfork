@@ -34,7 +34,7 @@ import org.hibernate.dialect.PostgreSQLDialect;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
-import org.springframework.jdbc.core.simple.SimpleJdbcTemplate;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.transaction.PlatformTransactionManager;
 
 /**
@@ -53,7 +53,7 @@ public class ExportDbTest
     private ExportDb exporter;
     private Dialect dialect;
     private DataSource dataSource;
-    private SimpleJdbcTemplate jdbcTemplate;
+    private JdbcTemplate jdbcTemplate;
     private PlatformTransactionManager tx;
     private AbstractExportTester exportTester;
     private static final Log logger = LogFactory.getLog(ExportDbTest.class);
@@ -65,7 +65,7 @@ public class ExportDbTest
         ctx = ApplicationContextHelper.getApplicationContext();
         dataSource = (DataSource) ctx.getBean("dataSource");
         tx = (PlatformTransactionManager) ctx.getBean("transactionManager"); 
-        jdbcTemplate = new SimpleJdbcTemplate(dataSource);
+        jdbcTemplate = new JdbcTemplate(dataSource);
         exporter = new ExportDb(ctx);
         exporter.setNamePrefix("export_test_");
         dialect = (Dialect) ctx.getBean("dialect");

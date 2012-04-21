@@ -1,0 +1,13 @@
+# pkg-config file from libvpx v1.0.0-31-g45f4b87
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: vpx
+Description: WebM Project VPx codec implementation
+Version: 1.0.0
+Requires:
+Conflicts:
+Libs: -L${libdir} -lvpx
+Cflags: -I${includedir}

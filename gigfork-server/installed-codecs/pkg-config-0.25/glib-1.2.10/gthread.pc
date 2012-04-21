@@ -1,0 +1,11 @@
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: GThread
+Description: Thread support for GLib
+Requires: glib
+Version: 1.2.10
+Libs: -L${libdir} -lgthread -lpthread
+Cflags:  -D_REENTRANT

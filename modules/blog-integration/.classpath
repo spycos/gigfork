@@ -8,5 +8,10 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/Repository"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Web-Client"/>
 	<classpathentry exported="true" kind="lib" path="lib/xmlrpc.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-beans-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-beans/3.1.1.RELEASE/spring-beans-3.1.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-core-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-core/3.1.1.RELEASE/spring-core-3.1.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-web-3.1.1.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

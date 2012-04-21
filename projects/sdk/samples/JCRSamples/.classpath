@@ -3,5 +3,7 @@
 	<classpathentry kind="src" path="source"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/SDK AlfrescoEmbedded"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-core-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-core/3.1.1.RELEASE/spring-core-3.1.1.RELEASE-sources.jar"/>
 	<classpathentry kind="output" path="build"/>
 </classpath>

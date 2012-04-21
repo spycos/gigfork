@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/llvm-gcc-4.2/bin/../libexec/gcc/i686-apple-darwin11/4.2.1/ld "$@"

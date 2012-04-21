@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/SDK AlfrescoRemote"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/SDK AlfrescoEmbedded"/>
+	<classpathentry kind="lib" path="/Web Service Client/build/classes" sourcepath="/Web Service Client"/>
+	<classpathentry kind="src" path="/Web Service Client"/>
 	<classpathentry kind="output" path="build"/>
 </classpath>

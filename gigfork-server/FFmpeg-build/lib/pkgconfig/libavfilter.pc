@@ -1,0 +1,14 @@
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavfilter
+Description: FFmpeg video filtering library
+Version: 2.70.100
+Requires: libpostproc = 52.0.100, libswresample = 0.11.100, libswscale = 2.1.100, libavformat = 54.3.100, libavcodec = 54.14.101
+Requires.private: 
+Conflicts:
+Libs: -L${libdir} -lavfilter -lxvidcore -lx264 -lvpx -lvpx -lvorbisenc -lvorbis -logg -ltheoraenc -ltheoradec -logg -L/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build/lib -lrtmp -lz -lssl -lcrypto -lmp3lame -lm -framework CoreFoundation -framework VideoDecodeAcceleration -framework QuartzCore -lbz2 -lz
+Libs.private: 
+Cflags: -I${includedir}

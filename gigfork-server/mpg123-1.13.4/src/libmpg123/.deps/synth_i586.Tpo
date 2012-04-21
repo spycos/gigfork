@@ -1,0 +1,8 @@
+synth_i586.lo .libs/synth_i586.o: synth_i586.S mangle.h \
+  ../../src/config.h intsym.h
+
+mangle.h:
+
+../../src/config.h:
+
+intsym.h:

@@ -1,0 +1,10 @@
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: FLAC
+Description: Free Lossless Audio Codec Library
+Version: 1.2.1
+Libs: -L${libdir} -lFLAC -lm
+Cflags: -I${includedir}/FLAC

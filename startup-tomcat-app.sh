@@ -1,4 +1,4 @@
 
-./gigfork-server/apache-tomcat-6.0.35-app/bin/startup.sh
+$APP_TOMCAT_HOME/bin/startup.sh
 
-tail -f ./gigfork-server/apache-tomcat-6.0.35-app/logs/catalina.out
+tail -f $APP_TOMCAT_HOME/logs/catalina.out

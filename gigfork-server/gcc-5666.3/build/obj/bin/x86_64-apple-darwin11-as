@@ -1,0 +1,3 @@
+#!/bin/sh
+for a; do case $a in -arch) exec /usr/bin/as "$@";;  esac; done
+exec /usr/bin/as -arch x86_64 "$@"

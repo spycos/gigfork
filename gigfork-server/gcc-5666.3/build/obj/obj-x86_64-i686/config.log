@@ -1,0 +1,100 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:630: checking host system type
+configure:651: checking target system type
+configure:669: checking build system type
+configure:724: checking for a BSD compatible install
+configure:777: checking whether ln works
+configure:801: checking whether ln -s works
+configure:2139: checking for x86_64-apple-darwin11-gnatbind
+configure:2171: checking for gnatbind
+configure:2204: checking whether compiler driver understands Ada
+configure:2236: checking how to compare bootstrapped objects
+configure:2356: checking for correct version of gmp.h
+configure:2369: x86_64-apple-darwin11-gcc -c -g -O2    conftest.c 1>&5
+configure:2359:17: error: gmp.h: No such file or directory
+configure: In function 'main':
+configure:2363: error: 'choke' undeclared (first use in this function)
+configure:2363: error: (Each undeclared identifier is reported only once
+configure:2363: error: for each function it appears in.)
+configure:2363: error: expected ';' before 'me'
+configure: failed program was:
+#line 2358 "configure"
+#include "confdefs.h"
+#include "gmp.h"
+int main() {
+
+#if __GNU_MP_VERSION < 4 || (__GNU_MP_VERSION == 4 && __GNU_MP_VERSION_MINOR < 1)
+choke me
+#endif
+
+; return 0; }
+configure:3532: checking for bison
+configure:3572: checking for bison
+configure:3611: checking for gm4
+configure:3650: checking for flex
+configure:3690: checking for flex
+configure:3729: checking for makeinfo
+configure:3782: checking for expect
+configure:3823: checking for runtest
+configure:3871: checking for x86_64-apple-darwin11-ar
+configure:3946: checking for x86_64-apple-darwin11-as
+configure:4021: checking for x86_64-apple-darwin11-dlltool
+configure:4096: checking for x86_64-apple-darwin11-ld
+configure:4171: checking for x86_64-apple-darwin11-lipo
+configure:4246: checking for x86_64-apple-darwin11-nm
+configure:4321: checking for x86_64-apple-darwin11-ranlib
+configure:4391: checking for x86_64-apple-darwin11-strip
+configure:4461: checking for x86_64-apple-darwin11-windres
+configure:4536: checking for x86_64-apple-darwin11-objcopy
+configure:4611: checking for x86_64-apple-darwin11-objdump
+configure:4723: checking for i686-apple-darwin11-cc
+configure:4754: checking for cc
+configure:4816: checking for i686-apple-darwin11-c++
+configure:4847: checking for c++
+configure:4909: checking for i686-apple-darwin11-gcc
+configure:4997: checking for i686-apple-darwin11-gcj
+configure:5028: checking for gcj
+configure:5090: checking for i686-apple-darwin11-gfortran
+configure:5121: checking for gfortran
+configure:5248: checking for ar
+configure:5302: checking for i686-apple-darwin11-ar
+configure:5403: checking for as
+configure:5457: checking for i686-apple-darwin11-as
+configure:5558: checking for dlltool
+configure:5612: checking for i686-apple-darwin11-dlltool
+configure:5643: checking for dlltool
+configure:5713: checking for ld
+configure:5767: checking for i686-apple-darwin11-ld
+configure:5868: checking for lipo
+configure:5922: checking for i686-apple-darwin11-lipo
+configure:6023: checking for nm
+configure:6077: checking for i686-apple-darwin11-nm
+configure:6178: checking for objdump
+configure:6232: checking for i686-apple-darwin11-objdump
+configure:6263: checking for objdump
+configure:6333: checking for ranlib
+configure:6387: checking for i686-apple-darwin11-ranlib
+configure:6488: checking for strip
+configure:6542: checking for i686-apple-darwin11-strip
+configure:6643: checking for windres
+configure:6697: checking for i686-apple-darwin11-windres
+configure:6728: checking for windres
+configure:6778: checking where to find the target ar
+configure:6811: checking where to find the target as
+configure:6844: checking where to find the target cc
+configure:6877: checking where to find the target c++
+configure:6913: checking where to find the target c++ for libstdc++
+configure:6949: checking where to find the target dlltool
+configure:6982: checking where to find the target gcc
+configure:7015: checking where to find the target gcj
+configure:7051: checking where to find the target gfortran
+configure:7087: checking where to find the target ld
+configure:7120: checking where to find the target lipo
+configure:7143: checking where to find the target nm
+configure:7176: checking where to find the target objdump
+configure:7209: checking where to find the target ranlib
+configure:7242: checking where to find the target strip
+configure:7275: checking where to find the target windres
+configure:7336: checking whether to enable maintainer-specific portions of Makefiles

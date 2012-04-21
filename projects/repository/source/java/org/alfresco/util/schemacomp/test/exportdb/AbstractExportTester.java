@@ -27,7 +27,7 @@ import org.alfresco.util.schemacomp.model.DbObject;
 import org.alfresco.util.schemacomp.model.Schema;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.springframework.jdbc.core.simple.SimpleJdbcTemplate;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.transaction.PlatformTransactionManager;
 
 /**
@@ -40,10 +40,10 @@ public abstract class AbstractExportTester
 {
     protected ExportDb exporter;
     protected PlatformTransactionManager tx;
-    protected SimpleJdbcTemplate jdbcTemplate;
+    protected JdbcTemplate jdbcTemplate;
     private final static Log log = LogFactory.getLog(AbstractExportTester.class);
     
-    public AbstractExportTester(ExportDb exporter, PlatformTransactionManager tx, SimpleJdbcTemplate jdbcTemplate)
+    public AbstractExportTester(ExportDb exporter, PlatformTransactionManager tx, JdbcTemplate jdbcTemplate)
     {
         this.exporter = exporter;
         this.tx = tx;

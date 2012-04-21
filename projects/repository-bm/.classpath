@@ -11,18 +11,26 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/3rd Party"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Core"/>
 	<classpathentry kind="lib" path="lib/sardine/sardine-146-patched.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.aop-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.asm-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.beans-3.0.5.RELEASE.jar" sourcepath="/3rd Party/src/org.springframework.beans-sources-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.context-3.0.5.RELEASE.jar" sourcepath="/3rd Party/src/org.springframework.context-sources-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.context.support-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.core-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.expression-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.jdbc-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.orm-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.transaction-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.web-3.0.5.RELEASE.jar" sourcepath="/3rd Party/src/org.springframework.web-sources-3.0.5.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/org.springframework.web.servlet-3.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/commons/commons-net-2.2.jar" sourcepath="/3rd Party/src/commons-net-2.2-src.zip"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-beans-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-beans/3.1.1.RELEASE/spring-beans-3.1.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-core-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-core/3.1.1.RELEASE/spring-core-3.1.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-data-redis-1.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-integration-core-2.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-integration-event-2.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-integration-http-2.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-integration-mail-2.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-jdbc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-mobile-device-1.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-orm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-orm-source-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-tx-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-web-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-webmvc-3.1.1.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

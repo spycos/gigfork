@@ -551,7 +551,7 @@ public class ADMLuceneTest extends TestCase implements DictionaryListener
         MLText mlText = new MLText();
         mlText.addValue(Locale.ENGLISH, new String(new char[] { (char) ('a' + orderTextCount) }) + " banana");
         mlText.addValue(Locale.FRENCH, new String(new char[] { (char) ('Z' - orderTextCount) }) + " banane");
-        mlText.addValue(Locale.CHINESE, new String(new char[] { (char) ('香' + orderTextCount) }) + " 香蕉");
+        mlText.addValue(Locale.CHINESE, new String(new char[] { (char) ('�' + orderTextCount) }) + " 香蕉");
         testProperties.put(orderMLText, mlText);
 
         orderDate = Duration.subtract(orderDate, new Duration("P1D"));

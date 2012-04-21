@@ -1,0 +1,48 @@
+Apr 21, 2012 2:19:42 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 21, 2012 2:19:43 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 21, 2012 2:19:43 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 704 ms
+Apr 21, 2012 2:19:43 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 21, 2012 2:19:43 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 21, 2012 2:19:43 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 21, 2012 2:19:43 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 21, 2012 2:19:43 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/18  config=null
+Apr 21, 2012 2:19:43 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 115 ms
+Apr 21, 2012 2:19:52 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Apr 21, 2012 2:19:53 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 21, 2012 2:19:53 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Apr 21, 2012 2:24:43 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/hflambo/local/gigfork-video-ffmpeg/ffmpeg-vda-gigfork/lib::.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Apr 21, 2012 2:24:44 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Apr 21, 2012 2:24:44 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 638 ms
+Apr 21, 2012 2:24:44 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 21, 2012 2:24:44 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.35
+Apr 21, 2012 2:24:44 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive alfresco.war
+Apr 21, 2012 2:25:16 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "org.apache.myfaces.webapp.StartupServletContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 21, 2012 2:26:35 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Apr 21, 2012 2:26:35 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 21, 2012 2:26:35 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 21, 2012 2:26:35 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 111204 ms
+Apr 21, 2012 3:44:43 PM org.apache.tomcat.util.http.Parameters processParameters
+INFO: Invalid chunk starting at byte [137] and ending at byte [137] with a value of [null] ignored

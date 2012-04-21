@@ -1,0 +1,172 @@
+*asm:
+-arch %(darwin_arch) -force_cpusubtype_ALL   %{mkernel|static|fapple-kext:%{!m64:-static}}
+
+*asm_debug:
+%{gstabs*:--gstabs}%{!gstabs*:%{g*:--gdwarf2}}
+
+*asm_final:
+
+
+*asm_options:
+%a %Y %{c:%W{o*}%{!o*:-o %w%b%O}}%{!c:-o %d%w%u%O}
+
+*invoke_as:
+%{!S:-o %|.s |
+ as %(asm_options) %m.s %A }
+
+*cpp:
+%{static:%{!dynamic:-D__STATIC__}}%{!static:-D__DYNAMIC__} %{pthread:-D_REENTRANT}
+
+*cpp_options:
+%(cpp_unique_options) %1 %{m*} %{std*&ansi&trigraphs} %{W*&pedantic*} %{w} %{f*} %{g*:%{!g0:%{!fno-working-directory:-fworking-directory}}} %{O*} %{undef} %{save-temps:-fpch-preprocess}
+
+*cpp_debug_options:
+%{d*}
+
+*cpp_unique_options:
+%{C|CC:%{!E:%eGCC does not support -C or -CC without -E}} %{!Q:-quiet} %{nostdinc*} %{C} %{CC} %{v} %{I*&F*} %{P} %I %{MD:-MD %{!o:%b.d}%{o*:%.d%*}} %{MMD:-MMD %{!o:%b.d}%{o*:%.d%*}} %{M} %{MM} %{MF*} %{MG} %{MP} %{MQ*} %{MT*} %{!E:%{!M:%{!MM:%{MD|MMD:%{o*:-MQ %*}}}}} %{remap} %{g3:-dD} %{H} %C %{D*&U*&A*} %{i*} %Z %i %{fmudflap:-D_MUDFLAP -include mf-runtime.h} %{fmudflapth:-D_MUDFLAP -D_MUDFLAPTH -include mf-runtime.h} %{E|M|MM:%W{o*}}
+
+*trad_capable_cpp:
+cc1 -E %{traditional|ftraditional|traditional-cpp:-traditional-cpp}
+
+*pch:
+-o %g.s %{!o*:--output-pch=%i.gch} %W{o*:--output-pch=%*}  %{fsave-repository=*: 
+ as %a -o %w%* %g.s %A}%V
+
+*cc1:
+%{!mkernel:%{!static:%{!mdynamic-no-pic:-fPIC}}}     %<mthumb %<mno-thumb     %{!mmacosx-version-min=*: %{!miphoneos-version-min=*: %(darwin_cc1_minversion)}}     %<faltivec %<mno-fused-madd %<mlong-branch %<mlongcall %<mcpu=G4 %<mcpu=G5   %{g: %{!fno-eliminate-unused-debug-symbols: -feliminate-unused-debug-symbols }}
+
+*cc1_options:
+%{fast:-O3} %{fastf:-O3} %{fastcp:-O3}%{pg:%{fomit-frame-pointer:%e-pg and -fomit-frame-pointer are incompatible}} %1 %{!Q:-quiet} -dumpbase %B %{d*} %{m*} %{a*} %{c|S:%{o*:-auxbase-strip %*}%{!o*:-auxbase %b}}%{!c:%{!S:-auxbase %b}} %{g*} %{O*} %{W*&pedantic*} %{w} %{std*&ansi&trigraphs} %{v:-version} %{pg:-p} %{p} %{f*} %{undef} %{Qn:-fno-ident} %{--help:--help} %{--target-help:--target-help} %{!fsyntax-only:%{S:%W{o*}%{!o*:-o %b.s}}} %{fsyntax-only:-o %j} %{-param*} %{fmudflap|fmudflapth:-fno-builtin -fno-merge-constants} %{coverage:-fprofile-arcs -ftest-coverage}
+
+*cc1plus:
+-D__private_extern__=extern
+
+*link_gcc_c_sequence:
+%{miphoneos-version-min=*: %G %L}					   %{!miphoneos-version-min=*:						     %{!static:%:version-compare(>= 10.6 mmacosx-version-min= -lSystem)} %G %L}
+
+*link_ssp:
+%{fstack-protector:}
+
+*endfile:
+
+
+*link:
+%{static}%{!static:-dynamic}    %{fgnu-runtime:%:replace-outfile(-lobjc -lobjc-gnu)}   %{!Zdynamiclib:      %{Zforce_cpusubtype_ALL:-arch %(darwin_arch) -force_cpusubtype_ALL}      %{!Zforce_cpusubtype_ALL:-arch %(darwin_subarch)}      %{Zbundle:-bundle}      %{Zbundle_loader*:-bundle_loader %*}      %{client_name*}      %{compatibility_version*:%e-compatibility_version only allowed with -dynamiclib}      %{current_version*:%e-current_version only allowed with -dynamiclib}      %{Zforce_flat_namespace:-force_flat_namespace}      %{Zinstall_name*:%e-install_name only allowed with -dynamiclib}      %{keep_private_externs}      %{private_bundle}     }    %{Zdynamiclib: -dylib      %{Zbundle:%e-bundle not allowed with -dynamiclib}      %{Zbundle_loader*:%e-bundle_loader not allowed with -dynamiclib}      %{client_name*:%e-client_name not allowed with -dynamiclib}      %{compatibility_version*:-dylib_compatibility_version %*}      %{current_version*:-dylib_current_version %*}      %{Zforce_cpusubtype_ALL:-arch %(darwin_arch)}      %{!Zforce_cpusubtype_ALL: -arch %(darwin_subarch)}      %{Zforce_flat_namespace:%e-force_flat_namespace not allowed with -dynamiclib}      %{Zinstall_name*:-dylib_install_name %*}      %{keep_private_externs:%e-keep_private_externs not allowed with -dynamiclib}      %{private_bundle:%e-private_bundle not allowed with -dynamiclib}     }    %{Zall_load:-all_load}        %{Zforce_load*:-force_load %*}    %{Zallowable_client*:-allowable_client %*}    %{Zbind_at_load:-bind_at_load}    %{Zarch_errors_fatal:-arch_errors_fatal}    %{Zdead_strip:-dead_strip}    %{Zno_dead_strip_inits_and_terms:-no_dead_strip_inits_and_terms}    %{Zdylib_file*:-dylib_file %*}    %{Zdynamic:-dynamic}   %{Zexported_symbols_list*:-exported_symbols_list %*}    %{Zflat_namespace:-flat_namespace}    %{headerpad_max_install_names*}    %{Zimage_base*:-image_base %*}    %{Zinit*:-init %*}       %{!mmacosx-version-min=*: %{!miphoneos-version-min=*: %(darwin_ld_minversion)}}    %{mmacosx-version-min=*:-macosx_version_min %*}    %{miphoneos-version-min=*:-iphoneos_version_min %*}       %{nomultidefs}    %{Zmulti_module:-multi_module} %{Zsingle_module:-single_module}    %{Zmultiply_defined*:-multiply_defined %*}            %{Zmultiplydefinedunused*:-multiply_defined_unused %*}        %{fpie:-pie}        %{fPIE:-pie}    %{fno-pie:-no_pie}    %{fno-PIE:-no_pie}        %{prebind} %{noprebind} %{nofixprebinding} %{prebind_all_twolevel_modules}    %{read_only_relocs}    %{sectcreate*} %{sectorder*} %{seg1addr*} %{segprot*}    %{Zsegaddr*:-segaddr %*}    %{Zsegs_read_only_addr*:-segs_read_only_addr %*}    %{Zsegs_read_write_addr*:-segs_read_write_addr %*}    %{Zseg_addr_table*: -seg_addr_table %*}    %{Zfn_seg_addr_table_filename*:-seg_addr_table_filename %*}    %{sub_library*} %{sub_umbrella*}    %{isysroot*:-syslibroot %*}    %{twolevel_namespace} %{twolevel_namespace_hints}    %{Zumbrella*: -umbrella %*}    %{undefined*}    %{Zunexported_symbols_list*:-unexported_symbols_list %*}    %{Zweak_reference_mismatches*:-weak_reference_mismatches %*}    %{!Zweak_reference_mismatches*:-weak_reference_mismatches non-weak}    %{X}    %{y*}    %{w}    %{pagezero_size*} %{segs_read_*} %{seglinkedit} %{noseglinkedit}     %{sectalign*} %{sectobjectsymbols*} %{segcreate*} %{whyload}    %{whatsloaded} %{dylinker_install_name*}    %{dylinker} %{Mach} 
+
+*lib:
+%{!static:-lSystem}
+
+*mfwrap:
+ %{static: %{fmudflap|fmudflapth:  --wrap=malloc --wrap=free --wrap=calloc --wrap=realloc --wrap=mmap --wrap=munmap --wrap=alloca} %{fmudflapth: --wrap=pthread_create}} %{fmudflap|fmudflapth: --wrap=main}
+
+*mflib:
+%{fmudflap|fmudflapth: -export-dynamic}
+
+*link_gomp:
+
+
+*libgcc:
+%{static:-lgcc_static; static-libgcc: -lgcc_eh -lgcc;		         				         miphoneos-version-min=*: %(darwin_iphoneos_libgcc);		         shared-libgcc|fexceptions|fgnu-runtime:				          %:version-compare(!> 10.5 mmacosx-version-min= -lgcc_s.10.4)	          			          %:version-compare(>< 10.5 10.6 mmacosx-version-min= -lgcc_s.10.5)          -lgcc;								         :%:version-compare(>< 10.3.9 10.5 mmacosx-version-min= -lgcc_s.10.4)        			          %:version-compare(>< 10.5 10.6 mmacosx-version-min= -lgcc_s.10.5)          -lgcc}
+
+*startfile:
+%{Zdynamiclib: %(darwin_dylib1) }					       			       %{!Zdynamiclib:%{Zbundle:%{!static: %(darwin_bundle1)}}		         %{!Zbundle:%{pg:%{static:-lgcrt0.o}				                         %{!static:%{object:-lgcrt0.o}			                                   %{!object:%{preload:-lgcrt0.o}		                                     %{!preload:-lgcrt1.o %(darwin_crt2)}}}}                    %{!pg:%{static:-lcrt0.o}				                          %{!static:%{object:-lcrt0.o}			                                    %{!object:%{preload:-lcrt0.o}		                                      %{!preload: %(darwin_crt1)		    					      %(darwin_crt2)}}}}}}	      %{shared-libgcc:							        %{!miphoneos-version-min=*:						          %:version-compare(< 10.5 mmacosx-version-min= crt3.o%s)}}
+
+*switches_need_spaces:
+
+
+*cross_compile:
+0
+
+*version:
+4.2.1
+
+*multilib:
+. !m64;x86_64 m64;
+
+*multilib_defaults:
+
+
+*multilib_extra:
+
+
+*multilib_matches:
+m64 m64;
+
+*multilib_exclusions:
+
+
+*multilib_options:
+m64
+
+*linker:
+collect2
+
+*link_libgcc:
+%D
+
+*md_exec_prefix:
+
+
+*md_startfile_prefix:
+
+
+*md_startfile_prefix_1:
+
+
+*startfile_prefix_spec:
+
+
+*sysroot_spec:
+--sysroot=%R
+
+*sysroot_suffix_spec:
+
+
+*sysroot_hdrs_suffix_spec:
+
+
+*cc1_cpu:
+%{!mtune*: %{m386:mtune=i386 %n`-m386' is deprecated. Use `-march=i386' or `-mtune=i386' instead.
+} %{m486:-mtune=i486 %n`-m486' is deprecated. Use `-march=i486' or `-mtune=i486' instead.
+} %{mpentium:-mtune=pentium %n`-mpentium' is deprecated. Use `-march=pentium' or `-mtune=pentium' instead.
+} %{mpentiumpro:-mtune=pentiumpro %n`-mpentiumpro' is deprecated. Use `-march=pentiumpro' or `-mtune=pentiumpro' instead.
+} %{mcpu=*:-mtune=%* %n`-mcpu=' is deprecated. Use `-mtune=' or '-march=' instead.
+}} %<mcpu=* %{mintel-syntax:-masm=intel %n`-mintel-syntax' is deprecated. Use `-masm=intel' instead.
+} %{mno-intel-syntax:-masm=att %n`-mno-intel-syntax' is deprecated. Use `-masm=att' instead.
+}%{march=native:%<march=native %:local_cpu_detect(arch)   %{!mtune=*:%<mtune=native %:local_cpu_detect(tune)}} %{mtune=native:%<mtune=native %:local_cpu_detect(tune)}
+
+*darwin_crt1:
+%:version-compare(!> 10.5 mmacosx-version-min= -lcrt1.o)		   %:version-compare(>< 10.5 10.6 mmacosx-version-min= -lcrt1.10.5.o)	   %:version-compare(>= 10.6 mmacosx-version-min= -lcrt1.10.6.o)
+
+*darwin_dylib1:
+%:version-compare(!> 10.5 mmacosx-version-min= -ldylib1.o)		   %:version-compare(>< 10.5 10.6 mmacosx-version-min= -ldylib1.10.5.o)
+
+*darwin_bundle1:
+%:version-compare(!> 10.6 mmacosx-version-min= -lbundle1.o)
+
+*darwin_minversion:
+%{!m64|fgnu-runtime:10.4;				    ,objective-c|,objc-cpp-output:10.5;			    ,objective-c-header:10.5;				    ,objective-c++|,objective-c++-cpp-output:10.5;	    ,objective-c++-header|,objc++-cpp-output:10.5;	    :10.4}
+
+*darwin_cc1_minversion:
+-mmacosx-version-min=%(darwin_minversion)
+
+*darwin_ld_minversion:
+-macosx_version_min %(darwin_minversion)
+
+*darwin_iphoneos_libgcc:
+-lgcc
+
+*darwin_arch:
+%{m64:x86_64;:i386}
+
+*darwin_crt2:
+
+
+*darwin_subarch:
+%{m64:x86_64;:i386}
+
+*link_command:
+%{!fdump=*:%{!fsyntax-only:%{!precomp:%{!c:%{!M:%{!MM:%{!E:%{!S:    %(linker) %l %X %{d} %{s} %{t} %{Z} %{u*}     %{A} %{e*} %{m} %{r} %{x}     %{o*}%{!o:-o a.out}     %{!A:%{!nostdlib:%{!nostartfiles:%S}}}     %{L*} %{fopenmp:%:include(libgomp.spec)%(link_gomp)}       %(link_libgcc) %o %{fprofile-arcs|fprofile-generate|fcreate-profile|coverage:-lgcov}     %{fnested-functions: -allow_stack_execute}     %{!nostdlib:%{!nodefaultlibs:%(link_ssp) %(link_gcc_c_sequence)}}     %{!A:%{!nostdlib:%{!nostartfiles:%E}}} %{T*} %{F*} }}}}}}}}
+%{!fdump=*:%{!fsyntax-only:%{!c:%{!M:%{!MM:%{!E:%{!S:    %{.c|.cc|.C|.cpp|.cp|.c++|.cxx|.CPP|.m|.mm:     %{g*:%{!gstabs*:%{!g0: dsymutil %{o*:%*}%{!o:a.out}}}}}}}}}}}}
+
