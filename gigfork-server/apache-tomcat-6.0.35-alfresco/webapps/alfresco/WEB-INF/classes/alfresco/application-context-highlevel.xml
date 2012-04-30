@@ -34,6 +34,14 @@
     <import resource="classpath*:alfresco/flickr-publishing-context.xml" />
     <import resource="classpath*:alfresco/facebook-publishing-context.xml" />
     <import resource="classpath*:alfresco/slideshare-publishing-context.xml" />
+    
+    <!--  add custom publishing channels contexts here!! -->
+    
+    <import resource="classpath*:alfresco/gitHub-publishing-context.xml" />
+    <import resource="classpath*:alfresco/soundcloud-publishing-context.xml" />
+    <import resource="classpath*:alfresco/lastfm-publishing-context.xml" />
+    
+    
     <import resource="classpath*:alfresco/slingshot-context.xml" />
     <import resource="classpath*:alfresco/domain/*-context.xml" />
 </beans>

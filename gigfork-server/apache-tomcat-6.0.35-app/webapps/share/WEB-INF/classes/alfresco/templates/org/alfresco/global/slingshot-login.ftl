@@ -8,6 +8,41 @@
 <#if PORTLET>
       <div class="login-portlet">${msg("message.login-portal")}</div>
 <#else>
+
+		<!--Begin of Select Locale-->            
+            <script type="text/javascript">
+				function setCookieForLocale(form){
+				C_Name="alf_share_locale"
+				Now_Time = new Date();
+				Expires_Time= new Date();
+				Day = 24*60*60*1000;
+				Expires_Time.setTime(Now_Time.getTime() + Day * 30);
+				GMT_Expires_Time=Expires_Time.toGMTString();
+				var index = form.sharelocale.selectedIndex;
+				var lc = form.sharelocale.options[index].value;
+				document.cookie=C_Name+"="+lc+"; path=/share; expires="+GMT_Expires_Time;
+				location.reload();
+				}
+			</script>
+  	  
+            <div style="padding-top:4px">
+			<form id="sharelocaleform">
+				<select id="sharelocale" name="sharelocale" onChange="setCookieForLocale(this.form)">
+					<#assign h = {"en_US":"English","de_DE":"German","fr_FR":"French","it_IT":"Italian","es_ES":"Spanish","nl_NL":"Dutch","ja_JP":"Japanese"}>
+					<#assign keys = h?keys>
+					<#list keys as key>				
+						<#if key = locale>
+							<option value=${key} selected="true">${h[key]}</option>
+						<#else>
+							<option value=${key}>${h[key]}</option>
+						</#if>
+					</#list>
+				</select>
+			</form>
+		</div>           
+            
+		<!--End of Select Locale-->
+
       <form id="loginform" accept-charset="UTF-8" method="post" action="${url.context}/page/dologin" onsubmit="return alfLogin();">
          <fieldset>
             <div style="padding-top:96px">

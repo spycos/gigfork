@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers
+END
+flash.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/9629/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers/flash.ftl
+END
+xml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/9167/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers/xml.ftl
+END
+audio.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers/audio.ftl
+END
+image.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/9629/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers/image.ftl
+END
+html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/9167/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers/html.ftl
+END
+text.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/9217/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers/text.ftl
+END
+no-viewer-exist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/9629/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers/no-viewer-exist.ftl
+END
+video.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/9167/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/content-viewer/viewers/video.ftl
+END

@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/34382/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists
+END
+filter.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get.desc.xml
+END
+datagrid.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get_fr.properties
+END
+datagrid.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get_nl.properties
+END
+toolbar.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get_de.properties
+END
+datagrid.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get.html.ftl
+END
+datagrid.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get_it.properties
+END
+list.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get.properties
+END
+filter.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get_es.properties
+END
+toolbar.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get_ja.properties
+END
+filter.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get.head.ftl
+END
+datalists.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get_es.properties
+END
+actions-common.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/actions-common.get.html.ftl
+END
+datalists.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/21255/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get.html.ftl
+END
+filter.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get.properties
+END
+datagrid.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/19422/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get.config.xml
+END
+datagrid.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get_de.properties
+END
+datagrid.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get_ja.properties
+END
+toolbar.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get_es.properties
+END
+toolbar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/19422/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get.html.ftl
+END
+datagrid.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get.js
+END
+datagrid.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get.desc.xml
+END
+list.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get_fr.properties
+END
+list.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get_nl.properties
+END
+datagrid.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get_es.properties
+END
+actions-common.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/actions-common.get.desc.xml
+END
+list.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get.html.ftl
+END
+list.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get_it.properties
+END
+datalists.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get.js
+END
+datagrid.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get.head.ftl
+END
+datalists.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get.desc.xml
+END
+toolbar.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/19604/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get.config.xml
+END
+filter.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get_fr.properties
+END
+filter.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get_nl.properties
+END
+datalists.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get_fr.properties
+END
+actions-common.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/34382/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/actions-common.get.head.ftl
+END
+datagrid.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datagrid.get.properties
+END
+filter.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get.html.ftl
+END
+datalists.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get_nl.properties
+END
+datalists.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get.head.ftl
+END
+filter.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get_it.properties
+END
+toolbar.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get.js
+END
+list.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get_de.properties
+END
+toolbar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get.desc.xml
+END
+datalists.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get_it.properties
+END
+list.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get_ja.properties
+END
+datalists.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/28793/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get.properties
+END
+toolbar.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get_fr.properties
+END
+list.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get.js
+END
+toolbar.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get.head.ftl
+END
+toolbar.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get_nl.properties
+END
+list.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get.desc.xml
+END
+filter.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get.config.xml
+END
+filter.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get_de.properties
+END
+toolbar.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get_it.properties
+END
+filter.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get_ja.properties
+END
+datalists.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get_de.properties
+END
+datalists.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/datalists.get_ja.properties
+END
+list.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get_es.properties
+END
+toolbar.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/19689/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/toolbar.get.properties
+END
+list.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/list.get.head.ftl
+END
+filter.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/filter.get.js
+END

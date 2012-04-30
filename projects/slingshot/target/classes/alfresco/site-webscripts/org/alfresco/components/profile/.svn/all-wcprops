@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile
+END
+change-password.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/10461/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get.desc.xml
+END
+userprofiletoolbar.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get_fr.properties
+END
+change-password.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get_es.properties
+END
+change-password.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/10461/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.post.desc.xml
+END
+change-password.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get.head.ftl
+END
+following.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/34157/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get.js
+END
+user-content.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get.html.ftl
+END
+change-password.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.post.json.js
+END
+user-notifications.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get.properties
+END
+userprofile.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31674/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get_nl.properties
+END
+userstatus.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22379/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userstatus.post.json.ftl
+END
+following.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32794/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get_nl.properties
+END
+userprofiletoolbar.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/33010/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get_de.properties
+END
+user-sites.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get_es.properties
+END
+userprofile.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get_it.properties
+END
+following.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32793/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get_it.properties
+END
+followers.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/34157/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get.js
+END
+userprofiletoolbar.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get_ja.properties
+END
+user-sites.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/14478/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get.properties
+END
+followers.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get_nl.properties
+END
+user-content.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/14478/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get.desc.xml
+END
+followers.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get_it.properties
+END
+change-password.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get_fr.properties
+END
+user-notifications.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get_nl.properties
+END
+userprofiletoolbar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28488/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get.html.ftl
+END
+user-content.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get_nl.properties
+END
+user-content.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/29256/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get.head.ftl
+END
+user-notifications.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get_it.properties
+END
+user-notifications.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get.html.ftl
+END
+user-content.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/32521/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get_it.properties
+END
+user-content.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get.properties
+END
+userprofile.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/9970/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.post.desc.xml
+END
+userprofile.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get_es.properties
+END
+following.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32754/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get_es.properties
+END
+following.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/28498/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.post.desc.xml
+END
+user-sites.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get_fr.properties
+END
+following.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get.html.ftl
+END
+change-password.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/10461/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.post.json.ftl
+END
+change-password.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get_de.properties
+END
+following-private.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/28498/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following-private.post.js
+END
+userprofile.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/30566/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get.properties
+END
+user-sites.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29256/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get.html.ftl
+END
+change-password.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get_ja.properties
+END
+userprofiletoolbar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/10306/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get.desc.xml
+END
+followers.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31467/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get_es.properties
+END
+user-notifications.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get.js
+END
+user-notifications.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get.desc.xml
+END
+followers.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get.html.ftl
+END
+userprofiletoolbar.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get_nl.properties
+END
+userprofiletoolbar.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get.head.ftl
+END
+user-sites.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get_de.properties
+END
+user-sites.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get.config.xml
+END
+user-notifications.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get_es.properties
+END
+user-notifications.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.post.desc.xml
+END
+user-sites.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get_ja.properties
+END
+user-content.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/32519/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get_es.properties
+END
+userprofiletoolbar.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get_it.properties
+END
+user-notifications.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get.head.ftl
+END
+userstatus.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/22389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userstatus.post.json.js
+END
+following.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/28460/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get.desc.xml
+END
+userprofiletoolbar.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/28488/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get.properties
+END
+user-sites.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get.js
+END
+user-notifications.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.post.json.js
+END
+user-sites.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/14478/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get.desc.xml
+END
+change-password.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/10948/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get.properties
+END
+userprofile-follow.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/28498/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile-follow.post.js
+END
+userprofile-follow.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/28498/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile-follow.post.desc.xml
+END
+userprofile.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get_fr.properties
+END
+following.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32754/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get_fr.properties
+END
+following.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29256/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get.head.ftl
+END
+userprofile.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get.html.ftl
+END
+user-sites.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29256/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get.head.ftl
+END
+followers.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/28460/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get.desc.xml
+END
+user-content.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get.config.xml
+END
+following.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/32704/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get.properties
+END
+followers.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29364/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get_fr.properties
+END
+followers.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29256/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get.head.ftl
+END
+user-content.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get.js
+END
+userprofile.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/9970/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.post.json.ftl
+END
+userprofile.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/30667/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get_de.properties
+END
+following.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32902/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get_de.properties
+END
+userprofile.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get_ja.properties
+END
+userprofiletoolbar.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/31081/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get_es.properties
+END
+userstatus.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22379/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userstatus.post.desc.xml
+END
+following.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32783/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.get_ja.properties
+END
+user-notifications.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get_fr.properties
+END
+followers.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/28630/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get.properties
+END
+user-content.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/32520/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get_fr.properties
+END
+change-password.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get_nl.properties
+END
+userprofile.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/34157/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get.js
+END
+userprofile.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/10306/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get.desc.xml
+END
+change-password.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get_it.properties
+END
+change-password.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/change-password.get.html.ftl
+END
+followers.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32902/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get_de.properties
+END
+following.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/28613/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following.post.js
+END
+followers.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/followers.get_ja.properties
+END
+userprofile.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.get.head.ftl
+END
+user-notifications.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.post.json.ftl
+END
+user-sites.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get_nl.properties
+END
+user-notifications.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get_de.properties
+END
+userprofile.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/11034/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofile.post.json.js
+END
+user-content.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get_de.properties
+END
+user-notifications.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-notifications.get_ja.properties
+END
+following-private.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28498/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/following-private.post.desc.xml
+END
+user-sites.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-sites.get_it.properties
+END
+user-content.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/user-content.get_ja.properties
+END
+userprofiletoolbar.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/30791/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/profile/userprofiletoolbar.get.js
+END

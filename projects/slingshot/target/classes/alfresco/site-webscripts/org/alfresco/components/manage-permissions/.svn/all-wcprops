@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions
+END
+manage-permissions.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get_es.properties
+END
+manage-permissions.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get_fr.properties
+END
+manage-permissions.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get_de.properties
+END
+manage-permissions.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get.head.ftl
+END
+manage-permissions.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get_nl.properties
+END
+manage-permissions.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get_ja.properties
+END
+manage-permissions.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/29615/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get.html.ftl
+END
+manage-permissions.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get_it.properties
+END
+manage-permissions.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/alfresco-open-mirror/!svn/ver/18910/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get.js
+END
+manage-permissions.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/alfresco-open-mirror/!svn/ver/19511/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get.properties
+END
+manage-permissions.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/29615/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/manage-permissions/manage-permissions.get.desc.xml
+END

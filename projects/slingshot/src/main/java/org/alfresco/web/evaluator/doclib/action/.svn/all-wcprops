@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/32883/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/action
+END
+ViewInExplorerEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/30105/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/action/ViewInExplorerEvaluator.java
+END
+EditableByCurrentUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/32883/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/action/EditableByCurrentUser.java
+END
+LocateActionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/action/LocateActionEvaluator.java
+END
+GoogleDocsCheckInEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/action/GoogleDocsCheckInEvaluator.java
+END

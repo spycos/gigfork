@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator
+END
+GoogleDocsOwnerEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/GoogleDocsOwnerEvaluator.java
+END
+LockedEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/LockedEvaluator.java
+END
+EditingEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/EditingEvaluator.java
+END
+LockOwnerEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/LockOwnerEvaluator.java
+END
+SimpleWorkflowEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/SimpleWorkflowEvaluator.java
+END
+TransferredNodeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/TransferredNodeEvaluator.java
+END
+GoogleDocsLockedEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/GoogleDocsLockedEvaluator.java
+END
+ActiveWorkflowsEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/ActiveWorkflowsEvaluator.java
+END
+GoogleDocsEditingEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/GoogleDocsEditingEvaluator.java
+END
+RulesEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/29690/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/evaluator/doclib/indicator/RulesEvaluator.java
+END

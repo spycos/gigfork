@@ -1,0 +1,1697 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets
+END
+user-calendar.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get_fr.properties
+END
+wiki.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get_ja.properties
+END
+my-activities.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get.head.ftl
+END
+addons.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/31267/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.config.xml
+END
+async-rssfeed.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get_ja.properties
+END
+my-meeting-workspaces.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get.head.ftl
+END
+wiki.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get.desc.xml
+END
+rssfeed.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.head.ftl
+END
+my-meeting-workspaces.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32669/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get_it.properties
+END
+imagesummary.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get_es.properties
+END
+addons.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/31267/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.js
+END
+my-meeting-workspaces.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/32531/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get.properties
+END
+activity-list.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get_es.properties
+END
+webview.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get_es.properties
+END
+site-activities.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get.head.ftl
+END
+site-activities.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get_nl.properties
+END
+my-tasks.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get.html.ftl
+END
+addons.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get_it.properties
+END
+site-profile.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get_de.properties
+END
+colleagues.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get.html.ftl
+END
+webview-default.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get_nl.properties
+END
+my-activities.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get_it.properties
+END
+async-rssfeed.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get.desc.xml
+END
+dynamic-welcome.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get_ja.properties
+END
+imagesummary.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get_fr.properties
+END
+my-tasks.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/10624/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get.desc.xml
+END
+docsummary.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get_de.properties
+END
+docsummary.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get.config.xml
+END
+activity-list.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get_fr.properties
+END
+site-activities.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get_es.properties
+END
+colleagues.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get_ja.properties
+END
+site-profile.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get.html.ftl
+END
+webview.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get_fr.properties
+END
+addons.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.html.ftl
+END
+colleagues.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get.desc.xml
+END
+async-rssfeed.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get.properties
+END
+site-data-lists.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get.properties
+END
+webview.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get.properties
+END
+my-documents.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get.head.ftl
+END
+my-workspaces.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get_ja.properties
+END
+site-activities.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/29221/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get.config.xml
+END
+activity-list.get.atomfeed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/28617/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get.atomfeed.ftl
+END
+webview-default.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get_es.properties
+END
+my-sites.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32668/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get_de.properties
+END
+site-profile.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/9880/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get.desc.xml
+END
+site-activities.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29221/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get.js
+END
+addons.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/31267/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.desc.xml
+END
+site-links.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get_de.properties
+END
+my-profile.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get_de.properties
+END
+rssfeed.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.properties
+END
+my-documents.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get_de.properties
+END
+site-activities.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get_fr.properties
+END
+site-profile.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get_it.properties
+END
+my-docs-editing.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get.js
+END
+site-links.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/30810/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get.html.ftl
+END
+user-calendar.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get.head.ftl
+END
+docsummary.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get_it.properties
+END
+site-data-lists.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get_ja.properties
+END
+webview-default.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get_fr.properties
+END
+my-workspaces.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get.js
+END
+my-docs-editing.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get_nl.properties
+END
+site-data-lists.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get.js
+END
+my-activities.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29221/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get.config.xml
+END
+my-tasks.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get_nl.properties
+END
+site-links.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get.desc.xml
+END
+rssfeed.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get_de.properties
+END
+my-sites.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get.head.ftl
+END
+dynamic-welcome.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.post.desc.xml
+END
+my-sites.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32669/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get_it.properties
+END
+my-sites.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/32531/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get.properties
+END
+rssfeed.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.js
+END
+wiki.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/14982/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get.config.xml
+END
+wiki.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get_de.properties
+END
+activity-list.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/28524/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get.config.xml
+END
+site-links.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get_it.properties
+END
+async-rssfeed.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get_de.properties
+END
+my-profile.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get_it.properties
+END
+my-documents.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get_it.properties
+END
+site-profile.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get.js
+END
+my-meeting-workspaces.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32680/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get_nl.properties
+END
+calendar.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get_ja.properties
+END
+my-docs-editing.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get_es.properties
+END
+webview-default.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/20075/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get.html.ftl
+END
+imagesummary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31384/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get.html.ftl
+END
+user-calendar.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get_ja.properties
+END
+my-tasks.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get_es.properties
+END
+addons.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get_nl.properties
+END
+webview-default.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/14537/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get.desc.xml
+END
+my-activities.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get_nl.properties
+END
+imagesummary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/14900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get.desc.xml
+END
+my-meeting-workspaces.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get_es.properties
+END
+my-docs-editing.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get_fr.properties
+END
+dynamic-welcome.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get_de.properties
+END
+rssfeed.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get_it.properties
+END
+colleagues.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get_de.properties
+END
+colleagues.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get.config.xml
+END
+my-workspaces.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get.head.ftl
+END
+my-tasks.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get_fr.properties
+END
+addons.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get_es.properties
+END
+wiki.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get_it.properties
+END
+webview.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get.head.ftl
+END
+site-links.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/30810/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get.js
+END
+async-rssfeed.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get_it.properties
+END
+calendar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get.html.ftl
+END
+my-tasks.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get.properties
+END
+imagesummary.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get_ja.properties
+END
+my-workspaces.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32668/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get_de.properties
+END
+docsummary.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get.head.ftl
+END
+my-activities.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get_es.properties
+END
+activity-list.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get_ja.properties
+END
+my-meeting-workspaces.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32608/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get_fr.properties
+END
+webview.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get_ja.properties
+END
+my-documents.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get.properties
+END
+calendar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/10542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get.desc.xml
+END
+site-profile.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get_nl.properties
+END
+addons.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get_fr.properties
+END
+addons.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.properties
+END
+dynamic-welcome.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32669/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get_it.properties
+END
+my-profile.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get.head.ftl
+END
+docsummary.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get_nl.properties
+END
+my-activities.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get_fr.properties
+END
+site-data-lists.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get_de.properties
+END
+colleagues.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get_it.properties
+END
+site-activities.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get_ja.properties
+END
+my-activities.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29221/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get.html.ftl
+END
+my-meeting-workspaces.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get.html.ftl
+END
+rssfeed.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.html.ftl
+END
+site-profile.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get_es.properties
+END
+site-data-lists.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get.head.ftl
+END
+my-workspaces.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32669/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get_it.properties
+END
+site-activities.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29221/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get.html.ftl
+END
+my-sites.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32680/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get_nl.properties
+END
+webview-default.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get_ja.properties
+END
+dynamic-welcome.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get.head.ftl
+END
+my-activities.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get.desc.xml
+END
+docsummary.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get_es.properties
+END
+my-meeting-workspaces.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/20567/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get.desc.xml
+END
+site-links.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get_nl.properties
+END
+my-profile.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get_nl.properties
+END
+rssfeed.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/10542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.desc.xml
+END
+my-documents.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get_nl.properties
+END
+calendar.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get_de.properties
+END
+docsummary.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get.properties
+END
+site-activities.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/19858/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get.desc.xml
+END
+site-profile.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31533/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get_fr.properties
+END
+wiki.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get.head.ftl
+END
+user-calendar.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get_de.properties
+END
+my-sites.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get_es.properties
+END
+site-data-lists.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get_it.properties
+END
+site-activities.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get.properties
+END
+site-links.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get_es.properties
+END
+docsummary.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32608/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get_fr.properties
+END
+my-profile.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get_es.properties
+END
+my-documents.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get_es.properties
+END
+my-documents.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get.html.ftl
+END
+my-profile.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get.properties
+END
+rssfeed.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get_nl.properties
+END
+user-calendar.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get.properties
+END
+wiki.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get_nl.properties
+END
+my-docs-editing.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get.properties
+END
+async-rssfeed.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get_nl.properties
+END
+imagesummary.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get.properties
+END
+my-sites.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32608/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get_fr.properties
+END
+my-tasks.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get.head.ftl
+END
+docsummary.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get.js
+END
+my-workspaces.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32531/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get.properties
+END
+my-documents.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/14709/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get.desc.xml
+END
+calendar.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get_it.properties
+END
+my-docs-editing.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get_ja.properties
+END
+imagesummary.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get_de.properties
+END
+site-links.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get_fr.properties
+END
+my-meeting-workspaces.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get.js
+END
+my-profile.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get_fr.properties
+END
+my-documents.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31533/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get_fr.properties
+END
+colleagues.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get.head.ftl
+END
+activity-list.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get_de.properties
+END
+webview.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get_de.properties
+END
+user-calendar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get.html.ftl
+END
+user-calendar.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get_it.properties
+END
+my-tasks.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get_ja.properties
+END
+rssfeed.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get_es.properties
+END
+my-activities.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get.properties
+END
+wiki.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get_es.properties
+END
+async-rssfeed.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get_es.properties
+END
+addons.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/31267/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get.head.ftl
+END
+site-profile.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get.properties
+END
+wiki.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get.properties
+END
+my-meeting-workspaces.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get_ja.properties
+END
+activity-list.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get.properties
+END
+dynamic-welcome.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32680/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get_nl.properties
+END
+my-sites.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/30797/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get.html.ftl
+END
+user-calendar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/10751/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get.desc.xml
+END
+async-rssfeed.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get.json.ftl
+END
+colleagues.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get_nl.properties
+END
+async-rssfeed.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get.config.xml
+END
+site-activities.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get_de.properties
+END
+webview.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/20565/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get.config.xml
+END
+addons.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get_ja.properties
+END
+rssfeed.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get_fr.properties
+END
+async-rssfeed.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get.js
+END
+webview.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get.js
+END
+wiki.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get_fr.properties
+END
+my-sites.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/10624/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get.desc.xml
+END
+imagesummary.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get_it.properties
+END
+my-workspaces.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32680/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get_nl.properties
+END
+async-rssfeed.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/async-rssfeed.get_fr.properties
+END
+my-activities.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get_ja.properties
+END
+activity-list.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get.html.ftl
+END
+activity-list.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get_it.properties
+END
+webview-default.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get_de.properties
+END
+rssfeed.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/10131/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get.config.xml
+END
+webview.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get_it.properties
+END
+dynamic-welcome.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get_es.properties
+END
+my-activities.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/29221/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get.js
+END
+colleagues.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get_es.properties
+END
+dynamic-welcome.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.post.json.js
+END
+site-links.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get.head.ftl
+END
+site-links.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get.properties
+END
+wiki.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/31686/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get.js
+END
+colleagues.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get.properties
+END
+activity-list.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get.js
+END
+activity-list.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/19858/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get.desc.xml
+END
+my-docs-editing.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get.html.ftl
+END
+my-workspaces.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get_es.properties
+END
+my-workspaces.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get.html.ftl
+END
+site-data-lists.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get_nl.properties
+END
+site-activities.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-activities.get_it.properties
+END
+dynamic-welcome.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/32608/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get_fr.properties
+END
+webview.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get.html.ftl
+END
+calendar.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get.properties
+END
+colleagues.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get_fr.properties
+END
+site-profile.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-profile.get_ja.properties
+END
+my-docs-editing.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/14709/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get.desc.xml
+END
+docsummary.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get.html.ftl
+END
+dynamic-welcome.post.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.post.json.ftl
+END
+my-workspaces.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get.desc.xml
+END
+webview-default.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get_it.properties
+END
+imagesummary.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/28605/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get.head.ftl
+END
+webview.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get.desc.xml
+END
+my-sites.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get.js
+END
+webview-default.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/14537/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview-default.get.properties
+END
+my-workspaces.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32608/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.get_fr.properties
+END
+docsummary.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get_ja.properties
+END
+site-data-lists.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get_es.properties
+END
+calendar.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get_nl.properties
+END
+colleagues.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/34157/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/colleagues.get.js
+END
+my-docs-editing.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get_de.properties
+END
+docsummary.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/10624/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/docsummary.get.desc.xml
+END
+dynamic-welcome.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32531/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get.properties
+END
+my-workspaces.inc.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-workspaces.inc.js
+END
+user-calendar.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get_nl.properties
+END
+my-profile.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/34698/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get.html.ftl
+END
+my-tasks.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get_de.properties
+END
+my-sites.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-sites.get_ja.properties
+END
+site-links.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32900/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-links.get_ja.properties
+END
+my-profile.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get_ja.properties
+END
+my-documents.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get_ja.properties
+END
+site-data-lists.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get_fr.properties
+END
+calendar.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get_es.properties
+END
+my-meeting-workspaces.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32668/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-meeting-workspaces.get_de.properties
+END
+calendar.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get.head.ftl
+END
+site-data-lists.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get.html.ftl
+END
+my-profile.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-profile.get.desc.xml
+END
+dynamic-welcome.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get.html.ftl
+END
+user-calendar.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/user-calendar.get_es.properties
+END
+my-tasks.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get.config.xml
+END
+addons.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/addons.get_de.properties
+END
+site-data-lists.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/19885/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/site-data-lists.get.desc.xml
+END
+my-tasks.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get.js
+END
+my-docs-editing.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-docs-editing.get_it.properties
+END
+imagesummary.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32901/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/imagesummary.get_nl.properties
+END
+my-documents.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get.config.xml
+END
+dynamic-welcome.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get.js
+END
+dynamic-welcome.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/dynamic-welcome.get.desc.xml
+END
+activity-list.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/activity-list.get_nl.properties
+END
+my-activities.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-activities.get_de.properties
+END
+wiki.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/wiki.get.html.ftl
+END
+calendar.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/29325/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/calendar.get_fr.properties
+END
+webview.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/webview.get_nl.properties
+END
+my-tasks.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-tasks.get_it.properties
+END
+my-documents.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/my-documents.get.js
+END
+rssfeed.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/dashlets/rssfeed.get_ja.properties
+END

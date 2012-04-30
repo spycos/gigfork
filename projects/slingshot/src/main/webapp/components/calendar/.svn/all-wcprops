@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar
+END
+calendar.css
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/33575/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/calendar.css
+END
+calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/calendar.js
+END
+calendar-view-fullCalendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/calendar-view-fullCalendar.js
+END
+microformat-parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/12433/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/microformat-parser.js
+END
+eventinfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/alfresco-open-mirror/!svn/ver/34654/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/eventinfo.js
+END
+calendar-view-agenda.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/34804/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/calendar-view-agenda.js
+END
+toolbar.css
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/alfresco-open-mirror/!svn/ver/30546/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/toolbar.css
+END
+calendar-view.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/calendar-view.js
+END
+toolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/30807/alfresco/HEAD/root/projects/slingshot/source/web/components/calendar/toolbar.js
+END

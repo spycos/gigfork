@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/34382/alfresco/HEAD/root/projects/slingshot/config/alfresco/templates/org/alfresco/include
+END
+documentlibrary.inc.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29919/alfresco/HEAD/root/projects/slingshot/config/alfresco/templates/org/alfresco/include/documentlibrary.inc.ftl
+END
+alfresco-template.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/34382/alfresco/HEAD/root/projects/slingshot/config/alfresco/templates/org/alfresco/include/alfresco-template.ftl
+END

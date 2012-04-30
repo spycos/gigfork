@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing
+END
+channel-admin.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/31851/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get.config.xml
+END
+channel-admin.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/33010/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get_de.properties
+END
+channel-admin.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/31378/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get.head.ftl
+END
+channel-admin.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/33019/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get_nl.properties
+END
+channel-admin.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/33018/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get_ja.properties
+END
+channel-admin.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/31851/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get.html.ftl
+END
+channel-admin.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/33013/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get_it.properties
+END
+stand-alone-auth-return.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/33808/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/stand-alone-auth-return.html
+END
+channel-admin.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/29321/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get.js
+END
+channel-admin.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/alfresco-open-mirror/!svn/ver/32888/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get.properties
+END
+channel-admin.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/29321/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get.desc.xml
+END
+channel-admin.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/33011/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get_es.properties
+END
+channel-admin.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/alfresco-open-mirror/!svn/ver/33012/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/channel-admin.get_fr.properties
+END
+stand-alone-auth-send.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/32872/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/console/publishing/stand-alone-auth-send.html
+END

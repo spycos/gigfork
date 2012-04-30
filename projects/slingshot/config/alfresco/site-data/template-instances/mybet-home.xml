@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<template-instance>
+   <template-type>com/mybet/demo/mybet-home</template-type>
+   <properties>
+      <pageFamily>mybet-home</pageFamily>
+      <container>mybet-home</container>
+   </properties>
+   <components>
+
+      <!-- Title -->
+      <component>
+         <region-id>title</region-id>
+         <url>/components/title/collaboration-title</url>
+      </component>
+
+     <!-- mybet Navigation -->
+      <component>
+         <region-id>navigation</region-id>
+         <url>/components/mybet/navigation/mybet-navigation</url>
+      </component>
+
+      <!-- mybet navigation Toolbar -->
+      <component>
+         <region-id>toolbar</region-id>
+         <url>/components/mybet/navigation/toolbar</url>
+      </component>
+
+      <!-- maybet Datagrid -->
+      <component>
+         <region-id>datagrid</region-id>
+         <url>/components/mybet/datagrid</url>
+         <properties>
+            <pagination>true</pagination>
+         </properties>
+      </component>
+      
+      <!-- Datalist -->
+      <component>
+         <region-id>datalists</region-id>
+         <url>/components/data-lists/datalists</url>
+      </component>
+
+      <!-- Filter -->
+      <component>
+         <region-id>filter</region-id>
+         <url>/components/data-lists/filter</url>
+      </component>
+
+      <!-- Actions Common -->
+      <component>
+         <region-id>actions-common</region-id>
+         <url>/components/data-lists/actions-common</url>
+      </component>
+
+   </components>
+</template-instance>
+

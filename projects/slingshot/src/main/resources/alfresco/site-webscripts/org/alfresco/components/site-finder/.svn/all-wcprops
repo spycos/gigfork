@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder
+END
+site-finder.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get.js
+END
+site-finder.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/18516/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get.properties
+END
+site-finder.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/10033/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get.desc.xml
+END
+site-finder.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get_es.properties
+END
+site-finder.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get_fr.properties
+END
+site-finder.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get_de.properties
+END
+site-finder.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get.head.ftl
+END
+site-finder.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get_nl.properties
+END
+site-finder.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get_ja.properties
+END
+site-finder.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24200/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get.html.ftl
+END
+site-finder.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/site-finder/site-finder.get_it.properties
+END

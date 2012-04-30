@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview
+END
+config-webview.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get.html.ftl
+END
+config-webview.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get_it.properties
+END
+config-webview.post.json.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/20075/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.post.json.js
+END
+config-webview.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/20075/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get.properties
+END
+config-webview.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get.desc.xml
+END
+config-webview.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/20075/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.post.html.ftl
+END
+config-webview.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get_es.properties
+END
+config-webview.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get_fr.properties
+END
+config-webview.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/19133/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.post.desc.xml
+END
+config-webview.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get_de.properties
+END
+config-webview.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get_nl.properties
+END
+config-webview.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules/webview/config-webview.get_ja.properties
+END

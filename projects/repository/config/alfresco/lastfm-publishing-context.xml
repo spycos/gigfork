@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE beans PUBLIC '-//SPRING//DTD BEAN//EN' 'http://www.springframework.org/dtd/spring-beans.dtd'>
+
+<beans>
+   <bean parent="dictionaryModelBootstrap" depends-on="dictionaryBootstrap">
+      <property name="models">
+         <list>
+            <value>alfresco/model/lastfmPublishingModel.xml</value>
+         </list>
+      </property>
+   </bean>
+
+    <bean id="lastfmChannelMessageBundle" class="org.alfresco.i18n.ResourceBundleBootstrapComponent">
+        <property name="resourceBundles">
+            <list>
+                <value>org.alfresco.repo.publishing.lastfm.lastfm-publishing</value>
+            </list>
+        </property>
+    </bean>
+
+   <bean id="lastfmDeliveryChannelType" class="org.alfresco.repo.publishing.lastfm.LastFmChannelType" parent="baseChannelType">
+      <property name="publishingHelper" ref="lastfmPublishingHelper" />
+   </bean>
+
+   <bean id="lastfmPublishingHelper" class="org.alfresco.repo.publishing.lastfm.LastFmPublishingHelper">
+      <property name="nodeService" ref="NodeService" />
+      <property name="connectionFactory" ref="lastfmConnectionFactory" />
+      <property name="encryptor" ref="metadataEncryptor" />
+   </bean>
+
+   <bean id="lastfmConnectionFactory" class="org.springframework.social.lastfm.connect.LastFmConnectionFactory">
+      <constructor-arg value="289427501067879" />
+      <constructor-arg value="8680cd45e7024a5aa078034ddc2fbb09" />
+   </bean>
+</beans>

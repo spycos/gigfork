@@ -15,4 +15,35 @@
         <constructor-arg value="${facebook.appSecret}" />
     </bean>
 
+
+ 	<!-- Configure a Souncloud service provider -->
+    <bean id="social.connect.soundcloud" class="org.springframework.social.soundcloud.connect.SoundCloudServiceProvider">
+        <constructor-arg value="4962694c6429aeee3a9831d313d0a149" />
+        <constructor-arg value="cad8d50d711090d23aa3fc432487ceae" />
+    </bean>
+
+
+	<!-- Configure a GitHub service provider -->
+    <bean id="social.connect.gitHub" class="org.springframework.social.github.connect.GitHubServiceProvider">
+        <constructor-arg value="${gitHub.appId}" />
+        <constructor-arg value="${gitHub.appSecret}" />
+    </bean>
+
+
+	<!-- Configure a last.fm service provider -->
+    <bean id="social.connect.lastfm" class="org.springframework.social.lastfm.connect.LastFmServiceProvider">
+        <constructor-arg value="2a5d3527653378c6d360d9a2751d84b7" />
+        <constructor-arg value="65ff1732aafa7cebe2b0ad168fa8a61d" />
+    </bean>
+    
+    
+    <!-- Configure a Google plus service provider -->
+    <bean id="social.connect.google" class="org.springframework.social.google.connect.GoogleServiceProvider">
+        <constructor-arg value="${google.appId}" />
+        <constructor-arg value="${google.appSecret}" />
+    </bean>
+    
+    
+  
+
 </beans>

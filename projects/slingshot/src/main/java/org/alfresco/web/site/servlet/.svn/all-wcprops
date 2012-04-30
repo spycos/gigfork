@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/alfresco-open-mirror/!svn/ver/35055/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/servlet
+END
+SlingshotProxyControllerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/34988/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/servlet/SlingshotProxyControllerInterceptor.java
+END
+SlingshotAlfrescoConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/35055/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/servlet/SlingshotAlfrescoConnector.java
+END
+MTAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/22958/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/servlet/MTAuthenticationFilter.java
+END
+SlingshotLogoutController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/servlet/SlingshotLogoutController.java
+END
+SlingshotServletRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/22958/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/servlet/SlingshotServletRequestWrapper.java
+END
+KerberosSessionSetupPrivilegedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/30271/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/servlet/KerberosSessionSetupPrivilegedAction.java
+END
+SSOAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/35055/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/servlet/SSOAuthenticationFilter.java
+END

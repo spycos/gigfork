@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/scripts
+END
+ActionEvaluatorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29467/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/scripts/ActionEvaluatorHelper.java
+END
+ResolverHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/scripts/ResolverHelper.java
+END
+MimetypesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/scripts/MimetypesQuery.java
+END
+SlingshotRemoteClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/32757/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/scripts/SlingshotRemoteClient.java
+END
+MessagesWebScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/34382/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/scripts/MessagesWebScript.java
+END
+DictionaryQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/33834/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/scripts/DictionaryQuery.java
+END

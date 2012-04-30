@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content
+END
+create-content-mgr.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get_de.properties
+END
+create-content-mgr.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get.head.ftl
+END
+create-content-mgr.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get_nl.properties
+END
+create-content-mgr.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get_ja.properties
+END
+create-content-mgr.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/30398/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get.html.ftl
+END
+create-content-mgr.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get_it.properties
+END
+create-content-mgr.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get.properties
+END
+create-content-mgr.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/alfresco-open-mirror/!svn/ver/18296/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get.desc.xml
+END
+create-content-mgr.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get_es.properties
+END
+create-content-mgr.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/create-content/create-content-mgr.get_fr.properties
+END

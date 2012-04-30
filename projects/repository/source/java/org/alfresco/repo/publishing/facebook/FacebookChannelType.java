@@ -20,6 +20,7 @@ package org.alfresco.repo.publishing.facebook;
 
 import java.io.Serializable;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import org.alfresco.repo.publishing.AbstractChannelType;
@@ -113,8 +114,22 @@ public class FacebookChannelType extends AbstractChannelType
         StringBuilder authStateBuilder = new StringBuilder(channelRef.getStoreRef().getProtocol()).append('.').append(
                 channelRef.getStoreRef().getIdentifier()).append('.').append(channelRef.getId());
         OAuth2Operations oauthOperations = publishingHelper.getConnectionFactory().getOAuthOperations();
-        OAuth2Parameters params = new OAuth2Parameters(redirectUri,
-                "publish_stream,offline_access,user_photos,user_videos", authStateBuilder.toString(), null);
+        
+      
+        
+        //FIXME: 
+        Map<String, List<String>> oauthParams = null;
+       
+        OAuth2Parameters p = new OAuth2Parameters();
+        p.setRedirectUri(redirectUri);
+        p.setState(authStateBuilder.toString());
+        p.setScope("publish_stream,offline_access,user_photos,user_videos");
+        
+		//OAuth2Parameters params = new OAuth2Parameters(redirectUri,"publish_stream,offline_access,user_photos,user_videos", authStateBuilder.toString(), null);
+        OAuth2Parameters params = new OAuth2Parameters(p);
+        
+        
+        
         String authRequestUrl = oauthOperations.buildAuthorizeUrl(GrantType.IMPLICIT_GRANT, params); 
         return new AuthUrlPair(authRequestUrl, redirectUri);
     }

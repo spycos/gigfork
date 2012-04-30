@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions
+END
+replies.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get_de.properties
+END
+forum-post.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get.properties
+END
+replies.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get_ja.properties
+END
+forum-post-replies.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get.json.ftl
+END
+forum-posts.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24091/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get.desc.xml
+END
+filters.get.config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/14984/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get.config.xml
+END
+topiclist.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get_de.properties
+END
+replies.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/9593/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get.desc.xml
+END
+topiclist.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get_ja.properties
+END
+forum-posts.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get_nl.properties
+END
+filters.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/14984/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get.js
+END
+createtopic.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get_fr.properties
+END
+toolbar.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get_es.properties
+END
+forum-posts.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get_it.properties
+END
+replies.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get.head.ftl
+END
+forum-post-replies.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get.js
+END
+forum-posts.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get.properties
+END
+filters.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get_nl.properties
+END
+forum-post.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get_fr.properties
+END
+filters.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get_it.properties
+END
+forum-post-replies.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get_nl.properties
+END
+topic.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32520/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get_fr.properties
+END
+topiclist.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/21255/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get.html.ftl
+END
+forum-post-replies.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get_it.properties
+END
+createtopic.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get_de.properties
+END
+createtopic.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get_ja.properties
+END
+toolbar.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/14355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get.js
+END
+forum-post.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get_de.properties
+END
+forum-posts.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get_es.properties
+END
+forum-post.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get_ja.properties
+END
+topic.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get_de.properties
+END
+topic.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32949/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get_ja.properties
+END
+toolbar.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get_fr.properties
+END
+forum-post.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get.js
+END
+topiclist.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/9593/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get.desc.xml
+END
+replies.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get_nl.properties
+END
+forum-post.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24091/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get.desc.xml
+END
+createtopic.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get.html.ftl
+END
+replies.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get_it.properties
+END
+forum-posts.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get.json.ftl
+END
+filters.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get_es.properties
+END
+forum-post-replies.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get_es.properties
+END
+topiclist.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get.head.ftl
+END
+topiclist.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get_nl.properties
+END
+filters.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get.html.ftl
+END
+topiclist.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32521/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get_it.properties
+END
+toolbar.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get_de.properties
+END
+topic.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/21255/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get.html.ftl
+END
+topiclist.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/21159/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get.properties
+END
+toolbar.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32592/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get_ja.properties
+END
+forum-posts.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/27939/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get.js
+END
+createtopic.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/12488/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get.desc.xml
+END
+forum-posts.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get_fr.properties
+END
+filters.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/9593/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get.desc.xml
+END
+replies.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get_es.properties
+END
+createtopic.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get_nl.properties
+END
+createtopic.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get.head.ftl
+END
+forum-post-replies.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/alfresco-open-mirror/!svn/ver/24091/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get.desc.xml
+END
+createtopic.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get_it.properties
+END
+toolbar.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/21418/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get.html.ftl
+END
+filters.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29306/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get_fr.properties
+END
+topic.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/9593/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get.desc.xml
+END
+filters.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/14984/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get.head.ftl
+END
+topiclist.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32519/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get_es.properties
+END
+createtopic.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/21159/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get.properties
+END
+replies.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/14983/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get.properties
+END
+forum-post-replies.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get_fr.properties
+END
+forum-post.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get_nl.properties
+END
+forum-posts.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get_de.properties
+END
+forum-post.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get_it.properties
+END
+topic.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get.head.ftl
+END
+topic.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get_nl.properties
+END
+forum-posts.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-posts.get_ja.properties
+END
+filters.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/12447/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get.properties
+END
+topic.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32521/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get_it.properties
+END
+forum-post.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get.json.ftl
+END
+forum-post-replies.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get.properties
+END
+topic.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/15477/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get.properties
+END
+filters.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get_de.properties
+END
+filters.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/filters.get_ja.properties
+END
+toolbar.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/12482/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get.desc.xml
+END
+forum-post-replies.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get_de.properties
+END
+forum-post-replies.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post-replies.get_ja.properties
+END
+createtopic.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/createtopic.get_es.properties
+END
+replies.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get_fr.properties
+END
+toolbar.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get.head.ftl
+END
+toolbar.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get_nl.properties
+END
+toolbar.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get_it.properties
+END
+replies.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/26789/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/replies.get.html.ftl
+END
+topiclist.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32520/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topiclist.get_fr.properties
+END
+forum-post.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/forum-post.get_es.properties
+END
+toolbar.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/12482/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/toolbar.get.properties
+END
+topic.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/alfresco-open-mirror/!svn/ver/32519/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/discussions/topic.get_es.properties
+END

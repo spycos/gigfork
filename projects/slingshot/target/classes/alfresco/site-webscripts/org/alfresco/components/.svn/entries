@@ -1,0 +1,191 @@
+10
+
+dir
+35281
+http://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components
+http://svn.alfresco.com/repos/alfresco-open-mirror
+
+
+
+2012-04-13T14:21:53.975980Z
+35229
+dward
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+7033f55c-6c29-4ad8-afba-765cb616e738
+
+title
+dir
+
+blog
+dir
+
+upload
+dir
+
+comments
+dir
+
+portlet
+dir
+
+people-finder
+dir
+
+my-documentlibraries
+dir
+
+footer
+dir
+
+folder-details
+dir
+
+tags
+dir
+
+inline-edit
+dir
+
+document-details
+dir
+
+documentlibrary
+dir
+
+site
+dir
+
+search
+dir
+
+node-details
+dir
+
+data
+dir
+
+html.status.ftl
+file
+
+
+
+
+2012-04-02T09:59:34.000000Z
+4f827ac993758f49f037afc918883962
+2009-06-29T10:41:13.166386Z
+14994
+kroast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2257
+
+create-content
+dir
+
+links
+dir
+
+preview
+dir
+
+dashboard
+dir
+
+header
+dir
+
+admin
+dir
+
+rules
+dir
+
+site-members
+dir
+
+invite
+dir
+
+tag-filter
+dir
+
+navigation
+dir
+
+profile
+dir
+
+manage-permissions
+dir
+
+head
+dir
+
+console
+dir
+
+form
+dir
+
+edit-metadata
+dir
+
+wiki
+dir
+
+data-lists
+dir
+
+discussions
+dir
+
+dashlets
+dir
+
+geographic
+dir
+
+calendar
+dir
+
+content-viewer
+dir
+
+site-finder
+dir
+
+workflow
+dir
+

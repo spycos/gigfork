@@ -1,0 +1,10 @@
+prefix=/Users/hflambo/local/alfresco-svn/root-02-04-2012/gigfork-server/FFmpeg-build
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/ImageMagick
+
+Name: MagickCore
+Description: MagickCore - C API for ImageMagick
+Version: 6.7.4
+Libs: -L${libdir} -lMagickCore
+Cflags: -I${includedir} -fopenmp

@@ -28,5 +28,26 @@
 	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-support-3.1.1.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-webscripts-1.1.0-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="/3rd Party/lib/spring-test-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/hflambo/.m2/repository/org/springframework/social/spring-social-github/1.0.0.BUILD-SNAPSHOT/spring-social-github-1.0.0.BUILD-SNAPSHOT.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/social/spring-social-github/1.0.0.BUILD-SNAPSHOT/spring-social-github-1.0.0.BUILD-SNAPSHOT-sources.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.springframework.social"/>
+			<attribute name="maven.artifactId" value="spring-social-github"/>
+			<attribute name="maven.version" value="1.0.0.BUILD-SNAPSHOT"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-social/spring-social-core-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-social/spring-social-soundcloud-1.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/hflambo/.m2/repository/org/springframework/social/spring-social-core/1.0.0.RELEASE/spring-social-core-1.0.0.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/social/spring-social-core/1.0.0.RELEASE/spring-social-core-1.0.0.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.springframework.social"/>
+			<attribute name="maven.artifactId" value="spring-social-core"/>
+			<attribute name="maven.version" value="1.0.0.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-social/spring-social-twitter-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-social/spring-social-facebook-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/3rd Party/lib/spring-social/spring-social-lastfm-1.0.1-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

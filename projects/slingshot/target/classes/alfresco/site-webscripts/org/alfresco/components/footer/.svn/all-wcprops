@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer
+END
+footer.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get_de.properties
+END
+footer.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get.head.ftl
+END
+footer.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get_nl.properties
+END
+footer.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get_ja.properties
+END
+footer.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get.html.ftl
+END
+footer.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get_it.properties
+END
+footer.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get.properties
+END
+footer.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/9035/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get.desc.xml
+END
+footer.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get_es.properties
+END
+footer.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/alfresco-open-mirror/!svn/ver/33020/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/footer/footer.get_fr.properties
+END

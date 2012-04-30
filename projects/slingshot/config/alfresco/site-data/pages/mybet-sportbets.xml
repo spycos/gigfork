@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+ 	<id>mybet-sportbets</id>
+   <page-type>mybet-sportbets</page-type>
+   <title>Sport Bets</title>
+   <title-id>page.mybet-sportbets.title</title-id>
+   <description>Sport Bets Page Description</description>
+   <description-id>page.mybet-sportbets.description</description-id>
+   <template-instance>mybet-sportbets</template-instance>
+   <authentication>none</authentication>
+</page>

@@ -124,6 +124,31 @@
          <page id="blog-postlist">blog-postlist</page>
          <page id="links">links</page>
          <page id="data-lists">data-lists</page>
+         
+         
+         <!--  add custom pages that should appear on dashboard customization -->
+         <page id="mybet-home">mybet-home</page>
+         <page id="mybet-sportbets">mybet-sportbets</page>
+		 <page id="mybet-livebets">mybet-livebets</page>
+		 <page id="mybet-casino">mybet-casino</page>
+		 <page id="mybet-poker">mybet-poker</page>
+		 <page id="mybet-games">mybet-games</page>
+		 <page id="mybet-hotels">mybet-hotels</page>
+		 
+		 <!--  gig fork -->
+		 <page id="gigfork-home">gigfork-home</page>
+		 <!-- 
+		 <page id="gigfork-about">gigfork-about</page>
+		 <page id="gigfork-contact">gigfork-contact</page>
+		 <page id="gigfork-social">gigfork-social</page>
+		 <page id="gigfork-forge">gigfork-forge</page>
+		 <page id="gigfork-news">gigfork-news</page>
+		 <page id="gigfork-jobs">gigfork-jobs</page>
+		 <page id="gigfork-mobile">gigfork-mobile</page>
+		 <page id="gigfork-sitemap">gigfork-sitemap</page>
+		 <page id="gigfork-events">gigfork-events</page>
+         -->
+         
       </pages>
    </config>
 

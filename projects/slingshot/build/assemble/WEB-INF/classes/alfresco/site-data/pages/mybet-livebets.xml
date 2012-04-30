@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+   <id>mybet-livebets</id>
+   <page-type>mybet-livebets</page-type>
+   <title>Live Bets</title>
+   <title-id>page.mybet-livebets.title</title-id>
+   <description>mybet Live Bets Page Description</description>
+   <description-id>page.mybet-livebets.description</description-id>
+   <template-instance>mybet-livebets</template-instance>
+   <authentication>none</authentication>
+</page>

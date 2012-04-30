@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/alfresco-open-mirror/!svn/ver/34382/alfresco/HEAD/root/projects/slingshot/source/web/WEB-INF
+END
+liferay-portlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/27948/alfresco/HEAD/root/projects/slingshot/source/web/WEB-INF/liferay-portlet.xml
+END
+urlrewrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/22108/alfresco/HEAD/root/projects/slingshot/source/web/WEB-INF/urlrewrite.xml
+END
+portlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/alfresco-open-mirror/!svn/ver/24202/alfresco/HEAD/root/projects/slingshot/source/web/WEB-INF/portlet.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/alfresco-open-mirror/!svn/ver/31616/alfresco/HEAD/root/projects/slingshot/source/web/WEB-INF/web.xml
+END
+liferay-display.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/alfresco-open-mirror/!svn/ver/22601/alfresco/HEAD/root/projects/slingshot/source/web/WEB-INF/liferay-display.xml
+END
+surf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/alfresco-open-mirror/!svn/ver/34382/alfresco/HEAD/root/projects/slingshot/source/web/WEB-INF/surf.xml
+END

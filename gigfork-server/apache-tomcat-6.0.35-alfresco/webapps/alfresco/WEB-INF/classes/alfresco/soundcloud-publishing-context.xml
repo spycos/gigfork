@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE beans PUBLIC '-//SPRING//DTD BEAN//EN' 'http://www.springframework.org/dtd/spring-beans.dtd'>
+
+<beans>
+   <bean parent="dictionaryModelBootstrap" depends-on="dictionaryBootstrap">
+      <property name="models">
+         <list>
+            <value>alfresco/model/soundcloudPublishingModel.xml</value>
+         </list>
+      </property>
+   </bean>
+
+    <bean id="soundcloudChannelMessageBundle" class="org.alfresco.i18n.ResourceBundleBootstrapComponent">
+        <property name="resourceBundles">
+            <list>
+                <value>org.alfresco.repo.publishing.soundcloud.soundcloud-publishing</value>
+            </list>
+        </property>
+    </bean>
+
+   <bean id="soundcloudDeliveryChannelType" class="org.alfresco.repo.publishing.soundcloud.SoundcloudChannelType" parent="baseChannelType">
+      <property name="publishingHelper" ref="soundcloudPublishingHelper" />
+   </bean>
+
+   <bean id="soundcloudPublishingHelper" class="org.alfresco.repo.publishing.soundcloud.SoundcloudPublishingHelper">
+      <property name="nodeService" ref="NodeService" />
+      <property name="connectionFactory" ref="soundcloudConnectionFactory" />
+      <property name="encryptor" ref="metadataEncryptor" />
+   </bean>
+
+   <bean id="soundcloudConnectionFactory" class="org.springframework.social.soundcloud.connect.SoundCloudConnectionFactory">
+      <constructor-arg value="289427501067879" />
+      <constructor-arg value="8680cd45e7024a5aa078034ddc2fbb09" />
+   </bean>
+</beans>

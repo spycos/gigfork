@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/source/web/modules/wiki
+END
+revert-wiki-version.css
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/alfresco-open-mirror/!svn/ver/16877/alfresco/HEAD/root/projects/slingshot/source/web/modules/wiki/revert-wiki-version.css
+END
+revert-wiki-version.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/24064/alfresco/HEAD/root/projects/slingshot/source/web/modules/wiki/revert-wiki-version.js
+END

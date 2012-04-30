@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+   <id>mybet-poker</id>
+   <page-type>mybet-poker</page-type>
+   <title>Poker</title>
+   <title-id>page.mybet-poker.title</title-id>
+   <description>mybet Poker Page Description</description>
+   <description-id>page.mybet-poker.description</description-id>
+   <template-instance>mybet-poker</template-instance>
+   <authentication>none</authentication>
+</page>

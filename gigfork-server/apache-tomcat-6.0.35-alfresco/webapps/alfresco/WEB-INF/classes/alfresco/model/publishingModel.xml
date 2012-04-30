@@ -216,7 +216,7 @@
         </type>
 
         <type name="pub:Connection">
-            <title>Publishing Connectiont</title>
+            <title>Publishing Connection</title>
             <description>Holds details of an OAuth connection</description>
             <parent>cm:cmobject</parent>
             <properties>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/19875/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/config
+END
+columns.get.js
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/alfresco-open-mirror/!svn/ver/19875/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/config/columns.get.js
+END
+columns.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/config/columns.get.desc.xml
+END
+columns.get.json.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/alfresco-open-mirror/!svn/ver/19389/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data-lists/config/columns.get.json.ftl
+END

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+   <id>mybet-home</id>
+   <page-type>mybet-home</page-type>
+   <title>Home</title>
+   <title-id>page.mybet-home.title</title-id>
+   <description>mybet Home Page Description</description>
+   <description-id>page.mybet-home.description</description-id>
+   <template-instance>mybet-home</template-instance>
+   <authentication>none</authentication>
+</page>

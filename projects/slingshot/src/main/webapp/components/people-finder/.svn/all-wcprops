@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/alfresco-open-mirror/!svn/ver/29345/alfresco/HEAD/root/projects/slingshot/source/web/components/people-finder
+END
+people-finder.css
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/source/web/components/people-finder/people-finder.css
+END
+authority-finder.css
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/18160/alfresco/HEAD/root/projects/slingshot/source/web/components/people-finder/authority-finder.css
+END
+people-finder.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/29345/alfresco/HEAD/root/projects/slingshot/source/web/components/people-finder/people-finder.js
+END
+authority-finder.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/source/web/components/people-finder/authority-finder.js
+END
+group-finder.css
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/18160/alfresco/HEAD/root/projects/slingshot/source/web/components/people-finder/group-finder.css
+END
+group-finder.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/alfresco-open-mirror/!svn/ver/28983/alfresco/HEAD/root/projects/slingshot/source/web/components/people-finder/group-finder.js
+END

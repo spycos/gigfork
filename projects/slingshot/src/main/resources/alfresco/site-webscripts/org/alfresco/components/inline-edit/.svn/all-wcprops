@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit
+END
+inline-edit-mgr.get_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get_es.properties
+END
+inline-edit-mgr.get_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/29916/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get_fr.properties
+END
+inline-edit-mgr.get_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get_de.properties
+END
+inline-edit-mgr.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get.head.ftl
+END
+inline-edit-mgr.get_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get_nl.properties
+END
+inline-edit-mgr.get_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get_ja.properties
+END
+inline-edit-mgr.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/21255/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get.html.ftl
+END
+inline-edit-mgr.get_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/alfresco-open-mirror/!svn/ver/24831/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get_it.properties
+END
+inline-edit-mgr.get.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/alfresco-open-mirror/!svn/ver/18299/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get.properties
+END
+inline-edit-mgr.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/alfresco-open-mirror/!svn/ver/18299/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/inline-edit/inline-edit-mgr.get.desc.xml
+END

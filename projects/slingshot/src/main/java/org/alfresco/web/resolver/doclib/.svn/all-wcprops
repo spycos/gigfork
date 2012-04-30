@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/resolver/doclib
+END
+DoclistDataUrlResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/resolver/doclib/DoclistDataUrlResolver.java
+END
+DefaultDoclistActionGroupResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/resolver/doclib/DefaultDoclistActionGroupResolver.java
+END
+DefaultDoclistDataUrlResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/resolver/doclib/DefaultDoclistDataUrlResolver.java
+END
+DoclistActionGroupResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/resolver/doclib/DoclistActionGroupResolver.java
+END

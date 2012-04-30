@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+    <bean id="transformer.ffmpeg.avi.worker" class="org.alfresco.repo.content.transform.RuntimeExecutableContentTransformerWorker">
+        <property name="mimetypeService">
+            <ref bean="mimetypeService" />
+        </property>
+        <property name="checkCommand">
+            <bean name="transformer.ffmpeg.avi.checkcommand" class="org.alfresco.util.exec.RuntimeExec">
+                <property name="commandsAndArguments">
+                    <map>
+                        <entry key=".*">
+                            <list>
+                                <value>ffmpeg</value>
+                                <value>-version</value>
+                            </list>
+                        </entry>
+                    </map>
+                </property>
+                <property name="errorCodes">
+                    <value>1</value>
+                </property>
+            </bean>
+        </property>
+        <property name="transformCommand">
+            <bean class="org.alfresco.util.exec.RuntimeExec">
+                <property name="commandMap">
+                    <map>
+                        <entry key="Linux">
+                            <value>ffmpeg -i '${target}' ${flv.encoder.params} '${source}'</value>
+                        </entry>
+                    </map>
+                </property>
+                <property name="errorCodes">
+                    <value>1,2</value>
+                </property>
+                <property name="waitForCompletion">
+                    <value>true</value>
+                </property>
+                <property name="defaultProperties">
+                    <props>
+                        <prop key="flv.encoder.params">-vcodec flv</prop>
+                    </props>
+                </property>
+            </bean>
+        </property>
+        <property name="explicitTransformations">
+            <list>
+				<bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/avi</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/x-msvideo</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/mpeg</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/mp4</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/mpeg2</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/x-sgi-movie</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/quicktime</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/x-ms-asf</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/x-ms-wmv</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/x-rad-screenplay</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+                <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails">
+                    <property name="sourceMimetype">
+                        <value>video/ogg</value>
+                    </property>
+                    <property name="targetMimetype">
+                        <value>video/x-flv</value>
+                    </property>
+                </bean>
+            </list>
+        </property>
+    </bean>
+    
+    <bean id="transformer.ffmpeg.avi" class="org.alfresco.repo.content.transform.ProxyContentTransformer" parent="baseContentTransformer">
+        <property name="worker">
+            <ref bean="transformer.ffmpeg.avi.worker" />
+        </property>
+    </bean>
+</beans>

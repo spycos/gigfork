@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances
+END
+replication-job.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/replication-job.xml
+END
+change-password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/change-password.xml
+END
+user-content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/user-content.xml
+END
+webview-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/webview-default.xml
+END
+site-members.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/site-members.xml
+END
+invite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/invite.xml
+END
+2-columns-narrow-right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/alfresco-open-mirror/!svn/ver/31068/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/2-columns-narrow-right.xml
+END
+manage-permissions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29615/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/manage-permissions.xml
+END
+blog-postview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/blog-postview.xml
+END
+blog-postlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/blog-postlist.xml
+END
+edit-metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/edit-metadata.xml
+END
+user-sites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/user-sites.xml
+END
+portlet-edit-doclib-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/portlet-edit-doclib-site.xml
+END
+content-viewer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/content-viewer.xml
+END
+user-profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/34152/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/user-profile.xml
+END
+2-columns-narrow-left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/31068/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/2-columns-narrow-left.xml
+END
+customise-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/customise-site.xml
+END
+discussions-topicview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/discussions-topicview.xml
+END
+discussions-topiclist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/discussions-topiclist.xml
+END
+repository.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/30064/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/repository.xml
+END
+2-columns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31068/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/2-columns.xml
+END
+3-columns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/31068/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/3-columns.xml
+END
+site-groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/site-groups.xml
+END
+tag-management.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29327/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/tag-management.xml
+END
+1-column.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/31068/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/1-column.xml
+END
+inline-edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/inline-edit.xml
+END
+folder-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/folder-rules.xml
+END
+documentlibrary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/34305/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/documentlibrary.xml
+END
+wiki-create.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/wiki-create.xml
+END
+start-workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/start-workflow.xml
+END
+discussions-createtopic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/discussions-createtopic.xml
+END
+customise-user-dashboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/customise-user-dashboard.xml
+END
+wiki-page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/wiki-page.xml
+END
+my-workflows.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/my-workflows.xml
+END
+links.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/links.xml
+END
+dashboard-1-column.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/alfresco-open-mirror/!svn/ver/9852/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/dashboard-1-column.xml
+END
+geographic-map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30432/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/geographic-map.xml
+END
+user-notifications.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/user-notifications.xml
+END
+2-columns-resizable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/alfresco-open-mirror/!svn/ver/31068/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/2-columns-resizable.xml
+END
+workflow-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/workflow-details.xml
+END
+console.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/34152/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/console.xml
+END
+customise-site-dashboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/customise-site-dashboard.xml
+END
+wiki.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/wiki.xml
+END
+dashboard-3-columns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/9852/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/dashboard-3-columns.xml
+END
+data-lists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/data-lists.xml
+END
+dashboard-4-columns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/alfresco-open-mirror/!svn/ver/9852/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/dashboard-4-columns.xml
+END
+my-tasks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/my-tasks.xml
+END
+site-finder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/site-finder.xml
+END
+calendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/calendar.xml
+END
+blog-postedit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/blog-postedit.xml
+END
+slingshot-login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/9103/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/slingshot-login.xml
+END
+slingshot-logout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/9103/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/slingshot-logout.xml
+END
+links-linkedit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/links-linkedit.xml
+END
+dashboard-2-columns-wide-left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/alfresco-open-mirror/!svn/ver/9852/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/dashboard-2-columns-wide-left.xml
+END
+task-edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/task-edit.xml
+END
+task-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/task-details.xml
+END
+links-view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/links-view.xml
+END
+people-finder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/people-finder.xml
+END
+rule-edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/rule-edit.xml
+END
+accept-invite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/accept-invite.xml
+END
+my-documentlibraries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/my-documentlibraries.xml
+END
+folder-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/30432/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/folder-details.xml
+END
+following.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29221/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/following.xml
+END
+document-details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/34152/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/document-details.xml
+END
+pending-invites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/pending-invites.xml
+END
+search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/alfresco-open-mirror/!svn/ver/21238/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/search.xml
+END
+add-groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/add-groups.xml
+END
+dashboard-2-columns-wide-right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/alfresco-open-mirror/!svn/ver/9852/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/dashboard-2-columns-wide-right.xml
+END
+reject-invite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/reject-invite.xml
+END
+site-index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/9711/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/site-index.xml
+END
+create-content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/create-content.xml
+END
+followers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/alfresco-open-mirror/!svn/ver/29120/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-data/template-instances/followers.xml
+END

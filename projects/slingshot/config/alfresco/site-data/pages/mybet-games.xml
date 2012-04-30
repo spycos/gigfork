@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>	
+   <id>mybet-games</id>
+   <page-type>mybet-games</page-type>
+   <title>Games</title>
+   <title-id>page.mybet-games.title</title-id>
+   <description>mybet Games Page Description</description>
+   <description-id>page.mybet-games.description</description-id>
+   <template-instance>mybet-games</template-instance>
+   <authentication>none</authentication>
+</page>

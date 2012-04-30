@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+   <id>gigfork-home</id>
+   <page-type>gigfork/gigfork-home</page-type>
+   <title>GigFork Home</title>
+   <title-id>page.gigfork-home.title</title-id>
+   <description>GigFork Home Page</description>
+   <description-id>page.gigfork-home.description</description-id>
+   <template-instance>gigfork/gigfork-home</template-instance>
+   <authentication>none</authentication>
+</page>

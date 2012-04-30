@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form
+END
+invite-task-form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/invite-task-form.ftl
+END
+invite-response.lib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/invite-response.lib.ftl
+END
+control-wrapper.post_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/29740/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post_de.properties
+END
+control-wrapper.post_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32729/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post_ja.properties
+END
+invite-accepted-task-form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/21847/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/invite-accepted-task-form.ftl
+END
+control-wrapper.post.js
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/alfresco-open-mirror/!svn/ver/22490/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post.js
+END
+control-wrapper.post.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/21902/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post.desc.xml
+END
+control-wrapper.post_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/33931/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post_fr.properties
+END
+control-wrapper.post_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/32542/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post_es.properties
+END
+invite-rejected-task-form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/21847/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/invite-rejected-task-form.ftl
+END
+control-wrapper.post_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/31355/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post_nl.properties
+END
+invite-request-task-form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/invite-request-task-form.ftl
+END
+control-wrapper.post_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/alfresco-open-mirror/!svn/ver/30561/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post_it.properties
+END
+control-wrapper.post.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/alfresco-open-mirror/!svn/ver/21902/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post.html.ftl
+END
+control-wrapper.post.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/alfresco-open-mirror/!svn/ver/22559/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/form/control-wrapper.post.properties
+END

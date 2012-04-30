@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data
+END
+data-loader.get.head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/22972/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data/data-loader.get.head.ftl
+END
+data-loader.get.html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/21620/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data/data-loader.get.html.ftl
+END
+data-loader.get.desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/alfresco-open-mirror/!svn/ver/21603/alfresco/HEAD/root/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components/data/data-loader.get.desc.xml
+END

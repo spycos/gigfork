@@ -212,7 +212,11 @@ public class FlickrChannelType extends AbstractOAuth1ChannelType<Flickr>
     {
         MultiValueMap<String, String> params = new LinkedMultiValueMap<String, String>();
         params.add("perms", "delete");
-        return new OAuth1Parameters(callbackUrl, params);
+        
+        //return new OAuth1Parameters(callbackUrl, params);
+        //FIXME: 
+        return new OAuth1Parameters(params);
+
     }
 
 }

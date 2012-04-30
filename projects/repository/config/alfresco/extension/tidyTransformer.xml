@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE beans PUBLIC '-//SPRING//DTD BEAN//EN' 'http://www.springframework.org/dtd/spring-beans.dtd'>
+
+<beans>
+   <bean id="transformer.Tidy.XHTML" 
+       class="org.alfresco.repo.content.transform.RuntimeExecutableContentTransformerWorker" 
+       parent="baseContentTransformer">
+      <property name="checkCommand">
+         <bean class="org.alfresco.util.exec.RuntimeExec">
+            <property name="commandMap">
+                <map>
+                    <entry key=".*">
+                        <value>tidy -help</value>
+                    </entry>
+                </map>
+            </property>
+            <property name="errorCodes">
+               <value>2</value>
+            </property>
+         </bean>
+      </property>
+      <property name="transformCommand">
+         <bean class="org.alfresco.util.exec.RuntimeExec">
+            <property name="commandMap">
+                <map>
+                    <entry key="Linux">
+                        <value>tidy -asxhtml -o '${target}' '${source}'</value>
+                    </entry>
+                    <entry key="Windows.*">
+                        <value>tidy -asxhtml -o "${target}" "${source}"</value>
+                    </entry>
+                </map>
+            </property>
+            <property name="errorCodes">
+               <value>2</value>
+            </property>
+         </bean>
+      </property>
+      <property name="explicitTransformations">
+         <list>
+            <bean class="org.alfresco.repo.content.transform.ExplictTransformationDetails" >
+                <property name="sourceMimetype"><value>text/html</value></property>
+                <property name="targetMimetype"><value>application/xhtml+xml</value></property>
+            </bean>
+         </list>
+      </property>
+   </bean>
+</beans>
+

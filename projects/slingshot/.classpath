@@ -1,45 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="source/java"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/j2ee/servlet.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/hazelcast-1.9.4.6.jar" sourcepath="/3rd Party/src/hazelcast-1.9.4.6-src.zip"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Alfresco JLAN"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Core"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Web Framework Commons"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/json-simple-1.1.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/json.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/commons/commons-httpclient-3.1.jar" sourcepath="/3rd Party/src/commons-httpclient-3.1-src.zip">
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
-			<attribute name="javadoc_location" value="jar:platform:/resource/3rd Party/src/commons-httpclient-3.1-src.zip!/commons-httpclient-3.1/docs/apidocs"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/3rd Party/lib/chemistry-opencmis-client-api-0.6.0.jar" sourcepath="/3rd Party/src/chemistry-opencmis-client-api-0.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/chemistry-opencmis-commons-api-0.6.0.jar" sourcepath="/3rd Party/src/chemistry-opencmis-commons-api-0.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/j2ee/portlet_20.jar" sourcepath="/3rd Party/src/portlet_20_src.zip">
-		<attributes>
-			<attribute name="javadoc_location" value="jar:platform:/resource/3rd Party/src/portlet_20_doc.zip!/doc"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/3rd Party/lib/alfresco-opencmis-extension-0.3.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-aop-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-asm-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-aspects-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-beans-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-beans/3.1.1.RELEASE/spring-beans-3.1.1.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-context-support-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-core-3.1.1.RELEASE.jar" sourcepath="/Users/hflambo/.m2/repository/org/springframework/spring-core/3.1.1.RELEASE/spring-core-3.1.1.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-jdbc-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-mobile-device-1.0.0.M3.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-orm-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-orm-source-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-tx-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-web-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-webmvc-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-cmis-framework-1.1.0-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-surf-core-configservice-1.1.0-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-surf-1.1.0-SNAPSHOT.jar" sourcepath="/Users/hflambo/local/se-surf-trunk"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-webscripts-1.1.0-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="/3rd Party/lib/spring-surf/spring-surf-core-1.1.0-SNAPSHOT.jar"/>
-	<classpathentry kind="output" path="build/classes"/>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>

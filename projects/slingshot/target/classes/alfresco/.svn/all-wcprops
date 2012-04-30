@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco
+END
+enterprise-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/enterprise-config.xml
+END
+share-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/alfresco-open-mirror/!svn/ver/34991/alfresco/HEAD/root/projects/slingshot/config/alfresco/share-config.xml
+END
+share-documentlibrary-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/share-documentlibrary-config.xml
+END
+share-form-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/34024/alfresco/HEAD/root/projects/slingshot/config/alfresco/share-form-config.xml
+END
+team-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/team-config.xml
+END
+share-datalist-form-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/22702/alfresco/HEAD/root/projects/slingshot/config/alfresco/share-datalist-form-config.xml
+END
+share-help-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/31206/alfresco/HEAD/root/projects/slingshot/config/alfresco/share-help-config.xml
+END
+slingshot-application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/slingshot-application-context.xml
+END
+slingshot-documentlibrary-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/slingshot-documentlibrary-context.xml
+END
+share-cmis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/alfresco-open-mirror/!svn/ver/29184/alfresco/HEAD/root/projects/slingshot/config/alfresco/share-cmis-config.xml
+END
+share-workflow-form-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/config/alfresco/share-workflow-form-config.xml
+END

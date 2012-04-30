@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+   <id>mybet-hotels</id>
+   <page-type>mybet-hotels</page-type>
+   <title>Hotels</title>
+   <title-id>page.mybet-hotels.title</title-id>
+   <description>Hotels Page</description>
+   <description-id>page.mybet-hotels.description</description-id>
+   <template-instance>mybet-hotels</template-instance>
+   <authentication>none</authentication>
+</page>

@@ -1,0 +1,38 @@
+<model name="gitHub:publishingmodel" xmlns="http://www.alfresco.org/model/dictionary/1.0">
+
+   <description>Alfresco GitHub Publishing Content Model</description>
+   <author>hflambo</author>
+   <published>2012-04-22</published>
+   <version>1.0</version>
+
+   <imports>
+      <import uri="http://www.alfresco.org/model/dictionary/1.0" prefix="d" />
+      <import uri="http://www.alfresco.org/model/system/1.0" prefix="sys" />
+      <import uri="http://www.alfresco.org/model/content/1.0" prefix="cm" />
+      <import uri="http://www.alfresco.org/model/publishing/1.0" prefix="pub" />
+   </imports>
+
+   <namespaces>
+      <namespace uri="http://www.alfresco.org/model/publishing/gitHub/1.0" prefix="gitHub" />
+   </namespaces>
+
+   <types>
+      <type name="gitHub:DeliveryChannel">
+         <title>GitHub Delivery Channel</title>
+         <description>Node type used to represent GitHub delivery channels</description>
+         <parent>pub:DeliveryChannel</parent>
+         <mandatory-aspects>
+            <aspect>gitHub:DeliveryChannelAspect</aspect>
+         </mandatory-aspects>
+      </type>
+
+   </types>
+
+   <aspects>
+      <aspect name="gitHub:DeliveryChannelAspect">
+         <title>GitHub Delivery Channel Aspect</title>
+         <description>Applied to a node that represents a GitHub delivery channel</description>
+         <parent>pub:OAuth2DeliveryChannelAspect</parent>
+      </aspect>
+   </aspects>
+</model>

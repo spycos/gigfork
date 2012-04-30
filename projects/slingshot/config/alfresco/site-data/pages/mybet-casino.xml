@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+   <id>mybet-casino</id>
+   <page-type>mybet-casino</page-type>
+   <title>Casino</title>
+   <title-id>page.mybet-casino.title</title-id>
+   <description>Casino Page</description>
+   <description-id>page.mybet-casino.description</description-id>
+   <template-instance>mybet-casino</template-instance>
+   <authentication>none</authentication>
+</page>

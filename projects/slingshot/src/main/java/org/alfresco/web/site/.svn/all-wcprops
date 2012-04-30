@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site
+END
+ClusterAwareRequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/ClusterAwareRequestContext.java
+END
+SlingshotUserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/alfresco-open-mirror/!svn/ver/28820/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/SlingshotUserFactory.java
+END
+SlingshotPageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/alfresco-open-mirror/!svn/ver/32821/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/SlingshotPageView.java
+END
+ClusterAwarePathStoreObjectPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/alfresco-open-mirror/!svn/ver/33758/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/ClusterAwarePathStoreObjectPersister.java
+END
+SlingshotPageViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/alfresco-open-mirror/!svn/ver/26795/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/SlingshotPageViewResolver.java
+END
+UserDashboardInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/alfresco-open-mirror/!svn/ver/29665/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/UserDashboardInterceptor.java
+END
+ClusterAwareRequestContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/alfresco-open-mirror/!svn/ver/34460/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/ClusterAwareRequestContextFactory.java
+END
+SlingshotUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/alfresco-open-mirror/!svn/ver/20572/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/SlingshotUser.java
+END
+EditionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/alfresco-open-mirror/!svn/ver/35229/alfresco/HEAD/root/projects/slingshot/source/java/org/alfresco/web/site/EditionInterceptor.java
+END
